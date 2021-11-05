@@ -42,6 +42,8 @@
 {{ if .Site.Params.prism_syntax_highlighting }}
 <!-- stylesheet for Prism -->
 <link rel="stylesheet" href="{{ "/css/prism.css" | relURL }}"/>
+<!-- awesome font -->
+<link href="{{"css/font-awesome.min.css" | relURL}}" rel="stylesheet">
 {{ end }}
 {{ partial "hooks/head-end.html" . }}
 <!--To comply with GDPR, cookie consent scripts places in head-end must execute before Google Analytics is enabled -->
