@@ -1,0 +1,5 @@
+<!-- image -->
+<a href="{{ .Site.BaseURL }}{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }}>
+  {{ .Get "title" }}
+</a>
+<!-- image -->
