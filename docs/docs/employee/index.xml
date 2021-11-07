@@ -1,0 +1,220 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goldydocs – Dokumentasjon for Medarbeider</title>
+    <link>https://docs3.qmplus.com/docs/employee/</link>
+    <description>Recent content in Dokumentasjon for Medarbeider on Goldydocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/employee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Hjem dashbord</title>
+      <link>https://docs3.qmplus.com/docs/employee/home_dashbord/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/employee/home_dashbord/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Hjem dashbord&lt;/strong&gt; er en Arkfane på Hovedsiden og er startsiden i det fullstendige grensesnittet. I denne siden kan hver enkelt bruker bestemme hvilke komponenter som skal vises. Dersom ingen komponenter er satt, vil settet med standardkomponenter vises.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Trykk på Tilpass dashbord for å velge hvilke komponenter som skal vises i siden. Brukerens endringer blir automatisk lagret.&lt;/li&gt;
+&lt;li&gt;Trykk på Registrer ny melding for å åpne listen over tilgjengelige meldingsskjemaer, tilsvarende listen man får i Innboks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;komponenter&#34;&gt;Komponenter&lt;/h4&gt;
+&lt;p&gt;Det vises 5 rader som standard i hver tabellkomponent. En bruker må ha tilgang til modulen som komponenten tilhører for at den skal vises.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Aktuelle aktiviteter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser aktiviteter som pågår nå og som snart skal starte.&lt;/li&gt;
+&lt;li&gt;Tilsvarer Aktuelle aktiviteter i Aktivitetsplan / Oppfølging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arbeidsordrebehandling hittil i år.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser arbeidsordre som har endret status i år.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arbeidsordrebehandling siste 30 dager.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser arbeidsordre som nylig har endret status.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Definerende kategorier brukt de siste 12 måneder.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser de definerende kategoriene brukt i meldinger registrert de siste 12 måneder.&lt;/li&gt;
+&lt;li&gt;Vises i en klikkbar linjegraf.&lt;/li&gt;
+&lt;li&gt;For virksomheter med mange definerende kategorier, kan denne bli litt rotete.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Definerende kategorier brukt i loggmeldinger de siste 12 måneder.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Definerende kategorier brukt i oppdragsmeldinger de siste 12 måneder.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;De nyeste loggmeldingene jeg har registrert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;De nyeste meldingene jeg har registrert.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger registrert av den innloggede brukeren.&lt;/li&gt;
+&lt;li&gt;Sortert etter registreringsdato, synkende.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;De nyeste oppdragsmeldingene jeg har registrert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Høringer jeg har vært involvert i.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Loggmeldingsskjemaer brukt de siste 12 måneder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meldingsskjemaer brukt de siste 12 måneder&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser meldingsskjemaene brukt i til å registre meldinger de siste 12 måneder.&lt;/li&gt;
+&lt;li&gt;Vises i en klikkbar linjegraf.&lt;/li&gt;
+&lt;li&gt;For virksomheter med mange meldingsskjemaer, kan denne bli litt rotete.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mine aktiviteter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser aktiviteter den innloggede brukeren skal delta i.&lt;/li&gt;
+&lt;li&gt;Aktivitetene vises inntil fristen er passert, slik at man også kan endre besvarte aktiviteter.&lt;/li&gt;
+&lt;li&gt;Tilsvarer listen over aktiviteter vist i det forenklede brukergrensesnittet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mine nyeste oppgaver.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger som skal behandles, tiltak, høringer og revisjoner som skal utføres.&lt;/li&gt;
+&lt;li&gt;Sortert etter registreringstidspunkt, synkende.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mine oppgaver sortert etter fristen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger som skal behandles, tiltak, høringer og revisjoner som skal utføres.&lt;/li&gt;
+&lt;li&gt;Sortert etter frist, synkende.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Oppdragsmeldingsskjemaer brukt des siste 12 måneder.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Siste endrede dokumenter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kun endringer i publiserte dokumenter med synlighet i Info vises her.&lt;/li&gt;
+&lt;li&gt;Sortert etter endringstidspunkt, synkende.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Siste innlogginger i systemet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Denne komponenten forutsetter at brukeren har tilgang til arkfanen Grafer.&lt;/li&gt;
+&lt;li&gt;Sortert etter innloggingstidspunkt, synkende.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for arbeidsordre registrert de siste 30 dager.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for arbeidsordre registrert hittil i år.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for meldinger registrert de siste 30 dager.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser nylig registrerte meldinger.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for meldinger registrert hittil i år.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser meldinger registrert i år.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for oppdrag registrert de siste 30 dager.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for oppdrag registrert hittil i år.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for tiltak registrert de siste 30 dager.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser nylig registrerte tiltak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for tiltak registrert hittil i år.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser tiltak registrert i år.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Søk etter sak.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Søk etter meldinger, tiltak eller dokumenter.&lt;/li&gt;
+&lt;li&gt;Meldinger og tiltak kan søkes etter nummer og fritekst i innholdet.&lt;/li&gt;
+&lt;li&gt;Dokumenter kan kun søke fritekst i innholdet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiltaksbehandling de siste 30 dager.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser tiltak som nylig har endret status.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiltaksbehandling hittil i år.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser tiltak som har endret status i år.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;komponent-kontrollikoner&#34;&gt;Komponent kontrollikoner&lt;/h4&gt;
+&lt;p&gt;
+
+&lt;span class=&#34;fa fa-minus&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+
+ Minimer komponenten.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;span class=&#34;fa fa-plus&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+
+ Glyphicon-plus.png Vises kun etter at komponenten er minimert. Vis komponenten i normal størrelse igjen.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;span class=&#34;fa fa-times&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+
+  Tar komponenten bort fra dashbordet. Bruk Tilpass dashbord for å få den tilbake igjen.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;span class=&#34;fa fa-cog&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+
+ Glyphicon-cog.png Åpner egenskapene til komponenten.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bestemme plassering.&lt;/li&gt;
+&lt;li&gt;For tabellkomponenter, sett hvor mange rader som maksimalt vises i komponenten.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
