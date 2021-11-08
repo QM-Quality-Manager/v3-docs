@@ -1,0 +1,350 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goldydocs – Rapporter</title>
+    <link>https://docs3.qmplus.com/docs/shared/report/</link>
+    <description>Recent content in Rapporter on Goldydocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/shared/report/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Alternativer for prosessrapporter</title>
+      <link>https://docs3.qmplus.com/docs/shared/report/altertnative_process_reports/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/report/altertnative_process_reports/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Inkluder dokumenthodet: Et automatisk generert dokumenthode blir lagt til øverst i dokumentet. Forhåndsvalgt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Inkluder notater: Dersom dokumentet har attributter av typen notater vil de bli vist i en egen tabell nederst i dokumentet. Forhåndsvalgt. Vises kun for visning av prosesskart.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Inkluder ansvarskoder: Tar med ansvarskodeoversikten som en egen tabell nederst i dokumentet. Forhåndsvalgt. Vises kun for visning av ansvarsmatrise.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sidestørrelse: A4, A3, Original (prosesskartet vises på en side som er tilpasset størrelsen på prosesskartet uten forminskning). A4 og A3 tilpasser størrelsen på prosesskartet til sidestørrelsen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sideorientering: Landskap, Portrett.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lag rapport: Lager rapporten med de valgte opsjoner. Vær oppmerksom på at du ikke må lukke denne siden før rapporten er ferdig, ellers vil du ikke få rapporten opp. Etter at rapporten åpner, kan du enten lage en ny rapport med andre opsjoner (samme data, kanskje annen rapporttype) eller lukke denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker Alternativer for prosessrapporter.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Alternativer for rapporter</title>
+      <link>https://docs3.qmplus.com/docs/shared/report/report_alternatives/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/report/report_alternatives/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;h4 id=&#34;vis-oversiktsrapport&#34;&gt;Vis oversiktsrapport&lt;/h4&gt;
+&lt;p&gt;Denne rapporten inneholder bare den mest elementære informasjonen om meldingen eller tiltaket. Rapporten ligner på tabelloversikten i Arkiv. Vises bare når denne siden åpnes fra Arkiv eller Kommentarer til aktiviteten.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inkluder tittel: Velg denne opsjonen dersom du vil at sideoverskriften skal være med som overskrift for rapporten. Forhåndsvalgt.&lt;/li&gt;
+&lt;li&gt;Inkluder virksomhetens logo: Velg denne opsjonen dersom du vil at virksomhetens logo skal være med i rapporten. Logoen vil vises øverst til venstre på siden.&lt;/li&gt;
+&lt;li&gt;Inkluder søkekriteriene: Velg denne opsjonen dersom du vil at søkekriteriene skal være med i rapporten. Søkekriteriene vises over tabellen. Vises bare dersom rapporten inneholder data basert på et søk. Forhåndsvalgt.&lt;/li&gt;
+&lt;li&gt;Inkluder risikotabellen(e): Velg denne opsjonen dersom du vil at risikotabellen(e) skal være med i rapporten. Vises over resultatet. Vises bare dersom siden man kom fra inneholdt risikotabell(er). Forhåndsvalgt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;vis-fullstendig-rapport&#34;&gt;Vis fullstendig rapport&lt;/h4&gt;
+&lt;p&gt;Denne rapporten inneholder all informasjonen om meldingen eller tiltaket. Rapporten vil ligne på Utvidet visning i Arkiv.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inkluder tittel: Velg denne opsjonen dersom du vil at sideoverskriften skal være med som overskrift for rapporten. Forhåndsvalgt når man kommer fra Arkiv eller Kommentarer til aktiviteten.&lt;/li&gt;
+&lt;li&gt;Inkluder virksomhetens logo: Velg denne opsjonen dersom du vil at virksomhetens logo skal være med i rapporten. Logoen vil vises øverst til venstre på siden.&lt;/li&gt;
+&lt;li&gt;Inkluder sakshistorikken: Velg denne opsjonen dersom du vil at sakshistorikken skal vises under hver melding eller tiltak i rapporten. Forhåndsvalgt. Hvis opsjonen &amp;ldquo;Inkluder tilknyttede meldinger / tiltak&amp;rdquo; er valgt, vil denne også gjelde for de tilknyttede sakene.&lt;/li&gt;
+&lt;li&gt;Skjul opprinnelig melder: Velg denne opsjonen dersom du vil at navnet på den opprinnelige melderen skal kjules i rapporten. Vises bare når opsjonen &amp;ldquo;Inkluder sakshistorikken&amp;rdquo; ikke er valgt.&lt;/li&gt;
+&lt;li&gt;Inkluder søkekriteriene: Velg denne opsjonen dersom du vil at søkekriteriene skal være med i rapporten. Søkekriteriene vises over tabellen. Vises bare dersom rapporten inneholder data basert på et søk. Forhåndsvalgt.&lt;/li&gt;
+&lt;li&gt;Inkluder risikotabellen(e): Velg denne opsjonen dersom du vil at risikotabellen(e) skal være med i rapporten. Vises over resultatet. Vises bare dersom siden man kom fra inneholdt risikotabell(er). Forhåndsvalgt.&lt;/li&gt;
+&lt;li&gt;Skru av risikofarge i meldingslisten: Velg denne opsjonen dersom du ikke vil at farger relatert til risikokategorier skal vises i rapporten. Vises bare når man kommer fra Risiko.&lt;/li&gt;
+&lt;li&gt;Inkluder vedlagte bilder: Velg denne opsjonen dersom du vil at bilder vedlagt meldingene skal vises i rapportene report. Støttede bildeformater: .png, .bmp, .jpg, .jpeg, .gif, .ico. Vises kun for meldinger. Vær oppmerksom på at størelsen på bildene tilpasses automatisk for å få plass i rapporten. Hvis du får problemer med bilder i rapportene, vær vennlig og send en epost til &lt;a href=&#34;mailto:katerina@qmplus.com&#34;&gt;katerina@qmplus.com&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Inkluder tilknyttede tiltak. Vises kun for meldinger. Inkluderer tiltakene for hver melding.&lt;/li&gt;
+&lt;li&gt;Inkluder tilknyttede meldinger. Vises kun for tiltak. Inkluderer meldingene for hver tiltak.&lt;/li&gt;
+&lt;li&gt;Vis en sak per side. Velg denne opsjonen hvis du vil skrive ut hver sak på en egen side. Hvis opsjonen &amp;ldquo;Inkluder tilknyttede meldinger / tiltak&amp;rdquo; er valgt, vil denne også gjelde for de tilknyttede sakene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;filformat-for-den-eksporterte-filen&#34;&gt;Filformat for den eksporterte filen&lt;/h4&gt;
+&lt;p&gt;Du kan velge mellom å eksportere filen i .pdf, .docx, .doc, .odt eller .xls format for melding eller tiltaks rapporter. Vær oppmerksom på at .pdf versjonen gir best resultat hvis du vil skrive rapporten ut på papir. Per idag kan vi ikke garantere at .docx / .doc versjonen vil se lik ut i alle systemer eller at dokumentet alltid vil åpnes korekt (med varierende versjoner av Microsoft Office og OpenOffice 3.2.1 eller nyere). Dette formatet bør bare brukes dersom du har behov for manuelt å endre rapporten.
+Knapper&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lag rapport: Lager rapporten med de valgte opsjoner. Vær oppmerksom på at du ikke må lukke denne siden før rapporten er ferdig, ellers vil du ikke få rapporten opp. Etter at rapporten åpner, kan du enten lage en ny rapport med andre opsjoner (samme data, kanskje annen rapporttype) eller lukke denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker Alternativer for rapporter.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/shared/report/tabs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/report/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;risikorapporter&#34;&gt;Risikorapporter&lt;/h1&gt;
+&lt;p&gt;Risiko er en arkfane under Rapporter.&lt;/p&gt;
+&lt;p&gt;Her vises grafer for risikomeldinger.&lt;/p&gt;
+&lt;p&gt;Denne arkfanen vises bare dersom risikomeldinger er aktivert.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Rapporter</title>
+      <link>https://docs3.qmplus.com/docs/shared/report/reports/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/report/reports/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes for å få grafisk oversikter over aktiviteten i systemet. Nedfallsmenyene og eventuelle søkekriterier styrer hva slags graf du får. Alle grafer kan trykkes på for å åpne den underliggende rapporten.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Velg rapporttype i den første nedfallsmenyen. Den viser rapporten Per avdeling som standard.&lt;/li&gt;
+&lt;li&gt;Jeg kan se resultatene i hele eller deler av organisasjonen med ett tastetrykk: velg avdeling i Navigatoren.&lt;/li&gt;
+&lt;li&gt;Jeg kan justere hvilke grafer som vises ved å klikke på hurtigvalgsknappene over grafbildet, for eksempel &amp;ldquo;Fordeling over tid&amp;rdquo;,&lt;/li&gt;
+&lt;li&gt;eller jeg kan klikke på en farge i grafen og få denne ut som en tabelloversikt,&lt;/li&gt;
+&lt;li&gt;eller jeg kan klikke på &amp;ldquo;Pr. avdeling oversiktstabell&amp;rdquo; for å hente ut sammenligninger mellom tidsperioder. Denne kan kopieres inn i et Excell-ark.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s1-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Her kan du lære:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Å lage og hente rapporter&lt;/li&gt;
+&lt;li&gt;Å få oversikt over avdelingene ved hjelp av grafer&lt;/li&gt;
+&lt;li&gt;Graftyper&lt;/li&gt;
+&lt;li&gt;Nedfallsmenyer&lt;/li&gt;
+&lt;li&gt;Forskjellen på fargene i grafene&lt;/li&gt;
+&lt;li&gt;Hvordan du skal lese grafene&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Page white acrobat.png pdf&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Report_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv rapport: Åpner en side under Endre data for dokumentet der man kan skrive et dokument som inneholder alle grafer som var aktivert når man trykket på denne knappen. Kun brukere som har tilgang til å lage dokumenter får opp denne knappen. Grafer i PDF utskrifter og i HTML versjonen av det ferdige rapport dokumentet vil være 600 piksler bredt for å sikkre lesbarheten.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;p&gt;Arkfanene Meldinger/UH, Logg, Kommentarer og Risiko gir de samme grafmulighetene for ulike typer meldinger. De kan også brukes til å nullstille søkekriteriene dersom du har utført et søk. Er man i søkemodus vil arkfanen Søk vises som valgt og de søkekriteriene som er satt for søket vises i en egen tabell.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger/UH: Meldingsgraf&lt;/li&gt;
+&lt;li&gt;Oppdrag: Meldingsgraf. Vises kun hvis oppsjonen for oppdragsmeldinger er aktivert.&lt;/li&gt;
+&lt;li&gt;Logg: Meldingsgraf. Vises kun hvis oppsjonen for loggmeldinger er aktivert.&lt;/li&gt;
+&lt;li&gt;Risiko: Meldingsgraf. Vises kun hvis oppsjonen for risikomeldinger er aktivert.&lt;/li&gt;
+&lt;li&gt;Kommentarer: Meldingsgraf&lt;/li&gt;
+&lt;li&gt;Brukere: Gir oversikt over pålogginger og dokumentbruk.&lt;/li&gt;
+&lt;li&gt;Søk: Meldingsgraf for søk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;h4 id=&#34;rapporter&#34;&gt;Rapporter&lt;/h4&gt;
+&lt;p&gt;Valg av rapporttype&lt;/p&gt;
+&lt;h4 id=&#34;uh--meldingsrapporter&#34;&gt;UH / Meldingsrapporter&lt;/h4&gt;
+&lt;p&gt;Meldinger/UH er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Icon_graph2.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Rapporter.&lt;/p&gt;
+&lt;p&gt;Her vises grafer for vanlige meldinger. Hvis du har gjort et søk, kan du trykke på denne arkfanen for å nullstille alle søkekriteriene.&lt;/p&gt;
+
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Graph-search.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+&lt;h4 id=&#34;standardrapport-graf&#34;&gt;Standardrapport graf&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser oversikt over antall registreringer, status, brukte meldingsskjemaer, prioritet, over tid og kategorier, avhengig av hvilke delrapporter det er krysset av for.&lt;/li&gt;
+&lt;li&gt;Klikk på enhver graf for å se meldingene som utgjør de bakenforliggende dataene for den aktuelle grafen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;standardrapport-tabell&#34;&gt;Standardrapport tabell&lt;/h4&gt;
+&lt;p&gt;Periodisk rapport som viser en tabelloversikt over de aller fleste meldingsdata summert opp til avdelingen valgt i Navigatoren. Dataene blir listet opp under hverandre fordelt etter tidsperioder. Periodene lages automatisk basert på tidsperioden man har valgt for rapporten. Dette skjer på samme måte som i &amp;ldquo;Fordeling over tid&amp;rdquo; grafen. Det er foreløbig ikke noen eksport eller trykk på (drill down) mulighet i denne rapporten. Det er planlagte utvidelser etter hvert.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bruk nedfallsmenyen for Periodetype dersom du ønsker annen periodisering enn den automatiske. Dersom tidsrommet du søker på ikke dekker en hel periode, vil siste periode og totalperioden (første kolonne i tabellen) vise et tidsrom som spenner over en hel periode. Det vil likevel ikke være data i rapporten utenfor det tidsrommet du har valgt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;risikooversikt&#34;&gt;Risikooversikt&lt;/h4&gt;
+&lt;p&gt;Viser en risikomatrise for alle meldinger i det aktuelle utvalget som inneholder en kategori fra en kategorigruppe av typen Risiko med risikoverdi &amp;gt; 0.&lt;/p&gt;
+&lt;h4 id=&#34;utregningsrapporter&#34;&gt;Utregningsrapporter&lt;/h4&gt;
+&lt;h3 id=&#34;tiltaksrapporter&#34;&gt;Tiltaksrapporter&lt;/h3&gt;
+&lt;p&gt;Tid per tiltak og Timeliste for tiltak vises kun dersom opsjonen for Tidsregistrering på tiltak er aktivert. I alle de tre rapportene, kan man trykke på tiltakenes navn eller nummer for å åpne det aktuelle tiltaket.&lt;/p&gt;
+&lt;h4 id=&#34;tiltaksmatrise&#34;&gt;Tiltaksmatrise&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapport som viser status for alle åpne tiltak.&lt;/li&gt;
+&lt;li&gt;Fargekodene for status vises over tabellen.&lt;/li&gt;
+&lt;li&gt;Trykk på navnet på et tiltak for å åpne det.&lt;/li&gt;
+&lt;li&gt;Brukt sammen med opsjonen for starttid felt for tiltak, kan denne oversikten brukes til å vise planlagte tiltak.&lt;/li&gt;
+&lt;li&gt;Oversikten starter 3 dager før dagens dato og tar med de neste 26 dagene.&lt;/li&gt;
+&lt;li&gt;Overgangen fra dagens dato til datoen for dagen etter markeres med en svart vertikal linje.&lt;/li&gt;
+&lt;li&gt;Matrisen er sortert etter tiltakenes startdato, hvis denne er satt. Hvis ikke, brukes datoen tiltakene ble registrert.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;tid-per-tiltak&#34;&gt;Tid per tiltak&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapporten viser hvor mye tid som er registrert på tiltak i den valgte tidsperioden.&lt;/li&gt;
+&lt;li&gt;Tiltak uten registrert tid er ikke med i rapporten.&lt;/li&gt;
+&lt;li&gt;Rapporten tar med alle tiltak registrert fra og med valgt avdeling i navigatoren.&lt;/li&gt;
+&lt;li&gt;Viser per bruker og total.&lt;/li&gt;
+&lt;li&gt;Tiltakene er sortert etter tiltaksnummer.&lt;/li&gt;
+&lt;li&gt;Vises kun når opsjonen for tidsregistrering for tiltak er på.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;timeliste-for-tiltak&#34;&gt;Timeliste for tiltak&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapporten viser hvor mye tid for valgt periode som er registret på tiltak per bruker per dag.&lt;/li&gt;
+&lt;li&gt;Oppsummering per dag per bruker og for alle brukere.&lt;/li&gt;
+&lt;li&gt;Vises kun når opsjonen for tidsregistrering for tiltak er på.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;blandede-rapporter&#34;&gt;Blandede rapporter&lt;/h3&gt;
+&lt;h4 id=&#34;rapport-for-behandlingstid&#34;&gt;Rapport for behandlingstid&lt;/h4&gt;
+&lt;p&gt;Periodisk rapport som viser informasjon om registrerte og behandlede meldinger og tiltak. Denne rapporten tar kun hensyn til valgt tidsperiode og valgt meldingstype. Tallene for Gjennomsnittstid tar kun hensyn til meldinger som har oppnådd aktuell status. De siste periodene i rapporten vil derfor som regel ha lavere tid enn de første, da de siste som regel vil ha flere åpne saker som ikke er med i utregningen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger registrert på.. Viser antall meldinger registrert på avdelingen(e).&lt;/li&gt;
+&lt;li&gt;Meldinger ferdigbehandlet i.. Viser antall meldinger ferdigbehandlet (avvist eller tiltak opprettet) i den valgte perioden, uavhengig av hvor og når meldingen er registrert.&lt;/li&gt;
+&lt;li&gt;Meldinger lukket i&amp;hellip; Viser antall meldinger lukket (avvist eller tiltak godkjent) i avdelingen(e), uavhengig av hvor meldingen er registrert.&lt;/li&gt;
+&lt;li&gt;Meldinger avvist i&amp;hellip; Viser antall meldinger avvist i avdelingen(e), uavhengig av hvor meldingen er registrert.&lt;/li&gt;
+&lt;li&gt;Tiltak opprettet i&amp;hellip; Viser antall tiltak opprettet i avdelingen(e).&lt;/li&gt;
+&lt;li&gt;Tiltak godkjent i&amp;hellip; Viser antall tiltak godkjent i avdelingen(e).&lt;/li&gt;
+&lt;li&gt;Ferdigbehandlede meldinger registrert på&amp;hellip; Viser hvor mange av meldingene registrert på avdelingen(e) som er ferdig behandlet. Brukes for å regne ut Gjennomsnittlig behandlingstid.&lt;/li&gt;
+&lt;li&gt;Lukkede meldinger registrert på&amp;hellip; Viser hvor mange av meldingene registrert på avdelingen(e) som er lukket. Brukes for å regne ut Gjennomsnittlig lukketid.&lt;/li&gt;
+&lt;li&gt;Avviset meldinger registrert på&amp;hellip; Viser hvor mange av meldingene registrert på avdelingen(e) som er avvist.&lt;/li&gt;
+&lt;li&gt;Gjennomsnittlig behandlingstid i dager for meldinger registrert på&amp;hellip; Tid brukt fra registrering for alle ferdigbehandlede meldinger registrert på avdelingen(e) / Antall ferdigbehandlede meldinger registrert på avdelingen(e).&lt;/li&gt;
+&lt;li&gt;Gjennomsnittlig behandlingstid i dager for meldinger behandlet på&amp;hellip; Tid brukt fra registrering for alle ferdigbehandlede meldinger behandlet på avdelingen(e) / Antall ferdigbehandlede meldinger behandlet på avdelingen(e).&lt;/li&gt;
+&lt;li&gt;Gjennomsnittlig lukketid i dager for meldinger registrert på&amp;hellip; Tid brukt fra registrering for alle lukkede meldinger registrert på avdelingen(e) / Antall lukkede meldinger registrert på avdelingen(e).&lt;/li&gt;
+&lt;li&gt;Gjennomsnittlig lukketid i dager for meldinger behandlet på&amp;hellip; Tid brukt fra registrering for alle lukkede meldinger behandlet på avdelingen(e) / Antall lukkede meldinger behandlet på avdelingen(e).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bruk nedfallsmenyen for Periodetype dersom du ønsker annen periodisering enn den automatiske. Dersom tidsrommet du søker på ikke dekker en hel periode, vil siste periode og totalperioden (første kolonne i tabellen) vise et tidsrom som spenner over en hel periode. Det vil likevel ikke være data i rapporten utenfor det tidsrommet du har valgt.&lt;/p&gt;
+&lt;p&gt;Merk:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger som ennå ikke er lukket kan inngå i oversikten for behandlingstid uten å være med i oversikten for lukketid. Dermed er det mulig å ha lengre behandlingstid enn lukketid.&lt;/li&gt;
+&lt;li&gt;For behandlingstid brukes kun den siste avdelingen meldingen er sendt til - aktuell avdeling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;meldingsskjema&#34;&gt;Meldingsskjema&lt;/h3&gt;
+&lt;p&gt;Dersom et spesielt meldingsskjema er valgt her, så vil kun meldinger registrert med det valgte meldingsskjemaet taes med i rapporten.&lt;/p&gt;
+&lt;h3 id=&#34;kategorigrupper&#34;&gt;Kategorigrupper&lt;/h3&gt;
+&lt;p&gt;Dersom en kategorigruppe velges her, vil kun meldinger med avkryssninger i den valgte kategorigruppen tas med i rapporten.&lt;/p&gt;
+&lt;h3 id=&#34;graftyper&#34;&gt;Graftyper&lt;/h3&gt;
+&lt;p&gt;Liste over avkryssingsbokser som aktiverer eller deaktiverer den gitt graftypen. Oversikt etter skjemaer, status og prioritet er aktivert som standard. Dette kan endres per kunde etter behov.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oversikt etter avdelinger: Viser en samlet oversikt over meldinger registrert i denne avdelingen, det vil si avdelingen valgt i navigatoren og meldinger registrert i underliggende avdelinger.&lt;/li&gt;
+&lt;li&gt;Oversikt etter skjemaer: Viser hvilke meldingsskjemaer som har vært i bruk. Denne grafen skjules dersom et meldingsskjema er valgt i nedfallsmenyen over.&lt;/li&gt;
+&lt;li&gt;Oversikt etter status: Viser hvilken status meldingene har.&lt;/li&gt;
+&lt;li&gt;Oversikt etter prioritet: Viser meldingenes prioritet.&lt;/li&gt;
+&lt;li&gt;Fordeling over tid: Vise når meldingene er registrert. Tidsaksen endres med lengden på perioden som er valgt. Mulige skalaer: dager, uker, måneder og år.&lt;/li&gt;
+&lt;li&gt;Oversikt etter kategorier: Viser en graf per kategorigruppe det er gjort registreringer med.&lt;/li&gt;
+&lt;li&gt;Oversikt etter brukere: Vises ikke i standardversjonen. Viser hvor mange meldinger brukerne på den valgte avdelingen har registrert. Brukere registrert på en annen avdeling som har gjordt registeringer på den valgte avdelingen vises også. Meldinger rapportert anonymt er utelatt i denne grafen.&lt;/li&gt;
+&lt;li&gt;Dynamiske grafer: Alle grafer definert i Admin / Regler / Oppsett for dynamiske grafer vises her. Dette er grafer den lokal systemadministratoren sette opp og bestemme hvilke verdier som vises for Y-aksen og for X-aksen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;grafene&#34;&gt;Grafene&lt;/h3&gt;
+&lt;p&gt;Hver graf har et sett med avkryssingsfelter som styrer hva de inneholder og hva slags graf som vises.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Bytt akser: Bytter om hvilke data som vises som x og som y akse i grafen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vis total: Vises bare for kategorigrafer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avkrysset: Den første delen av stolpen inneholder den summerte totalverdiene for de etterfølgende stolpene i samme linje. De etterfølgende delene av diagrammet viser summen fra og med den navngitte avdelingen. Brukes dersom man for eksempel vil ha ut alle meldinger i hele virksomheten hvor en gitt kategori er avkrysset.&lt;/li&gt;
+&lt;li&gt;Ikke avkrysset: Første del av stolpen viser kun registreringer i avdelingen valgt i navigatoren. De etterfølgende delene av diagrammet viser også her summen fra og med den navngitte avdelingen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Antall meldinger: Grafen som viser antall meldinger vises. Er standard forhåndsvalgt for alle grafer, untatt kategorigrafer for kategorigrupper av typen tall.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sum: Vises kun for kategorigrupper av typen tall. Er forhåndsvalgt for disse. Denne typen kategorigrupper besvares med et tall istedet for en avkryssing. Denne grafen viser summen av disse tallene for alle meldinger som inngår i rapporten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prosentgraf: Viser prosentvis fordeling.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For andre grafer enn kategorigrafene betyr det at antallgrafen blir skalert til 100.&lt;/li&gt;
+&lt;li&gt;For kategorigrafen vises prosentvis fordeling av meldinger for hver avdeling per kategori innenfor hver kategorigruppe. Hver avdeling summerer i denne grafen opp til 100%, så noen stolper kan gå langt over 100. I det tilfellet, kan grafen være lettere å lese om aksene byttes. Bruk Bytt akser for å gjøre det.&lt;/li&gt;
+&lt;li&gt;For prosentgrafen vises resultatet aggregert opp til underavdelingene, mens resultatet for valgt avdeling vises separat. Dette for at ikke hele resultatet skal vises flere ganger, noe som ikke ser forståelig ut i standardformatet (uten bytt akser).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kostnadsgraf: Viser summen av kostnadsfeltet i meldingene grafen inneholder.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,364 +5,331 @@
     <loc>https://docs3.qmplus.com/docs/</loc>
     <lastmod>2021-11-05T16:21:16+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/tutorials/the-math-of-microservices-detailed-spec/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/activity/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/examples/in-depth-java-detailed-spec/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/activity_report/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/the-inside-of-monoliths-the-core-concepts/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/activity_tab_employee/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/tutorials/the-math-of-monoliths-the-inner-workings/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/report/altertnative_process_reports/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/content-management/the-inside-of-cryptography-how-does-it-work/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/report/report_alternatives/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/content-management/tutorials/the-inside-of-recursion-the-inner-workings/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/tabs/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/the-inside-of-recursion-how-does-it-work/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/tabs/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/tutorials/the-math-of-java-the-inner-workings/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/tabs/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/examples/the-math-of-recursion-the-inner-workings/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/tabs/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/admin/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/report/tabs/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/activity/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/user/archive/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/activity_report/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/department_cases/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/activity_tab_employee/</loc>
-    <lastmod>2021-11-06T16:01:43+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/process/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/altertnative_process_reports/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/user/user/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/report_alternatives/</loc>
-    <lastmod>2021-11-06T16:01:43+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/user/user_report/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/tabs/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/archive/</loc>
-    <lastmod>2021-11-06T16:01:43+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/department_cases/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/process/</loc>
-    <lastmod>2021-11-06T16:26:45+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/user/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/user_report/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/user/user_type/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/shared/definitions/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/partial_plan/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/partial_plan/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/content-management/tutorials/in-depth-microservices-the-core-concepts/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/document/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/document/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/document_tabs/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/document_tabs/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/document_data/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/document_submenu/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/document_submenu/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/document_groups/</loc>
-    <lastmod>2021-11-05T20:13:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/document_submenu_form/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/export_to_shared_library/</loc>
-    <lastmod>2021-11-05T20:13:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/document_groups/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/change_user/</loc>
-    <lastmod>2021-11-05T20:13:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/document_content/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/change_link/</loc>
-    <lastmod>2021-11-05T20:13:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/export_to_shared_library/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/change_date/</loc>
-    <lastmod>2021-11-05T20:13:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/change_activity/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/change_category/</loc>
-    <lastmod>2021-11-05T20:13:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/change_user/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/change_message/</loc>
-    <lastmod>2021-11-05T20:13:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/user/edit_user/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/change_role/</loc>
-    <lastmod>2021-11-05T20:35:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/user/change_usertype/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/change_answer_alternatives/</loc>
-    <lastmod>2021-11-05T20:35:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/change_link/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/email_settings/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/change_document_tab/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/common_library/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/change_category/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/fill_in_single_answer/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/change_category_dependency/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/graphs_for_list/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/list/change_list/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/tutorials/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/change_message/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/message/change_form/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/change_role/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/change_role_groups/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/list/change_answer_alternatives/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/list/change_answer_group_alternatives/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/email_settings/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/document/favorites/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/common_library/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/message/field_under_form/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/list/fill_in_single_answer/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/list/fill_out_list_form/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/list/graphs_for_list/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/other/help/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/employee/home_dashbord/</loc>
     <lastmod>2021-11-05T16:21:16+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/hearing/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/hearing/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/document/hearing_approval/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/shared/info/</loc>
-    <lastmod>2021-11-05T19:36:40+01:00</lastmod>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/examples/the-inside-of-java-the-core-concepts/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/user/inbox/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/the-inside-of-monographs-how-does-it-work/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/calendar/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/examples/the-inside-of-monoliths-how-does-it-work/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/categories/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/calendar/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/category_sub_menu_form/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/categories/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/category_groups/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/category_groups/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/activity_comment/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/activity_comment/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/list/comment_form/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/comment_form/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/other/consequence/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/read_and_understood/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/read_and_understood/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/list/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/list/list/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/list_type/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/list_type/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/logout/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/tutorials/the-math-of-cryptography-how-does-it-work/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/user/logout/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/api-reference/examples/the-math-of-monographs-how-does-it-work/</loc>
     <lastmod>2021-11-05T12:40:55+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/tutorials/the-math-of-monographs-detailed-spec/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/message_search/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/content-management/the-math-of-monoliths-the-inner-workings/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/message_search_result/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/message_search/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/message_tab_employee/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/message_tab_employee/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/message_status/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/mobile_version/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/message_status/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/leader/navigator/</loc>
     <lastmod>2021-11-05T19:36:40+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/follow_up/</loc>
-    <lastmod>2021-11-06T07:54:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/follow_up/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/activities/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/admin_periodic_activity/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/priority/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/activities/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/reports/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/other/process_map/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/revision/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/report/reports/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/overview_roles/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/revision/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/case_handler/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/risk_analysis/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/send_result/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/overview_roles/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/form/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/user/cases_im_responsible_for/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/questionnaire/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/case_handler/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/system_roles/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/send_result/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/action/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/send_warning/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/shared/action_search/</loc>
-    <lastmod>2021-11-06T09:46:02+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/list/checklist/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/form/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/list/questionnaire/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/user/system_roles/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/action/action/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/action/action_search/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
+  </url><url>
+    <loc>https://docs3.qmplus.com/docs/shared/user/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/shared/</loc>
     <lastmod>2021-11-05T19:36:40+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/in-depth-go-detailed-spec/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/examples/in-depth-cryptography-the-core-concepts/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/in-depth-cryptography-detailed-spec/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
     <loc>https://docs3.qmplus.com/docs/api-reference/examples/in-depth-monoliths-detailed-spec/</loc>
     <lastmod>2021-11-05T12:40:55+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/examples/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/document/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/content-management/tutorials/the-inside-of-cryptography-the-core-concepts/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/big-data/tutorials/the-inside-of-microservices-detailed-spec/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/tutorials/the-inside-of-microservices-detailed-spec/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/other/</loc>
+    <lastmod>2021-11-08T13:59:00+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/leader/</loc>
     <lastmod>2021-11-05T19:36:40+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cross-platform/examples/the-math-of-go-the-inner-workings/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/content-management/the-math-of-microservices-how-does-it-work/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
     <loc>https://docs3.qmplus.com/docs/employee/</loc>
     <lastmod>2021-11-05T16:21:16+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/examples/in-depth-go-how-does-it-work/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/message/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/in-depth-monoliths-detailed-spec/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/report/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/examples/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/list/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/content-management/tutorials/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/content-management/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/tutorials/the-inside-of-go-the-inner-workings/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/admin/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/api-reference/examples/the-inside-of-cryptography-detailed-spec/</loc>
     <lastmod>2021-11-05T12:40:55+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/big-data/tutorials/the-inside-of-cryptography-how-does-it-work/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/activity/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/content-management/tutorials/the-inside-of-microservices-the-core-concepts/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/content-management/the-inside-of-monographs-the-core-concepts/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/tutorials/in-depth-monographs-the-inner-workings/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/shared/action/</loc>
+    <lastmod>2021-11-08T12:18:34+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/api-reference/examples/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/tutorials/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/the-inside-of-java-how-does-it-work/</loc>
     <lastmod>2021-11-05T12:40:55+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/api-reference/examples/the-math-of-java-how-does-it-work/</loc>
     <lastmod>2021-11-05T12:40:55+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/big-data/tutorials/the-math-of-cryptography-the-inner-workings/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
     <loc>https://docs3.qmplus.com/docs/api-reference/the-math-of-monoliths-detailed-spec/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/cloud-computing/</loc>
     <lastmod>2021-11-05T12:40:55+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/api-reference/</loc>
     <lastmod>2021-11-05T12:40:55+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/big-data/examples/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
     <loc>https://docs3.qmplus.com/docs/api-reference/the-inside-of-java-the-inner-workings/</loc>
     <lastmod>2021-11-05T12:40:55+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/big-data/tutorials/the-inside-of-java-detailed-spec/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
     <loc>https://docs3.qmplus.com/docs/api-reference/examples/the-inside-of-microservices-how-does-it-work/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/big-data/examples/the-math-of-monographs-how-does-it-work/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/big-data/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/big-data/tutorials/in-depth-go-the-inner-workings/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/big-data/tutorials/</loc>
-    <lastmod>2021-11-05T12:40:55+01:00</lastmod>
-  </url><url>
-    <loc>https://docs3.qmplus.com/docs/big-data/the-math-of-monographs-how-does-it-work/</loc>
     <lastmod>2021-11-05T12:40:55+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/categories/</loc>

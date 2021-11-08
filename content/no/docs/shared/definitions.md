@@ -217,3 +217,27 @@ En spesiell type roller kalles systemrolle de gir utvidede rettigheter til bruk 
 #### Data
 
 - Navn: En rolle kan ha et navn per språk som er aktivert i systemet.
+
+# Skriv ut
+Åpner utskriftsdialogen til nettleseren for å skrive ut de aktive siden.
+
+Dersom du ikke vil ha ut hele bildet eller skriv ut kommandoen ikke skriver ut den delen av skjermbildet du ønsker deg, kan du prøve å trykke med høyreknappen i det feltet du ønsker skrevet ut. Velg så Skriv ut fra menyen som kommer opp.
+
+For brukere med høy skjermoppløsning kan utskriften bli større enn arket det skal skrives til. Triks for å rette på det:
+
+    Velg redusert størelse for utskriften. Hvordan det gjøres varierer mellom ulike nettlesere og printere. Se etter Skalering, Reduce/Enlarge eller annet oppgit i %. Slikt befinner seg i de fleste tilfeller under avanserte muligheter.
+    Reduser størelsen på nettleservinduet ditt dvs, dra det sammen slik at det ligner mer på arket du skal skrive til.
+    Sett lavere oppløsning for skjermbildet ditt.
+    Ta bilde av siden du vil skrive ut og lim den inn i et eksternt program, f.eks Word eller et bildeprogram, før du skriver siden ut derfra. Bilder tas ved å trykke på Prt Scr (Print screen) på tastaturet og limes inn ved ctrl + v i ønsket program.
+
+Dersom du ønsker å lagre siden som en pdf-fil istedenfor å skrive den ut på en skriver last ned og installer programmet PDFCreator. Neste gang du velger Skriv ut eller trykker Ctrl + P i nettleseren vil du da kunne velge PDFCreator som skriver. 
+
+# Standardversjonen
+Standardversjonen av Qm+ er det sett med systeminnstillinger som gis til nye kunder dersom de ikke ber om noen endringer.
+
+Kundens kontaktperson mot QmPlus AS kan bestille endringer fra standardversjonen. De fleste endringer av systeminnstillinger gjøres kostnadsfritt. Ta kontakt med drift@qmplus.com ved spørsmål eller endringsønsker.
+
+Se Systemroller for oppsettet av brukertypene i standardversjonen. 
+
+# Svaralternativgruppeoversikt
+Alle svaralternativgrupper tilhører en svaralternativgruppeoversikt. Dette brukes kun til å skille svaralternativgrupper fra hverandre i endre svaralternativer og svaralternativgrupper. Vedlikeholdes i svaralternativgrupper. 
