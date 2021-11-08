@@ -241,3 +241,120 @@ Se Systemroller for oppsettet av brukertypene i standardversjonen.
 
 # Svaralternativgruppeoversikt
 Alle svaralternativgrupper tilhører en svaralternativgruppeoversikt. Dette brukes kun til å skille svaralternativgrupper fra hverandre i endre svaralternativer og svaralternativgrupper. Vedlikeholdes i svaralternativgrupper. 
+
+# Tema
+Et tema i en liste er en overskrift over et sett med spørsmål. Et tema kan ha et ekstra informasjonsfelt som vises under overskriften når listen besvares. Alle spørsmål i en liste må tilhøre et tema.
+
+Vedlikeholdes i endre listeinnhold. 
+
+# Underaktivitet
+Aktiviteter kan ha underaktiviteter. Det har ingen annen effekt enn at de visuelt blir gruppert sammen i Aktiviteter og i Kalender. 
+
+# Visningskriterie
+Et visningskriterie er et kriterie som kan settes på et spørsmål eller en gruppe spørsmål i et spørreskjema. Den vanligste bruken er at man setter opp at et spørsmål kun vises dersom et bestemt svaralternativ er valgt på et tidligere spørsmål.
+
+Visningskriterier redigeres for det enkelte spørreskjema i endre svaralternativer.
+
+### Oppførsel
+
+- Gruppe bestemt, Element = Ingen, Alternativ = Ingen: En avkryssningsboks dukker opp bak gruppenavnet med teksten "Vis" når listen fylles ut. Denne boksen må krysses av for at spørsmålene i denne gruppen skal vises.
+- Gruppe bestemt, Element bestemt, Alternativ = Ingen: Spørsmålet vises kun dersom det bestemte spørsmålet ikke er besvart.
+- Gruppe bestemt, Element bestemt, Alternativ bestemt: Spørsmålet vises kun dersom det bestemte spørsmålet er besvart med det bestemte alternativet.
+
+Visningskriteriene fungerer for listeversjon og vis som enkeltspørsmål. 
+
+# Avdeling
+En avdeling er et sett med opplysninger som identifiserer et fysisk sted eller en organisatorisk enhet som skal brukes som rapporteringsenhet i Qm+. Aktiv avdeling velges i navigatoren Vedlikeholdes i Endre avdeling av ledere. Dersom en avdeling flyttes i organisasjonsstrukturen vil alle tilhørende data og registreringer automatisk følge med.
+
+Funksjon under Organisasjon
+
+### Data
+
+- Avdelingsnavn: Navnet som brukes på avdelingen i systemet. Vil vises i navigatoren.
+- Underavdeling av: Avdelingen denne avdelingen vises under i navigatoren. Denne avdelingen vil arve lister, meldingsskjemaer,dokumenter og aktiviteter fra sine overliggende avdelinger.
+
+### Avanserte muligheter
+
+- Avdelingens roller: De rollene som er tilknyttet denne avdelingen.
+  - Roller tilknyttet en avdeling gjelder for alle brukere for den aktive avdelingen. Dvs alle medarbeidere på avdelingen og alle andre brukere som har valgt avdelingen i navigatoren.
+  - Roller tilknyttes en avdeling for å styre tilgjengelighet av dokumenter, skjemaer og aktiviteter.
+- Avdelingens hovedoppgaver: Avdelinger kan tilknyttes kategorier i en gruppe med klassifisering Oppgaver. Dette er ment for å visualisere avdelingens hovedoppgaver, og har ingen direkte funksjon i systemet ut over dette.
+
+# Ord Definisjoner
+Ansvar = responsibility, evnen til å gi svar på behov du står midt imot (= an)
+
+Avvik = mangler, feil i forhold til skriftlige rutiner. Se uønskede hendelser.
+
+Avviksmelding = skjema hvor avvik og forslag registreres (AFM =avviks- og forslagsmelding.)
+
+Avviksoversikt = grafer og tabeller som viser alle eller et bestemt utdrag av AFM
+
+Brukerundersøkelse = spørreskjema som besvares av bruker, kunde, pårørende, m.fl.
+
+Instruks = anbefalt framgangsmåte (oftest når en person skal gjøre noe)
+
+Internkontroll (IK) = egenkontroll, synonymt begrep for kvalitetsstyring
+
+Kvalitetsplan = inneholder alle aktiviteter som skal forebygge feil
+
+Kvalitet = egenskaper
+
+Kvalitetsstyring (KS) = et håndverk som krever aktiv bruk av bestemte metoder
+
+Kontroll = sammenligning, synonymt med tilsyn
+
+Medvirke = medarbeiderne skal aktivt delta i HMS-arbeidet, §§ 4 og 5.3
+
+Motivere = sette i bevegelse, - må ikke forveksles med å skape lystfølelser
+
+Prosedyre = skriftlig rutine, beskrivelse av en prosess der mange deltar. (av latin procedere Skal vise rekkefølgen i utførelsen og krav til utførelse i hver = framgangsmåte). fase, og hvem som involveres i hver fase med hvilket ansvar.
+
+Revisjon = kontroll / sammenligne ”liv og lære”, m/ sjekklister og spørsmål
+
+Revisjonsrapport = innehold:referat, gjennomgåtte temaer, hvem som utførte, konklusjoner Risiko = sannsynlighet x konsekvens
+
+Rutine = avtalt framgangsmåte (muntlig)
+
+Sjekkliste = punktvis opplisting av forhold som skal kontrolleres
+
+System = når angitte deler virker sammen
+
+Systemfeil = feil som gjentar seg, som skjer fordi systemet tillater det,
+
+Tiltaksplan = tiltak for å rette feil, fjerne systemfeil for å hindre gjentakelse
+
+Tilsyn = kontroll / sammenligning
+
+Verifisere = kontrollere om det er sant, av latin Veru = sann, facere = gjøre
+
+Uønsket hendelse (UH) = omfatter mer enn avvik, forkortes til UH (eller RUH = Registrert UH) 
+
+# Dokumentgruppe
+En dokumentgruppe er en gruppering av dokumenter som brukes til å styre hvilken gruppe dokumentet blir vist i under Info. Hver dokumentgruppe blir vist i en farget boks med dokumentgruppens navn som overskrift. En dokumentgruppe må inneholde minst et dokument tilhørende den valgte dokumentarkfanen for at den skal vises under en gitt arkfane under Info. Dersom en dokumentgruppe har dokumenter som tilhører ulike dokumentarkfaner vil dokumentgruppen vises i hver av disse dokumentarkfanene.
+
+Vedlikeholdes i endre dokumentgruppe.
+
+Dokumenter tilordnes til dokumentgrupper i endre data for dokumentet.
+
+### Felter
+
+- Vis for språket: Navnet på en dokumentgruppe kan registreres en gang per språk som er aktivisert i systemet.
+- Navn: Brukes til å identifisere dokumentgruppen i tabeller og oversikter. En dokumentgruppe kan ha et navn for hvert språk som er aktivisert.
+- Posisjon: dokumentgruppens posisjon i Info. I Standardversjonen vises det to dokumentgrupper ved siden av hverandre. De neste to vises under disse igjen til alle dokumentgruppene er vist.
+- Fra avdeling: Dokumentgruppen vil vises i Info fra og med den valgte avdelingen.
+- Vises for underavdelinger: Hvis nei, vil dokumentgruppen kun vises i Info når avdelingen valgt i fra avdeling er valgt i navigatoren.
+- Bakgrunnsfarge: Hvis man ønsker en spesiell bakgrunnsfarge for dokumentgruppen, kan den velges her.
+
+# Grafrapporttyper
+Grafrapportypene velges i Rapporter, Melding søk og Tiltak søk for å besttem hvilken rapport som skal vises i Rapporter.
+
+### Grafrapporttyper
+
+- Per avdeling: Viser en graf per avdeling for den avdelingen som er valgt i navigatoren og en for hver direkte underliggende avdeling til denne.
+- Per avdeling / per kategori: Hvis alle kategorigrupper er valgt i kategorigruppenedfallsmenyen vises det en graf per kategorigruppe. Dersom en bestemt kategorigruppe er valgt i kategorigruppenedfallsmenyen vises det en graf per avdeling for den avdelingen som er valgt i navigatoren og en for hver direkte underliggende avdeling til denne. Denne grafen er fargekodet slik at hver kategori i den valgte kategorigruppen markeres med en egen farge. Denne rapporten har både en graf for antall og en for prosent.
+- Per kategori/gruppe: Hvis alle kategorigrupper er valgt i kategorigruppenedfallsmenyen vises det en graf per kategorigruppe. Dersom en bestemt kategorigruppe er valgt i kategorigruppenedfallsmenyen vises det en graf per kategori i den valgte kategorigruppen. Når det er mange rapporterte meldinger i en kategorigruppe er det denne rapporten som gir den beste oversikten.
+- Status: Gir en grafstolpe per meldingsstatus.
+- Prioritet: Gir en grafstolpe per prioritet.
+- Fordeling over tid: Gir en grafstolpe per tidsenhet. Hvilken enhet som velges avhenger av det valgte tidsrommet.
+- Risikooversikt: Gir en risikomatrise.
+- Liste: Lister opp alle kategoriene i rapporten gruppevis etter kategorigruppe.
