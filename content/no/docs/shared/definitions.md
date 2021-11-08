@@ -79,3 +79,42 @@ Følges opp gjennom tiltaksbehandling.
 Styrer hvordan listen blir vist.
 
 Mulige visningsformer: Papirversjon, listeversjon (eller listeform), Vis som enkeltspørsmål. 
+
+### Definerende kategori
+En definerende kategori er den kategorien som beskriver hva meldingen dreier seg om. Det er obligatorisk å krysse av for en definerende kategori for at et meldingsskjema skal kunne lagres. En definerende kategori defineres ved at den tilhører en kategorigruppe med kategorigruppetypen definerende. I et meldingsskjema blir definerende kategorier markert med ikonet Tag blue.png og de er alltid enkeltvalg. Kun en definerende kategori kan være avkrysset per melding. Dersom det er flere kategorigrupper av typen definerende kategori, kan kun en av dem være avkrysset. 
+
+### Delplan
+Aktiviteter organiseres i delplaner.
+
+Denne organiseringen har ingen betydning i systemet utover det å gjøre det enklere å finne frem til aktiviteter når det bli mange av dem. I Kalender under Aktivitetsplan blir aktivitetene vist per delplan
+
+### Mobilversjonen
+Mobilversjonen av Qm+ er et eget grensesnitt tilpasset visning på mobile enheter. Tilpassningen gjøres ved at det kun sendes over det aller nødvendigste av informasjon og alt vises som korte tekster. Det er mulig å registrere både meldinger, sjekklister og spørreskjemaer i denne versjonen. All informasjon registrert er er synlig i den vanlige Qm+ versjonen på samme måte som ellers.
+
+Startsiden for mobilversjonen er wap.qmplus.net. Pålogging skjer ved bruk av samme virksomhet, brukernavn og passord som ved vanlig pålogging.
+
+Mobilversjonen er en ekstramodul som må bestilles spesielt.
+
+### Endre dato
+Endre dato er en funksjon for å endre enkeltdatoer for periodiske aktiviteter.
+
+Tilgjengelig fra aktiviteter.
+
+##### Felter
+- Fra: Tidspunktet aktiviteten starter.
+
+- Til: Aktiviteten avsluttes.
+
+##### Knapper
+- {{< onlystaticimg src="/images/Tick.png" >}} Lagre: Lagrer endringene utført i feltene.
+
+- {{< onlystaticimg src="/images/Cross.png" >}} Lukk: Tar deg tilbake til siden du kom fra.
+
+### Prioritet
+Meldinger i Qm+ kan ha ulik prioritet. 
+
+- Lav: Markeres med grønt.
+- Middels: Markeres med gult.
+- Høy: Markeres med rødt.
+
+Et tiltak får samme prioritet som den meldingen med høyest prioritet den har tilkoblet. 
