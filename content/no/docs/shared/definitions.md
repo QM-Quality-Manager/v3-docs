@@ -5,7 +5,7 @@ date: 2017-01-06
 description: >
   Oversikt over definisjoner.
 ---
-### Arkfane
+# Arkfane
 Navigasjonsstrukturen i Qm+ er bygd opp av arkfaner.
 
 De har et navn som beskriver det stedet i systemet man kommer til hvis man trykker på den. De fleste har også en beskrivende tekst som kommer opp når man holder musepekeren i ro over den.
@@ -18,21 +18,21 @@ Eksempel :
 
 Her står vi i Arkiv / Meldinger/UH / Nye saker.
 
-### Sak
+# Sak
 En sak i Qm+ er enten en melding, et tiltak, en høring eller en revisjon. 
 
-### Risikomelding
+# Risikomelding
 Risikomeldinger er meldinger som brukes for å lage en risikooversikt for virksomheten. Det er opp til virksomheten om risikomeldingene skal behandles eller om de kun skal registreres og lagres i arkivet. Vår anbefaling er at de ikke behandles, kun oppdateres årlig. Risikomeldinger kan bare lukkes av QmPlus AS (som et unntak), siden de normalt ikke skal behandles. Meldinger registrert her dukker ikke opp i Innboks med mindre man bruker behandling for å aktivere dem. Meldingstypen risikomelding er ikke aktivert i standardversjonen. 
 
-### Sjekkliste
+# Sjekkliste
 En sjekkliste er en liste som blir vist med avkryssningsfelt forran spørsmålet. For å kunne redigere svaralternativer må listetypen spørreskjema benyttes. En sjekkliste er tenkt brukt som en "finn feilen liste". Dvs list opp en rekke vanlige feil innenfor det området som skal undersøkes. Brukerne krysser så av for punktet i listen dersom de kjenner til feilen. Se liste for forklaring på datafeltene. 
 
-### Standard saksbehandler
+# Standard saksbehandler
 Hvis et meldingsskjema har satt en standard saksbehandler vil meldinger registrert med dette meldingsskjemaet dukke opp i Saker jeg er ansvarlig for siden til standard saksbehandleren i stedenfor til lederen på avdelingen der meldingen ble registrert. Meldingen vil fremdeles være registrert på avdelingen den ble registrert og vises der i rapporter og søk.
 
 Dersom samme meldingsskjema er satt opp med flere standard saksbehandlere med overlappende avdelinger vil melderen kunne velge mellom disse i en nedfallsmeny når meldingen registreres. I registreringsbildet er det også et avkryssningsfelt for om det skal sendes epost til den valgte saksbehandleren når meldingen registreres. 
 
-### Superbruker
+# Superbruker
 Superbrukeren er en bruker som har bestått superbrukerkurset for Qm+. Superbrukeren har virksomhetens høyeste tilgang til Qm+. Dette betyr tilgang som brukertypen leder uten begrensende roller og ofte noen ekstra systemroller.
 
 Superbrukeren skal bistå de andre brukerne i virksomheten og fungere som lokal brukerstøtte for Qm+.
@@ -41,12 +41,12 @@ Alle superbrukere har rett på gratis telefonsupport fra Qm+ og kan benytte seg 
 
 Alle ønsker om endret funksjonalitet i systemet må formidles via kundens kontaktperson slik at vi vet at ønsket har støtte i hele virksomheten. 
 
-### Svaralternativgruppe
+# Svaralternativgruppe
 En samling med svaralternativ som kan kobles til spørsmål i et spørreskjema. Vedlikeholdes i svaralternativgrupper.
 
 En svaralternativgruppen sorterer under en bestemt svaralternativgruppeoversikt. Dette brukes kun til å skille svaralternativgrupper fra hverandre i endre svaralternativer og svaralternativgrupper. 
 
-### Svartype
+# Svartype
 Hvert spørsmål i en liste kan ha en svartype.
 
 **Svartypene:**
@@ -57,7 +57,7 @@ Hvert spørsmål i en liste kan ha en svartype.
 
 Tips: Bruk svartype Flervalg for spørsmål med kun ett svaralternativ, slik som i en sjekkliste. Ellers vil det ikke være mulig å ta vekk avkryssingen om man skulle ombestemme seg. 
 
-### Søkekriterie
+# Søkekriterie
 Søkekriterie er det som er søkt etter når man gjør et søk.
 
 Vises som en tabell over søkeresultatet etter et utført søk. Søk kan startes fra Rapporter, Søk meldinger, Søk tiltak eller ved å trykke på risikomatrisen i Risiko. Alle søkeresultater vises i tabellform i Arkiv eller som grafer under Rapporter under sin tilhørende Arkfane.
@@ -65,7 +65,7 @@ Vises som en tabell over søkeresultatet etter et utført søk. Søk kan startes
 - Alle data vist i nedfallsmenyer kan endres. Slike endringer medfører at søket oppdaterer seg.
 - Data etterfulgt av {{< onlystaticimg src="/images/Delete.png" >}} kan fjernes fra søkekriteriene. Det medfører at søket oppdaterer seg.
 
-### Tiltaksprosessen
+# Tiltaksprosessen
 Tiltaksprosessen er prosessen fra et tiltak opprettes til det blir godkjent og lukket.
 
 Følges opp gjennom tiltaksbehandling.
@@ -75,27 +75,27 @@ Følges opp gjennom tiltaksbehandling.
 - Under godkjenning: Her skal den som opprette tiltaket kontrollere at alt er i orden før tiltaket godkjennes.
 - Godkjent: Et godkjent tiltak er lukket og låst og kan ikke endres annet enn av brukere med systemrollen innholdsadministrator. Kommentarer til alle involverte brukere kan fortsatt sendes.
 
-### Visningsform
+# Visningsform
 Styrer hvordan listen blir vist.
 
 Mulige visningsformer: Papirversjon, listeversjon (eller listeform), Vis som enkeltspørsmål. 
 
-### Definerende kategori
+# Definerende kategori
 En definerende kategori er den kategorien som beskriver hva meldingen dreier seg om. Det er obligatorisk å krysse av for en definerende kategori for at et meldingsskjema skal kunne lagres. En definerende kategori defineres ved at den tilhører en kategorigruppe med kategorigruppetypen definerende. I et meldingsskjema blir definerende kategorier markert med ikonet Tag blue.png og de er alltid enkeltvalg. Kun en definerende kategori kan være avkrysset per melding. Dersom det er flere kategorigrupper av typen definerende kategori, kan kun en av dem være avkrysset. 
 
-### Delplan
+# Delplan
 Aktiviteter organiseres i delplaner.
 
 Denne organiseringen har ingen betydning i systemet utover det å gjøre det enklere å finne frem til aktiviteter når det bli mange av dem. I Kalender under Aktivitetsplan blir aktivitetene vist per delplan
 
-### Mobilversjonen
+# Mobilversjonen
 Mobilversjonen av Qm+ er et eget grensesnitt tilpasset visning på mobile enheter. Tilpassningen gjøres ved at det kun sendes over det aller nødvendigste av informasjon og alt vises som korte tekster. Det er mulig å registrere både meldinger, sjekklister og spørreskjemaer i denne versjonen. All informasjon registrert er er synlig i den vanlige Qm+ versjonen på samme måte som ellers.
 
 Startsiden for mobilversjonen er wap.qmplus.net. Pålogging skjer ved bruk av samme virksomhet, brukernavn og passord som ved vanlig pålogging.
 
 Mobilversjonen er en ekstramodul som må bestilles spesielt.
 
-### Endre dato
+# Endre dato
 Endre dato er en funksjon for å endre enkeltdatoer for periodiske aktiviteter.
 
 Tilgjengelig fra aktiviteter.
@@ -110,7 +110,7 @@ Tilgjengelig fra aktiviteter.
 
 - {{< onlystaticimg src="/images/Cross.png" >}} Lukk: Tar deg tilbake til siden du kom fra.
 
-### Prioritet
+# Prioritet
 Meldinger i Qm+ kan ha ulik prioritet. 
 
 - Lav: Markeres med grønt.
@@ -118,3 +118,102 @@ Meldinger i Qm+ kan ha ulik prioritet.
 - Høy: Markeres med rødt.
 
 Et tiltak får samme prioritet som den meldingen med høyest prioritet den har tilkoblet. 
+
+# Kategori
+En kategori er i de fleste tilfeller et avkryssningspunkt i et meldingsskjema. Alle kategorier er med i en kategorigruppe. Kategorigruppetypen til kategorigruppen bestemmer hvordan kategorien blir vist i meldingsskjemaet. All informasjon som blir lagt inn i forhold til en kategori i et meldingsskjema kan hentes ut som en rapport via Rapporter. Kategoriene kan også brukes til å finne frem til grupper av bestemte meldinger via søksidene for meldinger og tiltak.
+
+Vedlikeholdes under endre kategori.
+
+#### Data
+
+- Vis for språket: Brukes for å velge språket navnet på Kategorigruppen skal redigeres for. Vises bare for kunder som har flere aktive språk.
+- Kategorigruppe: Kategoriens gruppe.
+- Kategorinavn: Navnet som blir brukt til å representere kategorien. En kategori kan ha et navn per aktive språk i systemet.
+- Prioritet: Lav, Middels, Høy. Den forhåndsdefinerte prioriteten til en kategori. Kan overstyres av den som fyller ut et meldingsskjema. En meldings prioritet blir den høyeste prioriteten til de avkryssede kategoriene med mindre den blir overstyrt av brukeren.
+- Kostnad: Den forhåndsdefinerte kostnaden for en kategori. Kan overstyres av den som fyller ut et meldingsskjema. En meldings kostnad blir summen av kostnadene til de avkryssede kategoriene, med mindre den overstyres av brukeren. Kostnadsfunksjonaliteten kan fjernes for de som ønsker det.
+- Fra avdeling: Avdelingen kategorien er tilgjengelig fra.
+- Tilknyttet dokument: Et dokument som vil aktiveres dersom man trykker på kategorien i meldingsskjemaet.
+- Informasjon: Tekstfelt som blir synlig når man holder pekeren over kategorien i meldingsskjemaet.
+- Risikodata: Vises kun for kategorier som tilhører en kategorigruppe med Kategorigruppetypen risiko. Brukes for å sette ulike akseptansekriterier for ulike risikokategorier.
+  - Start gult risikoområde: Oversikter for denne kategorien vil gi gul risikoverdi fra og med denne risikoverdien.
+  - Start rødt risikoområde: Oversikter for denne kategorien vil gi rød risikoverdi fra og med denne risikoverdien.
+
+# Kategorigruppetype
+Kategorigruppetypen til en kategorigruppe bestemmer hvordan kategoriene i gruppen vises og besvares i et meldingsskjema.
+
+#### Typer
+
+##### Definerende kategori
+
+Er ment til å beskrive hva som er temaet for en melding. Enkeltvalg for hele meldingsskjemaet. Dersom det er flere definerende grupper i et meldingsskjema, vil det kun være mulig å krysse av for en kategori i en av gruppene. Et meldingsskjema kan bare lagres dersom en kategori som tilhører en definerende kategorigruppe er krysset av. Definerende kategorier er de eneste som i utgangspunktet er obligatoriske å fylle ut i et meldingsskjema. Definerende kategorier vises som standard øverst til venstre med en oransj bakgrunnsfarge og er markert med ikonet Tag blue.png.
+
+##### Enkeltvalg
+
+Brukes for å gi utfyllende informasjon i et meldingsskjema. Enkeltvalg per gruppe. Vises til venstre under de definerende kategoriene.
+
+##### Flervalg
+
+Brukes for å gi utfyllende informasjon i et meldingsskjema. Vilkårlig mange kan krysses av. Vises til høyre.
+
+##### Tiltak
+
+Brukes for å gi utfyllende informasjon om hva slags tiltak som bør brukes for å ta seg av forholdene meldingen dreier seg om. Vilkårlig mange kan krysses av. Kategorier i denne gruppen blir tatt med videre i tiltaket dersom det lages et tiltak for en melding. Vises sentralt under tekstfeltene i meldingsskjemaet.
+
+##### Tall
+
+Gir et tekstfelt der et vilkårlig tall kan skrives inn. Velges en gruppe av denne typen under Rapporter vil kostnadsgrafen være byttet ut med en graf som viser summen av verdiene i disse feltene. Vises til høyre i meldingsskjemaet.
+
+##### Risiko
+
+Hver kategori av denne typen får to nedfallsmenyer der en verdi fra 1 til 5 kan velges. Den første symboliserer sannsynligheten for at hendelsen vil intreffe den andre konsekvensen. Disse verdiene blir automatisk multiplisert til en risikoverdi. Risikoverdien får en farge basert på grenseverdiene som er satt for kategorien. Meldinger med verdier > 0 for en risikokategori kommer opp i risikorapporten under Rapporter. Vises sentralt i meldingsskjemaet under tiltakskategoriene. 
+
+# Kommentarmelding
+Kommentarmeldinger er meldinger som er registrert som svar på en liste delt ut via Aktivitetsplan. Kommentarmeldinger er registrert i et vanlig meldingsskjema. Bare det første tekstfeltet i melsdingsskjemaet som er koblet sammen med listen vises som kommentarfelt inne i listen.
+
+Kommentarmeldinger kan behandles som andre meldinger. I standardversjonen vises ikke kommentarmeldinger under Innboks med mindre noen overfører dem til en saksbehandler, har gitt dem en frist eller laget et tiltak til dem.
+
+Kommentarer til aktiviteten i Aktivitetsplan brukes for å få en oversikt over alle kommentarmeldinger for en aktivitet.
+
+For en oversikt over alle kommentarmeldinger kan Kommentarer under Rapporter eller Kommentarer under Arkiv brukes. 
+
+# Listeversjon
+Visningsform for lister. Brukes fortrinnsvis til sjekklister og risikoanalyser. Viser alle spørsmålene i en liste. Kommentarmuligheten kommer opp på side to etter at Lagre er trykket på.
+
+Alle lister som vises når man er pålogget Qm+ på vanlig måte, dvs ikke pålogget via link i e-post direkte til listen bruker listeversjonen. 
+
+# Loggmelding
+Loggmeldinger er meldinger som normalt ikke behøver å behandles, kun registreres og lagt i arkivet. Eksempler på slik bruk kan være: referater og dokumentasjon av rett utførelse. Loggmeldinger vises derfor ikke under Innboks med mindre man bruker behandling for å aktivere dem. I Rapporter vises de i en egen arkfane. Meldingsskjemaer for å fylle ut loggmeldinger vises med grønn knapp i Innboks, istedet for den vanlige gule for vanlige meldinger.
+
+Meldingstypen loggmelding er ikke aktivert i standardversjonen.
+
+Loggmeldinger er på alle andre måter identiske med vanlige meldinger. 
+
+# Medarbeider
+Brukertype i standardversjonen som gir brukeren et enkelt skjermbilde der kun brukerens egne saker kan endres. 
+
+# Meldingstype
+Alle meldinger har en meldingstype. En melding får den meldingstype meldingsskjemaet den ble registrert med har.
+
+#### De ulike meldingstypene
+
+- Melding: Vanlige meldinger.
+- Loggmelding: Registreres under Logg under Arkiv. Ikke med i standardversjonen.
+- Risikomelding: Registreres under Risiko under Arkiv. Ikke med i standardversjonen.
+
+Dersom hverken loggmeldinger eller risikomeldinger er aktivert i ditt system vil ikke betegnelsen meldingstype bli brukt der. 
+
+# Periodisk aktivitet
+En periodisk aktivitet brukes når du vil planlegge en periodisk utførelse av en aktivitet fremmover i tid. Perioden er hvor hyppig aktiviteten skal utføres for eksempel daglig, ukentlig, årlig.
+
+Perioden og de individuelle datoene vedlikeholdes i Oppsett av periodisk aktivitet og de andre [[aktivitet|aktivitetsdatane] i endre aktivitet. Individuelle datoer for en periodisk aktivitet kan slettes i aktiviteter. 
+
+# Rolle
+En rolle kan kobles mot brukere, brukertyper, avdelinger, aktiviteter, meldingsskjemaer og dokumenter. De gir rettigheter og restriksjoner. Generelt kan man si at en bruker, brukerens brukertype eller brukerens avdeling må ha den samme rollen som en aktivitet, meldingsskjema eller dokument for å ha tilgang til denne. Vanlige roller kan lages av kundens superbruker.
+
+Roller sorteres i rollegrupper og vedlikeholdes i endre rolle.
+
+En spesiell type roller kalles systemrolle de gir utvidede rettigheter til bruk av Qm+. Systemrollene lages av QmPlus AS men kan tilordnes av enkelte superbrukere. Dette er avansert funksjonalitet og er som regel ikke slått på ved oppstart for nye kunder. Ta kontakt med drift@qmplus.com ved behov for denne rettigheten eller spørsmål.
+
+#### Data
+
+- Navn: En rolle kan ha et navn per språk som er aktivert i systemet.
