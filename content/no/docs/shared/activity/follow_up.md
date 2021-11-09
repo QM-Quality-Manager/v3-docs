@@ -21,7 +21,7 @@ Siden er delt opp i 2 tabeller, aktuelle aktiviteter øverst og avsluttede aktiv
 - Å bruke de avanserte mulighetene
 - Å sette opp en periodisk aktivitet
 
-{{< onlystaticimg src="/images/Page_white_acrobat.png" >}} 
+{{< onlystaticimg src="/images/Page_white_acrobat.png" >}}
 {{< assetlink src="/assets/aktivitetsplan.pdf" title="pdf" >}}
 
 ### Nedfallsmenyer

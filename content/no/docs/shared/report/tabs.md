@@ -41,3 +41,8 @@ Denne siden har tre rapporttyper. Tid per tiltak og Timeliste for tiltak vises k
 - Rapporten viser hvor mye tid for valgt periode som er registret på tiltak per bruker per dag.
 - Oppsummering per dag per bruker og for alle brukere.
 - Vises kun når opsjonen for tidsregistrering for tiltak er på.
+
+# Søk grafer
+Søk er en arkfane under {{< onlystaticimg src="/images/Icon_graph2.png" >}}Rapporter.
+
+Åpner søkesiden for meldinger eller søkesiden for tiltak avhengig av hvilken arkfane man var i. 

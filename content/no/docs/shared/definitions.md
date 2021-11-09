@@ -358,3 +358,119 @@ Grafrapportypene velges i Rapporter, Melding søk og Tiltak søk for å besttem 
 - Fordeling over tid: Gir en grafstolpe per tidsenhet. Hvilken enhet som velges avhenger av det valgte tidsrommet.
 - Risikooversikt: Gir en risikomatrise.
 - Liste: Lister opp alle kategoriene i rapporten gruppevis etter kategorigruppe.
+
+# Kategoriavhengighet
+En kategoriavhengighet brukes for å kontrollere nå en kategori vises i et meldingsskjema. Kun kategorier uten avhengigheter og kategorier som har sine avhengigheter tilfredsstilt vises i meldingsskjemaet.
+
+En kategoriavhengighet gjelder kun for det aktuelle meldingsskjemaet den legges opp for. En kategori kan kun ha en avhengighet mot hver av de andre kategoriene i det aktuelle meldingsskjemaet.
+
+En kategori oppfyller sine avhengigheter når den både:
+
+- Oppfyller alle "Og" avhengigheter. Har den ingen "Og" avhengighet er alle oppfyllt.
+- Oppfyller minst en "Eller" avhengighet eller ikke har noen "Eller" avhengighet.
+
+Vedlikeholdes i endre kategoriavhengighet. 
+
+# Kategorigruppe
+En kategorigruppe brukes til å gruppere kategorier innenfor samme tema og å gi kategoriene egenskaper. I et meldingsskjema blir en kategorigruppe vist som en overskrift over sine tilhørende kategorier. Hvordan de blir vist og hvordan de fungerer avhenger av kategorigruppetypen. Hver kategorigruppe som opprettes resulterer automatisk i en ny rapport under Rapporter.
+
+Kategorigruppene kan også brukes til å finne frem til grupper av bestemte meldinger og tiltak via søksidene for meldinger og tiltak.
+
+Vedlikeholdes under endre kategorigrupper.
+
+### Data
+
+- Vis for språket: Brukes for å velge språket navnet på Kategorigruppen skal redigeres for. Vises bare for kunder som har flere aktive språk.
+- Kategorigruppetype: Kategorigruppens type.
+- Kategorigruppenavn: Navnet som blir brukt til å representere kategorigruppenen. En kategorigruppe kan ha et navn per aktive språk i systemet.
+- Fra avdeling: Fra hvilket nivå i hierarkiet kategorigruppen skal være tilgjengelig.
+- Informasjon: Tekst som vises når man holder pekeren over kategorigruppenavnet i meldingsskjemaet.
+
+### Avanserte muligheter
+
+- Klassifisering: Standard eller Oppgaver.
+- Undergruppe av: Skal kategorigruppen være en undergruppe av en annen kategorigruppe.
+- Vises for underavdelinger?: Ja/Nei. Skal kategorigruppen være synlig for alle avdelinger fra om med den valgte avdelingen eller kun for den valgte avdelingen.
+
+# Leder
+Brukertype som gir brukeren full tilgang til systemet i standardversjonen. Kan få begrenset/øket tilgangen ved hjelp av Systemroller. 
+
+# Referanse
+En referanse er et dokument som er tilknyttet en aktivitet eller en liste og i tillegg har blitt markert som referanse. Referanser vises i tabeller og oversikter sammen med navnet på den tilhørende aktiviteten. Aktiviteter arver referansetilhørighet fra listen de tilknyttes.
+
+Referansefunksjonaliteten er en opsjon som ikke er med i standardversjonen. 
+
+# Repeterende aktivitet
+En repeterende aktivitet er en aktivitet som kan fylles ut et ubegrenset antall ganger av hver deltager. Kan også brukes til registrering av anonyme eksterne undersøkelser ved at alle besvarelser registreres på samme bruker. 
+
+# Risikomatrise
+Risikomatrisen viser en oversikt over sannsynlighet og konsekvens i en 5 * 5 matrise. Feltene er farget grønt, gult og rødt for å symbolisere de ulike akseptansenivåene for risikoverdien.
+
+Qm+ har en risikomatrise under Rapporter for hver meldingstype. Matrisen under Meldingsrapporter refererer til reelle hendelser, mens matrisen under Risikorapporter viser oversikt over potensielle hendelser. Matrisen for potensielle hendelser vises også under Arkiv/Risiko. 
+
+# Risikoverdi
+Risikoverdi (R) er resultatet av multiplikasjon av sannsynlighet (S) og konsekvens (K).
+
+> S * K = R.
+
+Risikoverdien blir ofte visualisert i en risikomatrise.
+
+Ved en risikovurdering ønsker man å redusere risikoverdien. Det gjør man ved å vise til sannsynlighets og konsekvens- reduserende tiltak. 
+
+# Rollegruppe
+Rollegrupper brukes til å sortere roller. De er tenkt brukt av de kundene som har behov for å tilordne mange ulike roller til flere brukere. Istedenfor å plukke ut rollene en og en kan man isteden enkelt tilordne alle rollene i en rollegruppe til de ulike brukerne.
+
+Alle roller tilhører en eller flere rollegrupper. De rollene som ikke er blitt tilordnet en rollegruppe tilhører rollegruppen ingen.
+
+Rollegrupper vedlikeholdes i endre rollegruppe. 
+
+# Saksbehandler
+Saksbehandler er en brukertype i standardversjonen av Qm+ som gir omtrent samme rettigheter som brukertypen leder. Det betyr full tilgang til å lese og endre alle saker innefor sitt ansvarsområde, samt rapporter via Rapporter og Aktivitetsplan. Saksbehandler har ikke tilgang til Admin. 
+
+# Spørreskjema
+En type liste. Gir full fleksibilitet til å endre svaralternativ og kommentarskjema for alle spørsmål. Ved bruk som en tradisjonell spørreundersøkelse lønner deg seg ofte å bruke visningsformen vis som enkeltspørsmål 
+
+# Spørsmål
+En liste består av temaer og spørsmål. Et spørsmål kan ha et ekstra informasjonsfelt for å gi ekstra informasjon rundt spørsmålet. For spørreskjemaer har hvert spørsmål også en tilknyttet svaralternativgruppe.
+
+Spørsmålene vedlikeholdes i endre listeinnhold. 
+
+# Svaralternativ
+Et svaralternativ er et svar man kan velge til et spørsmål i et spørreskjema. De svaralternativene man kan velge mellom til et spørsmål kalles en svaralternativgruppe. Vedlikeholdes i endre svaralternativer.
+Data
+
+- Nummer: Bestemmer sorteringen av svaralternativene i svaralternativgruppen.
+- Tekst: Teksten som vises for dette svaralternativet. Hvert svaralternativ kan ha en tekst per språk som er aktivert.
+
+# Systemrolle
+Systemroller er roller som ligger fast i systemet og gir rettigheter til bruk av Qm+. Systemrollene lages av QmPlus AS men kan tilordnes av enkelte superbrukere til brukere og brukertyper. Dette er avansert funksjonalitet og er som regel ikke slått på ved oppstart for nye kunder. Ta kontakt med drift@qmplus.com ved behov for denne rettigheten eller spørsmål.
+
+Liste over tilgjenglige systemroller. 
+
+# Tiltaksstatus
+
+Tiltak i Qm+ har en status som representerer hvor den er i behandlingsprosessen. Status for et tiltak endres i tiltaksbehandling.
+
+- Under planlegging: Tiltaket er under planlegging. Tekstfeltene må fylles ut, kategorisering og kostnadsramme settes og en eller flere brukere må bli satt ansvarlige for å utføre tiltaket.
+- Under gjennomføring: Tiltaket er oversendt til den/de som skal utføre det. Når alle som skal utføre tiltaket har krysset av for utført og ført på sine kommentarer kan det sendes til godkjenning.
+- Under godkjenning: Tiltaket venter på godkjenning fra den som opprettet det.
+- Godkjent: Tiltaket er godkjent og kan ikke lenger endres. Superbruker med systemrollen innholdsadministrator kan likevel gjøre endringer.
+
+Tiltak under gjennomføring og under godkjenning kan sendes bakover i prosessen ved å bruke << knappene i statusfeltet i tiltaksbehandling.
+
+{{< onlystaticimg src="/images/Saksprosess.png" >}}
+
+# Undergruppe
+Undergrupper brukes for å lage grupperte nedfallsmenyer av kategorier i et meldingsskjema.
+
+Navnet til den kategorigruppen de andre gruppene er undergruppe vil stå som overskriften over nedfallsmenyen. Eventuelle kategorier i denne gruppen vil så bli listet opp øverst i nedfallsmenyen. Under disse vil det komme en overskrift i nedfallsmenyen for hver undergruppe. Under denne overskriften blir alle kategoriene i undergruppen listet opp.
+
+Det vil kun være mulig å velge 1 av kategoriene i en slik nedfallsmeny.
+
+Dette er spesiell funksjonalitet som man gjerne kan diskutere med QmPlus AS før man benytter seg av. 
+
+# Verneombud
+Verneombud er en brukertype i standardversjonen av Qm+ som gir samme lesestilgang som brukertypen leder. Det betyr full tilgang til å lese alle saker innefor sitt ansvarsområde, samt rapporter via Rapporter og Aktivitetsplan. Verneombud har ikke tilgang til Admin. Verneombud gir tilgang til å registrere nye meldinger på egen avdeling og redigeringsmulighet kun til egne saker. 
+
+# Vis som enkeltspørsmål
+Visningsform for lister. Brukes fortrinnsvis til spørreskjemaer. Viser et og et spørsmål med eget kommentarfelt dersom det skal være mulig å kommentere spørsmålet. Besvarelsen lagres først når lagreknappen ved siste spørsmål benyttes. 
