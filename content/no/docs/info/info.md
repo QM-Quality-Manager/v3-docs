@@ -20,7 +20,7 @@ Det kan bestilles at dokumenter vises direkte i siden under enkelte arkfaner i s
 
 {{< onlystaticimg src="/images/Help.png" >}} Hjelp: Åpner denne siden.
 
-{{< onlystaticimg src="/images/Find.png" >}} Søk: Søker etter teksten som er skrevet inn i tekstfeltet foran knappen. Søkeresultatet avhenger av valgt avdeling i [navigatoren]({{< ref "/docs/leader/navigator" >}} "navigatoren"), men ikke hvilken arkfane som er valgt. Søkefunksjonen bruker søkemotoren [Lucene](http://lucene.apache.org/core/).
+{{< onlystaticimg src="/images/Find.png" >}} Søk: Søker etter teksten som er skrevet inn i tekstfeltet foran knappen. Søkeresultatet avhenger av valgt avdeling i [navigatoren]({{< ref "/docs/other/navigator" >}} "navigatoren"), men ikke hvilken arkfane som er valgt. Søkefunksjonen bruker søkemotoren [Lucene](http://lucene.apache.org/core/).
 
 - Plasseringen til dokumentet vises under tittelen på hvert dokument i søkeresultatet. Den blir vist som Dokument arkfane / Dokument gruppe / Eventuelle overliggende dokument(er) / Dokument tittel.
 - Når man har utført et fritekstsøk, vil det over listen over søkeresultater vises tre nedfallsmenyer som kan brukes til å filtrere søkeresultatet. Verdiene i filteret holder seg om man skifter avdeling i navigatoren, men nullstilles til neste søk når man trykker Lukk søkeresultatene.
