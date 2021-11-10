@@ -220,6 +220,57 @@ This link between the list and the message form means that all comments on an ac
 
 The comment form for a list can be selected under Edit list information. 
 
+# Filling out
+The function of filling out a list. Its appearance is determined by the list type and the selected display type for the activity.
 
+See "Filling out a list form" and "Filling out a list in single question view".
 
+# Graph report types
+Graph report types can be selected under Reports, Message search and Action search to determine which kind of reports will be displayed.
 
+### Graph report types
+
+- Per department: Shows one graph per department for the department which is selected in the Navigator and one for each directly subordinate department to that one.
+
+- Per department / Per category: If all the category groups are selected in the category group drop-down menu, then one graph per category group will be shown. If a particular category group is selected in the category group drop-down menu, then one graph per department for the department which is selected in the Navigator and one for each directly subordinate department to that one will be shown . This graph is colour coded so that each category in the selected category group will be marked with a different colour. This report has one graph for numbers and one for percentages.
+
+- Per category / category group: If all the category groups are selected in the category group drop-down menu, then one graph per category group is displayed. If a particular category group is selected in the category group drop-down menu, then one graph per each category that belongs to the selected category group is displayed. When there are many reported messages in a category group, then this is the report that provides the best overview.
+
+- Status: Provides a graph bar per message status.
+
+- Priority: Provides a graph bar per priority.
+
+- Distribution over time: Provides a graph bar per unit of time. Which unit is chosen depends on the selected time period.
+
+- Risk report: Provides a risk matrix.
+
+- List: Lists all the categories in the report grouped by category group.
+
+# List type
+The List type controls how a list will be displayed to the user. The different list types are: Checklists, Risk analysis lists and Survey forms.
+
+# Log message
+Log messages are messages that normally do not need to be handled, just registered and saved in the archive. Examples of such use can be minutes and documentation of legal execution. Log messages do not therefore appear under the Inbox unless you use Message process to activate them. The message type log message is not enabled in the standard version.
+
+Log messages are in all other ways identical to the regular messages.
+
+# Message type
+All messages have a message type. A message gets the same message type as the message form it was registered with.
+
+### The different message types
+
+- Message: Common messages.
+- Log message: Registered in the Log under Archive. Not included in the standard version.
+- Risk message: Registered in the Risk under Archive. Not included in the standard version.
+
+If neither log messages or risk messages are enabled in your system, the term message type will not be used.
+
+# Mobile version
+The mobile version of Qm+ is a separate interface adapted for display on mobile devices. The customization is done by sending over only the most important information and displays everything as short texts. It is possible to register messages, checklists and survey forms in this version. All information registered is visible in the normal Qm+ version in the same way as everything else.
+
+The homepage for the mobile version is wap.qmplus.net. Logging in is done using the same company, username and password as for the normal login.
+
+The mobile version is an additional module that must be ordered separately.
+
+# Printer friendly
+A printer friendly version is a message form or an action that is adapted in order to print well on paper.

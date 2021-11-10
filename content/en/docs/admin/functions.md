@@ -41,3 +41,91 @@ Attention! The same message form can have different content depending on the loc
 - {{< onlystaticimg src="/images/Cross.png" >}} Close: Takes you back to the page you came from.
 - {{< onlystaticimg src="/images/Note_add.png" >}} << Add: Adds this category to the selected message form in the right panel.
 - {{< onlystaticimg src="/images/Note_delete.png" >}} Remove >>: Removes this category from the selected message form in the left panel.
+
+# Edit department
+Function under Chart organisation.png Organisation for changing the data of departments.
+
+### Fields
+
+Department name: The name used for the department in the system. Will appear in the Navigator.
+Subdepartment of: The department under which this department will be shown in the Navigator. This department will inherit forms, documents, and activities from the departments above it.
+
+### Buttons
+
+- {{< onlystaticimg src="/images/Cog_add.png" >}} Show / {{< onlystaticimg src="/images/Cog_delete.png" >}} Hide advanced options: Use to display or hide the most advanced capabilities for this page.
+  - {{< onlystaticimg src="/images/Tick.png" >}} Save: Saves the changes made in the fields.
+  - {{< onlystaticimg src="/images/Cross.png" >}} Close: Takes you back to the page you came from.
+- Advanced options
+
+These are things that come up when the Show advanced options is used. The advanced options are hidden using the button Hide advanced options.
+
+### Roles
+
+- Granted roles: The roles assigned to this department.
+  - Roles associated with a department apply to all users of the active department. That means all employees of that department and all other users who have selected that department in the navigator.
+  - Roles associated with a department are used to control the accessibility of documents, forms and activities.
+- Role storage: The roles that are not assigned to this department.
+
+### Buttons
+
+- {{< onlystaticimg src="/images/User_add.png" >}} << Add: Adds the selected roles in the Role storage to the Granted roles.
+- {{< onlystaticimg src="/images/User_delete.png" >}} Remove >>: Removes the selected roles from the Granted roles. They will then be visible again in the Role storage.
+- {{< onlystaticimg src="/images/Cog_add.png" >}} Show / {{< onlystaticimg src="/images/Cog_delete.png" >}} Hide system roles: Determines if the System roles will be included in the list of roles. This button appears only if the user has the role System roles.
+
+### Main tasks
+
+Departments may be related to categories in a category group classified as Tasks. This is meant to visualize the department's main tasks, and has currently no system effect beyond that.
+
+#### Buttons
+
+- {{< onlystaticimg src="/images/Note_edit.png" >}} Configure tasks. Shows the Department main tasks and the Task storage, so that the user can add to or remove tasks from the department.
+- {{< onlystaticimg src="/images/Note.png" >}} Show as list. Shows the tasks in a table view, with the Task name and Information.
+- {{< onlystaticimg src="/images/Note_add.png" >}} << Add: Adds the selected tasks in the Task storage to the Department main tasks.
+- {{< onlystaticimg src="/images/Note_delete.png" >}} Remove >>: Removes the selected tasks from the Department main tasks. They will then be visible again in the Task storage.
+
+# Edit role
+Function under {{< onlystaticimg src="/images/Group.png" >}} Roles.
+Used for managing the name of a role and the users to whom the selected role is assigned. To manage all the roles of a specific user, it is easier to use Edit user information.
+
+### Fields
+
+- Show for the language: A role may have one name for each registered language in the system.
+- Role name: Name of the role.
+- Assigning the role to users: The left panel shows the users who have this role, the right panel shows those who do not. This component appears only after a new role has been saved at least once.
+
+### Drop-down menu
+
+Department selection: Determines which users will appear in the role assignment panels.
+
+### Buttons
+
+- {{< onlystaticimg src="/images/User_add.png" >}} << Add: Assigns this role to the selected users in the right panel.
+- {{< onlystaticimg src="/images/User_delete.png" >}} Remove >>: Removes this role from the selected users in the left panel.
+- {{< onlystaticimg src="/images/Tick.png" >}} Save: Saves the change of the name.
+- {{< onlystaticimg src="/images/Cross.png" >}} Close: Returns you to the page you came from.
+
+# Edit user type
+Function under User types for changing the data for user types. One must have the system role "System role administrator" to be able to make changes to the page.
+
+Note 1: Be very careful when you make changes to the user type you are logged in with. It may be impossible to reverse your changes if you change the wrong access, for example if you take away your own user type's access to the Admin tab.
+
+Note 2. All changes done to user types will take effect immediately for all users who are logged in with that user type, with the exception of tabs of the top level. The page needs to be reloaded to see changes there. This can be done for example by pressing the F5 key on your keyboard.
+
+### Fields
+- Show for language: Used to select the language of the name field. Displayed only if more than one languages are enabled.
+- Name: The name of the user type. Used wherever the user type is displayed.
+- Position: Used to sort lists where the user type is displayed. Position 1 shows first.
+- Information: Additional information about the user type.
+- Interface: Determines whether the user type should have the Complete interface (previously called Manager interface) or the Simplified interface (previously called Worker interface). The choice here determines the system roles that can be given to the user type.
+
+### Role overview
+Overview of all the roles associated with this user type. System roles appear first, followed by the user-defined roles. A logged in user has all the rights from the roles that are attached to the user type (s)he is logged in with, in addition to the rights from the roles which are directly attached to that user. System roles for tabs can only be attached to user types.
+
+- The selected system roles give access to specific parts of the system.
+- The selected user-defined roles give no direct rights to the user unless the actual roles are also attached to elements like message forms, activities or documents.
+- {{< onlystaticimg src="/images/Help.png" >}}: Opens the help page for System roles where you can find a short description for - the related system role.
+- Checking the box next to the Select column heading of each table title selects all roles in that table. Unchecking it when checked, deselects all roles in that table.
+
+### Buttons
+- {{< onlystaticimg src="/images/Tick.png" >}} Save: Saves the changes done in the page.
+- {{< onlystaticimg src="/images/Cross.png" >}} Close: Takes you back to the page you came from.

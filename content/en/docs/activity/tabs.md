@@ -184,3 +184,19 @@ Displays an overview of events for this action.
 ### Tabs
 
 - Action process: Reloads this page. All changes you have made without pressing the Save button afterwards will be lost.
+
+# Planning
+Tab under the Activity plan.
+
+Planning is used for planning and managing activities.
+
+### Buttons
+
+- {{< onlystaticimg src="/images/Printer.png" >}} Print: Prints the current screen.
+
+### Tabs
+
+- Activity groups
+- Activities
+- Fill out and results
+- User participation

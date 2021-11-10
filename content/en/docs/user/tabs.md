@@ -48,3 +48,17 @@ Used to execute and follow up actions.
 - Actions I need to complete: Displays the non-executed actions.
 - Actions for approval: Displays an overview of the performed actions that are pending approval.
 - Approved actions: Displays an overview of the performed actions that have been approved.
+
+# Questionnaires tab worker
+{{< onlystaticimg src="/images/Questionnaires_16px.png" >}} Questionnaires is a tab under {{< onlystaticimg src="/images/My-cases_16px.png" >}} My cases for users having the simplified interface.
+
+### Buttons
+
+- {{< onlystaticimg src="/images/Printer.png" >}} Print: Prints the current screen.
+- {{< onlystaticimg src="/images/Help.png" >}} Help: Opens this page.
+
+### Tabs
+
+In the standard version only the lists that need to be filled out appear. This is why no tabs appear there.
+- Active activities: The activities that need to be executed. Usually, this means filling out a list.
+- Activity report: Overview of the executed activities. Not included in the standard version.
