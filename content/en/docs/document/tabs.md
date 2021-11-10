@@ -71,3 +71,21 @@ The table contains one row per version (Major version) that the document has bee
 - Latest edit by: The last user to change the document.
 - Latest edit: When the last change was made.
 - Compare: You can select any 2 versions from the table. Then when you click the Compare versions button, you will be able to see the text or the HTML differences between the two versions. Use the Compare as HTML / Compare as text button to switch the comparison view mode. Added elements are highlighted with green, while removed elements are highlighted with red and a strikethrough line. The function works only for documents written in the Qm+ editor.
+
+# Document groups
+Tab under Documents.
+Here one can manage the company's document groups.
+Deactivated document groups do not appear under Info and no document can be assigned to them. Documents that belong to a deactivated document group do not appear under Info either.
+
+### Drop-down menus
+
+- Choice of department: The table shows either all the document groups created at the department which is selected in the Navigator or the document groups created at the department which is selected in the Navigator and those created by its subordinate departments.
+
+### Buttons
+
+- New document group: Opens the Edit document group screen to create a new document group.
+
+### Icons
+
+- {{< onlystaticimg src="/images/Folder.png" >}}: Opens the Edit document group screen to change an existing document group.
+- {{< onlystaticimg src="/images/Turnarrow.gif" >}}: Deactivates or activates the document group depending on whether you are under Document groups or under Deactivated document groups respectively.

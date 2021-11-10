@@ -20,3 +20,16 @@ Function for filling out a list. When the selected display type is the list vers
 - {{< onlystaticimg src="/images/Cross.png" >}} Close: Exits the answer without saving.
 - {{< onlystaticimg src="/images/Printer.png" >}} Print: Prints the current screen.
 - {{< onlystaticimg src="/images/Help.png" >}} Help: Opens this page.
+
+# Do you have comments?
+Function for registering comment messages for lists shown in the list version display type. It is only possible to register one comment message per question.
+
+### Buttons
+
+- Back to list: Sends you back to Filling out a list form.
+- Done: Sends you back to Fill out and results.
+
+### Icons
+
+- {{< onlystaticimg src="/images/Application_form_edit.png" >}}: Opens the Edit message form to write a new comment message on the question.
+- {{< onlystaticimg src="/images/Folder.png" >}}: Opens the Edit message form to edit a comment message on the question.
