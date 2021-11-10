@@ -166,10 +166,59 @@ Tip: Use the answer type Multi choice for questions with only one alternative an
 # Case
 A case in Qm+ is either a message, an action, a hearing or an audit. 
 
+# Category
+A category is in most cases a checkbox in a message form. All categories belong to a category group. The category group type of the category group determines how the category will appear in the message form. All information that is entered in relation to a category in a message form can be extracted as a report via Reports. The categories can also be used to identify groups of specific messages via the search page for messages and the search page for actions.
 
+Managed under Edit category.
 
+### Data
 
+- Show for the language: The name of a category can be set once for every language that is activated in the system. Appears only for customers who have multiple active languages.
+- Category group: The category's group. The category group type of the category group determines how this category will look like in a message form. A text at the bottom of this screen describes the type of the selected group.
+- Category name: The name used to represent the category. A category can have one name for every language that is activated in the system.
+- Priority: Low, Medium, High. The predefined priority of a category. Can be overridden by the person who fills out the message form. The priority of a message is the highest priority of the checked categories unless it is overridden by the user.
+- Cost: The predefined cost of a category. Can be overridden by the person who fills out the message form. The cost of a message is the sum of the costs of the checked categories, unless it is overridden by the user. Cost functionality can be removed for those who wish it.
+- From department: The category is available from the selected department and its subordinate departments.
+- Attached document: The document that will be activated if you click on the category in the message form.
+- Information: Text field that is visible when you hold the cursor over the category in the message form.
+- Risk data: Appear only for the categories belonging to a category group with the category group type Risk. Used to set different acceptance criteria for various risk categories.
+  - Start yellow risk area: Overviews of this category will give a yellow risk value from (and including) this risk value.
+  - Start red risk area: Overviews of this category will give a red risk value from (and including) this risk value.
 
+# Category group type
+The category group type of a category group determines how the categories in the group will be displayed and answered in a message form.
+
+### Types
+#### Defining category
+
+Intended to describe what is the topic of a message. Single choice for the whole message form. If there are several defining groups in a message form, it will only be possible to check one category in one of the groups. A message form can only be saved if a category which belongs to a defining category group is checked. Defining categories are obligatory to fill out in a a message form. Defining categories usually appear at the upper part of the screen to the left with an orange background colour and are marked with the icon Tag blue.png.
+
+#### Single choice
+
+Used to provide additional information in a message form. One choice per group. Shown to the left under the defining categories.
+
+#### Multi Choice
+
+Used to provide additional information in a message form. Any number can be checked. Shown on the right.
+
+#### Action
+
+Used to provide detailed information on what kind of action should be used to deal with the conditions that the message is about. Any number can be checked. The categories in this group are taken further in the action, if one is created for a message. Shown in the center below the text fields in the message form.
+
+#### Number
+
+Provides a text field where any number can be entered. Selecting a group of this type in the Reports would cause the cost graph to be replaced with a graph showing the sum of the values in these fields. Shown to the right in the message form.
+
+#### Risk
+
+Each category of this type has two drop-down menus, where a value from 1 to 5 can be selected. The first symbolizes the probability that the event will happen, the second symbolizes the consequence. These values are automatically multiplied to produce a risk value. The risk value gets a colour based on limits set for the category. Messages with values > 0 for a risk category will appear in the risk report under Reports. Shown in the center of the message form under the Action categories. 
+
+# Comment form
+A message form that is associated with a question in a list is called a comment form. This message form is used for registering the comments given when replying to a list. If the display type single question view is used, the text above the comment field will be the name of the first text field in the comment form.
+
+This link between the list and the message form means that all comments on an activity can be handled and given feedback to as if they were ordinary messages.
+
+The comment form for a list can be selected under Edit list information. 
 
 
 
