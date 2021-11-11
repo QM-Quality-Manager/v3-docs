@@ -65,3 +65,23 @@ These are things that come up when the button Show advanced options is pressed. 
 The fields of the attached message form and the attached category are repeated in a table for all topics and questions in the list. This can be used to adjust the associations for the whole list so that some questions get different comment forms or checked category.
 
 If you want to change all the associations for all the questions under a topic, make the change in the topic line and press Save. Then automatically all the questions under this topic will get the same association that was selected for the topic. Similarly, if the attachment is changed for the list and the Save button is pressed, all questions will also be changed. 
+
+# Active activities tab worker
+Active activities is a tab under Questionnaires for users having the simplified interface.
+
+Used to fill out lists. Normally filled out when you click on a link in an e-mail you have received. If no such email was sent or if you have deleted it, you can fill out the list here. You can also make changes in already filled out lists until the deadline expires.
+
+### Buttons
+
+- {{< onlystaticimg src="/images/Printer.png" >}} Print: Prints the current screen.
+- {{< onlystaticimg src="/images/Help.png" >}} Help: Opens this page.
+
+### Table
+
+Click on a line in the table to open the list that has to be filled out.
+
+- Name of activity: The name that this activity has.
+- Perform before: Deadline. The list will disappear from this page when the deadline expires.
+- Finished on: " - " for unanswered activities or the date of the first time it was answered.
+
+

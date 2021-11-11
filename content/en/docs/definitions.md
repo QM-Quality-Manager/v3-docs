@@ -274,3 +274,318 @@ The mobile version is an additional module that must be ordered separately.
 
 # Printer friendly
 A printer friendly version is a message form or an action that is adapted in order to print well on paper.
+
+# Risk matrix
+A risk matrix shows an overview of Probability and Consequence in a 5 x 5 matrix. The fields are coloured green, yellow and red to symbolise the different acceptance levels for the risk value.
+
+Qm+ has a risk matrix under Reports for each message type. The matrix under Message Reports refers to real events, while the matrix under Risk Reports shows an overview of potential incidents. The matrix of potential incidents appears also under Archive / Risk. 
+
+# Risk value
+Risk value (R) is the result of the multiplication of probability (P) and consequence (C).
+
+> P * C = R.
+
+The risk value is often visualised in a risk matrix.
+
+At a risk assessment, one wishes to reduce the risk value. This is done by showing the probability- and consequence-reducing measures. 
+
+# Role overview
+- {{< onlystaticimg src="/images/Group.png" >}} Role overview: Used for assigning roles to a document. Opens from Edit document data.
+
+- A document without roles:
+  - is available to all users from the department where the document was created and from its subordinate departments.
+
+- A document with associated roles appears under Info only for:
+  - users assigned to one or more of the same roles.
+  - users who have chosen a department associated with one or more of the same roles of the document.
+
+Roles do not limit the access to documents under Admin / Documents. 
+
+# Standard version
+The standard version of Qm+ is the one with the system settings that is given to new customers if they do not ask for any changes.
+
+The customer's contact person with QmPlus AS may order changes from the standard version. Most changes to system settings are done free of charge. Contact drift@qmplus.com if you have questions or change requests.
+
+See system roles for the set up of user types in the standard version. 
+
+# Super user
+The super user is a user who has taken the super user course of Qm+. The super user has the highest access to Qm+ within the company. The super user will assist the other users in the company and will act as local support for Qm+.
+
+All super users are entitled to free telephone support from Qm+ and can take advantage of this if they receive a question from their company users that they need help to answer. As a rule, one or more of the company's super users also function as contact persons between the company and QmPlus AS.
+
+All requests for changing some functionality in the system must be communicated via the customer's contact person, so that we know that this is a request of the entire company. 
+
+# System role
+System roles are roles that are preset in the system and provide specific rights for using Qm+. System roles are defined by QmPlus AS but can be given from certain super users to users or user types. This is advanced functionality and is usually not turned on for new customers at the beginning. Contact drift@qmplus.com if you need this right or if you have questions.
+
+You can find a list of the available system roles here. 
+
+# Tab
+The navigation structure of Qm+ is made up of tabs. They have a name that describes the location of the system you can go to if you click on them. Most also have a descriptive text that appears when you hover the mouse pointer over them.
+
+Tabs also describe where you are in the system. The tabs that are darker than the others are selected.
+
+Example :
+
+{{< onlystaticimg src="/images/Arkfanebeskrivelse.png" >}} 
+
+# User
+A user is a set of information that identifies a real person who will be using Qm+.
+
+Managed under Admin / Users / Edit user information by users having access to that tab or under Preferences for others.
+
+### Data
+
+- User name: Used by the user for logging into the system. Distinguishes between uppercase and lowercase letters. Must be unique for each customer.
+- Department: The department to which the user belongs.
+- Type: The user's user type.
+- Password: Used by the user for logging into the system. Distinguishes between uppercase and lowercase letters.
+- Repeat password: Must be identical with the password field in order for the user's data to be saved.
+- First name: The user's first name.
+- Middle name: The user's middle name.
+- Surname: The user's last name.
+- Email address: The user's email address. Some functionality of the system is linked to the user's email address. It is therefore preferred that each user has a unique email address.
+- Language: Selection of the display language for the user. Available languages in the system are: Norwegian (bokmål), Norwegian (nynorsk), English, Swedish and Danish (not translated framework for Danish). The available languages for each customer will vary.
+- Mobile number: Can be used for receiving SMS from the system, if this functionality is activated.
+- Comment: Free text field for additional information about the user.
+
+# User type
+Name and roles for all user types may be altered by the System administrator. User types may also be added and removed. The capabilities of a user type are defined by the system roles assigned to it. A user must have one user type for each department the user is attached to. For a logged in user with multiple user types, only the roles attached to the user type of the department the user is currently logged in at, will be active. In the Standard version four user types are preconfigured: Manager, Case handler and Reviewer have the complete interface, while Worker has the Simplified interface.
+
+### Manager
+
+They have full access to the system in the standard version. Can have limited or increased access with the help of system roles.
+
+### Case handler
+
+Same access rights as the Manager, but the access to Admin is replaced by Preferences.
+
+Managers and Case handlers appear automatically as possible recipients (case handlers) for messages under Messages/NC / Message process within their department. If it must be possible to send messages across the organisation, for example from the Health Department to the Technical department, at least one user of the user type Manager or Case handler in that department must be set under the tab Admin / Rules, Rule type "Additional case handlers".
+
+### Reviewer
+
+They have the same read access as Managers. They can only edit their own information, but may comment on all cases they can read. They appear automatically as possible recipients of the messages under Inform in the Messages/NC / Message process on their department. Reviewers may only register new messages on the department they are registered on, even though they have the navigator. They have the tab Preferences instead of Admin.
+
+### Worker
+
+They have their own simple interface that only allows access to their own information. 
+
+# Worker
+User type that in the standard version gives the users a simple interface, from which they can access only their own cases. 
+
+# Action status
+An action in Qm+ has an status that shows where it is in the handling process. The status of an action changes under Action process.
+
+- Under planning: The action is being planned. Text fields must be filled out, categorisation and cost must be set and one or more users must be made responsible for executing the action.
+- Under execution: The action has been sent to the person(s) who will execute it. When all the persons responsible for executing the action have checked out the field "Executed"and have written their comments, it can be sent for approval.
+- Under approval: The action is waiting for approval from the person who created it.
+- Approved: The action has been approved and can no longer be changed. Super users with the system role content administrator can still make changes.
+
+An action under execution or under approval may be sent backwards in the process by using the << buttons in the status field of the Action process. 
+
+# Activity group
+Activities are organised in activity groups. This organisation has no influence on the system beyond the fact that it makes it easier to identify activities when there are many of them. In the Calendar under the Activity plan, activities are shown per activity group. 
+
+# Activity report
+An activity report can be used to write a final report for an activity. The activity report can be written by pressing the Report button under Comments to the activity.
+
+Which message form will be used in the activity report is determined under Edit list information.
+
+Activity reports are not included in the standard version and must be ordered specifically. 
+
+# Alternative answer
+An alternative answer is an answer you can choose to a question in a survey form. All the alternative answers you can choose from for one question are called an alternative group. Managed under Edit alternative answers.
+
+### Data
+
+- Number: Determines the sorting of the alternative answers in the alternative group.
+- Text: The displayed text for that alternative answer. Each alternative answer may have one text for each enabled language.
+
+# Alternative groups overview
+All the alternative groups belong to an alternative groups overview. This is used only to distinguish between alternative groups when editing alternative answers and under the tab Alternative groups. Managed from the tab Alternative groups. 
+
+# Case handler
+The Case handler is a user type in the standard version in Qm+ that has approximately the same rights as the user type manager. That means full access to read and modify all cases within his/her remit, as well as reports via Reports and the Activity plan. A case handler does not have access to Admin. 
+
+# Category dependency
+A category dependency is used for controlling when a category is shown in a message form. Only categories without dependencies and categories that have all their dependencies satisfied are shown in the message form.
+
+A category dependency is only used for the actual message form it is set up for. A category may only have one dependency against each of the other categories in that message form.
+
+A category satisfies its dependencies when it both:
+
+- satisfies all "And" dependencies. If it has no "And" dependencies it is considered as satisfied.
+- satisfies at least one "Or" dependency or it has no "Or" dependencies.
+
+Managed under Edit category dependency. 
+
+# Checklist
+A checklist is a list that is displayed with checkboxes in front of the question. To be able to edit alternative answers, the list type survey form must be used. A checklist is intended to be used as a "find the error list". That lists a series of common errors within the area to be examined. The users then check the point in the list if they know of the error. See list for explanation of data fields. 
+
+# Comment message
+A comment message is an additional text response to a question in a list. Comment messages are registered in a normal message form. Only the first text field in the message form that is connected to the list will show as a comment field inside the list.
+
+Comment messages can be handled in the same way as the other messages. In the standard version, comment messages do not appear under Inbox unless someone has transferred them to a case handler, set a deadline or created an action for them.
+
+Show comment list in Activity plan is used to get an overview of the comment messages for an activity.
+
+You can get an overview of all comment messages from the tab Comment reports under Reports or from the Comments tab under Archive. 
+
+# Default case handler
+If a message form has a default case handler, the messages registered with this message form will appear on the Cases I am responsible for page of the default case handler instead of the Manager of the department where the message was registered. The message will still be registered on the department it was registered and will appear under Reports and Search.
+
+If the same message form is set up with multiple default case handlers with overlapping departments, the user registering the message will be able to choose between them from a drop-down menu during registration. In the registration screen, there is also a checkbox for whether to send an email to the selected case handler when the message is registered. 
+
+# Department
+A department is a set of information that identifies a physical location or an organisational unit that will be used as the reporting unit in Qm+. Active departments can be selected in the Navigator. Managed under Admin / Organisation / Edit department. If a department is moved within the organisational structure, all associated data and records will automatically follow.
+
+Function under Organisation.
+
+### Fields
+
+- Department name: The name used for the department in the system. Will appear in the Navigator.
+- Subdepartment of: The department under which this department appears in the Navigator. This department will inherit the lists, the message forms, the documents and the activities from the department above it.
+
+#### Advanced options
+
+- The department's roles: The roles associated with this department.
+  - Roles associated with a department apply to all users of the active department. That means all employees of that department and all other users who have selected that department in the navigator.
+  - Roles associated with a department are used to control the accessibility of documents, forms and activities.
+- The department's main tasks: Departments may be related to categories in a category group classified as Tasks. This is meant to visualize the department's main tasks, and has currently no system effect beyond that.
+
+# Display criterion
+A display criterion is a criterion that can be set on a question or a group of questions in a survey form. The most common use is to set up a question to show only if a particular alternative answer is selected on a previous question.
+
+Display criteria are set for each survey form under Edit alternative answers.
+
+### Behaviour
+
+- Specific group, Element = None, Alternative = None: A checkbox appears before the group name with the text "Show" when the list is filled out. This box must be checked, in order for the questions in this group to show.
+- Specific group, specific Element, Alternative = None: The question shows only if the particular question is not answered.
+- Specific group, specific Element, specific Alternative: The question shows only if the particular question is answered with the specific alternative answer.
+
+Display criteria work for the list version and the single question view. 
+
+# Document
+A document is a text written in Qm+, a reference to a file, a reference to a web page or a folder. Shown in the table under info for all users who have access to them, according to the document's department and roles.
+
+Managed under Edit document data. A simple version control also exists on that page.
+
+### Data
+
+- Name: Used to identify the document in tables and overviews.
+- Document type:
+  - Written document: The document is written and maintained in the internal text editor of Qm+. When the document is opened, it will automatically get a meta-table that contains data about the document. The table shows who has created the document, when it was changed, the customer's logo and possibly the hearing status it has. The table can be customized on a per customer level.
+  - Link: The document is a link to a page on the Internet, a document written in Qm+ or a file uploaded to Qm+.
+  - File: The document is a file that was uploaded to Qm+ and stored on the server of QmPlus AS.
+  - Folder: The document is only a folder that contains other documents under Info.
+  - Process chart: The document is written and maintained in the Process chart setup page of Qm+ and can be displayed in two modes, Process chart and Responsibility matrix. When the document is opened, it will automatically get a meta-table that contains data about the document, identical to the one added to documents of type Written document. After a process chart is saved, it is not possible to change the type of the document again.
+- Document group: The document's group. Determines in which box the document will appear under Info.
+- Document tab: Determines under which tab the document will appear under Info. Appears only if this functionality is turned on. In the standard version, all documents are shown under the tab Managing documents under Info.
+- Subdocument of: A subdocument will be shown only when the document above it is extended by holding the cursor over the Arrowclosed.gif icon. Make sure to choose something in this menu after you have selected the Document group and the Document tab.
+- Address: Where is the document. If it is a file that was uploaded, the address field will be set automatically. Do not make changes to it afterwards.
+- From department: The document will be available from the selected department and its subordinate departments.
+- Shown for subdepartments?: If no, the document will only appear under Info when the selected department in the "From department" is selected in the Navigator.
+- Created by: The name of the user who has created this document.
+- Version: Version number. Shows how many times there were changes made on the document. It will not be updated if the change is done outside Qm+.
+- Roles: An unlimited number of roles can be associated with the document. A user must have at least one of these in order to be able to see the document under the Info page. Does not affect the availability of the document in the message forms or lists to which the document is attached.
+- Last modified: Date when the document was last modified.
+
+# Filling out PDF forms
+
+### Purpose
+
+It has been requested that the details of a message which will be reported with the help of a PDF form, should be automatically filled in. If a form has been linked to a PDF, the user will have a new opportunity to select a message form for filling data into the PDF. After the PDF document is opened, the data are already copied in the correct fields and the user can fill in the rest of the form.
+
+### Layout
+
+In order for the data of a form to be able to be exported to a PDF form, the fields must be manually connected to the fields of the PDF. Unfortunately, for the moment, this can only be done directly in the database, ie, the users must ask Qm+ to do it for them.
+
+In order to connect a form to a PDF, we need the PDF and the message it will be connected to. In addition we need an accurate description of which fields in the PDF will be connected to which fields in the message. 
+
+# GPS coordinates
+{{< onlystaticimg src="/images/Map.png" >}} GPS coordinates is a tab under Edit message form.
+
+Messages registered through the mobile application send the GPS coordinates of the location of the mobile device at the time of registration. Use this page to decide if these coordinates will appear in the Message process page and in the pdf reports. More options will appear in this page soon. 
+
+# List
+
+A list is a form used to collect information. Lists are managed under Admin / Forms and are sent out from the Activity plan. The appearance of a list is determined by the selected list type.
+
+### Data
+
+- Show for the language: The name of a list can be set once for every language that is activated in the system. Appears only for customers who have multiple active languages.
+- List name: Used to identify the list in tables and menus.
+- List type: Used to organise the lists in various overviews under Admin. Has no practical significance.
+- Registered by department: The department where the list was created. A list can be used from the department where it was created and from its subordinate departments.
+- Attached message form: The message form that is used to store comments on the list.
+- Attached category: The category which will be selected in the attached message form when the comment is written.
+- Attached report form: The message form that will be used to save reports to an activity where the list has been used.
+- Attached report category: The category which will be selected in the attached message form when the report is written.
+  - The report form and the report categories are not included in the standard version but can be activated for all customers who want them. In this case, contact drift@qmplus.com.
+- List comment: A textual comment that will appear at the top of list when it is filled out.
+- Attached documents: A link above the list that opens the selected document.
+
+# List version
+Display type for lists. Used mainly for checklists and risk analysis lists. Shows all the questions in a list. Opportunity to comment comes up on page two after Save is pressed.
+
+All lists that appear when you log in to Qm+ in the normal way (not when logging in via a link in an e-mail that takes you directly to the list), are using the list version. 
+
+# Periodic activity
+A periodic activity is used when you want to schedule a periodic execution of an activity forward in time. The period is how frequently the activity will be carried out, for example, daily, weekly, annually.
+
+The period and the individual dates can be managed under Periodic activity setup, and the other activity data under Edit activity. Individual dates for a periodic activity can be deleted under Activities. 
+
+# Priority
+Messages in Qm+ may have different priorities.
+
+- Low: Highlighted in green.
+- Medium: Highlighted in yellow.
+- High: highlighted in red.
+
+An action gets the same priority as the message attached to it with the highest priority. 
+
+# Repetitive activity
+A repetitive activity is an activity that can be filled out an unlimited number of times by each participant. Can also be used for registration of anonymous external surveys where all responses are registered on the same user. 
+
+# Risk analysis list
+A risk analysis list is a list that is displayed with a drop-down menu for the probability and a drop-down menu for the consequence of each question. See list for explanation of data fields. 
+
+# Risk message
+Risk messages are messages used to create a risk overview for your company. It is up to the company whether the risk messages should be handled or if they should only be registered and stored in the archive. Our recommendation is that they are not handled, only updated annually. Risk messages can only be closed by QmPlus AS (as an exception), as they should not normally be handled. Messages registered here do not appear in the Inbox unless you use Message process to activate them. The message type risk message is not enabled in the standard version. 
+
+# Role
+A role can be assigned to users, user types, departments, activities, message forms and documents. They provide rights and restrictions. Generally one can say that a user or a user's department must have the same role as an activity, a message form or a document in order to have access to it. Common roles can be set by the customer's super user.
+
+Roles are sorted in role groups and managed under Edit role.
+
+A special type of roles called system roles give extended rights for use of Qm+. System roles are set by QmPlus AS and they can be assigned to some super users. This is an advanced functionality and is usually not given to new customers. Contact drift@qmplus.com if you need this right or if you have questions.
+
+### Data
+
+- Name: A role can have one name for each language that is activated in the system.
+
+# Rules submenu message form
+{{< onlystaticimg src="/images/Wrench.png" >}} Rules submenu message form is a tab under Edit message form.
+
+Use this page to get an overview of the rules which are associated with the message form. See Rules for a more detailed description of the table contents and functionality.
+
+Please note that a message registered with a message form without case handlers follows the normal procedure and appears in the Inbox / My current cases of the nearest manager. In most cases this is the best solution. 
+
+# Sub-activity
+An activity can have sub-activities. They have no effect other than the fact that they are visually grouped together under Activities and Calendar. 
+
+# Survey form
+A type of list. Provides full flexibility to change the answers and comments for all questions. When used as a traditional survey, it is often worth using the display type "single question view". 
+
+# The action process
+The action process is the process from when an action is created until it is approved and closed.
+
+Followed up through the Action process page.
+
+- Under planning: All actions start with this status. In this phase, the action is being planned. First give a name to the action so that it becomes easy to identify it later, and enter the budget if you use this field. The text fields Corrective action and How to prevent repetition must be filled out so that those who will execute the action will know what to do. The action categories may also be selected now. The last thing you have to do is to select those who should execute the action and give them a deadline. This is done in the mandatory panel Persons responsible. Click on Send to execution >> or the >> button in the Status panel to save the action and change its status to Under execution.
+- Under execution: In this phase, the work described in the action will be executed. If the time registration fields are enabled, the executors can log the hours they have spent carrying out the action per day. Then those who carried out the action must tick the Executed box. They can also write a comment in the Comment field and fill in the Actual cost if they know it. When all the changes have been done, use the button Send to approval >> or the >> button in the Status panel. This saves the action and change its status to Under approval.
+- Under approval: Here the person who created the action will make sure everything is in order before (s)he approves the action.
+- Approved: An approved action is closed and locked and can not be changed except by users with the system role content administrator. Comments can still be sent out to all involved users.
+
+

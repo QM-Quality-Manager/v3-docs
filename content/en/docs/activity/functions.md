@@ -124,3 +124,117 @@ These are options that come up when the button {{< onlystaticimg src="/images/Co
 #### Buttons
 - << Add: Adds one or more of the items which are selected in the right panel to the activity.
 - Remove >>: Removes one or more of the items which are selected in the left panel to the activity.
+
+# Users that have answered the element
+Function under the Activity plan. Used for seeing all the users and actions of a question. Opens from Graphs for the list.
+
+### Headings
+
+- The main heading shows for which activities the data are shown in the table below.
+- The second heading Users that have answered the element shows for which question in the list are the data shown in the table below.
+
+### Buttons
+
+- {{< onlystaticimg src="/images/Printer.png" >}} Print: Prints the current screen.
+- {{< onlystaticimg src="/images/Help.png" >}} Help: Opens this page.
+- {{< onlystaticimg src="/images/Application_form.png" >}} Show actions / {{< onlystaticimg src="/images/User.png" >}} Show users: Toggles between displaying the actions done for this question and the users who have checked / answered this question.
+- {{< onlystaticimg src="/images/Application_form_edit.png" >}} Plan new action: Creates a new action for the point in the list that is described at the heading.
+- {{< onlystaticimg src="/images/Page_white_acrobat.png" >}} Show as pdf: Prints the current page to .pdf.
+- {{< onlystaticimg src="/images/Cross.png" >}} Close: Sends you back to the page where you came from.
+
+### Table
+
+- Name: The name of the user.
+- Type: The user type.
+- Department: The department on which the answer is registered.
+- Registered date: The date when the answer was first registered.
+- Edit {{< onlystaticimg src="/images/Folder.png" >}}: Opens the answered list of the user.
+
+# Graphs for the list
+Function under the Activity plan for displaying the result of activities. By using the List results, the result from several activities that use the same list can be displayed and compared in the same screen.
+
+### Fields
+
+- Headline: Shows which list is used in the activity. Click on it to display the Comments to the activity for all the activities shown in this page.
+- Activities shown in these graphs: List of all the activities included in the graphs below. There will only be one graph unless you have used the List results. Click on it to display the Comments to the activity for the selected activity.
+
+### Drop-down menus
+
+- Department selection:
+  - Distributed on this and subdepartments: A blue graph will be shown for the results from the department which is selected in the Navigator and an orange graph for the sum of the results from the departments under the selected department in the hierarchy.
+  - Total for this and subdepartments: A blue graph will be shown that is the sum of the results from the selected department and its subordinate departments.
+- Graph type:
+  - Shown as sum: The graph shows the results as the number of answers.
+  - Shown as percentage: The graph shows the result as a percentage of the total number of answers for each question. If "Distributed on this and subdepartments" is selected, there is a percentage for the selected department and a percentage for the subordinate departments.
+    - For survey forms, the percentage is calculated for each alternative answer based on how many people have answered every single question.
+    - For checklists the percentage is calculated based on all who have answered the list. Blank answers are also included here.
+  - Shown as mean value: Shows the average values for the answers. If the alternative answers begin with a number, then this number will be used as a weight, if the first alternative does not have the value 1, the next 2 etc. Alternatives that begin with the number 0 are not counted in the average value, either in the sum or in the number of answers that it is divided into. For alternatives that begin with a number, the average value will be the calculated number. For other alternatives, it will be the text of the alternative the index of which is closest to the calculated number.
+
+### Graph
+
+The appearance of the graph depends on the list type.
+
+- Checklists have one graph per question.
+- Risk analysis lists have a total risk matrix over the list of questions. An additional drop-down menu "Show graph" controls if the page displays the Count or the Average view.
+  - Count: The total risk matrix at the top displays the number of answers to the questions in the list that fall within each risk area. Additionally, each question in the list gets its own risk matrix that shows the distribution of the answers to that question. To the right of each risk matrix is a table that shows the distribution of answers to that question within each risk group (red, yellow, green). The Count view is shown by default when you first open this page.
+  - Average: The total risk matrix at the top displays the number of questions where the average value of the answers gives the specific risk value. For each question you get two charts displaying the average risk value of all answers to the question in the selected department in the Navigator (blue) and the average risk value of all answers to the question in the departments subordinate to the selected department in the Navigator (orange).
+- Survey forms have one graph per alternative answer.
+
+#### Click functionality
+
+- You can click on all the questions in the list. Then you will go to Comments to the activity for the selected question. This can also be done by clicking on the {{< onlystaticimg src="/images/Folder.png" >}} icon.
+- If you click on the activity name or its {{< onlystaticimg src="/images/Folder.png" >}} icon you will go to the page Comments to the activity for the selected activity.
+- If you click on the list name you will go to the page Comments to the activity for all activities in the chart. Usually there is just one activity in the chart, but by using the list results page you can create charts that contain the results for more than one activities at the same time.
+- You can click on all the charts in the table. This opens the page Users that have answered the element for the selected question.
+
+### Buttons
+
+- {{< onlystaticimg src="/images/Key_add.png" >}} Show / {{< onlystaticimg src="/images/Key_delete.png" >}} Hide selection filter: Hide or show the selection filter.
+  - When the selection filter is activated, you can select the questions or the alternative answers you want to filter on.
+  - Only answers that satisfy all selections will be included in the graph after the button Show selected results is pressed.
+  - The selection filter also affects what is displayed under Comments to the activity and Users that have answered the element.
+  - It also allows for filtering the result on a role connected to the user who has answered.
+  - If a role is selected in the drop-down, only the users who have the selected role attached to their user, user type or the department the answer is registered on are included in the result.
+- {{< onlystaticimg src="/images/Email_edit.png" >}} Send result: Opens the Send results page to publish the depicted graph to others.
+- {{< onlystaticimg src="/images/Page_white_acrobat.png" >}} Show as pdf: Prints the current page to .pdf.
+- {{< onlystaticimg src="/images/Cross.png" >}} Close: Takes you back to the page you came from.
+- {{< onlystaticimg src="/images/Printer.png" >}} Print: Prints the current page. Make sure that the option Print background colours and images is selected in Internet Options / Advanced / Print if you are using Internet Explorer, File / Page Setup / Print Background (colours and images) in Mozilla Firefox. Otherwise, the graphs will not be printed correctly. Mozilla Firefox has in some cases problems with printing screens that span multiple pages. This may depend on the setup, but seems to be a widespread problem.
+- {{< onlystaticimg src="/images/Help.png" >}} Help: Opens this page.
+
+### Actions
+
+You have many possibilities to create actions for an activity from this page.
+
+- Open the Comments to the activity by clicking on a question, the title of the activity or the title of the list. This will attach the action to the comment messages that appear in this page. If there aren't any comment messages, the action will still be attached to the question or the list depending on where you clicked.
+- Open the Users that have answered the element by clicking on a graph. You can do this if you want to create a action for those who have given a specific answer to a question.
+
+Which page you will go to, affects what the action will be attached to. So what is right depends on whether you want it to be common to the whole list, attached to a single question or to an alternative answer. 
+
+# Send reminder
+{{< onlystaticimg src="/images/Email_edit.png" >}} Send reminder is a function under the {{< onlystaticimg src="/images/Calendar.png" >}} Activity plan. Opens from Follow up and Activities.
+
+Used for notifying those who will perform an activity. The reminder is sent by an email containing a link that opens the list which is attached to the activity. The list of possible recipients includes all participants in the activity who have not yet answered it.
+
+### Fields
+
+- Heading: The name of the activity.
+- Subject: The subject field in the email that will be sent out.
+- Text field: Here you can write the text to be included in the email. The text "http://www.qmplus.net/Link" can be placed anywhere in the email, and will be replaced with an individual link for each recipient. This link will then be used to answer the activity for each user. If several users answer the same activity by using the same link only the last reply will be registered, unless the activity is registered as a repetitive activity. It is therefore important that such emails are not forwarded.
+- "From" address: This email address will show in the sender field (From:) of the email. It is automatically set to the registered email address of the user who writes the reminder. This address will also receive any error messages about invalid email addresses. Email addresses can be changed from the Edit user information under Admin / Users.
+- Former reminders sent for this activity: If any reminders had been sent earlier for this activity they will be listed here. If you want to use the same text as in a previous reminder, check the appropriate box in the Select column and then click on the Use selected former message button.
+
+### User list
+
+- The list includes all the users who will participate in the activity and have not already answered it. The list is sorted by name.
+- At the top there is a summary of how many users are in the list and how many of them have a seemingly valid email address.
+- Send to: Check boxes for those who will receive the reminder. All the users in the list who have a seemingly valid email address are preselected.
+
+### Buttons
+
+- Select all: Checks all the users in the list that have a seemingly valid email address.
+- Select none: Removes all checks in the user list. May be useful if you want to send a test reminder to yourself or send the email to a small sample before sending it out to everyone.
+- Send reminder: Sends the reminder to all the users that are selected in the user list. If there are many (> 100) users in the list, it may take some time before all emails are sent out. It is possible to close the Send reminder window while emails are being sent. When all the emails have been sent, you will get a message if you have not closed the Send reminder window. That does not necessarily mean that everyone has received their email. Sometimes emails take longer time to be delivered than you expect. Also remember to look in your own email inbox for messages about invalid email addresses. These addresses must be corrected before you can send the reminder to them again.
+- Use the text from the selected former reminder: Appears only for activities for which email reminders have been sent earlier. Retrieves the subject and text of the selected former reminder so that it can be reused. You can make changes to the former text before sending the message. When you are finished, you have to click on the Send reminder button as usual.
+
+
+

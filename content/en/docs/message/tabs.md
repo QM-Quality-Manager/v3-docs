@@ -105,3 +105,66 @@ Select the column by which the result table will be sorted.
 - Table: Show the results in the table of the Search results page for messages.
 - Expanded view: Show the results in the expanded view that contains all the message details (previously "Printer friendly" version) of the Search results page for messages.
 - Graph: Show the result as a chart under Reports.
+
+# Sent to case handler
+Tab under Messages/NC.
+
+Sent to case handler shows all messages that have been transferred to a responsible person. This is used to find messages that you have sent away so that they are no longer available on your department. Which messages are shown in the table below is determined by the choices in the drop-down menus. Only messages registered in the last 3 months are shown in this screen. To see older messages, please use Reports or Search.
+
+### Functions
+
+#### Drop-down menus
+
+- All messages: If you select a message form, only messages originating in such a message form are shown.
+- Message type:
+  - From a case handler in this department: Shows messages sent from a user on the department which is selected in the Navigator.
+  - From me: Shows messages sent by the logged in user.
+  - To a case handler in this department: Shows messages that have been assigned to a responsible person from the department which is selected in the Navigator.
+  - Registered on this department: Shows messages originally registered on the department which is selected in the Navigator.
+- Status: Only messages with the selected status are displayed in the table.
+  - All states: All messages are shown.
+  - Message process: Only messages with the status New or Sent to case handler are shown.
+  - Action process: Only messages attached to an action that has not yet been approved are shown.
+  - Rejected: Only rejected messages are shown.
+
+#### Table
+
+- When you click on a line of the main table, the selected message will open in the handling page.
+- Hold the cursor over the + symbol in the first column to get more information about a message, including its history.
+
+#### Buttons
+
+- {{< onlystaticimg src="/images/Page.png" >}} Expanded view / {{< onlystaticimg src="/images/Table.png" >}} Table: Switch between the expanded and the table view. The table gives a compact description of messages intended for use when working with them. The expanded view gives a more complete description of the messages, similar to the printer friendly (.pdf) version.
+- {{< onlystaticimg src="/images/Page_white_acrobat.png" >}} Show as pdf: Opens the Option page for reports, from which you can create a report with the related messages. This is intended for paper printing.
+- {{< onlystaticimg src="/images/LeftArrow.gif" >}} and {{< onlystaticimg src="/images/RightArrow.gif" >}} Change page: The arrows are used to change pages when there are more than 20 messages that can be shown in the table.
+- {{< onlystaticimg src="/images/Arrowopen.gif" >}} and {{< onlystaticimg src="/images/Arrowclosed.gif" >}} Sorting: The table is sorted by the column with the {{< onlystaticimg src="/images/Arrowopen.gif" >}}. Click on the {{< onlystaticimg src="/images/Arrowclosed.gif" >}} to sort by another column.
+- {{< onlystaticimg src="/images/Printer.png" >}} Print: Prints the current page.
+- {{< onlystaticimg src="/images/Help.png" >}} Help: Opens this page.
+
+# Message search results
+Search is a tab under Messages/NC, Log, Risk and Comments.
+
+This page displays the results when performing a message search and when someone has clicked on a message graph under Reports.
+
+### Search criteria
+
+Displays all the parameters that are used for the search.
+
+- Drop-down menu Departments:
+  - This department. Only messages registered on the selected department.
+  - This and subordinate departments. Messages registered on the selected department and on its subordinate departments.
+  - Subordinate departments. Only messages registered on the subordinate departments of the selected department.
+
+Note that if the search criteria were set by clicking on a graph, the search can be based on a different department than the one selected in the Navigator. This department is shown in the field "Search from department" in the search criteria table. The Navigator can be used to change the selected department.
+
+### Buttons
+
+- {{< onlystaticimg src="/images/Find.png" >}} New search: Opens the search page for messages with all the search parameters cleared, except from the department which is selected in the Navigator and the selected message type.
+- {{< onlystaticimg src="/images/Find.png" >}} Expand search: Opens the search page for messages with all parameters listed in the search criteria list set. You should use this button if you want to continue working with the current search and edit some of the search criteria.
+- {{< onlystaticimg src="/images/Chart_bar.png" >}} Back to the graphs: Opens the Reports as they appeared in the previous page. The bar on which you has clicked to open this page is not added to the search criteria. This button appears only if you opened this page by clicking on a graph under Reports. When you click on a graph under Reports you perform a search for the messages that were represented by the bar you clicked on.
+- {{< onlystaticimg src="/images/Chart_bar.png" >}} Show in graphs: Opens the Reports with the messages in the table below as the starting point. The bar on which you has clicked to open this page is added to the search criteria.
+
+Use of the table is explained in Messages/NC, Log, Risk and Comments, depending on which tab you are under. 
+
+
+
