@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Goldydocs – Qmplus dokumentasjon</title>
+    <title>Quality Manager – Qmplus dokumentasjon</title>
     <link>https://docs3.qmplus.com/docs/</link>
-    <description>Recent content in Qmplus dokumentasjon on Goldydocs</description>
+    <description>Recent content in Qmplus dokumentasjon on Quality Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	  <atom:link href="https://docs3.qmplus.com/docs/index.xml" rel="self" type="application/rss+xml" />
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Aktivitet</title>
-      <link>https://docs3.qmplus.com/docs/shared/activity/activity/</link>
+      <link>https://docs3.qmplus.com/docs/activity/activity/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/activity/activity/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/activity/</guid>
       <description>
         
         
@@ -108,10 +108,10 @@
     
     <item>
       <title>Docs: Aktivitetsrapport</title>
-      <link>https://docs3.qmplus.com/docs/shared/activity/activity_report/</link>
+      <link>https://docs3.qmplus.com/docs/activity/activity_report/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/activity/activity_report/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/activity_report/</guid>
       <description>
         
         
@@ -123,10 +123,10 @@
     
     <item>
       <title>Docs: Aktivitetsrapport arkfane medarbeider</title>
-      <link>https://docs3.qmplus.com/docs/shared/activity/activity_tab_employee/</link>
+      <link>https://docs3.qmplus.com/docs/activity/activity_tab_employee/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/activity/activity_tab_employee/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/activity_tab_employee/</guid>
       <description>
         
         
@@ -190,10 +190,10 @@
     
     <item>
       <title>Docs: Alternativer for prosessrapporter</title>
-      <link>https://docs3.qmplus.com/docs/shared/report/altertnative_process_reports/</link>
+      <link>https://docs3.qmplus.com/docs/report/altertnative_process_reports/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/report/altertnative_process_reports/</guid>
+      <guid>https://docs3.qmplus.com/docs/report/altertnative_process_reports/</guid>
       <description>
         
         
@@ -242,10 +242,10 @@
     
     <item>
       <title>Docs: Alternativer for rapporter</title>
-      <link>https://docs3.qmplus.com/docs/shared/report/report_alternatives/</link>
+      <link>https://docs3.qmplus.com/docs/report/report_alternatives/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/report/report_alternatives/</guid>
+      <guid>https://docs3.qmplus.com/docs/report/report_alternatives/</guid>
       <description>
         
         
@@ -302,10 +302,41 @@ Knapper&lt;/p&gt;
     
     <item>
       <title>Docs: Arkfaner</title>
-      <link>https://docs3.qmplus.com/docs/shared/activity/tabs/</link>
+      <link>https://docs3.qmplus.com/docs/action/tabs/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/activity/tabs/</guid>
+      <guid>https://docs3.qmplus.com/docs/action/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;tiltak-søk-resultat&#34;&gt;Tiltak søk resultat&lt;/h1&gt;
+&lt;p&gt;Søk er en Arkfane under Tiltak.&lt;/p&gt;
+&lt;p&gt;Denne siden brukes til å vise resultatet fra søk etter tiltak og når noen har trykket på en tiltaksgraf under Rapporter.&lt;/p&gt;
+&lt;h3 id=&#34;søkekriterier&#34;&gt;Søkekriterier&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lister opp alle parametere som er i bruk for å lage søkeresultatet. Nedfallsmenyen for avdelinger kan brukes til å endre hvilke avdelinger tiltakene skal hentes fra.&lt;/li&gt;
+&lt;li&gt;Navigatoren kan brukes til å endre hvilken avdeling eller fra og med avdelinger, avhengig av nedfallsmenyen for avdelinger over, tiltakene skal hentes fra.&lt;/li&gt;
+&lt;li&gt;Nytt søk knappen fjerner alle andre parametere enn valgt avdeling i navigatoren og åpner søkesiden for tiltak.&lt;/li&gt;
+&lt;li&gt;Utvid søk knappen åpner søkesiden for tiltak med alle parametere listet opp i søkekriterierlisten satt. Denne knappen bruker du hvis du skal jobbe videre med det nåværende søket.&lt;/li&gt;
+&lt;li&gt;Grafer: 2 nedfallsmenyer som kan brukes til å endre innhold eller fokus for søket og vise resultatet under Rapporter.
+&lt;ul&gt;
+&lt;li&gt;Rapporter: Brukes til å velge grafrapporttype.&lt;/li&gt;
+&lt;li&gt;Kategorigrupper: Avhengig av valgt grafrapporttype. For Per avdeling / per kategori og Per kategori/gruppe viser grafen en oversikt for kategorier tilhørende den valgte kategorigruppen. For de andre grafrapporttypene blir kun tiltak med tilkoblede meldinger med avkryssede kategorier av den valgte kategorigruppen tatt med i grafen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Søk: Denne knappen åpner Rapporter med de parametere som er satt i dette bildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bruk av tabellen er forklart i Tiltak.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/activity/tabs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/tabs/</guid>
       <description>
         
         
@@ -334,16 +365,167 @@ Knapper&lt;/p&gt;
 &lt;li&gt;Gjennomføres før: Frist. listen blir borte fra denne siden når fristen utløper.&lt;/li&gt;
 &lt;li&gt;Gjennomført: - for ubesvarte aktiviteter ellers dato for første gang den ble besvart.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;tiltak-arkfane&#34;&gt;Tiltak arkfane&lt;/h1&gt;
+&lt;p&gt;Tiltak er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Book.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Arkiv&lt;/p&gt;
+&lt;p&gt;Viser alle tiltak registrert på den avdelingen som er valgt i navigatoren med den status som er valgt i en av de underliggende arkfanene. Har underliggende arkfaner for alle status et tiltak kan ha i tillegg til en for søk. Ved søk fra Søk for tiltak vises det over resultattabellen en oversikt over de søkekriteriene som er satt for søket.&lt;/p&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil tiltaket åpnes i tiltaksbehandlingsbildet.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om et tiltak, inkludert historikken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvidet visning / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av tiltakene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele tiltaket beregnet til bruk når man vil se en oversikt over hele innholdet i tiltaket.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ for å sortere på en annen kolonne.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre som fil: Gir mulighet til å laste ned og lagre siden som en htmlfil på din maskin lokalt. Filen kan redigeres i alle programmer som kan redigere html, inkludert Word.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument for de aktuelle tiltakene. Denne er beregnet på utskrift til papir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det skjermbildet som vises på skjermen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;p&gt;Arkfanene brukes her til å velge hvilken status man vil se på.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Under planlegging: Tiltak som ikke er satt igang.&lt;/li&gt;
+&lt;li&gt;Under gjennomføring: Tiltak som har fått tilordnet ansvarlig person for gjennomføring og er igangsatt.&lt;/li&gt;
+&lt;li&gt;Under godkjenning: Utførte tiltak som venter på godkjenning.&lt;/li&gt;
+&lt;li&gt;Godkjente tiltak: Godkjente tiltak.&lt;/li&gt;
+&lt;li&gt;Over frist&lt;/li&gt;
+&lt;li&gt;Søk: Avansert søk etter tiltak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;planlegging&#34;&gt;Planlegging&lt;/h1&gt;
+&lt;p&gt;Arkfane under Aktivitetsplan.&lt;/p&gt;
+&lt;p&gt;Planlegging brukes for å planlegge og administrere aktiviteter.&lt;/p&gt;
+&lt;h3 id=&#34;knapper-2&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner-1&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Delplaner&lt;/li&gt;
+&lt;li&gt;Aktiviteter&lt;/li&gt;
+&lt;li&gt;Utfylling og resultater&lt;/li&gt;
+&lt;li&gt;Svar per bruker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s16-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Å opprette en ny aktivitet&lt;/li&gt;
+&lt;li&gt;Å legge til en liste&lt;/li&gt;
+&lt;li&gt;Å bruke de avanserte mulighetene&lt;/li&gt;
+&lt;li&gt;Å sette opp en periodisk aktivitet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/aktivitetsplan.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Arkfaner</title>
-      <link>https://docs3.qmplus.com/docs/shared/admin/tabs/</link>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/admin/tabs/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/</guid>
       <description>
         
         
@@ -397,16 +579,260 @@ Knapper&lt;/p&gt;
 &lt;li&gt;Aktive rollegrupper: De aktive rollegruppene vises i tabellen.&lt;/li&gt;
 &lt;li&gt;Deaktiverte rollegrupper: De deaktiverte rollegruppene vises i tabellen.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;svar-per-bruker&#34;&gt;Svar per bruker&lt;/h1&gt;
+&lt;p&gt;Arkfane under Aktivitetsplan.&lt;/p&gt;
+&lt;p&gt;Svar per bruker viser alle ikke anonyme aktiviteter som den valgte brukeren skal delta i, sortert etter frist (de nyeste aktivitetene er øverst). Siden starter blank, velg bruker i nedfallsmenyen over tabellen for å se aktivitetene til den valgte brukeren. Trykk å en linje i tabellen for å åpne listen som skal fylles ut for denne aktiviteten, om den er ubesvart, eller se brukerens svar om den utfyllt.&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;h3 id=&#34;overskrifter-i-tabellen&#34;&gt;Overskrifter i tabellen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn på aktiviteten: Aktivitetens navn&lt;/li&gt;
+&lt;li&gt;Fullføres før: Frist&lt;/li&gt;
+&lt;li&gt;Gjennomført: Datoen aktiviteten ble besavrt første gang. &amp;ldquo;Ikke registrert&amp;rdquo; hvis aktiviteten er ubesvart.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ansvarskoder&#34;&gt;Ansvarskoder&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_suit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ansvarskoder er en arkfane under Admin.png Admin.&lt;/p&gt;
+&lt;p&gt;Her kan du administrere ansvarskoder. Ansvarskoder kan brukes i dokumenter av typen prosesskart. Bruk av ansvarskoder er en forutsettning for at prosesskartet skal kunne vises som ansvarsmatrise. Ansvarskoder endres i Endre ansvarskode siden.&lt;/p&gt;
+&lt;h3 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny ansvarskode: Åpner Endre ansvarskode for å lage en ny ansvarskode.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Åpner Endre ansvarskode for å endre en ansvarskode.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deaktiverer eller aktiverer ansvarskoden, avhengig av hvilken side man er i. Vises bare når avdelingen hvor ansvarskoden ble opprettet er valgt i Navigatoren.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Sletter ansvarskoden. Kun synlig for deaktiverte ansvarskoder. Vises bare når avdelingen hvor ansvarskoden ble opprettet er valgt i Navigatoren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner-1&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive ansvarskoder: Aktive ansvarskoder vises i tabellen&lt;/li&gt;
+&lt;li&gt;Deaktiverte ansvarskoder: Dektiverte ansvarskoder vises i tabellen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;dokumenter&#34;&gt;Dokumenter&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokumenter er en arkfane under Admin.png Admin&lt;/p&gt;
+&lt;p&gt;Her administreres virksomhetens dokumenter, dokumentgrupper og dokumentarkfaner.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Som superbruker/leder kan jeg legge inn dokumenter – lover, prosedyrer m.m.: Klikk Nytt dokument nederst i bildet.&lt;/li&gt;
+&lt;li&gt;Jeg kan legge opp nye Arkfaner og nye Dokumentgrupper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner-2&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokumenter: Viser dokumenter. Undervalg:
+&lt;ul&gt;
+&lt;li&gt;Publiserte dokumenter. Disse vises i Info.&lt;/li&gt;
+&lt;li&gt;Upubliserte dokumenter. Disse vises ikke i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte publiserte dokumenter. Disse vises ikke i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte upubliserte dokumenter. Disse vises ikke i Info.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dokumentgrupper: Viser dokumentgrupper. Undervalg:
+&lt;ul&gt;
+&lt;li&gt;Dokumentgrupper. Disse vises i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte dokumentgrupper. Disse vises ikke i Info.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dokumentarkfaner: Viser dokumentarkfaner. Undervalg:
+&lt;ul&gt;
+&lt;li&gt;Dokumentarkfaner Disse vises i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte dokumentarkfaner. Disse vises ikke i Info.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;dokumenter-1&#34;&gt;Dokumenter&lt;/h1&gt;
+&lt;p&gt;Her administreres virksomhetens dokumenter, dokumentgrupper og dokumentarkfaner.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Som superbruker/leder kan jeg legge inn dokumenter – lover, prosedyrer m.m.: Klikk Nytt dokument nederst i bildet.&lt;/li&gt;
+&lt;li&gt;Jeg kan legge opp nye Arkfaner og nye Dokumentgrupper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Arkfaner&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokumenter: Viser dokumenter. Undervalg:
+&lt;ul&gt;
+&lt;li&gt;Publiserte dokumenter. Disse vises i Info.&lt;/li&gt;
+&lt;li&gt;Upubliserte dokumenter. Disse vises ikke i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte publiserte dokumenter. Disse vises ikke i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte upubliserte dokumenter. Disse vises ikke i Info.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dokumentgrupper: Viser dokumentgrupper. Undervalg:
+&lt;ul&gt;
+&lt;li&gt;Dokumentgrupper. Disse vises i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte dokumentgrupper. Disse vises ikke i Info.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dokumentarkfaner: Viser dokumentarkfaner. Undervalg:
+&lt;ul&gt;
+&lt;li&gt;Dokumentarkfaner Disse vises i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte dokumentarkfaner. Disse vises ikke i Info.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Arkfaner</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/tabs/</link>
+      <link>https://docs3.qmplus.com/docs/archive/tabs/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/document/tabs/</guid>
+      <guid>https://docs3.qmplus.com/docs/archive/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;kommentarer&#34;&gt;Kommentarer&lt;/h1&gt;
+&lt;p&gt;Kommentarer er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Book.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Arkiv&lt;/p&gt;
+&lt;p&gt;Inneholder alle kommentarmeldinger i systemet. Kommentarmeldinger er meldinger som er registrert som svar kommentar til en liste delt ut i Aktivitetsplan. Ved søk enten fra Rapporter eller Søk for meldinger vises det over resultattabellen en oversikt over de søkekriteriene som er satt for søket.&lt;/p&gt;
+&lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Nedfallsmeny Alle meldinger: Velg et meldingsskjema og kun meldinger registrert med dette meldingsskjemaet vises. Kun meldingsskjemaer brukt til å registrere kommentarmeldinger vises her.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dato søk: Fra dato, Til dato. Kun meldinger registrert i perioden vist her vises i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil meldingen åpnes i behandlingsbildet.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en melding, inkludert historikken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Søk: Oppdaterer tabellen med meldinger basert på de valgte datoene.&lt;/li&gt;
+&lt;li&gt;Tilpass kategorikolonner:&lt;/li&gt;
+&lt;li&gt;Tilpass kolonner: Brukes til å justere hvilke kolonner som vises.
+&lt;ul&gt;
+&lt;li&gt;Siden lastes på nytt etter hver endring.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene påvirker alle arkfanene i Arkiv for meldinger: Meldinger/UH, Logg, Kommentarer.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene varer til du logger ut.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene gjelder også om du eksporterer til PDF som Oversiktstabell.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvidet visning/Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument. Denne er beregnet på utskrift til papir.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ .gif og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+.gif for å sortere på en annen kolonne.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det skjermbildet som vises på skjermen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kommentaroversikt: Alle kommentarmeldinger registrert på den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Søk: Åpner søk for meldinger med skjematype Kommentar forhåndsvalgt.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/</guid>
       <description>
         
         
@@ -428,16 +854,394 @@ Knapper&lt;/p&gt;
 &lt;li&gt;Frist. Tidspunkt for frist for revisjonen.&lt;/li&gt;
 &lt;li&gt;Avsluttet. Tidspunkt for når revisjonen ble avsluttet. Ellers blank.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;versjonsoversikt&#34;&gt;Versjonsoversikt&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Versjonsoversikt: Arkfane under endre data for dokumentet. Brukes til å gi en oversikt over alle versjoner av dokumentet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabell-1&#34;&gt;Tabell&lt;/h3&gt;
+&lt;p&gt;Tabellen har en rad per Versjon (Hovedversjon) dokumentet har vært gjennom.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn: Navn på dokumentet for denne versjonen.&lt;/li&gt;
+&lt;li&gt;Versjon: Versjonsnummer.Endringsnummer. Lag ny versjon når det er gjort større endringer i dokumentet. Må endres manuelt. Endringsnummeret endres for hver lagrede endring i dokumentet.
+&lt;ul&gt;
+&lt;li&gt;Klikk 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ for å vise underversjonene.&lt;/li&gt;
+&lt;li&gt;Den versjonen som er publisert og vises under Info markeres med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_put.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kopier og sett som siste versjon: Klikk på denne for å kopiere denne versjonen og sette den som en ny versjon. Kopierer alt innhold og dokumentdata, inkludert navnet. Viser bare for dokumenter av typen &amp;ldquo;Skriv et dokument&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Adresse: Adressen til dokumentet. Trykk på denne for å åpne dokumentet i valgt versjon.&lt;/li&gt;
+&lt;li&gt;Lagt inn av: Den som lagde denne versjonen.&lt;/li&gt;
+&lt;li&gt;Opprettet: Tidspunktet den aktuelle versjonen ble opprettet.&lt;/li&gt;
+&lt;li&gt;Sist endret av: Brukeren som sist endret dokumentet.&lt;/li&gt;
+&lt;li&gt;Sist endret: Når ble siste endring utført.&lt;/li&gt;
+&lt;li&gt;Sammenlign:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;alternativer-for-dokumenter&#34;&gt;Alternativer for dokumenter&lt;/h1&gt;
+&lt;p&gt;Side for å velge opsjoner for eksport til pdf. Vises når man trykker på Vis som pdf - knappen fra et dokument &amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Inkluder underdokumenter. Forhåndsvalgt.&lt;/li&gt;
+&lt;li&gt;Kun hoveddokumentet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lag rapport: Lager rapporten med de valgte opsjoner. Vær oppmerksom på at du ikke må lukke denne siden før rapporten er ferdig, ellers vil du ikke få rapporten opp. Etter at rapporten åpner, kan du enten lage en ny rapport med andre opsjoner eller lukke denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker Alternativer for dokumenter.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;besvar-høring&#34;&gt;Besvar høring&lt;/h1&gt;
+&lt;p&gt;Besvar høring er en arkfane som vises under Table multiple.png Info når en høring skal besvares. Denne siden kan åpnes fra Innboks for de som skal utføre den og fra endre data for dokumentet under Admin/Dokumenter for brukere med tilgang dit.&lt;/p&gt;
+&lt;p&gt;Denne siden brukes til å besvare en høring. Brukere som gar fått ansvar for å delta i høringen kan besvare den og gi sine kommentarer. Høringens status kan endres av den som har fått tildelt ansvaret for å godkjenne den.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokument: Lenke som åpner selve dokumentet. Nummer og versjon for dokumentet høringen er tilknyttet.&lt;/li&gt;
+&lt;li&gt;Ansvarlig for godkjenning av dokumentet: Den som skal godkjenne høringen og kan endre status på den.&lt;/li&gt;
+&lt;li&gt;Status: Status. Kan ha verdiene Ute på høring, Til godkjenning og godkjent.&lt;/li&gt;
+&lt;li&gt;Høringsnummer: Løpenummer for alle høringer i systemet.&lt;/li&gt;
+&lt;li&gt;Opprettet: Opprettelsestidspunkt.&lt;/li&gt;
+&lt;li&gt;Ansvarlig for høringen: Den som har opprettet høringen.&lt;/li&gt;
+&lt;li&gt;Høringsfrist.&lt;/li&gt;
+&lt;li&gt;Mitt svar til høringen: brukes av de som skal delta i høringen for å gi tilbakemelding på dokumentet.&lt;/li&gt;
+&lt;li&gt;Høringens status: brukes av den som er ansvarlig for godkjenning til å endre status på høringen.&lt;/li&gt;
+&lt;li&gt;Kommentar: Tekstfelt som kan brukes av alle med tilgang til høringen.&lt;/li&gt;
+&lt;li&gt;Mitt svar: Meny for å velge hvem som skal motta beskjeden skrevet i fletet Kommentar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringer du har gjordt i bildet. Dersom du har skrevet en kommentar blir den sendt på den måten du har valgt i Mitt svar.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker dette bildet og tar deg tilbake dit du var.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabeller&#34;&gt;Tabeller&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deltakere i høringen: Oversikt over de som skal besvare høringen, hva de har svart og når de sist endret svaret sitt.&lt;/li&gt;
+&lt;li&gt;Kommentarer til høringen: Alle kommentarer laget til høringen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;dokumentgrupper&#34;&gt;Dokumentgrupper&lt;/h1&gt;
+&lt;p&gt;Arkfane under dokumenter&lt;/p&gt;
+&lt;p&gt;Her administreres virksomhetens dokumentgrupper.&lt;/p&gt;
+&lt;p&gt;Deaktiverte dokumentgrupper vises ikke i Info og kan ikke tilordnes dokumenter. Dokumenter tilhørende deaktiverte dokumentgrupper vises ikke under Info.&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Avdelingsvalg: Tabellen viser enten alle dokumentgrupper lagt inn i avdelingen som er valgt i navigatoren eller dokumentgrupper lagt inn i avdelinger fra og med avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper-2&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ny dokumentgruppe: Åpner endre dokumentgruppe skjermbildet for å lage en ny dokumentgruppe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Åpner endre dokumentgruppe skjermbildet for å endre en eksisterende dokumentgruppe.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deaktiverer eller aktiverer dokumentgruppen avhengig av om man man står i Aktive dokumentgrupper eller Deaktiverte dokumentgrupper.&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Arkfaner</title>
-      <link>https://docs3.qmplus.com/docs/shared/message/tabs/</link>
+      <link>https://docs3.qmplus.com/docs/employee/tabs/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/message/tabs/</guid>
+      <guid>https://docs3.qmplus.com/docs/employee/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;mine-saker-arkfane-medarbeider&#34;&gt;Mine saker arkfane medarbeider&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Mine saker er en arkfane på Hovedsiden for medarbeider&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Messages_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Meldinger: Registrer ny melding og oversikt over dine registrerte meldinger.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Actions_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tiltak: Tiltak du skal utføre og oversikt over utførte tiltak. Ikke med i standardversjonen&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Questionnaires_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Spørreskjemaer: Sjekklister, Risikoanalyser og Spørreskjemaer du skal fylle ut.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tiltak-arkfane-medarbeider&#34;&gt;Tiltak arkfane medarbeider&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Actions_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tiltak er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/My-cases_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Mine saker for medarbeider.&lt;/p&gt;
+&lt;p&gt;Brukes til å utføre og følge opp tiltak.n&lt;/p&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil tiltaket åpnes.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over H symbolet i andre kolonne for å få opp historikken til et tiltak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner-1&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiltak jeg må gjennomføre: Viser oversikt over ikke utførte tiltak.&lt;/li&gt;
+&lt;li&gt;Tiltak til godkjennelse: Viser oversikt over utførte tiltak som venter på godkjennelse.&lt;/li&gt;
+&lt;li&gt;Tiltak som er godkjent: Viser oversikt over utførte tiltak som er godkjent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s8-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Forskjellen på fargene på meldingene&lt;/li&gt;
+&lt;li&gt;Obligatoriske kategorier&lt;/li&gt;
+&lt;li&gt;Følge opp saker jeg har vært involvert i&lt;/li&gt;
+&lt;li&gt;Tilføye informasjon og endringer på saker jeg har vært engasjert i&lt;/li&gt;
+&lt;li&gt;sjekke hva som er blitt gjort med saker jeg har vært engasjert i&lt;/li&gt;
+&lt;li&gt;Hvem kan se saker jeg har meldt inn&lt;/li&gt;
+&lt;li&gt;Tilltaksbehandling&lt;/li&gt;
+&lt;li&gt;Godkjenne tiltak og utføre tiltak&lt;/li&gt;
+&lt;li&gt;Fylle ut spørreskjema og legge til kommentarer&lt;/li&gt;
+&lt;li&gt;Finne frem til lover, prossedyrer, rapporter m.m.&lt;/li&gt;
+&lt;li&gt;Dine innstillinger: Endre brukernavn, passord m.m.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/medarbeider.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/info/tabs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/info/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;styrende-dokumenter&#34;&gt;Styrende dokumenter&lt;/h1&gt;
+&lt;p&gt;Styrende dokumenter er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Info&lt;/p&gt;
+&lt;p&gt;Brukes i standardversjonen til å vise dokumenter. Kan endres/fjernes av virksomhetens superbruker.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/list/tabs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/list/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;spørreskjemaer-arkfane-medarbeider&#34;&gt;Spørreskjemaer arkfane medarbeider&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Questionnaires_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Spørreskjemaer er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/My-cases_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Mine saker for medarbeider
+Knapper&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;p&gt;I standardversjonen vises kun lister som skal fylles ut. Derfor vises ikke arkfanene der.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive aktiviteter: Aktiviteter som skal utføres. Som regel betyr det å fylle ut en liste.&lt;/li&gt;
+&lt;li&gt;Aktivitetsrapport: Oversikt over utførte aktiviteter. Ikke med i standardversjonen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;svaralternativgrupper&#34;&gt;Svaralternativgrupper&lt;/h1&gt;
+&lt;p&gt;Arkfane under spørreskjemaer&lt;/p&gt;
+&lt;p&gt;Her administreres virksomhetens svaralternativgrupper og svaralternativgruppeoversikter.&lt;/p&gt;
+&lt;h3 id=&#34;funksjoner&#34;&gt;Funksjoner&lt;/h3&gt;
+&lt;h4 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Velg svaralternativgruppeoversikt. Svaralternativgruppene i den valgte oversikten blir da vist i tabellen under.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ny svaralternativgruppeoversikt: Tar deg til Ny svaralternativgruppeoversikt skjermbildet for å lage en ny svaralternativgruppeoversikt.&lt;/li&gt;
+&lt;li&gt;Endre svaralternativgruppeoversikt: Tar deg til endre svaralternativgruppeoversikt skjermbildet for å endre den valgte svaralternativgruppeoversikten.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny svaralternativgruppe: Oppretter en ny svaralternativgruppe og tar deg til endre svaralternativgruppe skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Copy.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Kopierer den valgte svaralternativgruppen slik at man kan jobbe videre med grupper som er i bruk. Dette ikonet kommer kun opp dersom svaralternativgruppen det gjelder er brukt i et besvart spørreskjema.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Endre.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre svaralternativgruppe skjermbildet for å endre svaralternativgruppen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom svaralternativgruppen det gjelder ikke er brukt i et besvart spørreskjema.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktiverer/Deaktiverer - avhengig av valgt arkfane svaralternativgruppen som linjen det ble trykket på tilhører. Deaktiverte svaralternativgrupper kan ikke velges i endre svaralternativer skjermbildet men påvirker ikke lister som er i bruk.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter svaralternativgruppen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom svaralternativgruppen det gjelder ikke er brukt i et besvart spørreskjema.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;arkfaner-1&#34;&gt;Arkfaner&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive lister: Viser de aktive spørreskjemaene tilgjenglig i den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Deaktiverte lister: Viser de deaktiverte spørreskjemaene tilgjenglig i den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Aktive svaralternativgrupper: Viser de aktive svaralternativgruppene i systemet.&lt;/li&gt;
+&lt;li&gt;Deaktiverte svaralternativgrupper: Viser de deaktiverte svaralternativgruppene i systemet.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/</guid>
       <description>
         
         
@@ -450,16 +1254,159 @@ Knapper&lt;/p&gt;
  Regler undermeny meldingsskjema er en arkfane under endre meldingsskjema.&lt;/p&gt;
 &lt;p&gt;Denne siden brukes for å få en oversikt over hvilke regler som er tilknytte dette meldingsskjemaet.&lt;/p&gt;
 &lt;p&gt;En melding registrert med et meldingsskjema uten saksbehandlere følger normal saksgang og blir vist i Innboks/Mine saker for nærmeste leder. Dette er i de fleste tilfeller den beste løsningen.&lt;/p&gt;
+&lt;h1 id=&#34;dialog&#34;&gt;Dialog&lt;/h1&gt;
+&lt;p&gt;Dialog er en arkfane for å sende tilbakemeldinger til den som er ansvarlig for å behandle meldingen.
+Felter&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Status: Meldingens status og hvem som er ansvarlig for den vises øverst i siden.&lt;/li&gt;
+&lt;li&gt;Tilbakemelding til saksbehandler: Her kan en tekst skrives inn og sendes på e-post. Tekster som sendes slik blir også registret på saken og vil følge den. Den vil vises i dette bildet i tabellen nedenfor.&lt;/li&gt;
+&lt;li&gt;Send epost til: Velg den som skal motta meldingen. Listen er sortert etter avdeling og inneholder:
+&lt;ul&gt;
+&lt;li&gt;Nærmeste leder(e) vises alltid.&lt;/li&gt;
+&lt;li&gt;Aktuell saksbehandler for den valgte meldingen, dersom en behandler er satt.&lt;/li&gt;
+&lt;li&gt;Enhver som har sendt en melding til den påloggede brukeren om den aktuelle saken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tabell som viser tidligere kommunikasjon om denne saken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;hahahugoshortcode-s1-hbhb-gps-koordinater-er-en-arkfane-under-endre-meldingsskjema&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Map.png&#34;  width=&#34;&#34; /&gt;
+
+
+ GPS-koordinater er en arkfane under endre meldingsskjema.&lt;/h1&gt;
+&lt;p&gt;Meldinger registrert gjennom den mobile applikasjonen sender GPS-koordinatene til beliggenhet av den mobile enheten på tidspunktet for registrering. Bruk denne siden til å avgjøre om disse koordinatene vil vises i meldingsbehandlingsiden og i pdf-rapporter. Flere alternativer vil dukke opp på denne siden snart.&lt;/p&gt;
+&lt;h1 id=&#34;roller-undermeny-meldingsskjema&#34;&gt;Roller undermeny meldingsskjema&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Roller undermeny meldingsskjema er en arkfane under endre meldingsskjema.&lt;/p&gt;
+&lt;p&gt;Denne siden brukes når man ønsker å lage restriksjoner for registrering av nye meldinger eller for å se eksisterende meldinger. For å legge på en restriksjon, krysser man av for ønsket rolle, under ønsket restriksjonstype. Det er to avkryssingsmuligheter per rolle, en per restriksjonstype. Det kontrolleres i begge tilfeller om brukeren har denne rollen i sin brukertype eller på sin bruker. Dersom det krysses av for flere roller, så holder det at man har en av dem for å oppfylle kravet. Meldingsskjemaer uten roller har ingen ekstra restriksjoner og kan brukes som normalt.&lt;/p&gt;
+&lt;h3 id=&#34;restriksjonstyper&#34;&gt;Restriksjonstyper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ny melding. Skjuler knappen for å registrere nye meldinger med dette meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;Se meldinger og grafer. Skjuler meldinger registrert med dette meldingsskjemaet i Rapporter, Innboks og Arkiv.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;sendt-til-saksbehandler&#34;&gt;Sendt til saksbehandler&lt;/h1&gt;
+&lt;p&gt;Arkfane under Meldinger/UH&lt;/p&gt;
+&lt;p&gt;Sendt til saksbehandler viser alle meldinger som er overført til en ansvarlig person. Dette brukes til å finne igjen meldinger man har sendt avgårde slik at de ikke lenger tilgjengelig på egen avdeling. Hvilke meldinger som vises i tabellen nedenfor avgjøres av valgene i nedfallsmenyene. Kun meldinger registrert de siste 3 måneder vises i dette bildet. For eldre meldinger benytt Rapporter eller søk.&lt;/p&gt;
+&lt;h3 id=&#34;funksjoner&#34;&gt;Funksjoner&lt;/h3&gt;
+&lt;h4 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Alle meldinger: Velg et meldingsskjema og kun meldinger med opprinnelse i et slikt meldingsskjema vises.&lt;/li&gt;
+&lt;li&gt;Meldingstype:
+&lt;ul&gt;
+&lt;li&gt;Fra saksbehandler på denne avdelingen: Viser meldinger sendt fra en bruker på den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Fra meg: Viser meldinger sendt av den påloggede brukeren.&lt;/li&gt;
+&lt;li&gt;Til saksbehandler på denne avdelingen: Viser meldinger som har fått tilordnet en ansvarlig person fra den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Registrert på denne avdelingen: Viser meldinger som opprinnelig er registrert på den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Status: Kun meldinger med den valgte status vises i tabellen.
+&lt;ul&gt;
+&lt;li&gt;Alle status: Alle meldinger vises.&lt;/li&gt;
+&lt;li&gt;Meldingsprosess: Kun meldinger med status Ny eller Sendt til saksbehandler vises.&lt;/li&gt;
+&lt;li&gt;Tiltaksprosess: Kun meldinger tilkoblet et tiltak som ikke er godkjent vises.&lt;/li&gt;
+&lt;li&gt;Avvist: Kun avviste meldinger vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil meldingen åpnes i behandlingsbildet.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en melding inkludert historikken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvidet visning / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+Table.png Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument. Denne er beregnet på utskrift til papir.&lt;/li&gt;
+&lt;li&gt;Sideskift: Pilene 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ brukes til å skifte side når det er mer enn 20 meldinger som kan vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ for å sortere på en annen kolonne.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det skjermbildet som vises på skjermen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;skjemadata&#34;&gt;Skjemadata&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skjemadata er en arkfane under endre meldingsskjema.&lt;/p&gt;
+&lt;p&gt;Denne siden brukes for å administrere meldingsskjemadataene.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Tekstfeltene i et meldingsskjema som skjemanavn og tekst til knapp kan lagres en gang per språk som er aktivisert i systemet.&lt;/li&gt;
+&lt;li&gt;Skjemanavn: Identifiserer meldingsskjemaet i tabeller og oversikter.&lt;/li&gt;
+&lt;li&gt;Tekst til knapp: Identifiserer meldingsskjemaet på knappen eller i nedfallsmenyen i Innboks og Arkiv.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Meldingsskjemaet er tilgjengelig fra og med denne avdelingen.&lt;/li&gt;
+&lt;li&gt;Skjematype: Meldingsskjemaets type. Enten melding, log eller risiko. Vises kun dersom meldingstypene log eller risiko er aktivisert.&lt;/li&gt;
+&lt;li&gt;Anonym: Alle meldinger som blir registrert anonymt vil inneholde nn istedenfor navnet på brukeren som registrerte den. Et meldingsskjema kan være:
+&lt;ul&gt;
+&lt;li&gt;Ikke anonymt, standard (Anonym: Nei).&lt;/li&gt;
+&lt;li&gt;Anonymt (Anonym: Ja).&lt;/li&gt;
+&lt;li&gt;Ha avkryssningsboks for anonymitet som starter ikke avkrysset (Anonym: Brukervalgt, standard nei).&lt;/li&gt;
+&lt;li&gt;Ha avkryssningsboks for anonymitet som starter avkrysset (Anonym: Brukervalgt, standard ja).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Informasjon: Tekst som vises når pekeren holdes over knappen eller i nedfallsmenyen i Innboks og Arkiv. Denne teksten vises også øverst i meldingsskjemaet når meldingen registreres i endre meldingskjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Arkfaner</title>
-      <link>https://docs3.qmplus.com/docs/shared/report/tabs/</link>
+      <link>https://docs3.qmplus.com/docs/report/tabs/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/report/tabs/</guid>
+      <guid>https://docs3.qmplus.com/docs/report/tabs/</guid>
       <description>
         
         
@@ -467,16 +1414,99 @@ Knapper&lt;/p&gt;
 &lt;p&gt;Risiko er en arkfane under Rapporter.&lt;/p&gt;
 &lt;p&gt;Her vises grafer for risikomeldinger.&lt;/p&gt;
 &lt;p&gt;Denne arkfanen vises bare dersom risikomeldinger er aktivert.&lt;/p&gt;
+&lt;h1 id=&#34;tiltaksrapporter&#34;&gt;Tiltaksrapporter&lt;/h1&gt;
+&lt;p&gt;Tiltaksrapporter er en arkfane under Rapporter.&lt;/p&gt;
+&lt;p&gt;Denne siden har tre rapporttyper. Tid per tiltak og Timeliste for tiltak vises kun dersom opsjonen for Tidsregistrering på tiltak er aktivert. I alle de tre rapportene, kan man trykke på tiltakenes navn eller nummer for å åpne det aktuelle tiltaket.&lt;/p&gt;
+&lt;h3 id=&#34;tiltaksmatrise&#34;&gt;Tiltaksmatrise&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapport som viser status for alle åpne tiltak.&lt;/li&gt;
+&lt;li&gt;Fargekodene for status vises over tabellen.&lt;/li&gt;
+&lt;li&gt;Trykk på navnet på et tiltak for å åpne det.&lt;/li&gt;
+&lt;li&gt;Brukt sammen med opsjonen for starttid felt for tiltak, kan denne oversikten brukes til å vise planlagte tiltak.&lt;/li&gt;
+&lt;li&gt;Oversikten starter 3 dager før dagens dato og tar med de neste 26 dagene.&lt;/li&gt;
+&lt;li&gt;Overgangen fra dagens dato til datoen for dagen etter markeres med en svart vertikal linje.&lt;/li&gt;
+&lt;li&gt;Matrisen er sortert etter tiltakenes startdato, hvis denne er satt. Hvis ikke, brukes datoen tiltakene ble registrert.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tid-per-tiltak&#34;&gt;Tid per tiltak&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapporten viser hvor mye tid som er registrert på tiltak i den valgte tidsperioden.&lt;/li&gt;
+&lt;li&gt;Tiltak uten registrert tid er ikke med i rapporten.&lt;/li&gt;
+&lt;li&gt;Rapporten tar med alle tiltak registrert fra og med valgt avdeling i navigatoren.&lt;/li&gt;
+&lt;li&gt;Viser per bruker og total.&lt;/li&gt;
+&lt;li&gt;Tiltakene er sortert etter tiltaksnummer.&lt;/li&gt;
+&lt;li&gt;Vises kun når opsjonen for tidsregistrering for tiltak er på.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;timeliste-for-tiltak&#34;&gt;Timeliste for tiltak&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapporten viser hvor mye tid for valgt periode som er registret på tiltak per bruker per dag.&lt;/li&gt;
+&lt;li&gt;Oppsummering per dag per bruker og for alle brukere.&lt;/li&gt;
+&lt;li&gt;Vises kun når opsjonen for tidsregistrering for tiltak er på.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;søk-grafer&#34;&gt;Søk grafer&lt;/h1&gt;
+&lt;p&gt;Søk er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Icon_graph2.png&#34;  width=&#34;&#34; /&gt;
+
+
+Rapporter.&lt;/p&gt;
+&lt;p&gt;Åpner søkesiden for meldinger eller søkesiden for tiltak avhengig av hvilken arkfane man var i.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/user/tabs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/user/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;brukertyper&#34;&gt;Brukertyper&lt;/h1&gt;
+&lt;p&gt;Brukertyper er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Brukere&lt;/p&gt;
+&lt;p&gt;Her administreres virksomhetens brukertyper. Bare brukere med Systemrollen Systemrolleadministrator eller Brukeradministrator kan se arkfanen.&lt;/p&gt;
+&lt;p&gt;Man må ha Systemrollen Systemrolleadministrator for å kunne gjøre endringer.&lt;/p&gt;
+&lt;p&gt;Alle tabelloverskriftene kan brukes til å sortere tabellen.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny brukertype: Åpner endre brukertype med mulighet for å lage en ny brukertype.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre brukertype skjermbildet for å endre den brukertypen som linjen det ble trykket på tilhører.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter denne brukertypen. Kun tilgjengelig dersom brukertypen ikke er tilordnet noen brukere.&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Arkiv</title>
-      <link>https://docs3.qmplus.com/docs/shared/user/archive/</link>
+      <link>https://docs3.qmplus.com/docs/user/archive/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/user/archive/</guid>
+      <guid>https://docs3.qmplus.com/docs/user/archive/</guid>
       <description>
         
         
@@ -602,10 +1632,10 @@ Knapper&lt;/p&gt;
     
     <item>
       <title>Docs: Avdelingens saker</title>
-      <link>https://docs3.qmplus.com/docs/shared/message/department_cases/</link>
+      <link>https://docs3.qmplus.com/docs/message/department_cases/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/message/department_cases/</guid>
+      <guid>https://docs3.qmplus.com/docs/message/department_cases/</guid>
       <description>
         
         
@@ -782,10 +1812,10 @@ g. Trykk på
     
     <item>
       <title>Docs: Behandling</title>
-      <link>https://docs3.qmplus.com/docs/shared/message/process/</link>
+      <link>https://docs3.qmplus.com/docs/message/process/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/message/process/</guid>
+      <guid>https://docs3.qmplus.com/docs/message/process/</guid>
       <description>
         
         
@@ -1012,11 +2042,72 @@ g. Trykk på
     </item>
     
     <item>
-      <title>Docs: Bruker</title>
-      <link>https://docs3.qmplus.com/docs/shared/user/user/</link>
+      <title>Docs: Besvar høring</title>
+      <link>https://docs3.qmplus.com/docs/document/hearing_info/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/user/user/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/hearing_info/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden kan åpnes fra Innboks for de som skal utføre den og fra endre data for dokumentet under Admin/Dokumenter for brukere med tilgang dit.&lt;/p&gt;
+&lt;p&gt;Denne siden brukes til å besvare en høring. Brukere som gar fått ansvar for å delta i høringen kan besvare den og gi sine kommentarer. Høringens status kan endres av den som har fått tildelt ansvaret for å godkjenne den.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokument: Lenke som åpner selve dokumentet. Nummer og versjon for dokumentet høringen er tilknyttet.&lt;/li&gt;
+&lt;li&gt;Ansvarlig for godkjenning av dokumentet: Den som skal godkjenne høringen og kan endre status på den.&lt;/li&gt;
+&lt;li&gt;Status: Status. Kan ha verdiene Ute på høring, Til godkjenning og godkjent.&lt;/li&gt;
+&lt;li&gt;Høringsnummer: Løpenummer for alle høringer i systemet.&lt;/li&gt;
+&lt;li&gt;Opprettet: Opprettelsestidspunkt.&lt;/li&gt;
+&lt;li&gt;Ansvarlig for høringen: Den som har opprettet høringen.&lt;/li&gt;
+&lt;li&gt;Høringsfrist.&lt;/li&gt;
+&lt;li&gt;Mitt svar til høringen: brukes av de som skal delta i høringen for å gi tilbakemelding på dokumentet.&lt;/li&gt;
+&lt;li&gt;Høringens status: brukes av den som er ansvarlig for godkjenning til å endre status på høringen.&lt;/li&gt;
+&lt;li&gt;Kommentar: Tekstfelt som kan brukes av alle med tilgang til høringen.&lt;/li&gt;
+&lt;li&gt;Mitt svar: Meny for å velge hvem som skal motta beskjeden skrevet i fletet Kommentar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringer du har gjordt i bildet. Dersom du har skrevet en kommentar blir den sendt på den måten du har valgt i Mitt svar.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker dette bildet og tar deg tilbake dit du var.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabeller&#34;&gt;Tabeller&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deltakere i høringen: Oversikt over de som skal besvare høringen, hva de har svart og når de sist endret svaret sitt.&lt;/li&gt;
+&lt;li&gt;Kommentarer til høringen: Alle kommentarer laget til høringen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Bruker</title>
+      <link>https://docs3.qmplus.com/docs/user/user/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/user/user/</guid>
       <description>
         
         
@@ -1065,11 +2156,81 @@ g. Trykk på
     </item>
     
     <item>
-      <title>Docs: Brukerrapporter</title>
-      <link>https://docs3.qmplus.com/docs/shared/user/user_report/</link>
+      <title>Docs: Brukere som har svart på elementet</title>
+      <link>https://docs3.qmplus.com/docs/activity/user_answered_elements/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/user/user_report/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/user_answered_elements/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;overskrifter&#34;&gt;Overskrifter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hovedoverskriften forteller hvilken eller hvilke aktiviteter det blir vist data for i tabellen nedenfor.&lt;/li&gt;
+&lt;li&gt;Underoverskriften Brukere som har svart på elementet forteller hvilket spørsmål i listen det blir vist data for i tabellen nedenfor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis tiltak / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis brukere: Skifter mellom å vise tiltak laget for det aktuelle spørsmålet og brukere som har krysset av / besvart dette spørsmålet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Planlegg nytt tiltak: Lager et nytt tiltak for det punktet i listen som er beskrevet av overskriftene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Skriver ut den aktive siden som .pdf fil.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Sender deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabell&#34;&gt;Tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn: Navn på brukeren.&lt;/li&gt;
+&lt;li&gt;Type: Brukertype.&lt;/li&gt;
+&lt;li&gt;Avdeling: Avdelingen svaret er registrert på.&lt;/li&gt;
+&lt;li&gt;Dato registrert: Dato for når besvarelsen først ble registrert.&lt;/li&gt;
+&lt;li&gt;Endre Folder.png: Åpner brukerens besvarte liste.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Brukerrapporter</title>
+      <link>https://docs3.qmplus.com/docs/user/user_report/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/user/user_report/</guid>
       <description>
         
         
@@ -1134,10 +2295,10 @@ g. Trykk på
     
     <item>
       <title>Docs: Brukertype</title>
-      <link>https://docs3.qmplus.com/docs/shared/user/user_type/</link>
+      <link>https://docs3.qmplus.com/docs/user/user_type/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/user/user_type/</guid>
+      <guid>https://docs3.qmplus.com/docs/user/user_type/</guid>
       <description>
         
         
@@ -1156,204 +2317,11 @@ g. Trykk på
     </item>
     
     <item>
-      <title>Docs: Definisjoner</title>
-      <link>https://docs3.qmplus.com/docs/shared/definitions/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/definitions/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;arkfane&#34;&gt;Arkfane&lt;/h1&gt;
-&lt;p&gt;Navigasjonsstrukturen i Qm+ er bygd opp av arkfaner.&lt;/p&gt;
-&lt;p&gt;De har et navn som beskriver det stedet i systemet man kommer til hvis man trykker på den. De fleste har også en beskrivende tekst som kommer opp når man holder musepekeren i ro over den.&lt;/p&gt;
-&lt;p&gt;Arkfanene beskriver også hvor i systemet man er. De arkfanene som er mørkere enn de andre er valgt.&lt;/p&gt;
-&lt;p&gt;Eksempel :&lt;/p&gt;
-
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Arkfanebeskrivelse.png&#34;  width=&#34;&#34; /&gt;
-
-
-
-&lt;p&gt;Her står vi i Arkiv / Meldinger/UH / Nye saker.&lt;/p&gt;
-&lt;h1 id=&#34;sak&#34;&gt;Sak&lt;/h1&gt;
-&lt;p&gt;En sak i Qm+ er enten en melding, et tiltak, en høring eller en revisjon.&lt;/p&gt;
-&lt;h1 id=&#34;risikomelding&#34;&gt;Risikomelding&lt;/h1&gt;
-&lt;p&gt;Risikomeldinger er meldinger som brukes for å lage en risikooversikt for virksomheten. Det er opp til virksomheten om risikomeldingene skal behandles eller om de kun skal registreres og lagres i arkivet. Vår anbefaling er at de ikke behandles, kun oppdateres årlig. Risikomeldinger kan bare lukkes av QmPlus AS (som et unntak), siden de normalt ikke skal behandles. Meldinger registrert her dukker ikke opp i Innboks med mindre man bruker behandling for å aktivere dem. Meldingstypen risikomelding er ikke aktivert i standardversjonen.&lt;/p&gt;
-&lt;h1 id=&#34;sjekkliste&#34;&gt;Sjekkliste&lt;/h1&gt;
-&lt;p&gt;En sjekkliste er en liste som blir vist med avkryssningsfelt forran spørsmålet. For å kunne redigere svaralternativer må listetypen spørreskjema benyttes. En sjekkliste er tenkt brukt som en &amp;ldquo;finn feilen liste&amp;rdquo;. Dvs list opp en rekke vanlige feil innenfor det området som skal undersøkes. Brukerne krysser så av for punktet i listen dersom de kjenner til feilen. Se liste for forklaring på datafeltene.&lt;/p&gt;
-&lt;h1 id=&#34;standard-saksbehandler&#34;&gt;Standard saksbehandler&lt;/h1&gt;
-&lt;p&gt;Hvis et meldingsskjema har satt en standard saksbehandler vil meldinger registrert med dette meldingsskjemaet dukke opp i Saker jeg er ansvarlig for siden til standard saksbehandleren i stedenfor til lederen på avdelingen der meldingen ble registrert. Meldingen vil fremdeles være registrert på avdelingen den ble registrert og vises der i rapporter og søk.&lt;/p&gt;
-&lt;p&gt;Dersom samme meldingsskjema er satt opp med flere standard saksbehandlere med overlappende avdelinger vil melderen kunne velge mellom disse i en nedfallsmeny når meldingen registreres. I registreringsbildet er det også et avkryssningsfelt for om det skal sendes epost til den valgte saksbehandleren når meldingen registreres.&lt;/p&gt;
-&lt;h1 id=&#34;superbruker&#34;&gt;Superbruker&lt;/h1&gt;
-&lt;p&gt;Superbrukeren er en bruker som har bestått superbrukerkurset for Qm+. Superbrukeren har virksomhetens høyeste tilgang til Qm+. Dette betyr tilgang som brukertypen leder uten begrensende roller og ofte noen ekstra systemroller.&lt;/p&gt;
-&lt;p&gt;Superbrukeren skal bistå de andre brukerne i virksomheten og fungere som lokal brukerstøtte for Qm+.&lt;/p&gt;
-&lt;p&gt;Alle superbrukere har rett på gratis telefonsupport fra Qm+ og kan benytte seg av denne dersom han mottar spørsmål fra sin virksomhets brukere han trenger hjelp til å besvare. En eller fler av virksomhetens superbrukere fungerer som regel også som kontaktperson for virksomheten mot QmPlus AS.&lt;/p&gt;
-&lt;p&gt;Alle ønsker om endret funksjonalitet i systemet må formidles via kundens kontaktperson slik at vi vet at ønsket har støtte i hele virksomheten.&lt;/p&gt;
-&lt;h1 id=&#34;svaralternativgruppe&#34;&gt;Svaralternativgruppe&lt;/h1&gt;
-&lt;p&gt;En samling med svaralternativ som kan kobles til spørsmål i et spørreskjema. Vedlikeholdes i svaralternativgrupper.&lt;/p&gt;
-&lt;p&gt;En svaralternativgruppen sorterer under en bestemt svaralternativgruppeoversikt. Dette brukes kun til å skille svaralternativgrupper fra hverandre i endre svaralternativer og svaralternativgrupper.&lt;/p&gt;
-&lt;h1 id=&#34;svartype&#34;&gt;Svartype&lt;/h1&gt;
-&lt;p&gt;Hvert spørsmål i en liste kan ha en svartype.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Svartypene:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Enkeltvalg: En avkryssningen til hvert spørsmål. Er det først krysset av for et spørsmål må spørsmålet besvares. Dette er standardvalget som blir brukt dersom det ikke foretas en endring.&lt;/li&gt;
-&lt;li&gt;Flervalg: Ingen til alle svaralternativene til hvert spørsmål kan krysses av.&lt;/li&gt;
-&lt;li&gt;Tekst: Det blir ikke vist noen avkryssningsboks for dette spørsmålet, kun kommentarfelt. Fungerer ikke for listeversjon.&lt;/li&gt;
-&lt;li&gt;Fritekst tall: Et tall kan skrives inn som svar på dette spørsmålet. Grafen vil vise summen av alle tallene skrevet inn til et slikt spørsmål.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Tips: Bruk svartype Flervalg for spørsmål med kun ett svaralternativ, slik som i en sjekkliste. Ellers vil det ikke være mulig å ta vekk avkryssingen om man skulle ombestemme seg.&lt;/p&gt;
-&lt;h1 id=&#34;søkekriterie&#34;&gt;Søkekriterie&lt;/h1&gt;
-&lt;p&gt;Søkekriterie er det som er søkt etter når man gjør et søk.&lt;/p&gt;
-&lt;p&gt;Vises som en tabell over søkeresultatet etter et utført søk. Søk kan startes fra Rapporter, Søk meldinger, Søk tiltak eller ved å trykke på risikomatrisen i Risiko. Alle søkeresultater vises i tabellform i Arkiv eller som grafer under Rapporter under sin tilhørende Arkfane.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Alle data vist i nedfallsmenyer kan endres. Slike endringer medfører at søket oppdaterer seg.&lt;/li&gt;
-&lt;li&gt;Data etterfulgt av 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- kan fjernes fra søkekriteriene. Det medfører at søket oppdaterer seg.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;tiltaksprosessen&#34;&gt;Tiltaksprosessen&lt;/h1&gt;
-&lt;p&gt;Tiltaksprosessen er prosessen fra et tiltak opprettes til det blir godkjent og lukket.&lt;/p&gt;
-&lt;p&gt;Følges opp gjennom tiltaksbehandling.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Under planlegging: Alle tiltak starter med denne statusen. I denne fasen skal tiltaket planlegges. Gi først tiltaket et navn slik at det blir lett å identifisere senere, og fyll inn kostnadsrammen dersom dere bruker dette feltet. Tekstfeltene Korrigerende tiltak og Hvordan hindre gjentakelse må fylles ut slik at de som skal gjennomføre tiltaket skjønner hva de skal gjøre. Tiltakskategoriene kan også fylles ut nå. Siste punkt er å plukke ut de som skal utføre tiltaket og gi dem en frist. Dette gjøres i det obligatoriske Oversikt over ansvarlige feltet. Trykk så på Send til gjennomføring &amp;raquo; eller &amp;raquo; knappen i statusfeltet for å lagre tiltaket og skifte status til Under gjennomføring.&lt;/li&gt;
-&lt;li&gt;Under gjennomføring: I denne fasen skal jobben som beskrives i tiltaket gjennomføres. Deretter skal det krysses av for utført av de som utført tiltaket. Det kan også skrives en kommentar i kommentarfeltet og den faktisk kostnaden kan fylles hvis den er tilgjengelig. Når alle avkryssninger er gjordt, brukes knappen Send til godkjenning eller &amp;raquo; knappen i statusfeltet. Dette lagrer tiltaket og endrer status til Under godkjenning.&lt;/li&gt;
-&lt;li&gt;Under godkjenning: Her skal den som opprette tiltaket kontrollere at alt er i orden før tiltaket godkjennes.&lt;/li&gt;
-&lt;li&gt;Godkjent: Et godkjent tiltak er lukket og låst og kan ikke endres annet enn av brukere med systemrollen innholdsadministrator. Kommentarer til alle involverte brukere kan fortsatt sendes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;visningsform&#34;&gt;Visningsform&lt;/h1&gt;
-&lt;p&gt;Styrer hvordan listen blir vist.&lt;/p&gt;
-&lt;p&gt;Mulige visningsformer: Papirversjon, listeversjon (eller listeform), Vis som enkeltspørsmål.&lt;/p&gt;
-&lt;h1 id=&#34;definerende-kategori&#34;&gt;Definerende kategori&lt;/h1&gt;
-&lt;p&gt;En definerende kategori er den kategorien som beskriver hva meldingen dreier seg om. Det er obligatorisk å krysse av for en definerende kategori for at et meldingsskjema skal kunne lagres. En definerende kategori defineres ved at den tilhører en kategorigruppe med kategorigruppetypen definerende. I et meldingsskjema blir definerende kategorier markert med ikonet Tag blue.png og de er alltid enkeltvalg. Kun en definerende kategori kan være avkrysset per melding. Dersom det er flere kategorigrupper av typen definerende kategori, kan kun en av dem være avkrysset.&lt;/p&gt;
-&lt;h1 id=&#34;delplan&#34;&gt;Delplan&lt;/h1&gt;
-&lt;p&gt;Aktiviteter organiseres i delplaner.&lt;/p&gt;
-&lt;p&gt;Denne organiseringen har ingen betydning i systemet utover det å gjøre det enklere å finne frem til aktiviteter når det bli mange av dem. I Kalender under Aktivitetsplan blir aktivitetene vist per delplan&lt;/p&gt;
-&lt;h1 id=&#34;mobilversjonen&#34;&gt;Mobilversjonen&lt;/h1&gt;
-&lt;p&gt;Mobilversjonen av Qm+ er et eget grensesnitt tilpasset visning på mobile enheter. Tilpassningen gjøres ved at det kun sendes over det aller nødvendigste av informasjon og alt vises som korte tekster. Det er mulig å registrere både meldinger, sjekklister og spørreskjemaer i denne versjonen. All informasjon registrert er er synlig i den vanlige Qm+ versjonen på samme måte som ellers.&lt;/p&gt;
-&lt;p&gt;Startsiden for mobilversjonen er wap.qmplus.net. Pålogging skjer ved bruk av samme virksomhet, brukernavn og passord som ved vanlig pålogging.&lt;/p&gt;
-&lt;p&gt;Mobilversjonen er en ekstramodul som må bestilles spesielt.&lt;/p&gt;
-&lt;h1 id=&#34;endre-dato&#34;&gt;Endre dato&lt;/h1&gt;
-&lt;p&gt;Endre dato er en funksjon for å endre enkeltdatoer for periodiske aktiviteter.&lt;/p&gt;
-&lt;p&gt;Tilgjengelig fra aktiviteter.&lt;/p&gt;
-&lt;h5 id=&#34;felter&#34;&gt;Felter&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Fra: Tidspunktet aktiviteten starter.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Til: Aktiviteten avsluttes.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;knapper&#34;&gt;Knapper&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre: Lagrer endringene utført i feltene.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Tar deg tilbake til siden du kom fra.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;prioritet&#34;&gt;Prioritet&lt;/h1&gt;
-&lt;p&gt;Meldinger i Qm+ kan ha ulik prioritet.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lav: Markeres med grønt.&lt;/li&gt;
-&lt;li&gt;Middels: Markeres med gult.&lt;/li&gt;
-&lt;li&gt;Høy: Markeres med rødt.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Et tiltak får samme prioritet som den meldingen med høyest prioritet den har tilkoblet.&lt;/p&gt;
-&lt;h1 id=&#34;kategori&#34;&gt;Kategori&lt;/h1&gt;
-&lt;p&gt;En kategori er i de fleste tilfeller et avkryssningspunkt i et meldingsskjema. Alle kategorier er med i en kategorigruppe. Kategorigruppetypen til kategorigruppen bestemmer hvordan kategorien blir vist i meldingsskjemaet. All informasjon som blir lagt inn i forhold til en kategori i et meldingsskjema kan hentes ut som en rapport via Rapporter. Kategoriene kan også brukes til å finne frem til grupper av bestemte meldinger via søksidene for meldinger og tiltak.&lt;/p&gt;
-&lt;p&gt;Vedlikeholdes under endre kategori.&lt;/p&gt;
-&lt;h4 id=&#34;data&#34;&gt;Data&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Vis for språket: Brukes for å velge språket navnet på Kategorigruppen skal redigeres for. Vises bare for kunder som har flere aktive språk.&lt;/li&gt;
-&lt;li&gt;Kategorigruppe: Kategoriens gruppe.&lt;/li&gt;
-&lt;li&gt;Kategorinavn: Navnet som blir brukt til å representere kategorien. En kategori kan ha et navn per aktive språk i systemet.&lt;/li&gt;
-&lt;li&gt;Prioritet: Lav, Middels, Høy. Den forhåndsdefinerte prioriteten til en kategori. Kan overstyres av den som fyller ut et meldingsskjema. En meldings prioritet blir den høyeste prioriteten til de avkryssede kategoriene med mindre den blir overstyrt av brukeren.&lt;/li&gt;
-&lt;li&gt;Kostnad: Den forhåndsdefinerte kostnaden for en kategori. Kan overstyres av den som fyller ut et meldingsskjema. En meldings kostnad blir summen av kostnadene til de avkryssede kategoriene, med mindre den overstyres av brukeren. Kostnadsfunksjonaliteten kan fjernes for de som ønsker det.&lt;/li&gt;
-&lt;li&gt;Fra avdeling: Avdelingen kategorien er tilgjengelig fra.&lt;/li&gt;
-&lt;li&gt;Tilknyttet dokument: Et dokument som vil aktiveres dersom man trykker på kategorien i meldingsskjemaet.&lt;/li&gt;
-&lt;li&gt;Informasjon: Tekstfelt som blir synlig når man holder pekeren over kategorien i meldingsskjemaet.&lt;/li&gt;
-&lt;li&gt;Risikodata: Vises kun for kategorier som tilhører en kategorigruppe med Kategorigruppetypen risiko. Brukes for å sette ulike akseptansekriterier for ulike risikokategorier.
-&lt;ul&gt;
-&lt;li&gt;Start gult risikoområde: Oversikter for denne kategorien vil gi gul risikoverdi fra og med denne risikoverdien.&lt;/li&gt;
-&lt;li&gt;Start rødt risikoområde: Oversikter for denne kategorien vil gi rød risikoverdi fra og med denne risikoverdien.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;kategorigruppetype&#34;&gt;Kategorigruppetype&lt;/h1&gt;
-&lt;p&gt;Kategorigruppetypen til en kategorigruppe bestemmer hvordan kategoriene i gruppen vises og besvares i et meldingsskjema.&lt;/p&gt;
-&lt;h4 id=&#34;typer&#34;&gt;Typer&lt;/h4&gt;
-&lt;h5 id=&#34;definerende-kategori-1&#34;&gt;Definerende kategori&lt;/h5&gt;
-&lt;p&gt;Er ment til å beskrive hva som er temaet for en melding. Enkeltvalg for hele meldingsskjemaet. Dersom det er flere definerende grupper i et meldingsskjema, vil det kun være mulig å krysse av for en kategori i en av gruppene. Et meldingsskjema kan bare lagres dersom en kategori som tilhører en definerende kategorigruppe er krysset av. Definerende kategorier er de eneste som i utgangspunktet er obligatoriske å fylle ut i et meldingsskjema. Definerende kategorier vises som standard øverst til venstre med en oransj bakgrunnsfarge og er markert med ikonet Tag blue.png.&lt;/p&gt;
-&lt;h5 id=&#34;enkeltvalg&#34;&gt;Enkeltvalg&lt;/h5&gt;
-&lt;p&gt;Brukes for å gi utfyllende informasjon i et meldingsskjema. Enkeltvalg per gruppe. Vises til venstre under de definerende kategoriene.&lt;/p&gt;
-&lt;h5 id=&#34;flervalg&#34;&gt;Flervalg&lt;/h5&gt;
-&lt;p&gt;Brukes for å gi utfyllende informasjon i et meldingsskjema. Vilkårlig mange kan krysses av. Vises til høyre.&lt;/p&gt;
-&lt;h5 id=&#34;tiltak&#34;&gt;Tiltak&lt;/h5&gt;
-&lt;p&gt;Brukes for å gi utfyllende informasjon om hva slags tiltak som bør brukes for å ta seg av forholdene meldingen dreier seg om. Vilkårlig mange kan krysses av. Kategorier i denne gruppen blir tatt med videre i tiltaket dersom det lages et tiltak for en melding. Vises sentralt under tekstfeltene i meldingsskjemaet.&lt;/p&gt;
-&lt;h5 id=&#34;tall&#34;&gt;Tall&lt;/h5&gt;
-&lt;p&gt;Gir et tekstfelt der et vilkårlig tall kan skrives inn. Velges en gruppe av denne typen under Rapporter vil kostnadsgrafen være byttet ut med en graf som viser summen av verdiene i disse feltene. Vises til høyre i meldingsskjemaet.&lt;/p&gt;
-&lt;h5 id=&#34;risiko&#34;&gt;Risiko&lt;/h5&gt;
-&lt;p&gt;Hver kategori av denne typen får to nedfallsmenyer der en verdi fra 1 til 5 kan velges. Den første symboliserer sannsynligheten for at hendelsen vil intreffe den andre konsekvensen. Disse verdiene blir automatisk multiplisert til en risikoverdi. Risikoverdien får en farge basert på grenseverdiene som er satt for kategorien. Meldinger med verdier &amp;gt; 0 for en risikokategori kommer opp i risikorapporten under Rapporter. Vises sentralt i meldingsskjemaet under tiltakskategoriene.&lt;/p&gt;
-&lt;h1 id=&#34;kommentarmelding&#34;&gt;Kommentarmelding&lt;/h1&gt;
-&lt;p&gt;Kommentarmeldinger er meldinger som er registrert som svar på en liste delt ut via Aktivitetsplan. Kommentarmeldinger er registrert i et vanlig meldingsskjema. Bare det første tekstfeltet i melsdingsskjemaet som er koblet sammen med listen vises som kommentarfelt inne i listen.&lt;/p&gt;
-&lt;p&gt;Kommentarmeldinger kan behandles som andre meldinger. I standardversjonen vises ikke kommentarmeldinger under Innboks med mindre noen overfører dem til en saksbehandler, har gitt dem en frist eller laget et tiltak til dem.&lt;/p&gt;
-&lt;p&gt;Kommentarer til aktiviteten i Aktivitetsplan brukes for å få en oversikt over alle kommentarmeldinger for en aktivitet.&lt;/p&gt;
-&lt;p&gt;For en oversikt over alle kommentarmeldinger kan Kommentarer under Rapporter eller Kommentarer under Arkiv brukes.&lt;/p&gt;
-&lt;h1 id=&#34;listeversjon&#34;&gt;Listeversjon&lt;/h1&gt;
-&lt;p&gt;Visningsform for lister. Brukes fortrinnsvis til sjekklister og risikoanalyser. Viser alle spørsmålene i en liste. Kommentarmuligheten kommer opp på side to etter at Lagre er trykket på.&lt;/p&gt;
-&lt;p&gt;Alle lister som vises når man er pålogget Qm+ på vanlig måte, dvs ikke pålogget via link i e-post direkte til listen bruker listeversjonen.&lt;/p&gt;
-&lt;h1 id=&#34;loggmelding&#34;&gt;Loggmelding&lt;/h1&gt;
-&lt;p&gt;Loggmeldinger er meldinger som normalt ikke behøver å behandles, kun registreres og lagt i arkivet. Eksempler på slik bruk kan være: referater og dokumentasjon av rett utførelse. Loggmeldinger vises derfor ikke under Innboks med mindre man bruker behandling for å aktivere dem. I Rapporter vises de i en egen arkfane. Meldingsskjemaer for å fylle ut loggmeldinger vises med grønn knapp i Innboks, istedet for den vanlige gule for vanlige meldinger.&lt;/p&gt;
-&lt;p&gt;Meldingstypen loggmelding er ikke aktivert i standardversjonen.&lt;/p&gt;
-&lt;p&gt;Loggmeldinger er på alle andre måter identiske med vanlige meldinger.&lt;/p&gt;
-&lt;h1 id=&#34;medarbeider&#34;&gt;Medarbeider&lt;/h1&gt;
-&lt;p&gt;Brukertype i standardversjonen som gir brukeren et enkelt skjermbilde der kun brukerens egne saker kan endres.&lt;/p&gt;
-&lt;h1 id=&#34;meldingstype&#34;&gt;Meldingstype&lt;/h1&gt;
-&lt;p&gt;Alle meldinger har en meldingstype. En melding får den meldingstype meldingsskjemaet den ble registrert med har.&lt;/p&gt;
-&lt;h4 id=&#34;de-ulike-meldingstypene&#34;&gt;De ulike meldingstypene&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Melding: Vanlige meldinger.&lt;/li&gt;
-&lt;li&gt;Loggmelding: Registreres under Logg under Arkiv. Ikke med i standardversjonen.&lt;/li&gt;
-&lt;li&gt;Risikomelding: Registreres under Risiko under Arkiv. Ikke med i standardversjonen.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Dersom hverken loggmeldinger eller risikomeldinger er aktivert i ditt system vil ikke betegnelsen meldingstype bli brukt der.&lt;/p&gt;
-&lt;h1 id=&#34;periodisk-aktivitet&#34;&gt;Periodisk aktivitet&lt;/h1&gt;
-&lt;p&gt;En periodisk aktivitet brukes når du vil planlegge en periodisk utførelse av en aktivitet fremmover i tid. Perioden er hvor hyppig aktiviteten skal utføres for eksempel daglig, ukentlig, årlig.&lt;/p&gt;
-&lt;p&gt;Perioden og de individuelle datoene vedlikeholdes i Oppsett av periodisk aktivitet og de andre [[aktivitet|aktivitetsdatane] i endre aktivitet. Individuelle datoer for en periodisk aktivitet kan slettes i aktiviteter.&lt;/p&gt;
-&lt;h1 id=&#34;rolle&#34;&gt;Rolle&lt;/h1&gt;
-&lt;p&gt;En rolle kan kobles mot brukere, brukertyper, avdelinger, aktiviteter, meldingsskjemaer og dokumenter. De gir rettigheter og restriksjoner. Generelt kan man si at en bruker, brukerens brukertype eller brukerens avdeling må ha den samme rollen som en aktivitet, meldingsskjema eller dokument for å ha tilgang til denne. Vanlige roller kan lages av kundens superbruker.&lt;/p&gt;
-&lt;p&gt;Roller sorteres i rollegrupper og vedlikeholdes i endre rolle.&lt;/p&gt;
-&lt;p&gt;En spesiell type roller kalles systemrolle de gir utvidede rettigheter til bruk av Qm+. Systemrollene lages av QmPlus AS men kan tilordnes av enkelte superbrukere. Dette er avansert funksjonalitet og er som regel ikke slått på ved oppstart for nye kunder. Ta kontakt med &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; ved behov for denne rettigheten eller spørsmål.&lt;/p&gt;
-&lt;h4 id=&#34;data-1&#34;&gt;Data&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Navn: En rolle kan ha et navn per språk som er aktivert i systemet.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Delplan</title>
-      <link>https://docs3.qmplus.com/docs/shared/activity/partial_plan/</link>
+      <link>https://docs3.qmplus.com/docs/activity/partial_plan/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/activity/partial_plan/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/partial_plan/</guid>
       <description>
         
         
@@ -1409,10 +2377,10 @@ g. Trykk på
     
     <item>
       <title>Docs: Dokument</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/document/</link>
+      <link>https://docs3.qmplus.com/docs/document/document/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/document/document/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/document/</guid>
       <description>
         
         
@@ -1547,10 +2515,10 @@ g. Trykk på
     
     <item>
       <title>Docs: Dokumentarkfaner</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/document_tabs/</link>
+      <link>https://docs3.qmplus.com/docs/document/document_tabs/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/document/document_tabs/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/document_tabs/</guid>
       <description>
         
         
@@ -1587,16 +2555,30 @@ g. Trykk på
 : Brukes for å åpne en dokumentarkfane man ikke har endringsrettigheter til. Man har endringsrettigheter til de dokumentarkfanene som er laget på avdelingen valgt i navigatoren og underliggende avdelinger av denne.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Hver dokumentarkfane gir en arkfane under Info.&lt;/p&gt;
+&lt;p&gt;Vedlikeholdes i Endre dokumentarkfane.&lt;/p&gt;
+&lt;p&gt;Dokumenter tilordnes til dokumentarkfaner i endre data for dokumentet.&lt;/p&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Navnet på en dokumentarkfane kan registreres en gang per språk som er aktivisert i systemet.&lt;/li&gt;
+&lt;li&gt;Navn: Brukes til å identifisere dokumentarkfanen i tabeller og oversikter. En dokumentarkfane kan ha et navn for hvert språk som er aktivisert.&lt;/li&gt;
+&lt;li&gt;Posisjon: Dokumentarkfanes posisjon i Info.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Dokumentarkfanen vil vises i Info fra og med den valgte avdelingen.&lt;/li&gt;
+&lt;li&gt;Vises for underavdelinger: Hvis nei, vil Dokumentarkfanen kun vises i Info når avdelingen valgt i fra avdeling er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Arkfane under: Brukes dersom denne arkfanen skal være en underarkfane, danne et nytt nivå arkfaner, under arkfanen som velges her. Arkfaner med underliggende arkfaner bør ikke selv ha egne dokumenter.&lt;/li&gt;
+&lt;li&gt;Informasjon: Tekst som vises når man holder pekeren over arkfanen.&lt;/li&gt;
+&lt;li&gt;Roller: En dokumentarkfane med roller vil kun vises dersom brukeren som åpner Info eller avdelingen som er valgt har minst en av rollene arkfanen har.&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
     
     <item>
       <title>Docs: Dokumentdata</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/document_data/</link>
+      <link>https://docs3.qmplus.com/docs/document/document_data/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/document/document_data/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/document_data/</guid>
       <description>
         
         
@@ -1728,10 +2710,10 @@ g. Trykk på
     
     <item>
       <title>Docs: Dokumenter undermeny</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/document_submenu/</link>
+      <link>https://docs3.qmplus.com/docs/document/document_submenu/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/document/document_submenu/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/document_submenu/</guid>
       <description>
         
         
@@ -1925,10 +2907,10 @@ Date.png: Gir informasjon om siste Lest og forstått aktivitet for dokumentet.&l
     
     <item>
       <title>Docs: Dokumenter undermeny meldingsskjema</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/document_submenu_form/</link>
+      <link>https://docs3.qmplus.com/docs/document/document_submenu_form/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/document/document_submenu_form/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/document_submenu_form/</guid>
       <description>
         
         
@@ -1954,10 +2936,10 @@ Legg dokumenter til skjemaet&lt;/p&gt;
     
     <item>
       <title>Docs: Dokumentgrupper</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/document_groups/</link>
+      <link>https://docs3.qmplus.com/docs/document/document_groups/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/document/document_groups/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/document_groups/</guid>
       <description>
         
         
@@ -1996,10 +2978,10 @@ Legg dokumenter til skjemaet&lt;/p&gt;
     
     <item>
       <title>Docs: Dokumentinnhold</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/document_content/</link>
+      <link>https://docs3.qmplus.com/docs/document/document_content/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/document/document_content/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/document_content/</guid>
       <description>
         
         
@@ -2074,10 +3056,10 @@ Legg dokumenter til skjemaet&lt;/p&gt;
     
     <item>
       <title>Docs: Eksporter til fellesbiblioteket</title>
-      <link>https://docs3.qmplus.com/docs/shared/admin/export_to_shared_library/</link>
+      <link>https://docs3.qmplus.com/docs/admin/export_to_shared_library/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/admin/export_to_shared_library/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/export_to_shared_library/</guid>
       <description>
         
         
@@ -2118,10 +3100,10 @@ Legg dokumenter til skjemaet&lt;/p&gt;
     
     <item>
       <title>Docs: Endre aktivitet</title>
-      <link>https://docs3.qmplus.com/docs/shared/activity/change_activity/</link>
+      <link>https://docs3.qmplus.com/docs/activity/change_activity/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/activity/change_activity/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/change_activity/</guid>
       <description>
         
         
@@ -2271,10 +3253,10 @@ Antall besvarelser før resultatet vises: Vises kun for anonyme aktiviteter: Lis
     
     <item>
       <title>Docs: Endre bruker</title>
-      <link>https://docs3.qmplus.com/docs/shared/admin/change_user/</link>
+      <link>https://docs3.qmplus.com/docs/admin/change_user/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/admin/change_user/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/change_user/</guid>
       <description>
         
         
@@ -2429,10 +3411,10 @@ Avdelingen brukeren tilhører.&lt;/p&gt;
     
     <item>
       <title>Docs: Endre bruker</title>
-      <link>https://docs3.qmplus.com/docs/shared/user/edit_user/</link>
+      <link>https://docs3.qmplus.com/docs/user/edit_user/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/user/edit_user/</guid>
+      <guid>https://docs3.qmplus.com/docs/user/edit_user/</guid>
       <description>
         
         
@@ -2551,10 +3533,10 @@ Felter&lt;/p&gt;
     
     <item>
       <title>Docs: Endre brukertype</title>
-      <link>https://docs3.qmplus.com/docs/shared/user/change_usertype/</link>
+      <link>https://docs3.qmplus.com/docs/user/change_usertype/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/user/change_usertype/</guid>
+      <guid>https://docs3.qmplus.com/docs/user/change_usertype/</guid>
       <description>
         
         
@@ -2603,10 +3585,118 @@ Felter&lt;/p&gt;
     
     <item>
       <title>Docs: Endre data for dokumentet</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/change_link/</link>
+      <link>https://docs3.qmplus.com/docs/document/change_document_data/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/document/change_link/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/change_document_data/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Som superbruker/leder kan jeg legge inn nye dokumenter.&lt;/li&gt;
+&lt;li&gt;Jeg kan velge om dokumentet skal hentes fra egen database: Klikk &amp;ldquo;Link&amp;rdquo;, eller fra en fil: Klikk &amp;ldquo;Fil&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Eller jeg kan skrivet dokumentet i redigeringsmodulen. Klikk arkfanen &amp;ldquo;Dokumentinnhold&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokumentdata: Brukes til å redigere dokumentdata. Dette er første siden som vises når man lager et nytt dokument.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokumentinnhold: Vises bare dersom dokumenttypen &amp;ldquo;Skriv et dokument&amp;rdquo; er valgt. Brukes dersom man ønsker å skrive et dokument rett inn i Qm+. Dokumentet blir lagret som et htmldokument og har en del formateringsmuligheter. Tekstredigeringsfeltet benytter TinyMCE.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Prosesskartoppsett: Vises bare dersom dokumenttypen &amp;ldquo;Prosesskart&amp;rdquo; er valgt og dokumentet er lagret minst en gang. Brukes for å definere de ulike feltene i et prosesskart.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Rolleoversikt: Brukes til å tilknytte roller.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Versjonsoversikt: Viser oversikt over alle versjoner, med dokumentet på det gjeldende tidspunkt, når det ble endret og hvem som utførte endringen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Telephone_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Høring / Godkjenning: Brukes for å opprette nye høringer, bestemme hvem som skal delta og godkjenne.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lest og forstått: Viser oversikt med status for alle Lest og forstått aktiviteter dokumentet har hatt.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_code.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Revisjonsoversikt : Viser oversikt over alle revisjoner dokumentet har vært gjennom.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Image_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Referanseoversikt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc_multiple.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Opprett ny versjon: Lager en ny versjon for dokumentet.
+&lt;ul&gt;
+&lt;li&gt;Eksempel: Et dokument i versjon 3.14 vil ved å bruke denne knappen få versjon 4.1.&lt;/li&gt;
+&lt;li&gt;Er ment brukt før det skal gjøres større endringer i dokumentet.&lt;/li&gt;
+&lt;li&gt;Vises kun for dokumenter som er lagret minst en gang.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre data for dokumentet</title>
+      <link>https://docs3.qmplus.com/docs/document/change_link/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/change_link/</guid>
       <description>
         
         
@@ -2723,10 +3813,10 @@ Folder_link.png Versjonsoversikt: Viser oversikt over alle versjoner, med dokume
     
     <item>
       <title>Docs: Endre dokumentarkfane</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/change_document_tab/</link>
+      <link>https://docs3.qmplus.com/docs/document/change_document_tab/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/document/change_document_tab/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/change_document_tab/</guid>
       <description>
         
         
@@ -2787,11 +3877,56 @@ Folder_link.png Versjonsoversikt: Viser oversikt over alle versjoner, med dokume
     </item>
     
     <item>
-      <title>Docs: Endre kategori</title>
-      <link>https://docs3.qmplus.com/docs/shared/message/change_category/</link>
+      <title>Docs: Endre dokumentgruppe</title>
+      <link>https://docs3.qmplus.com/docs/document/change_document_group/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/message/change_category/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/change_document_group/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Navnet på en dokumentgruppe kan registreres en gang per språk som er aktivisert i systemet.&lt;/li&gt;
+&lt;li&gt;Navn: Navn på dokumentgruppen.&lt;/li&gt;
+&lt;li&gt;Kolonne: Ikke spesifisert (Standard), Venstre kolonne, Høyre kolonne. Hvis venstre eller høyre kolonne er satt, vil gruppen alltid vises der under Info.&lt;/li&gt;
+&lt;li&gt;Posisjon: dokumentgruppens posisjon i Info. I Standardversjonen vises det to dokumentgrupper ved siden av hverandre. De neste to vises under disse igjen til alle dokumentgruppene er vist.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Dokumentgruppen vil vises i Info fra og med den valgte avdelingen.&lt;/li&gt;
+&lt;li&gt;Vises for underavdelinger: Hvis nei, vil dokumentgruppen kun vises i Info når avdelingen valgt i fra avdeling er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Starter lukket under Info: Nei (standard), Ja. En gruppe som starter lukket må trykkes på med musen for at dokumentene i den skal bli synlige.&lt;/li&gt;
+&lt;li&gt;Bakgrunnsfarge: Hvis man ønsker en spesiell bakgrunnsfarge for dokumentgruppen, kan den velges her.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Color_wheel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Velg farge: Åpner en oversikt over farger man kan velge fra.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre kategori</title>
+      <link>https://docs3.qmplus.com/docs/message/change_category/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/change_category/</guid>
       <description>
         
         
@@ -2873,10 +4008,10 @@ Folder_link.png Versjonsoversikt: Viser oversikt over alle versjoner, med dokume
     
     <item>
       <title>Docs: Endre kategoriavhengighet</title>
-      <link>https://docs3.qmplus.com/docs/shared/admin/change_category_dependency/</link>
+      <link>https://docs3.qmplus.com/docs/admin/change_category_dependency/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/admin/change_category_dependency/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/change_category_dependency/</guid>
       <description>
         
         
@@ -2955,11 +4090,65 @@ Folder_link.png Versjonsoversikt: Viser oversikt over alle versjoner, med dokume
     </item>
     
     <item>
-      <title>Docs: Endre listeinformasjon</title>
-      <link>https://docs3.qmplus.com/docs/shared/list/change_list/</link>
+      <title>Docs: Endre kategorigruppe</title>
+      <link>https://docs3.qmplus.com/docs/admin/change_category_group/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/list/change_list/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/change_category_group/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her vedlikeholdes data om kategorigrupper.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Brukes for å velge språket navnet på Kategorigruppen skal redigeres for. Vises bare for kunder som har flere aktive språk.&lt;/li&gt;
+&lt;li&gt;Kategorigruppetype: Kategorigruppens Kategorigruppetype. Bestemmer hvordan kategorier i denne kategorigruppen vil se ut i et meldingsskjema. En beskrivende tekst nederst i dette skjermbildet beskriver den valgte kategorigruppetypen.&lt;/li&gt;
+&lt;li&gt;Kategorinavn: Navnet som blir brukt til å representere kategorigruppen. En kategorigruppe kan ha et navn per aktive språk i systemet.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Kategorigruppen er tilgjengelig fra og med den valgte avdelingen.&lt;/li&gt;
+&lt;li&gt;Informasjon: Tekst som vises når man holder pekeren over kategorigruppenavnet i meldingsskjemaet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;avanserte-muligheter&#34;&gt;Avanserte muligheter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Klassifisering: Standard eller Oppgaver.&lt;/li&gt;
+&lt;li&gt;Undergruppe av: Skal kategorigruppen være en undergruppe av en annen kategorigruppe.&lt;/li&gt;
+&lt;li&gt;Vises for underavdelinger?: Settes til nei dersom denne kategorigruppen kun skal være tilgjengelig i avdelingen valgt over.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern avanserte muligheter: Viser eller fjerner de avanserte mulighetene.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre listeinformasjon</title>
+      <link>https://docs3.qmplus.com/docs/list/change_list/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/list/change_list/</guid>
       <description>
         
         
@@ -3050,11 +4239,125 @@ Fjern avanserte muligheter. Viser og fjerner de avanserte mulighetene.&lt;/li&gt
     </item>
     
     <item>
-      <title>Docs: Endre melding</title>
-      <link>https://docs3.qmplus.com/docs/shared/message/change_message/</link>
+      <title>Docs: Endre listeinnhold</title>
+      <link>https://docs3.qmplus.com/docs/list/change_list_content/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/message/change_message/</guid>
+      <guid>https://docs3.qmplus.com/docs/list/change_list_content/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Viser en liste over alle temaer og spørsmål som finnes i listen. Temaer har mørk gulaktig bakgrunn, spørsmål lys gulaktig og det valgte elementet rød. Trykk på teksten til et tema eller spørsmål for å velge det.&lt;/p&gt;
+&lt;p&gt;Dersom listen har vært besvart vil det ikke være mulig å gjøre andre endringer enn på sorteringen. Ta en kopi av listen om den skal endres.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jeg kan lage spørsmålene i et spørreskjema. Anbefaling: Del opp spørsmålene i temaer. Klikk på ikoner for &amp;ldquo;Nytt tema&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Jeg kan lage spørsmål under hvert tema. Klikk på ikoner for &amp;ldquo;Legg til spørsmål&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Jeg kan eventuelt forklare bakgrunnen for spørsmålet. Klikk på ikonet Gul blyant, og skriv teksten i tekstfeltet som åpner seg.&lt;/li&gt;
+&lt;li&gt;Jeg kan velge svaralternativer. Klikk på knappen: &amp;ldquo;Endre svaralternativer&amp;rdquo;. Da vil nytt skjermbilde vise seg.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallmeny&#34;&gt;Nedfallmeny&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Språk: Alle tekstfelter i en liste kan legges inn en gang per språk som er aktivisert. Ved utfylling vil listen bli vist for brukeren på det språket han har valgt. Dersom listen ikke er laget for det språket, vil den bli vist på det språket den er laget på.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_gear.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Endre listeinformasjon. Tar deg til endre listeinformasjon skjermbildet for å endre informasjon om den sjekklisten som linjen det ble trykket på tilhører.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_key.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Endre svaralternativer. Tar deg til endre svaralternativer skjermbildet for å endre innholdet i listen som linjen det ble trykket på tilhører. Det er kun mulig å endre svaralternativer i spørreskjemaer som er lagt opp på den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Forhåndsvisning. Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform og som liste av enkeltspørsmål slik den ser ut når den skal fylles ut.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker endre listeinnhold og returnerer til siden man kom fra - sjekklister, risikoanalyser eller spørreskjemaer.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Bekreft: Lagre endring.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Avbryt: Kanseler endring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Nytt tema: Åpner tekstfelt der et nytt tema med kommentar kan skrives inn. Temaet legges under det man trykket på ikonet til.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til spørsmål: Åpner et tekstfelt der et nytt spørsmål med kommentar kan skrives inn. Det nye spørsmålet plasseres under det valgte spørsmålet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Pencil.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Endre: Åpner et tekstfelt for redigerering av et valgt tema eller spørsmål og tekstfelt der en tekstlig kommentar til et valgt tema eller spørsmål kan skrives inn. Denne kommentaren vil vises når listen skal fylles ut.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slett tema: Når et tema slettes blir også alle spørsmål i dette temaet slettet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slette: Sletter et valgt spørsmål.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrow_down.png&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrow_up.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Pilene flytter temaer og spørsmål ett hakk i pilens rettning.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre melding</title>
+      <link>https://docs3.qmplus.com/docs/message/change_message/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/change_message/</guid>
       <description>
         
         
@@ -3194,10 +4497,10 @@ Fjern avanserte muligheter. Viser og fjerner de avanserte mulighetene.&lt;/li&gt
     
     <item>
       <title>Docs: Endre meldingsskjema</title>
-      <link>https://docs3.qmplus.com/docs/shared/message/change_form/</link>
+      <link>https://docs3.qmplus.com/docs/message/change_form/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/message/change_form/</guid>
+      <guid>https://docs3.qmplus.com/docs/message/change_form/</guid>
       <description>
         
         
@@ -3297,10 +4600,10 @@ Page.png Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man
     
     <item>
       <title>Docs: Endre rolle</title>
-      <link>https://docs3.qmplus.com/docs/shared/admin/change_role/</link>
+      <link>https://docs3.qmplus.com/docs/admin/change_role/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/admin/change_role/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/change_role/</guid>
       <description>
         
         
@@ -3356,10 +4659,10 @@ Page.png Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man
     
     <item>
       <title>Docs: Endre rollegruppe</title>
-      <link>https://docs3.qmplus.com/docs/shared/admin/change_role_groups/</link>
+      <link>https://docs3.qmplus.com/docs/admin/change_role_groups/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/shared/admin/change_role_groups/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/change_role_groups/</guid>
       <description>
         
         
@@ -3377,821 +4680,6 @@ Page.png Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man
 &lt;li&gt;Fjern &amp;raquo;: Fjerner markerte roller i venstre felt fra denne rollegruppen.&lt;/li&gt;
 &lt;li&gt;Lagre: Lagrer navneendringen.&lt;/li&gt;
 &lt;li&gt;Lukk: Returnerer deg til dit du kom fra.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Endre svaralternativer</title>
-      <link>https://docs3.qmplus.com/docs/shared/list/change_answer_alternatives/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/list/change_answer_alternatives/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Endre svaralternativer brukes til å sette svaralternativer og visningskriterier for spørsmålene i et spørreskjemaer.&lt;/p&gt;
-&lt;h3 id=&#34;infopng-hva-kan-jeg-gjøre-her&#34;&gt;Info.png Hva kan jeg gjøre her?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Jeg kan legge inn svarkategorier i spørreskjemaet. Klikk i nedfallsmenyen Svaralternativer og velg et alternativ.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hvis svaralternativet du ønsker ikke er i nedfallsmenyen: Klikk på &amp;ldquo;Ny svaralternativgruppe&amp;rdquo;. Ditt nye forslag finner du nederst i gruppen.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Jeg kan velge om svaralternativet bare skal være fritekst, flervalg eller enkeltvalg. Klikk i Sortering/Svartype.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;nedfallsmeny&#34;&gt;Nedfallsmeny&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Standard svaralternativgruppe for denne listen: Nedfallsmeny som setter den svaralternativgruppen som skal brukes i denne listen. Den tilhørende Velgknappen gjør at listen nedenfor blir oppdatert med valget gjordt her. Merk at alle endringer av svaralternativer du allerede har gjordt i denne listen vil bli overskrevet når du gjør dette.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;listetabell&#34;&gt;Listetabell&lt;/h3&gt;
-&lt;p&gt;Tabellen viser alle spørsmålene i listen og brukes til å tilordnesvaralternativgrupper til hvert enkelt spørsmål. Visningskriterier kan også settes for alle spørsmål.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
-
-
- / 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Asterisk_orange.png&#34;  width=&#34;&#34; /&gt;
-
-
-: Åpner undermenyen for å redigere visningskriterier for det aktuelle spørsmålet. 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
-
-
- betyr at spørsmålet ikke har et visningskriterie og vil da alltid bli vist. 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Asterisk_orange.png&#34;  width=&#34;&#34; /&gt;
-
-
- betyr at spørsmålet har et visningskriterie og at det da kun vil bli vist for brukeren som svarer på listen når visningskriteriet er oppfyllt.&lt;/li&gt;
-&lt;li&gt;Gruppe/Elementnavn: Mørke rader viser grupper, lyse spørsmål.&lt;/li&gt;
-&lt;li&gt;Sortering/Svartype: Sorteringen gjelder for alle spørsmål i en gruppe, svartype for hvert spørsmål.&lt;/li&gt;
-&lt;li&gt;Svaralternativgruppe: Svaralternativgruppen som skal gjelde for det aktuelle spørsmålet. Dersom svaralternativgruppe endres for en gruppe og Lagreknappen brukes, vil alle spørsmål i den gruppen få tilordnet denne svaralternativgruppen.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;svaralternativer&#34;&gt;Svaralternativer&lt;/h3&gt;
-&lt;p&gt;Dette er samme tabell som du finner under Svaralternativgrupper.&lt;/p&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_gear.png&#34;  width=&#34;&#34; /&gt;
-
-
- Endre listeinformasjon. Tar deg til endre listeinformasjon skjermbildet for å endre informasjon om den sjekklisten som linjen det ble trykket på tilhører.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
- Endre listeinnhold. Tar deg til endre listeinnhold skjermbildet for å endre spørsmålene i den sjekklisten som linjen det ble trykket på tilhører.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
-
-
- Forhåndsvisning. Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform og som liste av enkeltspørsmål slik den ser ut når den skal fylles ut.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Lukker endre listeinnhold og returnerer til siden man kom fra - sjekklister, risikoanalyser eller spørreskjemaer.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Endre svaralternativgruppe</title>
-      <link>https://docs3.qmplus.com/docs/shared/list/change_answer_group_alternatives/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/list/change_answer_group_alternatives/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Brukes til å redigere svaralternativgrupper.&lt;/p&gt;
-&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Språk: Svaralternativene i en svaralternativgruppe kan legges inn en gang for hvert språk som er aktivert i systemet.&lt;/li&gt;
-&lt;li&gt;Svaralternativgruppeoversikt: Hver svaralternativgruppe tilhører en Svaralternativgruppeoversikt. Her kan du velge hvilken.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
-
-
- Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
-
-
- Hjelp: Viser denne siden.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Nytt svaralternativ: Åpner et tekstfelt der navnet på et nytt svaralternativ kan skrives inn.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Slett svaralternativ: Vises kun når et svaralternativ er valgt.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre: Lagrer endringene du har gjordt. Bruk denne etter at du har skrevet inn et nytt eller endret et svaralternativ.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Lukker denne siden og sender deg tilbake til svaralternativgrupper eller endre svaralternativer avhengig av hvor man kom fra.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tabell&#34;&gt;Tabell&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Trykk på teksten til et svaralternativ for å velge dette. Raden i tabellen blir da markert med rødt. Nå kan du redigere teksten eller bruke Slett svaralternativ knappen.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/SmallArrowUpFilled.gif&#34;  width=&#34;&#34; /&gt;
-
-
-: Flytt dette svaralternativet oppover i svaralternativgruppen.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/SmallArrowDownFilled.gif&#34;  width=&#34;&#34; /&gt;
-
-
-: Flytt dette svaralternativet nedover i svaralternativgruppen.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Epostinnstillinger</title>
-      <link>https://docs3.qmplus.com/docs/shared/admin/email_settings/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/admin/email_settings/</guid>
-      <description>
-        
-        
-        &lt;p&gt;I denne siden kan man endre tittelen for eposter sent på bakgrunn av Informeres ved ny melding regler. Tittelen blir satt til å være navnet på en avkrysset kategori i meldingen hvis kategorigruppe er lagt til i denne siden. Dersom man ikke setter noe i denne siden, vil standard tittel benyttes.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Innstillingen gjelder fra og med avdelingen satt som Fra avdeling for kategorigruppen.&lt;/li&gt;
-&lt;li&gt;Dersom flere kategorigrupper er satt i denne siden vil den kategorigruppen som har Fra avdeling med avdelingen nærmest der meldingen ble registrert benyttes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Legg til: Setter den valgte kategorigruppen fra den valgte avdelingen.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Slette: Sletter den aktuelle kategorigruppen fra oppsettet.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Favorittdokumenter</title>
-      <link>https://docs3.qmplus.com/docs/shared/document/favorites/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/document/favorites/</guid>
-      <description>
-        
-        
-        &lt;p&gt;For å kunne se denne arkfanen må brukeren ha systemrollen &amp;ldquo;Info_Favorittdokumenter&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Denne siden inneholder en alfabetisk oversikt over alle dokumenter brukeren har merket som favoritter under Info. Når musepekeren holdes over et dokument vil ikonet &amp;ldquo;Ta vekk fra favoritter&amp;rdquo; 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Heart_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- vises. Ved å klikke på dette ikonet vil aktuelt dokument fjernes fra denne siden.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Fellesbiblioteket</title>
-      <link>https://docs3.qmplus.com/docs/shared/admin/common_library/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/admin/common_library/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Her vises alle skjemaer lagt inn i Qm+kundenes fellesbibliotek for den skjematypen man står under. Brukes til å utveksle skjemaer. Dokumenter er planlagt i en senere versjon.&lt;/p&gt;
-&lt;h3 id=&#34;nedfallsmeny&#34;&gt;Nedfallsmeny&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Skjematype. Alle skjemaer som lastes opp i fellesbiblioteket kan markeres med ulike nøkkelord. Bruk denne nedfallsmenyen for å se på kun de skjemaene som er markert med valgt nøkkelord.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
-
-
- Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform og som liste av enkeltspørsmål slik den ser ut når den skal fylles ut.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_go.png&#34;  width=&#34;&#34; /&gt;
-
-
- Importerer aktuelt skjema inn i din Qm+database. Vær oppmerksom på a for meldingsskjemaer vil alle kategorigrupper og kategorier i skjemaet som ikke finnes i din database fra før, bli opprettet på den avdelingen du står på når du trykker på dette ikonet. Dette ikonet kan være deaktiver/grået ut. Det betyr at skjemaet allerede finnes i din database.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Sletter skjemaet som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp for den brukeren som lastet skjemaet opp i fellesbiblioteket.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Felter undermeny meldingsskjema</title>
-      <link>https://docs3.qmplus.com/docs/shared/message/field_under_form/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/message/field_under_form/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Denne siden brukes for å administrere tekst- og kostnadsfeltene i meldingsskjemaet.&lt;/p&gt;
-&lt;h3 id=&#34;tekstfelter&#34;&gt;Tekstfelter&lt;/h3&gt;
-&lt;p&gt;Et meldingsskjema kan ha 0 eller så mange tekstfelter det ønskes.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Feltnavn: Navn over feltet i meldingsskjemaet.&lt;/li&gt;
-&lt;li&gt;Skjult: Kryss av hvis feltet skal være skjult. Innholdet i skjulte tekstfelter vises kun i endre meldingsbildet for den som har registrert meldingen eller bruker med systemrollen Tilgang til skjulte tekstfelter og samtidig er satt som meldingens saksbehandler. I standardversjonen har brukertypen leder den Systemrollen.
-&lt;ul&gt;
-&lt;li&gt;Er Tilgang til skjulte tekstfelter tilknyttet brukertypen gis tilgang kun om brukeren er saksbehandler for den aktuelle meldingen.&lt;/li&gt;
-&lt;li&gt;Er Tilgang til skjulte tekstfelter tilknyttet brukeren gis tilgang uansett melding.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I alle andre skjermbilder blir innholdet kun vist som &amp;ndash; skjult tekstfelt &amp;ndash;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Obligatorisk: Kryss av dersom tekstfeltet skal være obligatorisk. Det betyr at feltet må ha innhold for at meldingen skal kunne lagres.&lt;/li&gt;
-&lt;li&gt;Rader: Hvor mange rader tekstfeltet skal ha.&lt;/li&gt;
-&lt;li&gt;Kolonner: Hvor mange kolonner tekstfeltet skal ha. 0 brukes for at tekstfeltet skal fylle all tilgjengelig plass.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Slette: Trykk på dette ikonet for å slette tekstfeltet.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Legg til felt: Brukes for å opprette et nytt tekstfelt.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;kostnadsfelter&#34;&gt;Kostnadsfelter&lt;/h3&gt;
-&lt;p&gt;Et meldingsskjema kan ha 0, 1 eller 2 kostnadsfelter.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Feltnavn: Navn over feltet i meldingsskjemaet.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Slette: Trykk på dette ikonet for å slette kostnadsfeltet.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Legg til felt: Brukes for å opprette et nytt kostnadsfelt.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Fyll ut enkeltspørsmål</title>
-      <link>https://docs3.qmplus.com/docs/shared/list/fill_in_single_answer/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/list/fill_in_single_answer/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Denne siden brukes når visningsformen vis som enkeltspørsmål er valgt og listen åpnes fra en link i en e-post sendt ut fra Qm+. Det betyr at alle spørsmålene listes opp ett og ett med kommentarfelt direkte ved siden av spørsmålet. Når et spørsmål er besvart, trykk på &amp;ldquo;Neste spørsmål &amp;raquo;&amp;rdquo; for å komme til neste spørsmål.&lt;/p&gt;
-&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Blå tekster over selve listen er dokumenter. Disse kan trykkes på og vil åpne en egen side med informasjon som den som har delt ut listen har ment er relevant for de som skal gjøre besvarelsen.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Avkryssningsfelt: Vil ha ulikt utseende avhengig av listetypen. Kryss av eller gjør dine valg for alle spørsmål i listen som er aktuelle for deg.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Kommentarfelt: Vil ha ulik tittel avhengig av hva de som har laget listen har bestemt. For flervalgsspørsmål kan det forekomme at det er et kommentarfelt for hvert svaralternativ.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Skjulte temaer: I noen tilfeller kan den som har laget listen ha skjult spørsmålene i noen temaer. Det betyr at man må krysse av i &amp;ldquo;Velg&amp;rdquo; feltet etter navnet på temaet for at spørsmålene skal vises. Dette gjøres for at det skal være enkelt å hoppe over spørsmål som ikke er relevante for den enkelte bruker.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Neste spørsmål &amp;raquo;: Viser neste spørsmål.&lt;/li&gt;
-&lt;li&gt;&amp;laquo; Forrige spørsmål: Viser forrige spørsmål.&lt;/li&gt;
-&lt;li&gt;Lagre: Lagrer besvarelsen.&lt;/li&gt;
-&lt;li&gt;Lukk: Avslutter besvarelsen uten å lagre.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Fyll ut listeform</title>
-      <link>https://docs3.qmplus.com/docs/shared/list/fill_out_list_form/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/list/fill_out_list_form/</guid>
-      <description>
-        
-        
-        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Blå tekster over selve listen er dokumenter. Disse kan trykkes på og vil åpne en egen side med informasjon som den som har delt ut listen har ment er relevant for de som skal gjøre besvarelsen.&lt;/li&gt;
-&lt;li&gt;Avkryssningsfelt: Vil ha ulikt utseende avhengig av listetypen. Kryss av eller gjør dine valg for alle spørsmål i listen som er aktuelle for deg.&lt;/li&gt;
-&lt;li&gt;Versjonshistorikk: Vises for lister som er besvart. Nedfallsmeny som hviser hvem som besvarte listen og når det ble gjort. Velg en av linjene i nedfallsmenyen for å se hvordan besvarelsen så ut på det gjeldende tidspunktet. Merk at Lagre knappen kun vises når den nyeste versjonen er valgt.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre: Lagrer besvarelsen. Hvis listen du besvarer ikke har kommentarfelter sammen med spørsmålene, vil du komme til har du kommentarer?. Der vil du få mulighet til å kommentere alle de spørsmålene du har krysset av for i listen.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Avslutter besvarelsen uten å lagre.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
-
-
- Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
-
-
- Hjelp: Åpner denne siden.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Grafer for listen</title>
-      <link>https://docs3.qmplus.com/docs/shared/list/graphs_for_list/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/list/graphs_for_list/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Ved å bruke Listeresultater kan resultatet fra flere aktiviteter som benytter samme liste vises og sammenlignes i samme bilde.&lt;/p&gt;
-&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Overskrift: Sier hvilken liste som er brukt i aktiviteten. Trykk på denne for å vise kommentarer til aktiviteten for alle aktivitetene som er vist i denne siden.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Aktiviteter vist i disse grafene: Liste over alle aktiviteter som inngår i grafene nedenfor. Vil kun være en med mindre man har brukt Listeresultater. Trykk på denne for å vise kommentarer til aktiviteten for den valgte aktiviteten.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Avdelingsvalg:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fordelt på denne og underliggende avdelinger: Det blir vist en blå graf for resultatet fra den avdelingen som er valgt i navigatoren og en oransj graf for summen resultatene fra avdelingene under den valgte avdelingen.&lt;/li&gt;
-&lt;li&gt;Totalt for denne og underliggende avdelinger: Det blir vist en blå graf som er summen av resultatene i den valgte avdelingen og dens underliggende avdelinger.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Graftype:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Vist som antall: Grafen viser resultatet som antall svar.&lt;/li&gt;
-&lt;li&gt;Vist i prosent: Grafen viser resultatet som en prosentandel av det totale antall besvarelser for det enkelte spørsmål. Hvis fordelt på denne og underliggende avdelinger er valgt, regnes det en prosentsats for den valgte avdelingen og en prosentsats for de underliggende avdelingene.
-&lt;ul&gt;
-&lt;li&gt;For spørreskjemaer regnes prosentsatsen for hvert svaralternativ utifra hvor mange som har besvart hvert enkelt spørsmål.&lt;/li&gt;
-&lt;li&gt;For sjekklister regnes prosentsatsen utifra alle som har besvart listen. Blanke svar er også med her.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Vis som gjennomsnitt: Viser gjennomsnittsverdier for svarene. Dersom svaralternativene begynner med et tall, så skal det tallet brukes som vekting, hvis ikke får det første alternativet verdi 1, det neste 2 osv. Alternativer som begynner med tallet 0 regnes ikke med i snittverdien, hverken i summen eller for antall besvarelser det deles på. For alternativer som begynner med et tall vil snittverdien bli det utregnede tallet. For andre alternativer, vil det bli teksten på det alternativet som har indeks nærmest det utregnede tallet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;graf&#34;&gt;Graf&lt;/h3&gt;
-&lt;p&gt;Grafenes utseende avhenger av listetype.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Sjekklister får en graf per spørsmål.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Risikoanalyser har en total risikomatrise over listen med spørsmål. En ekstra nedfallsmeny &amp;ldquo;Vis grafen&amp;rdquo; styrer om siden bruker antall eller gjennomsnittsvisning.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Antall: Totalmatrisen viser antall svar på spørsmålene i listen som faller innenfor hvert risikoområde. Hvert spørsmål i listen får en egen risikomatrise som viser fordelingen av svarene til det aktuelle spørsmålet. Til høyre for hver risikomatrise ligger the en tabell som viser fordelingen av svar til det aktuelle spørsmålet innenfor hver risikogruppe (rød,gul,grønn). Antall er forhåndsvalgt når man først åpner siden.&lt;/li&gt;
-&lt;li&gt;Gjennomsnitt: Totalmatrisen viser oversikt over antall spørsmål fordelt etter gjennomsnittsverdien av svarene til hvert spørsmål. Hvert spørsmål får to grafer som viser gjennomsnittsverdien for svar avgitt av brukere i avdelingen valgt i navigatoren (blått) og gjennomsnittsverdien for svar avgitt av brukere i avdelingen valgt i navigatoren (oransj).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Spørreskjemaer får en graf per svaralternativ.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;klikkfunksjonalitet&#34;&gt;Klikkfunksjonalitet&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Alle spørsmålene i listen kan trykkes på. Da får man opp kommentarer til aktiviteten for det valgte spørsmålet. Det gjør man også ved å trykke på 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
-
-
- ikonet.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Klikk på aktivitetsnavnet eller det tilhørende 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
-
-
- ikonet viser kommentarer til aktiviteten for den valgte aktiviteten.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Klikk på listenavnet viser kommentarer til aktiviteten for alle aktiviteter i grafen. Normalt er det kun en aktivitet i grafen, men ved å bruke listeresultater kan man lage grafer som inneholder resultater fra flere aktiviteter samtidig.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Alle grafer i tabellen kan trykkes på. Dette åpner brukere som har svart på elementet for det valgte spørsmålet.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Vis / 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Skjul resultatfilter: Viser eller skjuler resultatfilteret.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Når resultatfilteret er aktivisert kan man krysse av for de spørsmålene eller svaralternativer man vil filtrere på.&lt;/li&gt;
-&lt;li&gt;Kun besvarelser som tilfredsstiller alle avkryssningene vil være med i grafen etter at knappen Vis valgte resultater benyttes.&lt;/li&gt;
-&lt;li&gt;Resultatfilteret påvirker også hva som vises i kommentarer til aktiviteten og brukere som har svart på elementet.&lt;/li&gt;
-&lt;li&gt;Åpner også mulighet for å filtrere resultatet på en rolle tilknyttet den som har svart.&lt;/li&gt;
-&lt;li&gt;Om man velger en rolle i nedfallsmenyen, vil kun de brukerne som har den valgte rollen tilknyttet sin bruker, brukertype eller den avdelingen svaret er registrert på være med i resultatet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
- Send resultat: Åpner Send resultat for å publisere den grafen man ser på til andre.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
-
-
- Vis som pdf: Skriver ut den aktive siden som .pdf fil.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Returnerer deg til siden du åpnet denne siden fra.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
-
-
- Skriv ut: Skriver ut den aktive siden. Pass på at Skriv ut bakgrunnsfarger og bilder er krysset av i Alternativer for Internett / Avansert / Utskrift om du bruker Internet Explorer, Fil / Sideoppsett / Skriv ut bakgrunn (farger og bilder) i Mozilla Firefox. Hvis ikke blir ikke grafstolpene med i utskriften. Mozilla Firefox har i noen tilfeller problemer med å skrive ut skjermbilder som går over flere sider. Dette kan være avhengig av oppsett, men ser ut til å være et utbredt problem.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
-
-
- Hjelp: Åpner denne siden.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tiltak&#34;&gt;Tiltak&lt;/h3&gt;
-&lt;p&gt;For å lage tiltak til en aktivitet har man flere muligheter fra dette bildet.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Åpne kommentarer til aktiviteten ved å trykke på et spørsmål, tittelen på aktiviteten eller tittelen for listen. Dette vil knytte tiltaket til de kommentarmeldingene som vises i denne siden. Dersom det ikke er noen kommentarmeldinger, vil tiltaket likevel knyttes til spørsmålet eller listen avhengig av hva man trykket på.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Åpne brukere som har svart på elementet ved å trykke på en graf. Dette gjør man om man vil lage et tiltak for de som har gitt et bestemt svar på et spørsmål.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hvilken side du går til, vil påvirke hva tiltaket tilknyttes. Så hva som er rett avhenger av om man ønsker at det skal være felles for hele listen, tilknyttes et enkelt spørsmål eller til et svaralternativ.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Hjelp</title>
-      <link>https://docs3.qmplus.com/docs/shared/other/help/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/shared/other/help/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Brukes for å slå opp i ulike veiledningsdokumenter om Qm+. Dokumenter merket med html og umerkede dokumenter åpnes raskt direkte i nettleseren. Dokumenter merket med ppt, pdf eller doc trenger en leser som støtter PowerPoint, pdf eller Word og kan ta noe lengre tid å starte.&lt;/p&gt;
-&lt;h3 id=&#34;dokumenttyper&#34;&gt;Dokumenttyper&lt;/h3&gt;
-&lt;h4 id=&#34;introduksjonsdokumenter&#34;&gt;Introduksjonsdokumenter&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Tar for seg hvordan man kan starte opp med Qm+ i ulike typer virksomheter.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;veiledningsdokumenter&#34;&gt;Veiledningsdokumenter&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Går detaljert gjennom funksjonaliteten for de ulike brukertypene.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;endringer-i-nyeste-versjon&#34;&gt;Endringer i nyeste versjon&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Viser lister over endringer utført i de seneste versjonene. Det er spesielt viktig at superbrukerne holde seg oppdatert ved å lese gjennom endringene for hver ny versjon. Ta kontakt med oss på &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; ved spørsmål.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
-
-
- Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
-
-
- Hjelp: Åpner denne siden.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Hjem dashbord</title>
-      <link>https://docs3.qmplus.com/docs/employee/home_dashbord/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/employee/home_dashbord/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Hjem dashbord&lt;/strong&gt; er en Arkfane på Hovedsiden og er startsiden i det fullstendige grensesnittet. I denne siden kan hver enkelt bruker bestemme hvilke komponenter som skal vises. Dersom ingen komponenter er satt, vil settet med standardkomponenter vises.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Trykk på Tilpass dashbord for å velge hvilke komponenter som skal vises i siden. Brukerens endringer blir automatisk lagret.&lt;/li&gt;
-&lt;li&gt;Trykk på Registrer ny melding for å åpne listen over tilgjengelige meldingsskjemaer, tilsvarende listen man får i Innboks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;komponenter&#34;&gt;Komponenter&lt;/h4&gt;
-&lt;p&gt;Det vises 5 rader som standard i hver tabellkomponent. En bruker må ha tilgang til modulen som komponenten tilhører for at den skal vises.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Aktuelle aktiviteter.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Viser aktiviteter som pågår nå og som snart skal starte.&lt;/li&gt;
-&lt;li&gt;Tilsvarer Aktuelle aktiviteter i Aktivitetsplan / Oppfølging&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Arbeidsordrebehandling hittil i år.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Klikkbar paigraf som viser arbeidsordre som har endret status i år.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Arbeidsordrebehandling siste 30 dager.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Klikkbar paigraf som viser arbeidsordre som nylig har endret status.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Definerende kategorier brukt de siste 12 måneder.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Viser de definerende kategoriene brukt i meldinger registrert de siste 12 måneder.&lt;/li&gt;
-&lt;li&gt;Vises i en klikkbar linjegraf.&lt;/li&gt;
-&lt;li&gt;For virksomheter med mange definerende kategorier, kan denne bli litt rotete.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Definerende kategorier brukt i loggmeldinger de siste 12 måneder.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Definerende kategorier brukt i oppdragsmeldinger de siste 12 måneder.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;De nyeste loggmeldingene jeg har registrert.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;De nyeste meldingene jeg har registrert.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Meldinger registrert av den innloggede brukeren.&lt;/li&gt;
-&lt;li&gt;Sortert etter registreringsdato, synkende.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;De nyeste oppdragsmeldingene jeg har registrert.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Høringer jeg har vært involvert i.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Loggmeldingsskjemaer brukt de siste 12 måneder&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Meldingsskjemaer brukt de siste 12 måneder&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Viser meldingsskjemaene brukt i til å registre meldinger de siste 12 måneder.&lt;/li&gt;
-&lt;li&gt;Vises i en klikkbar linjegraf.&lt;/li&gt;
-&lt;li&gt;For virksomheter med mange meldingsskjemaer, kan denne bli litt rotete.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Mine aktiviteter.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Viser aktiviteter den innloggede brukeren skal delta i.&lt;/li&gt;
-&lt;li&gt;Aktivitetene vises inntil fristen er passert, slik at man også kan endre besvarte aktiviteter.&lt;/li&gt;
-&lt;li&gt;Tilsvarer listen over aktiviteter vist i det forenklede brukergrensesnittet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Mine nyeste oppgaver.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Meldinger som skal behandles, tiltak, høringer og revisjoner som skal utføres.&lt;/li&gt;
-&lt;li&gt;Sortert etter registreringstidspunkt, synkende.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Mine oppgaver sortert etter fristen.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Meldinger som skal behandles, tiltak, høringer og revisjoner som skal utføres.&lt;/li&gt;
-&lt;li&gt;Sortert etter frist, synkende.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Oppdragsmeldingsskjemaer brukt des siste 12 måneder.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Siste endrede dokumenter.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kun endringer i publiserte dokumenter med synlighet i Info vises her.&lt;/li&gt;
-&lt;li&gt;Sortert etter endringstidspunkt, synkende.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Siste innlogginger i systemet.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Denne komponenten forutsetter at brukeren har tilgang til arkfanen Grafer.&lt;/li&gt;
-&lt;li&gt;Sortert etter innloggingstidspunkt, synkende.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Status for arbeidsordre registrert de siste 30 dager.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Status for arbeidsordre registrert hittil i år.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Status for meldinger registrert de siste 30 dager.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Klikkbar paigraf som viser nylig registrerte meldinger.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Status for meldinger registrert hittil i år.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Klikkbar paigraf som viser meldinger registrert i år.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Status for oppdrag registrert de siste 30 dager.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Status for oppdrag registrert hittil i år.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Status for tiltak registrert de siste 30 dager.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Klikkbar paigraf som viser nylig registrerte tiltak.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Status for tiltak registrert hittil i år.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Klikkbar paigraf som viser tiltak registrert i år.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Søk etter sak.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Søk etter meldinger, tiltak eller dokumenter.&lt;/li&gt;
-&lt;li&gt;Meldinger og tiltak kan søkes etter nummer og fritekst i innholdet.&lt;/li&gt;
-&lt;li&gt;Dokumenter kan kun søke fritekst i innholdet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tiltaksbehandling de siste 30 dager.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Klikkbar paigraf som viser tiltak som nylig har endret status.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tiltaksbehandling hittil i år.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Klikkbar paigraf som viser tiltak som har endret status i år.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;komponent-kontrollikoner&#34;&gt;Komponent kontrollikoner&lt;/h4&gt;
-&lt;p&gt;
-
-&lt;span class=&#34;fa fa-minus&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
-
- Minimer komponenten.&lt;/p&gt;
-&lt;p&gt;
-
-&lt;span class=&#34;fa fa-plus&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
-
- Glyphicon-plus.png Vises kun etter at komponenten er minimert. Vis komponenten i normal størrelse igjen.&lt;/p&gt;
-&lt;p&gt;
-
-&lt;span class=&#34;fa fa-times&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
-
-  Tar komponenten bort fra dashbordet. Bruk Tilpass dashbord for å få den tilbake igjen.&lt;/p&gt;
-&lt;p&gt;
-
-&lt;span class=&#34;fa fa-cog&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
-
- Glyphicon-cog.png Åpner egenskapene til komponenten.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bestemme plassering.&lt;/li&gt;
-&lt;li&gt;For tabellkomponenter, sett hvor mange rader som maksimalt vises i komponenten.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

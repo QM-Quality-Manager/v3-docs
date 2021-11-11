@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Goldydocs – Goldydocs</title>
+    <title>Quality Manager – TechOS</title>
     <link>https://docs3.qmplus.com/en/</link>
-    <description>Recent content on Goldydocs</description>
+    <description>Recent content in TechOS on Quality Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	  <atom:link href="https://docs3.qmplus.com/en/index.xml" rel="self" type="application/rss+xml" />

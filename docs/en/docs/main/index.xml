@@ -1,0 +1,1050 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Main</title>
+    <link>https://docs3.qmplus.com/en/docs/main/</link>
+    <description>Recent content in Main on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/main/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Tabs</title>
+      <link>https://docs3.qmplus.com/en/docs/main/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/main/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;home&#34;&gt;Home&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/House.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Home is a tab on the Main Page. It is by default the starting page for users with access to the simplified interface, but that can be changed on a customer level.&lt;/p&gt;
+&lt;p&gt;The page contains only buttons that correspond to the tabs the logged in user has access to. The customer&amp;rsquo;s super user can adjust which modules are active. Therefore, it may be that not all buttons described below appear in your screen. The available buttons are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Register-message_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Register a new message: Choose a button with the name of a message form to register a new message.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Messages_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Messages: Register a new message and get an overview of your registered messages.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Actions_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Actions: Actions you have to execute and overview of the executed actions. Not included in the standard version.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Questionnaires_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Questionnaires: Checklists, risk analysis lists and survey forms you have to fill out. If you have answered an activity by clicking on a link in an email, you can open this page to modify your answer until the deadline for the activity expires.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Info: Look at laws, rules, information and other documents that are relevant to your company.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Preferences_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Preferences: Edit your user information.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: See the documentation about the system. User manuals, guidelines and links to the change log for Qm+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;inbox&#34;&gt;Inbox&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Inbox is a tab on the Main Page.&lt;/p&gt;
+&lt;p&gt;The inbox is used for following up cases you have to do something about.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Cases I am responsible for shows cases that the logged in user has to work with.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ All cases I have been involved in show all cases the user has worked with, including all the messages that the logged in user has registered, regardless of department.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_organisation.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Department cases shows cases that the selected department is working with. Cases I am responsible for are not affected by the selected department in the Navigator, but the Department cases are.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pink cases are messages, yellow cases are actions, blue-gray cases are hearings.&lt;/p&gt;
+&lt;p&gt;This page remembers the page number and sorting column when you visit another page and then return to it. The state is remembered for one hour or until the user presses the Log out button on the top row. It is also forgotten if the user opens another page that has a similar table.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s14-hbhb-what-can-i-do-here&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ What can I do here?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Here I can register a new message: Click on the yellow (green or red) button at the bottom of the page.&lt;/li&gt;
+&lt;li&gt;I can handle cases that have been sent to me: Click on a case in the table.&lt;/li&gt;
+&lt;li&gt;I can see cases that are being handled in other departments by selecting a department in the Navigator and then clicking on Department cases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;options&#34;&gt;Options&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Register new message: Select a message form to register a new message. Opens the Edit message page. The message forms are displayed as individual buttons if there are up to 4 different forms. If there are more, the button 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Register new message must be pressed first. It opens a list of all active message forms.&lt;/li&gt;
+&lt;li&gt;All cases drop-down menu: If you select a message form, only cases originating from such a form are shown. You can also select to see only the hearings.&lt;/li&gt;
+&lt;li&gt;My current cases / All cases I have been involved in: When &amp;ldquo;My current cases&amp;rdquo; is selected, only cases that the logged in user should do something about are shown. When &amp;ldquo;All cases I have been involved in&amp;rdquo; is selected, the list shown below includes also the cases that the logged in user has done something about but they are not closed yet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;table&#34;&gt;Table&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;When you click on a line of the main table, the selected case will open in its handling page. Messages open in the Message process page, actions open in the Action process page and hearings open in the Reply to a hearing page.&lt;/li&gt;
+&lt;li&gt;Hold the cursor over the + symbol in the first column to get more information about a case.&lt;/li&gt;
+&lt;li&gt;Change page: The buttons named First, Previous, Next, Last and any numbered buttons in between, are used to change the page when there are more than 20 cases that can be shown in the table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Sort_down.png&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/No_sort.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sorting: The table is sorted by the column with the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Sort_down.png&#34;  width=&#34;&#34; /&gt;
+
+
+. Click on the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/No_sort.png&#34;  width=&#34;&#34; /&gt;
+
+
+ to sort by that column.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_green.png&#34;  width=&#34;&#34; /&gt;
+
+
+, 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_yellow.png&#34;  width=&#34;&#34; /&gt;
+
+
+, 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_red.png&#34;  width=&#34;&#34; /&gt;
+
+
+ symbolize low, medium and high priority respectively.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Cases I am responsible for: Displays the cases that the logged in user has to work with.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ All cases I have been involved in: Displays the cases that the logged in user has worked with. Cases the user is only informed with are not included in this view.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_organisation.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Department cases: Displays the cases that the users of the selected department have to work with.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;admin&#34;&gt;Admin&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Admin.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Admin is a tab on the Main Page.&lt;/p&gt;
+&lt;p&gt;Admin is used for managing the system. The access is controlled by the system role Admin. In the standard version, all the managers have full access to edit all information within their own organisation. For some customers this option is limited and therefore they will not get all the tabs that are described below. Contact your local super user if you feel that you need additional rights.&lt;/p&gt;
+&lt;p&gt;All information displayed / posted via Admin will relate to the selected department in the Navigator.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s28-hbhb-what-can-i-do-here&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ What can I do here?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;As a Super user, I have access to the ADMIN-tab. This tab opens new tabs where I can make changes in the organisation (navigator), add users in the departments, change the categories that will be inserted in message forms, create forms, add new managing documents, etc.&lt;/li&gt;
+&lt;li&gt;A click on each of the tabs under ADMIN provides access to new tabs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons-1&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs-1&#34;&gt;Tabs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_organisation.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Organisation&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Users&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Categories&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Forms&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Documents&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Roles&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Wrench.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Rules&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_suit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Responsibilities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;home-dashboard&#34;&gt;Home dashboard&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/House.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Home dashboard is a tab on the Main Page and is the start page for the complete interface. In this page, each user can decide which components will be shown. If no components have been selected, the default set of components will be shown.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Press the Configure dashboard button to select the components that should appear on the page. Changes made by the user are saved automatically.&lt;/li&gt;
+&lt;li&gt;Click the Register new message button to open the list with the available message forms. This is the same list that you get from the Inbox page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;components&#34;&gt;Components&lt;/h3&gt;
+&lt;p&gt;5 rows are shown by default in each table component. For a component to be shown, a user must have access to the relevant module.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Action process so far this year.
+&lt;ul&gt;
+&lt;li&gt;Clickable pie chart showing the actions that have changed status this calendar year, regardless of when the actions were first registered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Action process the last 30 days.
+&lt;ul&gt;
+&lt;li&gt;Clickable pie chart showing the actions that have changed status in the last 30 days, regardless of when the actions were first registered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Case search.
+&lt;ul&gt;
+&lt;li&gt;Search for messages, actions or documents.&lt;/li&gt;
+&lt;li&gt;Search for messages or actions can be done by ID or free text in the content.&lt;/li&gt;
+&lt;li&gt;Search for documents can be done by free text in the content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Current activities.
+&lt;ul&gt;
+&lt;li&gt;Shows the activities that are active now or will start soon.&lt;/li&gt;
+&lt;li&gt;Corresponds to the Current activities under Activity plan / Follow up.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Defining categories used in log messages the last 12 months.&lt;/li&gt;
+&lt;li&gt;Defining categories used in order messages the last 12 months.&lt;/li&gt;
+&lt;li&gt;Defining categories used the last 12 months.
+&lt;ul&gt;
+&lt;li&gt;Shows the defining categories used in messages registered in the last 12 months.&lt;/li&gt;
+&lt;li&gt;Shows as a clickable line graph.&lt;/li&gt;
+&lt;li&gt;For companies with many defining categories, this can appear a bit messy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hearings I have been involved in&lt;/li&gt;
+&lt;li&gt;Latest changed documents.
+&lt;ul&gt;
+&lt;li&gt;Only changes in published documents with visibility under Info are shown here.&lt;/li&gt;
+&lt;li&gt;Ordered by Latest edit time, descending.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Latest logins in the system.
+&lt;ul&gt;
+&lt;li&gt;This component is only available for users with access to the tab Graphs.&lt;/li&gt;
+&lt;li&gt;Ordered by login time, descending.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Log message forms used the last 12 months.&lt;/li&gt;
+&lt;li&gt;Message forms used the last 12 months.
+&lt;ul&gt;
+&lt;li&gt;Shows the message forms that have been used to register messages in the last 12 months.&lt;/li&gt;
+&lt;li&gt;Shows as a clickable line graph.&lt;/li&gt;
+&lt;li&gt;For companies with many message forms, this can appear a bit messy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;My activities.
+&lt;ul&gt;
+&lt;li&gt;Shows activities that the logged in user has to participate in.&lt;/li&gt;
+&lt;li&gt;Activities are shown until their due date has passed, so that it is easy to edit already answered ones.&lt;/li&gt;
+&lt;li&gt;Corresponds to the list of activities shown in the simplified user interface.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;My latest tasks.
+&lt;ul&gt;
+&lt;li&gt;Messages to process, actions, hearings and audits that are to be done.&lt;/li&gt;
+&lt;li&gt;Ordered by registration date, descending.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;My tasks ordered by due date.
+&lt;ul&gt;
+&lt;li&gt;Messages to process, actions, hearings and audits that are to be done.&lt;/li&gt;
+&lt;li&gt;Ordered by due date, descending.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Order message forms used the last 12 months.&lt;/li&gt;
+&lt;li&gt;Status of actions registered so far this year.
+&lt;ul&gt;
+&lt;li&gt;Clickable pie chart that shows actions registered so far this year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Status of actions registered the last 30 days.
+&lt;ul&gt;
+&lt;li&gt;Clickable pie chart that shows recently registered actions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Status of messages registered so far this year.
+&lt;ul&gt;
+&lt;li&gt;Clickable pie chart that shows messages registered so far this year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Status of messages registered the last 30 days.
+&lt;ul&gt;
+&lt;li&gt;Clickable pie chart that shows recently registered messages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Status of orders registered so far this year.&lt;/li&gt;
+&lt;li&gt;Status of orders registered the last 30 days.&lt;/li&gt;
+&lt;li&gt;Status of work orders registered so far this year.&lt;/li&gt;
+&lt;li&gt;Status of work orders registered the last 30 days.&lt;/li&gt;
+&lt;li&gt;The latest log messages registered by me.&lt;/li&gt;
+&lt;li&gt;The latest messages registered by me.
+&lt;ul&gt;
+&lt;li&gt;Messages registered by the logged in user.&lt;/li&gt;
+&lt;li&gt;Ordered by registration date, starting with the newest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The latest order messages registered by me.&lt;/li&gt;
+&lt;li&gt;Work order process so far this year.&lt;/li&gt;
+&lt;li&gt;Work order process the last 30 days.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;component-control-icons&#34;&gt;Component control icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Glyphicon-minus.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Minimise component.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Glyphicon-plus.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Only shown after the component has been minimised. Restores it to normal size.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Glyphicon-remove.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Removes the component from the Dashboard. Use Configure dashboard to get it back.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Glyphicon-cog.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Opens the component settings.
+&lt;ul&gt;
+&lt;li&gt;Placement. Place the component in the Dashboard.&lt;/li&gt;
+&lt;li&gt;For table components, set maximum number of rows that are shown in the component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;info&#34;&gt;Info&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Info is a tab on the Main Page.&lt;/p&gt;
+&lt;p&gt;Used to display the document overview in the system. The documents are organised in different areas of the screen. They can also be distributed under multiple tabs. The document structure is determined by the company&amp;rsquo;s local super user. 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Collapse.png&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Expand.png&#34;  width=&#34;&#34; /&gt;
+
+
+ are used to expand and collapse the subdocuments of documents. There is also a search function here that performs free text searches in all the documents that appear in this page.&lt;/p&gt;
+&lt;p&gt;The document names function as links. Click on a document name to open the document. Especially for documents created in Qm+: You can either open the HTML version by clicking on the document name, or you can get a PDF version of the document by clicking on the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ icon on the right of the document name.&lt;/p&gt;
+&lt;p&gt;When clicking on the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ icon on the right of documents written in Qm+ that have subdocuments (they have the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Expand.png&#34;  width=&#34;&#34; /&gt;
+
+
+ icon in front of them), you get a popup window where you can select if you want the exported .pdf to include only the current document or also its subdocuments.&lt;/p&gt;
+&lt;p&gt;Folders that contain documents written in Qm+ also have a pdf icon, which prints all such documents in the selected folder in one .pdf file. The pdf report from a folder includes also all sub-documents of internal documents in the printed file (not just the sub-documents of folders). This is intended to correct the problem that arises when one has written each chapter of a big document in a separate Qm+ document and wants to print the entire document as a whole.&lt;/p&gt;
+&lt;p&gt;You can also get the document in .docx format by clicking on the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_word.png&#34;  width=&#34;&#34; /&gt;
+
+
+ icon. The option for exporting to .docx is not included in the standard version. If you want this option enabled, contact &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt;. Please note that the .pdf version is the most suitable for printing. At this point, we cannot guarantee that the .docx produced file will look the same in all editors or that it will open correctly in all versions of Microsoft Office or OpenOffice. This export format should only be used when there is a need for manually updating the report. This functionality is still in test mode.&lt;/p&gt;
+&lt;p&gt;Documents can appear directly in this page under separate tabs instead of having the name of the document appear as a link. This functionality has to be ordered separately. Contact &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; if you want such a solution.&lt;/p&gt;
+&lt;h3 id=&#34;infopng-what-can-i-do-here&#34;&gt;Info.png What can I do here?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I can search for documents: Click the &amp;ldquo;Search&amp;rdquo;-button at the bottom of the page.&lt;/li&gt;
+&lt;li&gt;I can select between Tabs and Document groups to search in specific document collections.&lt;/li&gt;
+&lt;li&gt;All the documents under INFO may be attached to different forms and categories such as message forms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;functions&#34;&gt;Functions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Search: Searches for the text that is written in the text field in front of the button. The search results depend on the department which is selected in the navigator, but not on the selected document tab. The search function uses the search engine Lucene.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Beneath the title of each document found in the search, the location of the document is displayed. It is shown as Document tab / Document group / Any parent document(s) / Document title.&lt;/li&gt;
+&lt;li&gt;When a free text search has been done, a set of search filters is displayed above the search results. The values in the filter are not affected by changing the department in the navigator and will remain until you click Close search results.
+&lt;ul&gt;
+&lt;li&gt;Document tab: Include documents from all or just the selected document tab.&lt;/li&gt;
+&lt;li&gt;Document group: Include documents from all or just the selected document group.&lt;/li&gt;
+&lt;li&gt;Department choice: Include documents from all documents available at the selected department or just the documents registered at the selected department.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tip: Include only interesting words. For example, if you wish to search for procedures related to fire, use the keywords &amp;ldquo;procedures fire&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Advanced: See Lucene Query Syntax for detailed information about the syntax for the search field.
+&lt;ul&gt;
+&lt;li&gt;Searchable fields: Text, URL, DocumentId, Name, Information.&lt;/li&gt;
+&lt;li&gt;If no fields are specified, all fields are searched. In that case, extra weight is given to the name field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Heart_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Add to favourites: This function is available for users who have the system role Info_Favourite documents, and for all documents except those of type Folder. The icon appears when the user moves the cursor over a document. Clicking on it marks the document as a Favourite document. These documents can later be found in the Favourite documents tab.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Heart_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Remove from favourites: This function is available for users who have the system role Info_Favourite documents, and for all documents except those of type Folder. The icon appears when the user moves the cursor over a document that has been marked as a Favourite before. Clicking on it unmarks the specific document as a Favourite and removes it from the Favourite documents tab.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons-1&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Icons are used to symbolize different types of documents:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_world.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Link to the online version of the document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Lovdata_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Link to a page from Lovdata&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_word.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Word document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ PDF document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_excel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Excel document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_powerpoint.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Powerpoint document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_text.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Document created in Qm+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Document of type Process chart, created in Qm+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Image.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Image&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Unknown or Blank document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder_page_white.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Folder. Can not be opened, used only to create a document structure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs-2&#34;&gt;Tabs&lt;/h3&gt;
+&lt;p&gt;Used for sorting the documents. Determined by the super user. The tabs included in the standard version are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managing documents&lt;/li&gt;
+&lt;li&gt;Goals&lt;/li&gt;
+&lt;li&gt;Favourite documents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;reports&#34;&gt;Reports&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Icon_graph2.png&#34;  width=&#34;&#34; /&gt;
+
+
+Reports (previously Graphs) is a tab on the Main Page.&lt;/p&gt;
+&lt;p&gt;Used to get a graphical overview of the activity in the system. Drop-down menus and various search criteria control what kind of graph you will get. By clicking on any of the graphs, the underlying report opens.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s68-hbhb-what-can-i-do-here&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ What can I do here?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I can see the results in all or in parts of the organisation with one keystroke: Select a department in the Navigator.&lt;/li&gt;
+&lt;li&gt;I can choose what kind of graphs will be shown by clicking on the checkboxes above the graphs, for example &amp;ldquo;Distribution over time&amp;rdquo;,&lt;/li&gt;
+&lt;li&gt;or I can click on a colour in the graph and see the results in a table overview,&lt;/li&gt;
+&lt;li&gt;or I can select &amp;ldquo;Per department overview table&amp;rdquo; to retrieve comparisons between time periods. This can be copied into an Excell spreadsheet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons-2&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+Printer.png Print: Prints the current screen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Report_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Write report: Opens the page New document page where you can write a document that contains all the graphs that were showing when you clicked on this button. Only users that have the access right to create documents get this button. Charts in .pdf printouts and in the html version of the report document now have by default a width of 600 pixels, which makes them more readable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs-3&#34;&gt;Tabs&lt;/h3&gt;
+&lt;p&gt;The tabs Messages/NC, Log, Risk and Comments give the same graph possibilities for the various types of messages. They can also be used to reset the search criteria if you have performed a search. If you are in search mode, the tab Search is selected and the selected search criteria are shown in a separate table.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Messages/NC: Charts for messages.&lt;/li&gt;
+&lt;li&gt;Orders: Charts for messages. Only shown if the option for order messages is activated.&lt;/li&gt;
+&lt;li&gt;Log: Charts for messages. Only shown if the option for log messages is activated.&lt;/li&gt;
+&lt;li&gt;Risk: Charts for messages. Only shown if the option for risk messages is activated.&lt;/li&gt;
+&lt;li&gt;Comments: Charts for messages.&lt;/li&gt;
+&lt;li&gt;Action reports: Action matrix and reports for time registration on actions.&lt;/li&gt;
+&lt;li&gt;Users: Provides an overview of logins and document usage.&lt;/li&gt;
+&lt;li&gt;Search: Search for messages and display the results through charts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;h4 id=&#34;report-types&#34;&gt;Report types&lt;/h4&gt;
+&lt;p&gt;Select the report type.&lt;/p&gt;
+&lt;h4 id=&#34;message--nc-reports&#34;&gt;Message / NC reports&lt;/h4&gt;
+&lt;h5 id=&#34;standard-report-graph&#34;&gt;Standard report graph&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Shows an overview of the number of registrations, status, used message forms, priority, distribution over time and categories, depending on the sub-reports that are checked.&lt;/li&gt;
+&lt;li&gt;Click on any chart to get a list of the messages that contributed to the selected part of the chart.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;standard-report-table&#34;&gt;Standard report table&lt;/h5&gt;
+&lt;p&gt;Periodic report that shows a table overview of the most important data for messages summed up for the department which is selected in the Navigator. The data is listed below each other distributed in time periods. The periods are created automatically based on the time frame you have selected for the report. This is the same as in the chart &amp;ldquo;Distribution over time&amp;rdquo;. At the moment there is no possibility to directly export the data or click on them (drill down functionality) in this report. Such functionality is scheduled for a later version of Qm+.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use the drop-down menu for the Period type if you want a different periodisation from the automatic one. If the time frame you are searching for does not cover an entire period, the last period and the total period (first column in the table) will show a time frame that spans an entire period. However, there will be no data in the report outside the time frame you have chosen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;risk-report&#34;&gt;Risk report&lt;/h5&gt;
+&lt;p&gt;Shows a risk matrix for all messages in the current selection that have any category in a category group of the type Risk with risk value &amp;gt; 0.&lt;/p&gt;
+&lt;h5 id=&#34;calculation-reports&#34;&gt;Calculation reports&lt;/h5&gt;
+&lt;h4 id=&#34;action-reports&#34;&gt;Action reports&lt;/h4&gt;
+&lt;p&gt;Time per action and Timesheet for actions appear only if the option for Time registration for actions is activated. In all three reports, you can click on the name or number of the action to open it.&lt;/p&gt;
+&lt;h5 id=&#34;action-matrix&#34;&gt;Action matrix&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Report that shows the status for all open actions.&lt;/li&gt;
+&lt;li&gt;The colour codes for the status are shown above the table.&lt;/li&gt;
+&lt;li&gt;Click on the name of an action to open it.&lt;/li&gt;
+&lt;li&gt;Used together with the option for start time for actions, this report can be used to give an overview of the planned actions.&lt;/li&gt;
+&lt;li&gt;The overview starts 3 days before today&amp;rsquo;s date and includes the next 26 days.&lt;/li&gt;
+&lt;li&gt;The transition from today&amp;rsquo;s date to the next day is marked with a vertical black line.&lt;/li&gt;
+&lt;li&gt;The matrix is sorted by the action&amp;rsquo;s start date, if this is set. If not, the date the action was registered is used instead.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;time-per-action&#34;&gt;Time per action&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Report that shows how much time has been registered on all actions in the selected period.&lt;/li&gt;
+&lt;li&gt;Actions without any registered time are not included in the report.&lt;/li&gt;
+&lt;li&gt;The report includes actions registered on or below the department currently selected in the navigator.&lt;/li&gt;
+&lt;li&gt;Shows per user and total.&lt;/li&gt;
+&lt;li&gt;The actions are ordered by action number.&lt;/li&gt;
+&lt;li&gt;This report is only available when the option for time registration on actions is activated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;action-time-sheet&#34;&gt;Action time sheet&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Report that shows how much time, in the selected period, has been registered per action per user per day.&lt;/li&gt;
+&lt;li&gt;Sums per day per user and total for all users.&lt;/li&gt;
+&lt;li&gt;This report is only available when the option for time registration on actions is activated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;mixed-reports&#34;&gt;Mixed reports&lt;/h4&gt;
+&lt;h5 id=&#34;process-time-report&#34;&gt;Process time report&lt;/h5&gt;
+&lt;p&gt;Periodic report that displays information for the registered and processed messages and actions. This report takes into account only the selected time period and the selected message type. The figures for average time take into account only messages that have obtained the relevant status. The last periods in the report will therefore usually have lower processing time than the first ones, as the last ones will usually have several open cases that will not be included in the calculation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Messages registered on&amp;hellip; Displays the number of messages registered on the department(s).&lt;/li&gt;
+&lt;li&gt;Messages processed at&amp;hellip; Displays the number of messages processed (rejected or action created) in the selected period, regardless of where and when the message was registered.&lt;/li&gt;
+&lt;li&gt;Messages closed at&amp;hellip; Displays the number of messages closed (rejected or action approved) at the department(s), regardless of where the message was registered.&lt;/li&gt;
+&lt;li&gt;Messages rejected at&amp;hellip; Displays the number of messages rejected at the department(s), regardless of where the message was registered.&lt;/li&gt;
+&lt;li&gt;Actions created at&amp;hellip; Displays the number of actions created at the department(s).&lt;/li&gt;
+&lt;li&gt;Actions approved at&amp;hellip; Displays the number of actions approved at the department(s).&lt;/li&gt;
+&lt;li&gt;Processed messages registered on&amp;hellip; Displays the number of messages registered on the department(s) that have been processed. Used to calculate the Average processing time.&lt;/li&gt;
+&lt;li&gt;Closed messages registered on&amp;hellip; Displays the number of messages registered on the department(s) that have been closed. Used to calculate the Average closing time.&lt;/li&gt;
+&lt;li&gt;Rejected messages registered on&amp;hellip; Displays the number of messages registered on the department(s) that have been rejected.&lt;/li&gt;
+&lt;li&gt;Average processing time in days for messages registered on&amp;hellip; Time spent from registration for all fully processed messages registered on the department(s) / Number of fully processed messages registered on the department(s).&lt;/li&gt;
+&lt;li&gt;Average processing time in days for messages processed on&amp;hellip; Time spent from registration for all fully processed messages processed on the department(s) / Number of fully processed messages processed on the department(s).&lt;/li&gt;
+&lt;li&gt;Average closing time in days for messages registered on&amp;hellip; Time spent from registration for all closed messages registered on the department(s) / Number of closed messages registered on the department(s).&lt;/li&gt;
+&lt;li&gt;Average closing time in days for messages processed on&amp;hellip; Time spent from registration for all closed messages processed on the department(s) / Number of closed messages processed on the department(s).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use the drop-down menu for Period Type if you want a different periodisation than the automatic. If the time frame you are searching for does not cover an entire period, the last period and the total period (first column in the table) will show a time frame that spans an entire period. However, there will not be any data in the report from outside the time frame you have selected.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Messages that are not yet closed may be part of the overview for process time withouth being included in the report for close time. Therefore, it is possible to have longer processing time than close time.&lt;/li&gt;
+&lt;li&gt;To calculate the processing time we use only the latest department the message was sent to - the current department.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;message-form&#34;&gt;Message form&lt;/h4&gt;
+&lt;p&gt;If a particular message form is selected here, only messages registered with the selected message form will be included in the report.&lt;/p&gt;
+&lt;h4 id=&#34;category-groups&#34;&gt;Category groups&lt;/h4&gt;
+&lt;p&gt;If a category group is selected here, only messages with check marks in the selected category group will be included in the report.&lt;/p&gt;
+&lt;h3 id=&#34;graph-types&#34;&gt;Graph types&lt;/h3&gt;
+&lt;p&gt;A series of checkboxes that activate or deactivate the given graph type. Overview by forms, status and priority are activated as standard. This can be changed on a per customer basis.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview by departments: Displays an overview of the messages that are registered on the department which is selected in the Navigator and the messages that are registered on its subordinate departments.&lt;/li&gt;
+&lt;li&gt;Overview by forms: Displays the message forms that have been in use. This graph is hidden if a message form is selected in the drop-down menu above.&lt;/li&gt;
+&lt;li&gt;Overview by status: Displays the status of the messages.&lt;/li&gt;
+&lt;li&gt;Overview by priority: Displays the priority of the messages.&lt;/li&gt;
+&lt;li&gt;Distribution over time: Displays when the messages were registered. The time axis changes according to the length of the selected period. Possible scales: days, weeks, months and years.&lt;/li&gt;
+&lt;li&gt;Overview by categories: Displays one graph for each category group with which a registration was done.&lt;/li&gt;
+&lt;li&gt;Overview by users: Does not appear in the standard version. Shows how many messages the users of the selected department have registered. Users registered on another department who have done registrations on the selected department are also shown. Messages reported as anonymous are not included in these graphs.&lt;/li&gt;
+&lt;li&gt;Dynamic graphs: Any graph defined in Admin / Rules / Configuration for dynamic graphs is shown here. These are graphs where the local system administrator can choose which values come on the Y-axis and the X-axis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-graphs&#34;&gt;The graphs&lt;/h3&gt;
+&lt;p&gt;Each graph has a series of checkboxes that control what it contains and what kind of graph will show.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Swap axis: Swaps the data shown on the x and y axes in the graph.&lt;/li&gt;
+&lt;li&gt;Show total: Appears only for category graphs.
+&lt;ul&gt;
+&lt;li&gt;Checked: The first segment of the bar contains the summarized totals for the following segments of the same bar. The subsequent segments of the bar show the sum from the respective department (see graph legend) and from its subordinate departments. Used if, for example, you want to get all the messages in the whole company for which a given category is checked.&lt;/li&gt;
+&lt;li&gt;Not checked: The first segment of the bar shows only the registrations from the department which is selected in the Navigator. The subsequent segments of the bar show also here the sum from the respective department (see graph legend) and from its subordinate departments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Message count: The graph that shows the number of messages appears. This is by default preselected for all graphs, except for the category graphs for the category groups of the type Number.&lt;/li&gt;
+&lt;li&gt;Sum: Appears only for category groups of the type Number. It is by default preselected for them. This type of category groups is answered with a number instead of a tick. This graph shows the sum of these numbers for all messages included in the report.&lt;/li&gt;
+&lt;li&gt;Percent chart: Shows the percentage distribution.
+&lt;ul&gt;
+&lt;li&gt;For graphs other than the category graphs this means that the message count graph is scaled to 100.&lt;/li&gt;
+&lt;li&gt;For category graphs it displays the percentage distribution of messages for each department per category within each category group. Each department sums up to 100% in this graph, so some bars could exceed 100. In this case, the graphs might be more readable if swapped. Use the Swap axis for this.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cost chart: Displays the sum of the cost field in the messages that the graph contains. When you click on a cost chart you will only see cases with cost &amp;gt; 0.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;risk&#34;&gt;Risk&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Icon_risk2.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Risk is a tab on the main page.&lt;/p&gt;
+&lt;p&gt;Appears only for the companies that have activated the Risk message module for the users who have the system role Risk. The purpose of this page is to show the current risk status for the organisation.&lt;/p&gt;
+&lt;p&gt;The tab Risk contains all the risk messages in the system from the active departments. Risk messages are messages that are used to create a risk overview for the company. It is up to the company if the risk messages will be handled or if they will only be registered and stored in the archive. Our recommendation is that they are not handled, only updated annually. Messages registered here do not appear in the Inbox unless you use the Message process page to handle them. The message type risk message is not enabled in the standard version. When performing a search either from Reports, from the Message search or by clicking on the risk matrix, the selected search criteria are shown in a separate table above the results table.&lt;/p&gt;
+&lt;h3 id=&#34;risk-matrix&#34;&gt;Risk matrix&lt;/h3&gt;
+&lt;p&gt;The risk matrix provides a risk profile for the selected part of the company. The numbers in the matrix show how many messages in the table below have risk categories with values corresponding to a field in the risk matrix.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The numbers in the risk matrix show only categories from messages in the table below.&lt;/li&gt;
+&lt;li&gt;The Navigator is used to set the starting department for the risk overview.&lt;/li&gt;
+&lt;li&gt;Click on a field in the matrix to look only at the messages that have categories in this field. This is performed as a search and changes the selected tab. The risk field in the search criteria shows which field you clicked on.&lt;/li&gt;
+&lt;li&gt;Messages with only the value 0 for all of their risk categories do not appear in the matrix.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;drop-down-menus-1&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;p&gt;Not included in the simplified interface.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Selection of departments:
+&lt;ul&gt;
+&lt;li&gt;This department: Only messages registered on the department which is selected in the Navigator are shown.&lt;/li&gt;
+&lt;li&gt;This and subordinate departments: All messages registered on the department which is selected in the Navigator and on its subordinate departments are shown.&lt;/li&gt;
+&lt;li&gt;Subordinate departments: Only messages registered on the subordinate departments of the one which is selected in the Navigator are shown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Display type:
+&lt;ul&gt;
+&lt;li&gt;Total: It shows a risk matrix for the overall result of all risk categories for the messages in the table.&lt;/li&gt;
+&lt;li&gt;Per category: It shows a risk matrix for each risk category that is used in the messages in the table.&lt;/li&gt;
+&lt;li&gt;Individual: It shows a risk matrix for the risk category that is selected in the risk category drop-down menu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Risk category: Appears only when the display type &amp;ldquo;Individual&amp;rdquo; is selected. Determines which risk category is shown in the risk matrix. Only messages with a registered risk value &amp;gt; 0 for the selected risk category will be displayed. Please note that only categories from active category groups are shown here.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;selections&#34;&gt;Selections&lt;/h3&gt;
+&lt;p&gt;Not included in the simplified interface.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All messages drop-down menu: Select a message form and only messages originating from that message form will be shown. Only message forms of the type Risk are shown here.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Date search: From date, To date. Only messages registered in the period displayed here are shown in the table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;table-1&#34;&gt;Table&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;When you click on a line of the main table, the selected message will open in the Edit message page.&lt;/li&gt;
+&lt;li&gt;Hold the cursor over the + symbol in the first column to get more information about a message, including its history.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons-3&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Configure columns: Used to select which columns will be shown in the table.
+&lt;ul&gt;
+&lt;li&gt;The page is reloaded after each change.&lt;/li&gt;
+&lt;li&gt;The column selection lasts until you log out.&lt;/li&gt;
+&lt;li&gt;The column selection also affects export to .pdf in Overview table format (&amp;ldquo;Show summary report&amp;rdquo; option in Option page for reports).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Register new message: Select a button with the name of a message form to register a new message. Only message forms of the type Risk are shown here.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Search: Update the table of messages based on the selected dates.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Expanded view / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Table: Switch between the expanded and the table view. The table gives a compact description of messages intended for use when working with them. The expanded view gives a more complete description of the whole message, similar to the printer friendly (.pdf) version.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show as pdf: Opens the Option page for reports, from which you can create a report with the related risk messages. This is intended for paper printing.&lt;/li&gt;
+&lt;li&gt;LeftArrow.gif and RightArrow.gif Change page: The arrows are used to change pages when there are more than 20 cases that can be shown in the table.&lt;/li&gt;
+&lt;li&gt;Arrowopen.gif and Arrowclosed.gif Sorting: The table is sorted by the column with the Arrowopen.gif. Click on the Arrowclosed.gif to sort by another column.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current page.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs-4&#34;&gt;Tabs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Risk overview: All the risk messages that are registered on the department which is selected in the Navigator.&lt;/li&gt;
+&lt;li&gt;Search: Opens the Message search with the form type Risk preselected.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;help&#34;&gt;Help&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help_icon2.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help is a tab on the Main Page.&lt;/p&gt;
+&lt;p&gt;It is used to refer to the various guidance documents of Qm+. Documents marked as html and unlabeled documents open directly in the browser. Documents marked as ppt, pdf or doc need a browser that supports PowerPoint, pdf or Word files, and may take slightly longer to open.&lt;/p&gt;
+&lt;h3 id=&#34;document-types&#34;&gt;Document types&lt;/h3&gt;
+&lt;h4 id=&#34;introduction-documents&#34;&gt;Introduction documents&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;They deal with how to start with Qm+ in different types of companies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;guidance-documents&#34;&gt;Guidance documents&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;They go through the detailed functionality for the various user types.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;changes-in-the-latest-version&#34;&gt;Changes in the latest version&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;They contain a list of changes made in recent versions. It is particularly important that the super users keep up to date by reading the changes for each new version. Please contact us at &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; when you have questions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons-4&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;log-out&#34;&gt;Log out&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Door_out.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Log out is a tab on the Main Page.&lt;/p&gt;
+&lt;p&gt;Used for logging out of the system. Use this also before you start Qm+ again, for example, before clicking on a link in an email you have received. When you click on such a link without having logged out first, you will be logged out automatically. You will then have to click on the link in the email again.&lt;/p&gt;
+&lt;p&gt;Clicking on Log out will take you to the login screen. From there, you can click on the company logo if you need to log in to another company, for example, if you want to go from a test database to a real database. Or you can simply log in again after writing your username and password as usual.&lt;/p&gt;
+&lt;h1 id=&#34;my-cases-tab-worker&#34;&gt;My cases tab worker&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ My cases is a tab on the Main Page for users having the simplified interface.&lt;/p&gt;
+&lt;h3 id=&#34;buttons-5&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the active window.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs-5&#34;&gt;Tabs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Messages_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Messages: Register a new message and get an overview of your registered messages.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Actions_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Actions: Actions you have to execute and overview of the executed actions. Not included in the standard version.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Questionnaires_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Questionnaires: Checklists, risk analysis lists and survey forms you have to fill out.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;preferences&#34;&gt;Preferences&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Preferences_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Preferences is a tab on the Main Page for users having the simplified interface.&lt;/p&gt;
+&lt;p&gt;This page is used for managing information about the user.&lt;/p&gt;
+&lt;h3 id=&#34;buttons-6&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Closes this page and opens My cases / Messages / Non conformance/Proposals. You can click directly on another tab after you have pressed Save, to go to another location.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;User name: Used for logging into the system. Must be unique for each company. Distinguishes between uppercase and lowercase letters.&lt;/li&gt;
+&lt;li&gt;Password: Used for logging into the system.&lt;/li&gt;
+&lt;li&gt;Repeat password: The user must re-write the password in this field in order to make sure that (s)he has written the password correctly, before any changes can be saved.&lt;/li&gt;
+&lt;li&gt;First name: The user&amp;rsquo;s first name.&lt;/li&gt;
+&lt;li&gt;Middle name: The user&amp;rsquo;s middle name, if there is one.&lt;/li&gt;
+&lt;li&gt;Surname: The user&amp;rsquo;s last name.&lt;/li&gt;
+&lt;li&gt;Email address: The user&amp;rsquo;s email address. It is important that the address written here is valid.&lt;/li&gt;
+&lt;li&gt;Language: If multiple languages are enabled for the user&amp;rsquo;s company, it is possible to select the language here. This will affect all fields in the system. Content fields like texts in the message forms will not be affected. Texts like category names, list names and names on message forms are managed by the company&amp;rsquo;s super user.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

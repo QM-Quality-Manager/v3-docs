@@ -1,0 +1,72 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Info</title>
+    <link>https://docs3.qmplus.com/en/docs/info/</link>
+    <description>Recent content in Info on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Tabs</title>
+      <link>https://docs3.qmplus.com/en/docs/info/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/info/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;goals&#34;&gt;Goals&lt;/h1&gt;
+&lt;p&gt;Goals is a tab under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Info.&lt;/p&gt;
+&lt;p&gt;Used in the standard version to display a textual description of the company&amp;rsquo;s goals. There is a field for &amp;ldquo;Goals for quality management&amp;rdquo; and one for &amp;ldquo;Goals for HES&amp;rdquo;. Users with the user type Manager who are registered on the highest department in the hierarchy have a Save button that allows them to change the content of these fields.&lt;/p&gt;
+&lt;p&gt;Goals are not multilingual and are the same for all departments. If such functionality is desired, use the normal mechanisms for documents (see Info). The tab Goals may be removed in the future.&lt;/p&gt;
+&lt;h1 id=&#34;favourite-documents&#34;&gt;Favourite documents&lt;/h1&gt;
+&lt;p&gt;Favourite documents is a tab under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Info.&lt;/p&gt;
+&lt;p&gt;To be able to see this tab, a user must have the system tab role &amp;ldquo;Info_Favourite documents&amp;rdquo;.
+This page contains in an alphabetical order all the documents that the user has marked as Favourites in Info. When the cursor passes over a document, the &amp;ldquo;remove from favourites&amp;rdquo; icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Heart_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ appears. By clicking on it, the specific document is removed from this page.&lt;/p&gt;
+&lt;h1 id=&#34;managing-documents&#34;&gt;Managing documents&lt;/h1&gt;
+&lt;p&gt;Managing documents is a tab under Info 16px.png Info.&lt;/p&gt;
+&lt;p&gt;Used in the standard version to show the documents. Can be changed / removed by the company&amp;rsquo;s super user.&lt;/p&gt;
+&lt;h1 id=&#34;document-tab&#34;&gt;Document tab&lt;/h1&gt;
+&lt;p&gt;Each document tab appears as a tab under Info.&lt;/p&gt;
+&lt;p&gt;Managed under Edit document tab.&lt;/p&gt;
+&lt;p&gt;Documents are assigned to document tabs under Edit document data.&lt;/p&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for the language: The name of a document tab can be registered once for every language that is activated in the system.&lt;/li&gt;
+&lt;li&gt;Name: Used to identify the document tab in tables and overviews. A document tab can have one name for each language that is activated.&lt;/li&gt;
+&lt;li&gt;Position: The position of the document tab under Info.&lt;/li&gt;
+&lt;li&gt;From department: The document tab will appear under Info from the selected department and from its subordinate departments.&lt;/li&gt;
+&lt;li&gt;Shown for subdepartments: If no, the document tab will only appear under Info when the department selected under &amp;ldquo;From department&amp;rdquo; is selected in the Navigator.&lt;/li&gt;
+&lt;li&gt;Subtab of: Used, if this tab should be a subtab. Then it will appear at a new level of tabs, under the tab that is selected here. Tabs with underlying tabs are not allowed to have their own documents.&lt;/li&gt;
+&lt;li&gt;Information: Text that appears when you hold the cursor over the tab.&lt;/li&gt;
+&lt;li&gt;Roles: A document tab with roles is only shown under Info if the user opening Info or the selected department in the navigator has at least one of the roles the document tab has.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

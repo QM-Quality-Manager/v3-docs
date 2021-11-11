@@ -1,0 +1,3081 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Generel</title>
+    <link>https://docs3.qmplus.com/docs/other/</link>
+    <description>Recent content in Generel on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Endre svaralternativgruppe</title>
+      <link>https://docs3.qmplus.com/docs/other/common_library/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/other/common_library/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her vises alle skjemaer lagt inn i Qm+kundenes fellesbibliotek for den skjematypen man står under. Brukes til å utveksle skjemaer. Dokumenter er planlagt i en senere versjon.&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmeny&#34;&gt;Nedfallsmeny&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Skjematype. Alle skjemaer som lastes opp i fellesbiblioteket kan markeres med ulike nøkkelord. Bruk denne nedfallsmenyen for å se på kun de skjemaene som er markert med valgt nøkkelord.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform og som liste av enkeltspørsmål slik den ser ut når den skal fylles ut.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Importerer aktuelt skjema inn i din Qm+database. Vær oppmerksom på a for meldingsskjemaer vil alle kategorigrupper og kategorier i skjemaet som ikke finnes i din database fra før, bli opprettet på den avdelingen du står på når du trykker på dette ikonet. Dette ikonet kan være deaktiver/grået ut. Det betyr at skjemaet allerede finnes i din database.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter skjemaet som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp for den brukeren som lastet skjemaet opp i fellesbiblioteket.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Hjelp</title>
+      <link>https://docs3.qmplus.com/docs/other/help/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/other/help/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes for å slå opp i ulike veiledningsdokumenter om Qm+. Dokumenter merket med html og umerkede dokumenter åpnes raskt direkte i nettleseren. Dokumenter merket med ppt, pdf eller doc trenger en leser som støtter PowerPoint, pdf eller Word og kan ta noe lengre tid å starte.&lt;/p&gt;
+&lt;h3 id=&#34;dokumenttyper&#34;&gt;Dokumenttyper&lt;/h3&gt;
+&lt;h4 id=&#34;introduksjonsdokumenter&#34;&gt;Introduksjonsdokumenter&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Tar for seg hvordan man kan starte opp med Qm+ i ulike typer virksomheter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;veiledningsdokumenter&#34;&gt;Veiledningsdokumenter&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Går detaljert gjennom funksjonaliteten for de ulike brukertypene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;endringer-i-nyeste-versjon&#34;&gt;Endringer i nyeste versjon&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser lister over endringer utført i de seneste versjonene. Det er spesielt viktig at superbrukerne holde seg oppdatert ved å lese gjennom endringene for hver ny versjon. Ta kontakt med oss på &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; ved spørsmål.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Hjem</title>
+      <link>https://docs3.qmplus.com/docs/other/home/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/other/home/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hjem-er-en-arkfane-på-hovedsiden-dette-er-standard-startside-for-medarbeider&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/House.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjem er en arkfane på Hovedsiden. Dette er standard startside for medarbeider.&lt;/h3&gt;
+&lt;p&gt;Virksomhetens superbruker kan justere hvilke moduler som er aktive. Det kan derfor være at ikke alle mulighetene nedenfor vises i ditt bilde.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Register-message_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Registrer ny melding: Velg et knappen med navnet på et meldingsskjema for å registrere en ny melding.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Messages_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Meldinger: Registrer ny melding og oversikt over dine registrerte meldinger.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Actions_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tiltak: Tiltak du skal utføre og oversikt over utførte tiltak. Ikke med i standardversjonen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Questionnaires_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Spørreskjemaer: Brukes til å fylle ut spørreskjemaer, sjekklister og risikovurderinger. Dersom du har besvart en aktivitet ved å trykke på en lenke i en epost, kan du åpne denne siden for å endre svaret ditt inntil fristen for aktiviteten utløper.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Info: Se på lover,regler,informasjon og andre dokumenter lagt ut av virksomheten.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Preferences_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Innstillinger: Endre informasjon om din bruker.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Dokumentasjon om systemet. Manualer, veiledere og lenke til endringsloggen for Qm+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s8-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Du logger deg inn for første gang og ønsker å registrere en melding. Hva gjør du? Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Registrere en melding&lt;/li&gt;
+&lt;li&gt;Hva er en kategori med lenke&lt;/li&gt;
+&lt;li&gt;Klikke på en kategori&lt;/li&gt;
+&lt;li&gt;Klikke på en radioknapp&lt;/li&gt;
+&lt;li&gt;Lagre/sende skjema&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/basiskunnskaper_medarbeider.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Konsekvens</title>
+      <link>https://docs3.qmplus.com/docs/other/consequence/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/other/consequence/</guid>
+      <description>
+        
+        
+        &lt;p&gt;For å redusere risikoverdien setter man igang konsekvensreduserende tiltak.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eksempel: Hendelse personskade. Mulige konsekvensreduserende tiltak.
+&lt;ul&gt;
+&lt;li&gt;Bruk av hjelm på byggeplass.&lt;/li&gt;
+&lt;li&gt;Førstehjelpsberedskap.&lt;/li&gt;
+&lt;li&gt;Påbud om flytevest på båt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Konsekvensskalaen i Qm+ er 1 - 5. Standardverdiene er:&lt;/p&gt;
+&lt;p&gt;SETT 1&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ubetydelig skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Liten skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stor skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Omfattende skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Alternativt kan kundene definere egne tekster. Disse er også tilgjengelige og kan brukes ved å stille inn Systeminnstillingen RISKSCALE. Vær oppmerksom på at samme settnummer skal bli brukt for både sannsynlighet og konsekvens, med mindre et annet settnummer er definert for Konsekvens i SPAN-feltet.&lt;/p&gt;
+&lt;p&gt;SETT 2&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ufarlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Farlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kritisk&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meget kritisk&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Katastrofalt&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;SETT 3&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Kat 1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kat 2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kat 3&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kat 4&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kat 5&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;SETT 4&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ubetydelig skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Liten skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stor skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Omfattende skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;SETT 5&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ubetydelig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Moderat&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Betydelig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alvorlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Katastrofal&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;SETT 6&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ubetydelig skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Liten skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stor skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Omfattende skade&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;SETT 7&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Liten konsekvens&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Middels konsekvens&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stor konsekvens&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Svært stor konsekvens&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Katastrofalt&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;SETT 8&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ufarlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Farlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kritisk&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meget kritisk&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Katastrofalt&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Navigatoren</title>
+      <link>https://docs3.qmplus.com/docs/other/navigator/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/other/navigator/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Enkel innføring av navigatoren&lt;/li&gt;
+&lt;li&gt;Åpne navigatoren&lt;/li&gt;
+&lt;li&gt;Lukke navigatoren&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/navigator.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h3 id=&#34;navigatoren&#34;&gt;Navigatoren&lt;/h3&gt;
+&lt;p&gt;Navigatoren befinner seg i den venstre spalten i Hovedsiden. Den kan skjules ved å trykke på det grå feltet sentralt på høyrekanten til navigatoren.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/NavigatorOpen.png&#34;  width=&#34;&#34; /&gt;
+
+
+ En åpen navigator&lt;/p&gt;
+&lt;p&gt;For å åpne navigatoren igjen, trykk på Navigator fanen til venstre i bildet.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/NavigatorClosed.png&#34;  width=&#34;&#34; /&gt;
+
+
+ En lukket navigator&lt;/p&gt;
+&lt;p&gt;Det er en systeminnstilling som definerer om Navigator skal starte åpen eller lukket ved pålogging.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Expand.png&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Collapse.png&#34;  width=&#34;&#34; /&gt;
+
+
+ brukes til å brette ut og brette sammen organisasjonskartet. Trykker man derimot på navnet til en avdeling, så vil denne avdelingen bli satt som valgt avdeling.&lt;/p&gt;
+&lt;p&gt;Den avdelingen som er valgt blir brukt som utgangspunkt for det som vises i hovedbildet til høyre for navigatoren. Hva som er valgt avdeling kan man se på to måter. I navigatoren får den en lyseblå bakgrunnsfarge (Slik som Teknisk etat i bildet over) og i hovedbildet vises det tekstlig ved siden av navnet på den påloggede brukeren.&lt;/p&gt;
+&lt;p&gt;Det er en systeminnstilling som definerer om antall brukere per avdeling vises ved siden av hvert avdelingsnavn.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Prosesskartoppsett</title>
+      <link>https://docs3.qmplus.com/docs/other/process_map/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/other/process_map/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Prosesser laget i denne siden kan vises på to måter. Som prosesskart eller som ansvarsmatrise. Når dokumentet åpnes, vil det først vises som prosesskart. Derfra vil du kunne endre visning til ansvarsmatrise om minst en av fasene i prosessen er tilordnet en ansvarlig. Dokumentet vil også automatisk få et dokumenthode med informasjon om dokumentet, tilsvarende det tekstdokumenter skrevet i har Qm+.&lt;/p&gt;
+&lt;p&gt;Denne siden er delt i to deler. Den venstre siden viser en trestruktur for prosessen, mens den gøyre viser detaljer for den delen av treet som er valgt i den venstre siden.&lt;/p&gt;
+&lt;h3 id=&#34;generelt&#34;&gt;Generelt&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Når du oppretter en ny prosess, så får den samme navn som dokumentet den er laget i. Dette kan du endre.&lt;/li&gt;
+&lt;li&gt;Et prosesskart kan lages for alle språk tilgjenglig i systemet.&lt;/li&gt;
+&lt;li&gt;En prosess kan inneholde steg (noe som skal utføres i en rekkefølge) eller oppgaver (kan utføres i vilkårlig rekkefølge). Du kan ikke ha både steg og oppgaver på samme nivå. En ny prosess inneholder som standard 4 steg. Disse kan du så endre og tilpasse. Når man ser på prosesskartet, vises steg i gult og oppgaver i blått. Vi bruker fase som fellesbetegnelse for steg og oppgaver.&lt;/li&gt;
+&lt;li&gt;Hver fase kan ha en eller flere ansvarlige. Det må tilordnes ansvarlige til minst en fase om prosessen skal kunne vises som ansvarsmatrise. Ansvarlige kan være av typene:
+&lt;ul&gt;
+&lt;li&gt;Objekt: bruker, rolle, brukertype, avdeling.&lt;/li&gt;
+&lt;li&gt;Tekst: tekstfelt med begrenset størrelse (50 bokstaver).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hver fase kan ha attributter (selv om det er en prosess med underprosesser). Attributtene kan være av type:
+&lt;ul&gt;
+&lt;li&gt;Objekt: bruker,rolle, brukertype, meldingsskjema, dokument eller avdeling.&lt;/li&gt;
+&lt;li&gt;Tekst: begrenset lengde, vises inne i samme boks som navnet på steget/oppgaven (50 bokstaver).&lt;/li&gt;
+&lt;li&gt;Notat: lenger tekstfelt som vises i egen tabell under prosesskartet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Opprette prosesskart&lt;/li&gt;
+&lt;li&gt;Ansvarskoder&lt;/li&gt;
+&lt;li&gt;Steg&lt;/li&gt;
+&lt;li&gt;Attributt&lt;/li&gt;
+&lt;li&gt;Oppgaver&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/prosesskart.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h3 id=&#34;hvordan-lage-et-prosesskart&#34;&gt;Hvordan lage et prosesskart&lt;/h3&gt;
+&lt;p&gt;Etter at du har laget et nytt dokument av typen prosesskart og fyllt inn de vanlige dokumentrelaterte opplysningene, så trykker du Lagre. Dette gjør arkfanen Prosesskartoppsett vises. Når du trykker på den første gangen, lager systemet automatisk en prosess med samme navn som dokumentet som inneholder 4 hovedsteg. Om du ser på treestrukturen til ventre i bildet, så ser du disse 4 stegene. Hver gang du trykker på en fase i treet, så viser den høyre delen av bildet informasjon om den aktuelle fasen. Fasene i treet kan klikkes på med høyre musetast for en hurtigmeny for å utføre operasjoner på den aktuelle fasen. Dette er som regel mye raskere enn å bruke tilsvarende knapper i det høyre hovedbildet.&lt;/p&gt;
+&lt;h4 id=&#34;endre-prosessen&#34;&gt;Endre prosessen&lt;/h4&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Keyboard.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Språkinnstillinger&lt;/p&gt;
+&lt;p&gt;Her vises språkene som er tilgjengelig i din virksomhet. Kryss av for de språkene du ønsker prosesskartet skal være tilgjenglig i og gi det navn i alle språkene. Språkene du velger her vil gjelde for hele prosesskartet.&lt;/p&gt;
+&lt;h4 id=&#34;hahahugoshortcode-s4-hbhb-velg-ansvarskoder-for-prosessen&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_gear.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Velg ansvarskoder for prosessen&lt;/h4&gt;
+&lt;p&gt;Her kan du velge hvilke av de tilgjenglige ansvarskodene som skal brukes i dette prosesskartet. Velg de du ønsker fra listen til høyre og trykk på Legg til knappen. Ansvarskodene du velger her vil senere kunne brukes når du legger til ansvarlige for de ulike fasene. Dersom du trenger å lage en ny ansvarskode, så kan du lukke dette vinduet og trykke på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny ansvarskode knappen. Det vil ta deg til ansvarskode arkfanen hvor du kan lage den nye ansvarskoden. Når du trykker Lagre og Lukk der, vil du komme tilbake til denne siden. Det må tilordnes ansvarskoder til prosessen om den skal kunne vises som ansvarsmatrise.&lt;/p&gt;
+&lt;h4 id=&#34;sett-standard-attributt-type&#34;&gt;Sett standard attributt type&lt;/h4&gt;
+&lt;p&gt;Her får du en liste med de tilgjengelige attributtypene. Det du velger her vil være forhåndsvalgt hver gang du legger til en ansvarlig eller et attributt av typen Objekt til en fase. Om du ikke velger noe her, vil typen øverst i listen være forhåndsvalgt. Denne operasjonen er kun ment for å spare arbeid senere og har ingen effekt utover dette.
+Endre en fase&lt;/p&gt;
+&lt;h4 id=&#34;hahahugoshortcode-s6-hbhb-legg-til-steg&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Stepimage.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til steg&lt;/h4&gt;
+&lt;p&gt;Her kan du legge inn navnet på steget i alle språkene du valgte i Språkinnstillinger tidligere. Du kan også legge inn posisjon, som viser hvor i rekkefølgen dette steget kommer. Denne knappen er kun synlig om det ikke er laget noen faser av typen oppgave på dette nivået.&lt;/p&gt;
+&lt;p&gt;Merk: Som standard settes prosessen opp med 4 hovedsteg. Du kan lage flere av dem om du bruker denne knappen når prosessnavnet er valgt i treet, eller du høyreklikker på denne. Hvis prosessen din skal bestå av oppgaver istedet for steg, så må du slette de eksisterende stegene. Det gjør du ved å høyreklikke på et steg i treet og velge Slett. Når alle stegene er slette, vil muligheten for å legge til oppgaver bli synlig.&lt;/p&gt;
+&lt;h4 id=&#34;hahahugoshortcode-s7-hbhb-legg-til-oppgave&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Taskimage.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til oppgave&lt;/h4&gt;
+&lt;p&gt;Her kan du legge inn navnet på steget i alle språkene du valgte i Språkinnstillinger tidligere. Du kan også velge posisjon, som kun vil påvirke hvor oppgaven vil vises i trestrukturen under den overliggende fasen. Denne knappen er kun synlig om det ikke er laget noen faser av typen steg på dette nivået.&lt;/p&gt;
+&lt;h4 id=&#34;hahahugoshortcode-s8-hbhb-importer-prosesskart&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Importer prosesskart&lt;/h4&gt;
+&lt;p&gt;Med denne knappen kan du importere et eksisterende prosesskart inn i dette prosesskartet. Endringer utført på orginalen etter importen vil ikke påvirke dette prosesskartet. Du kan også fritt endre enhver av de importerte fasene uten at det påvirker prosesskartet som ble importert. Denne knappen er kun synlig om det ikke er laget noen faser på dette nivået.&lt;/p&gt;
+&lt;h4 id=&#34;endre&#34;&gt;Endre&lt;/h4&gt;
+&lt;p&gt;Denne muligheten vises når du høyreklikker på en fase i teet og gir samme muligheter som de so vises på høyre side når du trykker på fasen i treet med venstre museknapp.&lt;/p&gt;
+&lt;h4 id=&#34;slett&#34;&gt;Slett&lt;/h4&gt;
+&lt;p&gt;Denne muligheten vises når du høyreklikker på en fase i teet. Hvis fasen du forsøker å slette har underfaser blir du spurt om hva du vil gjøre med disse. Du kan enten slette dem eller flytte dem under en annen fase. Dersom fasen du forsøker å slette ikke har underfaser, vil du kun bli spurt om du virkelig ønsker å slette fasen.&lt;/p&gt;
+&lt;h4 id=&#34;legg-til-ansvarlig&#34;&gt;Legg til ansvarlig&lt;/h4&gt;
+&lt;p&gt;Her kan du velge hvem som skal være ansvarlig for den valgte fasen og hvilken ansvarskode den ansvarlige skal ha. Du kan ha flere ansvarlige for samme fase, både med samme eller ulik ansvarkode. Når du legger til en ansvarlig, velger du først ansvarskoden, deretter typen til den ansvarlige. Du kan velge mellom objekt eller tekst. Velg objekt om du ønsker å tilknytte enten en bruker,rolle, brukertype eller avdeling (her vil den typen du har valgt som standard attributtype være forhåndsvalgt). Hvis ikke, velger du tekst som gir deg muligheten til å legge inn en kort beskrivende tekst (maks 50 tegn). Alle ansvarlige du legger til her, vil vises i en tabell under Legg til ansvarlig knappn. Der vil du senere kunne gjøre endringer ved å bruke knappene for 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ endre eller 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ slette.&lt;/p&gt;
+&lt;h4 id=&#34;legg-til-attributt&#34;&gt;Legg til attributt&lt;/h4&gt;
+&lt;p&gt;Her kan du legge til flere attributrer til fasen. Først velger du typen til attributtet. Her vil den typen du har valgt som standard attributtype være forhåndsvalgt. De tilgjenglige typene er:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Objekt: Gir ekstra valg av objekttype:
+&lt;ul&gt;
+&lt;li&gt;Bruker: Brukerens navn vises i prosesskartet.&lt;/li&gt;
+&lt;li&gt;Rolle: Rollens navn vises i prosesskartet.&lt;/li&gt;
+&lt;li&gt;Brukertype: Brukertypens navn vises i prosesskartet.&lt;/li&gt;
+&lt;li&gt;Avdeling: Avdelingens navn vises i prosesskartet. Denne fasen vil vises som standard når prosesskartet vises senere dersom samme avdeling er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Dokument: Dokumentets navn vises i prosesskartet sammen med dokumentikonet. Trykker man på navnet eller ikonet, vil dokumentet åpnes i et eget vindu. Dokumentattributter vises også i ansvarskartet.&lt;/li&gt;
+&lt;li&gt;Meldingsskjema: Skjemaet navn, sammen med meldingsskjemaikonet vises i prosesskartet. Trykker man på skjemaet der, vil det åpnes klart til utfylling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tekst: Tekstfelt med begrenset størrelse (50 tegn).&lt;/li&gt;
+&lt;li&gt;Notat: Gir mulighet for å skrive en lengre tekst. I prosesskartet vises notater kun som ordet notat med et nummer bak i listen over attributter. Selve notatteksten vises i en egen tabell nederst i siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Du kan også velge posisjon som bestemmer rekkefølgen til attributtene i fasen.&lt;/p&gt;
+&lt;p&gt;Alle attributter du legger til vil vises i tabellen under knappen. Der kan du senere endre attributtene ved å bruke 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ endre eller 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ slette.&lt;/p&gt;
+&lt;h3 id=&#34;visning&#34;&gt;Visning&lt;/h3&gt;
+&lt;p&gt;Et dokument av typen prosesskart kan vises på to måter: som 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ prosesskart (grafisk presentasjon av prosessen) eller 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_side_tree.png&#34;  width=&#34;&#34; /&gt;
+
+
+ ansvarsmatrise (dersom noen ansvarlige er lagt til prosessen). Knapper for å åpne disse bildene vises nederst på siden og åpner visningen i et nytt vindu.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Når dokumentet er åpnet, får det automatisk et dokumenthode med informasjon om dokumentet, likt den tekstdokumenter skrevet i Qm+ får.&lt;/li&gt;
+&lt;li&gt;Begge visningsmåtene kan eksporteres til en .pdf fil. Om man trykker på Vis som pdf knappen åpnes Alternativer for prosessrapporter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;prosesskart&#34;&gt;Prosesskart&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Navnet på prosessen vises sentralt over selve prosesskartet.&lt;/li&gt;
+&lt;li&gt;Steg vises som gule bokser. De er forbundet med overliggende faser via svarte piler.&lt;/li&gt;
+&lt;li&gt;Oppgaver vises med blå bokser og er forbumnet med overliggende faser med små, blå piler.&lt;/li&gt;
+&lt;li&gt;Dersom visning av hele prosesskartet ikke er skrudd på, så kan de fasene som har underliggende faser trykkes på for å utvide den delen av prosesskartet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;velg-hva-du-vil-se&#34;&gt;Velg hva du vil se&lt;/h4&gt;
+&lt;p&gt;Øverst til høyre ser du et felt som inneholder avkryssingsfelt for hva som skal vises i prosesskartet. Det som er krysset av her vil også være med om man bruker Vis som pdf knappen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis ansvarlige: Skrur visningen av de ansvarlige av og på. De ansvarlige vises med ansvarskode og navn med rød skrift i de fasene de er lagt inn.&lt;/li&gt;
+&lt;li&gt;Vis attrbutter:
+&lt;ul&gt;
+&lt;li&gt;Meldingsskjemaer vises med blå skrift og har ikonet 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ forran. Om man trykker på navnet eller ikonet vil vinduet med prosesskartet lukkes og skjemaet kommer opp klar til utfylling. Når du lukker meldingsskjemaet blir du tatt tilbake igjen til siden du åpnet prosesskartet fra.&lt;/li&gt;
+&lt;li&gt;Dokumenter vises med blå skrift og har ikonet 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+. Om du klikker på navnet på dokumentet eller ikonet åpnes dokumentet i et nytt vindu.&lt;/li&gt;
+&lt;li&gt;Notater vises som Notat&lt;nummer&gt; med cvart skrift i prosesskartet. Disse kan trykkes på og endrer da fokus til tabellen under prosesskartet hvor notatene er listet opp.&lt;/li&gt;
+&lt;li&gt;Alle andre typer attributter vises med svart skrift. Det har ingen effekt å trykke på de.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vis hele prosesskartet: Skrur visning av hele prosesskartet av og på. Når denne er skrudd av, vises kun fasene på første nivå. Dersom noen av disse har underfaser, så kan de trykkes på for å vise disse. Hvis musepekeren bli til en hånd når du holder pekeren over fasen, kan den trykkes på for å utvides.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ansvarsmatrise&#34;&gt;Ansvarsmatrise&lt;/h4&gt;
+&lt;p&gt;Dersom en prosess har minst en ansvarlig definert for en fase, kan prosessen vises som en ansvarsmatrise. Ansvarsmatrisen lister opp alle fasene i en trestruktur sammen med navnene på de ansvarlige og ansvarskoden de har i de ulike fasene.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dersom en fase har et dokumentattributt, vises ikonet 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ ved siden av prosessnavnet. Trykker du på dette vil feltet uvide seg og vis navnene på alle dokumentattributter i den fasen. Disse kan igjen trykkes på for å åpne de aktuelle dokumentene.&lt;/li&gt;
+&lt;li&gt;Under ansvarsmatrisen ligger en egen tabell med navnene og informasjonsfeltene for alle ansvarskodene tilknyttet denne prosessen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Risiko</title>
+      <link>https://docs3.qmplus.com/docs/other/risk/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/other/risk/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Vises kun for de virksomhetene som har aktivisert Risikomeldingsmodulen for de brukerne som har systemrollen Risiko. Hensikten er å vise risikobildet for virksomheten akurat nå.&lt;/p&gt;
+&lt;p&gt;Risiko inneholder alle risikomeldinger i systemet fra avdelinger som er aktive. Risikomeldinger er meldinger som brukes for å lage en risikooversikt for virksomheten. Det er opp til virksomheten om risikomeldingene skal behandles eller om de kun skal registreres og lagres i arkivet. Vår anbefaling er at de ikke behandles, kun oppdateres årlig. Meldinger registrert her dukker ikke opp i Innboks med mindre man bruker behandling for å aktivere dem. Meldingstypen risikomelding er ikke aktivert i standardversjonen.&lt;/p&gt;
+&lt;p&gt;Ved søk enten fra Rapporter, Søk for meldinger eller ved trykk i risikomatrisen vises det over resultattabellen en oversikt over de søkekriteriene som er satt for søket.&lt;/p&gt;
+&lt;h3 id=&#34;risikomatrise&#34;&gt;Risikomatrise&lt;/h3&gt;
+&lt;p&gt;Risikomatrisen gir et risikobilde for den valgte delen av virksomheten. Tallene i matrisen viser hvor mange av meldingene i tabellen nedenfor som har risikokategorier med verdier tilsvarende feltet i risikomatrisen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tallene i risikomatrisen viser kun kategorier fra meldinger i tabellen under.&lt;/li&gt;
+&lt;li&gt;Navigatoren brukes for å sette startavdeling for risikooversikten.&lt;/li&gt;
+&lt;li&gt;Trykk på et felt i risikomatrisen for å se på kun de meldingene som har kategorier i dette feltet. Dette utføres som et søk og skifter arkfane. Risikofeltet i søkekriteriene viser hvilket felt du trykket på.&lt;/li&gt;
+&lt;li&gt;Meldinger med kun verdien 0 for alle sine risikokategorier vises ikke i risikomatrisen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;p&gt;Ikke med i forenklet grensesnitt.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avdelingsvalg:
+&lt;ul&gt;
+&lt;li&gt;Denne avdelingen: Kun meldinger registrert på avdelingen valgt i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Denne og underliggende avdelinger: Alle meldinger registrert fra og med avdelingen valgt i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Kun underliggende avdelinger: Kun meldinger registrert på avdelingen under avdelingen valgt i navigatoren vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Visningstype:
+&lt;ul&gt;
+&lt;li&gt;Totalt: Det vises en risikomatrise for det samlede resultat av alle risikokategorier for meldingene i tabellen.&lt;/li&gt;
+&lt;li&gt;Per kategori: Det vises en risikomatrise for hver risikokategori som er brukt i meldingene i tabellen.
+Individuell: Det vises en risikomatrise for den risikokategorien som er valgt i risikokategori nedfallsmenyen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Risikokategori: Vises kun for Visningstypen Individuell. Bestemmer hvilken risikokategori som vises i risikomatrisen. Kun meldinger med en registrert risikoverdi &amp;gt; 0 for den valgte risikokategorien vil bli vist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;p&gt;Ikke med i forenklet grensesnitt.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nedfallsmeny Alle meldinger: Velg et meldingsskjema og kun meldinger registrert med dettemeldingsskjema vises. Kun meldingsskjemaer av typen Risiko vises her.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Datofelt: Brukes for å sette fra og til dato for meldingene som skal vises i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil meldingen åpnes i endre melding.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en melding, inkludert historikken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tilpass kolonner: Brukes til å justere hvilke kolonner som vises.
+&lt;ul&gt;
+&lt;li&gt;Siden lastes på nytt etter hver endring.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene varer til du logger ut.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene gjelder også om du eksporterer til PDF som Oversiktstabell.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Registrer ny melding: Velg en knapp med navnet på et meldingsskjema for å registrere en ny melding. Kun meldingsskjemaer av typen Risiko vises her.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Søk: Oppdater listen av meldinger til å bli basert på valgt dato.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvidet visning/Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument. Denne er beregnet på utskrift til papir.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ for å sortere på en annen kolonne.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det skjermbildet som vises på skjermen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Risikooversikt: Alle risikomeldinger registrert på den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Søk: Åpner søk for meldinger med skjematype Risiko forhåndsvalgt.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Sannsynlighet</title>
+      <link>https://docs3.qmplus.com/docs/other/probability/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/other/probability/</guid>
+      <description>
+        
+        
+        &lt;p&gt;For å redusere risikoverdien setter man igang Sannsynlighetsreduserende tiltak.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eksempel: Hendelse personskade. Mulige Sannsynlighetsreduserende tiltak.
+&lt;ul&gt;
+&lt;li&gt;Korrekt og tilstrekkelig opplæring.&lt;/li&gt;
+&lt;li&gt;Bruke stillaser istedenfor stiger ved arbeid i høyden.&lt;/li&gt;
+&lt;li&gt;Strø glatte partier utendørs om vinteren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sannsynlighetsskalaen i Qm+ er 1 - 5. Standardverdiene er:&lt;/p&gt;
+&lt;h3 id=&#34;sett-1&#34;&gt;SETT 1&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Hendelser per 20 år mindre enn 1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 hendelse per 10 år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 hendelse per år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 hendelse per måned&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 hendelse eller mer per uke&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Alternativt kan kundene definere egne tekster. Disse er også tilgjengelige og kan brukes ved å stille inn Systeminnstillingen RISKSCALE. Vær oppmerksom på at samme settnummer skal bli brukt for både sannsynlighet og konsekvens, med mindre et annet settnummer er definert for Konsekvens i SPAN-feltet.&lt;/p&gt;
+&lt;h3 id=&#34;sett-2&#34;&gt;SETT 2&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Svært lite sannsynlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lite sannsynlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sannsynlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meget sannsynlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Svært sannsynlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;sett-3&#34;&gt;SETT 3&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Kat 1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kat 2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kat 3&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kat 4&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kat 5&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;sett-4&#34;&gt;SETT 4&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Hendelse som inntreffer mindre enn hvert 60. år.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hendelse som inntreffer en gang mellom hvert 30. år og hvert 60. år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hendelse som inntreffer en gang mellom hvert 10. år og hvert 30. år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hendelse som inntreffer en gang mellom hvert år og hvert 10. år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hendelse som inntreffer mer enn en gang hvert år&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;sett-5&#34;&gt;SETT 5&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Veldig usannsynlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Usannsynlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mulig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sannsynlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Veldig sannsynlig&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;sett-6&#34;&gt;SETT 6&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Sjeldnere enn 1 hendelse per 20 år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Omkring 1 hendelse per 10-20 år eller oftere&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Omkring 1 hendelse per 10 år eller oftere&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Omkring 1 hendelse per år eller oftere&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;10 hendelser per år eller oftere&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;sett-7&#34;&gt;SETT 7&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Mindre enn 1 hendelse hvert 50 år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mellom 1 hendelse hvert 10. år og en gang hvert 50. år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mellom 1 hendelse hvert år og en gang hvert 10. år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mer enn en gang hvert år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 hendelse eller mer per måned&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;sett-8&#34;&gt;SETT 8&lt;/h3&gt;
+&lt;p&gt;(Please note that there is no Set 8 defined for Consequence, so if you select this set for Probability, you must also define in the SPAN field which Consequence set you wish to use for this customer)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Mindre enn 1 gang pr. 10 år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 gang pr. 5 år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 gang pr. 2 år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 gang pr. år&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Flere enn en gang pr. år&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Systeminnstillinger</title>
+      <link>https://docs3.qmplus.com/docs/other/system_settings/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/other/system_settings/</guid>
+      <description>
+        
+        
+        &lt;p&gt;REPORT&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LISTLENGTH: How many lines are shown in the four most common / most expensive tables.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;1 gives all. -1 turns off the four parts of the heading (four most common / most expensive).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 4&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LISTCOST
+&lt;ul&gt;
+&lt;li&gt;0 - The listCost field is not shown in the table.&lt;/li&gt;
+&lt;li&gt;1 - Shows the listCost.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LISTAMOUNT
+&lt;ul&gt;
+&lt;li&gt;0 - The listAmount field is not shown in the table. // ORDER BY Data_Element_4 DESC&lt;/li&gt;
+&lt;li&gt;1 - Shows the listAmount. // ORDER BY Data_Element_2 DESC&lt;/li&gt;
+&lt;li&gt;-1 - The listAmount field is not shown // ORDER BY TEXTTAG ASC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;GRAPHAMOUNT
+&lt;ul&gt;
+&lt;li&gt;0 - Viser ikke amount grafen.&lt;/li&gt;
+&lt;li&gt;1 - Viser amount grafen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;GRAPHCOST
+&lt;ul&gt;
+&lt;li&gt;0 - Viser ikke cost grafen.&lt;/li&gt;
+&lt;li&gt;1 - Viser cost grafen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;GRAPHORDER
+&lt;ul&gt;
+&lt;li&gt;0 - ALPHABETICAL&lt;/li&gt;
+&lt;li&gt;1 - OCCURENCES&lt;/li&gt;
+&lt;li&gt;2 - COST&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;TABLEORDER
+&lt;ul&gt;
+&lt;li&gt;0 - OCCURENCES&lt;/li&gt;
+&lt;li&gt;1 - COST&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SORTTYPE
+&lt;ul&gt;
+&lt;li&gt;0 - ASCENDING&lt;/li&gt;
+&lt;li&gt;1 - DESCENDING&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PAPERVERSION
+&lt;ul&gt;
+&lt;li&gt;0 - Viser ikke papirversjonsknappen&lt;/li&gt;
+&lt;li&gt;1 - Viser den.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EMPLOYEEGRAPH
+&lt;ul&gt;
+&lt;li&gt;0 - Viser ikke employeegrafen&lt;/li&gt;
+&lt;li&gt;1 - Viser den&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWDATESELECT
+&lt;ul&gt;
+&lt;li&gt;0 - Viser ikke nedfallsmenyen for tidsperioder&lt;/li&gt;
+&lt;li&gt;1 - Viser nedfallsmenyen for tidsperioder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYCATEGORYCHART
+&lt;ul&gt;
+&lt;li&gt;0 - Kategorigrafen starter skjult&lt;/li&gt;
+&lt;li&gt;1 - Kategorigrafen starter synlig&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYTOTALCHART
+&lt;ul&gt;
+&lt;li&gt;0 - Totalgrafen starter skjult (Oversikt etter Avdelinger checkbox unselected)&lt;/li&gt;
+&lt;li&gt;1 - Totalgrafen starter synlig (Oversikt etter Avdelinger checkbox unselected)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYSTATUSCHART
+&lt;ul&gt;
+&lt;li&gt;0 - Statusgrafen starter skjult&lt;/li&gt;
+&lt;li&gt;1 - Statusgrafen starter synlig&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYFORMCHART
+&lt;ul&gt;
+&lt;li&gt;0 - Skjemagrafen starter skjult&lt;/li&gt;
+&lt;li&gt;1 - Skjemagrafen starter synlig&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYPRIORITYCHART
+&lt;ul&gt;
+&lt;li&gt;0 - Priorietsgrafen chart starter skjult&lt;/li&gt;
+&lt;li&gt;1 - Prioritetsgrafen starter synlig&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYUSERCHART
+&lt;ul&gt;
+&lt;li&gt;0 - Brukergrafen starter skjult&lt;/li&gt;
+&lt;li&gt;1 - Brukergrafen starter synlig&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYTRENDCHART
+&lt;ul&gt;
+&lt;li&gt;0 - Fordeling over tid grafen starter skjult&lt;/li&gt;
+&lt;li&gt;1 - Fordeling over tid grafen starter synlig&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;REPORT_INCLUDE_BLANK_DEPARTMENTS
+&lt;ul&gt;
+&lt;li&gt;0 - Avdelinger uten meldinger vises ikke i Oversikt etter avdelinger&lt;/li&gt;
+&lt;li&gt;1 - Avdelinger uten meldinger vises i Oversikt etter avdelinger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWFORMSELECT Om grafer etter skjema skal vises eller ikke i grafsiden.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWPRDEPCAT (Ikke i bruk)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;FAULTCASEPROCESS&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SENDEMAIL (NOT IN USE, replaced by ACTIONCASEPROCESS_SENDEMAIL)
+&lt;ul&gt;
+&lt;li&gt;0 - Send epost til saksbehandler ved send avvik til saksbehandler er Standardverdi ikke avvkrysset.&lt;/li&gt;
+&lt;li&gt;1 - Send epost til saksbehandler ved send avvik til saksbehandler er Standardverdi avvkrysset.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;USERSENDEMAIL (Ikke i bruk)
+&lt;ul&gt;
+&lt;li&gt;0 - Epost til feilmelderfeltet ikke avkrysset&lt;/li&gt;
+&lt;li&gt;1 - Epost til feilmelderfeltet avkrysset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CASEPROCESSSENDEMAIL
+&lt;ul&gt;
+&lt;li&gt;0 - E-post til saksbehandlderfeltet ikke avkrysset&lt;/li&gt;
+&lt;li&gt;1 - E-post til saksbehandlderfeltet avkrysset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SETDEFAULOWNER
+&lt;ul&gt;
+&lt;li&gt;0 - Owner må settes manuelt når et tiltak lages&lt;/li&gt;
+&lt;li&gt;1 - Owner settes lik den aktive brukeren når et tiltak lages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTIONTAB
+&lt;ul&gt;
+&lt;li&gt;0 - Tilknytt tiltakarkfanen vises ikke&lt;/li&gt;
+&lt;li&gt;1 - Tilknytt tiltakarkfanen vises&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EXPANDEDFIXEDDIRECTLY : Registrer navn på og beskrivelse av tiltaket ved rettet straks. Parameteren kun påvirker Avslutt saken.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;USENROFTEXTFIELDS : Når tiltak lages fra meldingsskjemaer med mer enn 2 tekstfelter, styres tekstfeltene til tiltaket. standard
+&lt;ul&gt;
+&lt;li&gt;0 - Tekstfelt 1 i meldingen -&amp;gt; felt 1 i tiltaket.&lt;/li&gt;
+&lt;li&gt;2 - Alle tesktfelt i meldingen -&amp;gt; felt 1 i tiltaket&lt;/li&gt;
+&lt;li&gt;3 - Tekstfelt 1 i meldingen -&amp;gt; felt 1 i tiltaket. Resten av tekstfeltene i meldingen -&amp;gt; forhindre gjentakelse feltet i tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;COMMENTTEXTFIELDS : Når tiltak lages fra meldingsskjemaer tas alle tekstfelter fra og med tekstfeltet med nummer gitt her og legges til i kommentarfeltet i tiltaket automatisk. Både navnet på feltet og innholdet i feltet blir tatt med. Spesialbestilt av Tess.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;X - Nummer. Ta med tekstfelt fra og med dette nummer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CASEDOCUMENTS : Vedlegg til meldinger
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWCOMPLETEMESSAGE : Når man åpner meldingsbehandling blir alle kategoriene vist.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FAULTCASEPROCESS_USERFEEDBACK_DEFAULT_ON_CLOSE : Send en beskjed om saken starter avkrysset som standard for alle handlinger som lukker saken
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;INFOSENDEMPTYEMAIL (Ikke i bruk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;INFOTOPUSERDEP : Brukes for å sette hvilken avdeling som brukes som utgansgpunkt for å hente brukerne for &amp;ldquo;Alle&amp;rdquo; valget i &amp;ldquo;Informer flere&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - &amp;ldquo;Alle&amp;rdquo; valget er ikke tilgjengelig&lt;/li&gt;
+&lt;li&gt;-1 - &amp;ldquo;Alle&amp;rdquo; valget er tilgjengelig, men bruker avdelingen spesifisert i SPAN som utgangspunkt
+&lt;ul&gt;
+&lt;li&gt;Span: Hvis INFOTOPUSERDEP = -1, brukes span til å justere øverste avdeling&lt;/li&gt;
+&lt;li&gt;0 - Bruk avdelingen over innlogget avdeling (standardverdi)&lt;/li&gt;
+&lt;li&gt;X - Kun avdelinger under dette avdelingsnummeret kan brukes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Alle andre verdier, &amp;ldquo;Alle&amp;rdquo; valget tilgjengelig. Bruk verdien som avdelingsnummer, f.eks 1 for at alle skal kunne velge alle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Standardverdi null (Bruk øverste tilgjenglige avdeling for den aktive brukeren).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;INFOROLESETUP : Justerer øverste avdeling å hente brukere fra for rollevalgene i Informer flere
+&lt;ul&gt;
+&lt;li&gt;0 - Bruk øverste avdeling 1&lt;/li&gt;
+&lt;li&gt;1 - Bruk brukerens innloggede avdeling&lt;/li&gt;
+&lt;li&gt;2 - Bruk valgt avdeling&lt;/li&gt;
+&lt;li&gt;-1 - Bruk avdelingen over innlogget avdeling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NOACTIONNAME : Om navnet på tiltaket skal starte tomt eller ikke.
+&lt;ul&gt;
+&lt;li&gt;0 - Navnet på tiltaket blir satt opp med de første 20 bokstavene fra første tekstfelt i meldingen&lt;/li&gt;
+&lt;li&gt;1 - Starter blankt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NOACTIONDESCRIPTION : Om første tekstfelt i tiltaket skal starte tomt eller ikke.
+&lt;ul&gt;
+&lt;li&gt;0 - Tekstfeltet blir satt opp som kopi av første tekstfelt i meldingen&lt;/li&gt;
+&lt;li&gt;1 - Starter blankt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NOPREVENTIONDESCRIPTION : Om andre tekstfelt i tiltaket skal starte tomt eller ikke.
+&lt;ul&gt;
+&lt;li&gt;0 - Tekstfeltet blir satt opp som kopi av første tekstfelt i meldingen&lt;/li&gt;
+&lt;li&gt;1 - Starter blankt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;STANDARDACTIONTYPE : (Ikke i bruk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DEFAULTACTIONOWNER  : (Ikke i bruk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SHOWALLCATEGORIESINEMAILS : Alle kategorier i meldingen inkluderes i eposter om saken, ikke kun definerende.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ACTIONCASEPROCESS&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SENDEMAIL
+&lt;ul&gt;
+&lt;li&gt;0 - Send epost til ansvarlig for utførelse ved tiltakstildeling er Standardverdi ikke avkrysset.&lt;/li&gt;
+&lt;li&gt;1 - Send epost til ansvarlig for utførelse ved tiltakstildeling er Standardverdi avkrysset.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;STRICTAPPROVAL
+&lt;ul&gt;
+&lt;li&gt;0 - Alle ledere kan godkjenne et tiltak&lt;/li&gt;
+&lt;li&gt;1 - Kun den lederen som står som ansvarlig for å godkjenne tiltaket kan godkjenne det.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTIONTOPUSERDEP Brukes for å sette hvilken avdeling som brukes som utgangspunkt for å hente brukerne man kan tilordne til tiltak
+&lt;ul&gt;
+&lt;li&gt;-1 - Bruk avdelingen over den øverste tilgjengelige avdeling for den aktive brukeren&lt;/li&gt;
+&lt;li&gt;0 - Bruk øverste tilgjengelige avdeling for den aktive brukeren, activeDepNr&lt;/li&gt;
+&lt;li&gt;andre - Bruk verdien som avdelingsnummer, f.eks 1 for at alle skal kunne velge alle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTIONTEXTTAG Brukes for å bestemme hva som står over tiltaksbeskrivelsesfeltet.
+&lt;ul&gt;
+&lt;li&gt;1 Jobbeskrivelse&lt;/li&gt;
+&lt;li&gt;2 Korrigerende tiltak&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;COST&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;TIME&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;START_DATE_FIELD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CHANGEMESSAGEDUEDATE Endre frist for melding for å matche tiltaksfristen, hvis frist for melding er tidligere.
+&lt;ul&gt;
+&lt;li&gt;0 - Frist for melding er uavhengig av frist for tiltak&lt;/li&gt;
+&lt;li&gt;1 - Frist for melding oppdateres automatisk for å matche tiltaksfristen hvis forfallsdato for tiltaket er etter forfallsdatoen for meldingen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;LOGON&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TOPSELECTABLELOGONDEPNR
+&lt;ul&gt;
+&lt;li&gt;-1 - Bruk PRESETLOGONDEPNR.&lt;/li&gt;
+&lt;li&gt;Ellers - Øverste avdelingsnummer i avdelingstreet det er lov til å logge seg på anonymt eller opprette bruker på. Har bare effekt dersom slik pålogging er tillat fra innstillinger i control databasen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PRESETLOGONDEPNR : Dersom anonym pålogging eller egengenerering av brukere er tillat, og man ikke ønsker at brukerne selv skal velge avdeling, setter man avdelingsnummeret her.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DIRECTLOGONHEADER : Hva skal stå i overskriften på directlogon siden ved siden av velg.
+&lt;ul&gt;
+&lt;li&gt;0 - Sted&lt;/li&gt;
+&lt;li&gt;1 - Avdeling&lt;/li&gt;
+&lt;li&gt;2 - Organisasjon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LOGONHEADER : Hva skal stå i overskriften på påloggingssiden.
+&lt;ul&gt;
+&lt;li&gt;0 - Sikkerhetsstyring&lt;/li&gt;
+&lt;li&gt;1 - Kvalitetssystem&lt;/li&gt;
+&lt;li&gt;2 - Kartlegging&lt;/li&gt;
+&lt;li&gt;3 - Kvalitetsstyringssystem&lt;/li&gt;
+&lt;li&gt;4 - HMS-rapportering&lt;/li&gt;
+&lt;li&gt;5 - Avviks-/HMS-meldingssystem&lt;/li&gt;
+&lt;li&gt;6 - Kvalitetsportalen&lt;/li&gt;
+&lt;li&gt;7 - HMS og Kvalitetssystem&lt;/li&gt;
+&lt;li&gt;8 - HMSSK styringssystem&lt;/li&gt;
+&lt;li&gt;9 - Kvalitets- og avvikssystem&lt;/li&gt;
+&lt;li&gt;10 - Ledelsessystem&lt;/li&gt;
+&lt;li&gt;11 - Kvalitet og internkontroll&lt;/li&gt;
+&lt;li&gt;12 - Ledelsessystem for kvalitet og miljø&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;WORKERSTARTPAGE : Åpningsbildet for Brukere
+&lt;ul&gt;
+&lt;li&gt;0 - Avvik og forslag&lt;/li&gt;
+&lt;li&gt;1 - Forebyggende aktiviteter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MANAGERSTARTPAGE: Defines the starting tab after login, if the user has that tab based on access rights.
+&lt;ul&gt;
+&lt;li&gt;0 - HOME&lt;/li&gt;
+&lt;li&gt;1 - ACTIVITY PLAN&lt;/li&gt;
+&lt;li&gt;2 - INFO&lt;/li&gt;
+&lt;li&gt;4 - ARCHIVE&lt;/li&gt;
+&lt;li&gt;5 - Message form selection (Register message button list)&lt;/li&gt;
+&lt;li&gt;Any other other number - RISK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;p&gt;SETUP&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GOAL : Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CALENDAR : Folderkontrol. Aktivitetsplan
+&lt;ul&gt;
+&lt;li&gt;0 - SKjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ADMIN : Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - SKjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;REPORTS : Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - SKjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FAULT : Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - SKjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTION : Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;HELP : Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - SKjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;RISK : Aktiver risikomodulen
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LOGMESSAGES : Aktiver loggmeldingsmodulen
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;WORKORDER : Aktiver oppdragsmeldinger og Arbeidsordre
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MAILTYPE : Epostutsendelse
+&lt;ul&gt;
+&lt;li&gt;0 - multipart/alternative; html + tekst&lt;/li&gt;
+&lt;li&gt;1 - html&lt;/li&gt;
+&lt;li&gt;2 - tekst&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ADVANCEDDOCSYSTEM: Vis &amp;ldquo;Dokumentarkfaner&amp;rdquo; under Admin / Dokumenter og disse vises også som ekstra arkfaner under Info
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - på&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ROLESACTIVATED: Aktiver rollestyring av arkfanen under admin
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - på&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MENUROLECONTROL: Vis systemroller for arkfane nivå 1 kontrol
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - på&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FIELDROLECONTROL: Vis systemroller for feltkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - på&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NOPASSWORDDIRECTLOGON: Godta direkte pålogging uten passord
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - på&lt;/li&gt;
+&lt;li&gt;2 - Godta lenker uten passord. Brukes for pseudo SSO login.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;RMSHOWNAME: Inkluder navnet på mottageren foran linken i påminnelsesepost. Viktig ved delt epostadresse, f.eks Torshov
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - på&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWUSERCOUNT: Vis aggregert antall brukere pr avdeling i navigatoren. Hvis på og span = 1, vises bare for innholdsadministrator.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - på&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;REPORTFORM: Tilknytt et ekstra meldingsskjema til en liste. Brukes til å lage en rapport/konklusjon for en aktivitet.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - på&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SIMPLECASEPROCESS: Eneste saksbehandling avvist, rettet straks og send til saksbehandler. Tiltak fjernet.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTIVITYDISTRIBUTION: Velg mellom NORMAL, REVISION og LEST OG FORSTÅTT.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EMAILPREAMBLE: Sett inn ekstra tekst i tittelfeltet for identifikasjon
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 -&amp;gt; Tekstnummer å sette inn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWUSERNAMEINFULLNAME: Styrer hvordan navnet på en bruker vises.
+&lt;ul&gt;
+&lt;li&gt;0 - Fornavn, mellomnavn, etternavn&lt;/li&gt;
+&lt;li&gt;1 - Etternavn, fornavn, mellomnavn&lt;/li&gt;
+&lt;li&gt;2 - Brukernavn fornavn, mellomnavn, etternavn&lt;/li&gt;
+&lt;li&gt;3 - Brukernavn etternavn, fornavn, mellomnavn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NAVIGATORSTARTCLOSED: Styrer om navigatoren starter lukket.
+&lt;ul&gt;
+&lt;li&gt;0 - Start åpen&lt;/li&gt;
+&lt;li&gt;1 - Start lukket&lt;/li&gt;
+&lt;li&gt;2 - Start lukket dersom avdeling brukeren logger inn på ikke har noen underavdelinger.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LOG_MESSAGE_ACCESS: Styrer om tilgang til meldingsinnhold skal logges.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SENDSMS : Styrer om SMS modulen er aktiv eller ikke
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;USER_NAME_SORT_TYPE : Styrer hvordan brukere er sortert
+&lt;ul&gt;
+&lt;li&gt;0 Sorter etter Etternavn, Fornavn, Mellomnavn&lt;/li&gt;
+&lt;li&gt;1 Sorter på visningsnavnet til brukeren&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;CASEOFFICERLISTSETUP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ENCRYPTPASSWORDS. Denne innstillingen er ikke lenger i bruk (v3.95)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MFT : (Ikke i bruk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;FACILIT : (Ikke i bruk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;COMBINEDLIST : (Ikke i bruk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CASESENSITIVEPASSWORD : (Ikke i bruk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CASE_INSENSITIVE_USERNAME : Se bort fra store og små bokstaver i brukernavnet&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;COMPETENCE : Var funksjon laget for VFK som endret litt på visning av resultater for spørreundersøkelser. Brukes ikke av noen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;EXTRA_USER_ATTRIBUTES : Legger til en mulighet i brukeradministrasjon for flere felter&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ARCHIVE : (Ikke i bruk - byttet ut med FOLDER_ARCHIVE systemrolle knyttet til brukertyper)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PREFERENCESADMIN : (Ikke i bruk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;USE_V4_TOPMENU:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FORMTYPE_EXTERNAL : Meldingsskjematype Ekstern kan brukes til å koble meldingsregistreringsknapper til eksterne systemer.
+&lt;ul&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MULTIPLE_LOGOS : Mulighet for å ha forskjellige logoer per avdeling (i dokumentoverskrifter og på innloggingsskjermbilder). - IKKE I BRUK
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;WORKERSETUP&lt;/p&gt;
+&lt;p&gt;Innstillinger for brukertypen medarbeider.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GOAL: Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;OVERVIEW: Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PREFERENCES: Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;HELP: Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - SKjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FAULT: Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTION: Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LIST: Folderkontrol
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CONFUSED: Bruk Avvik og forslag i øverste verktøylinje istedenfor Mine saker. Bfk.
+&lt;ul&gt;
+&lt;li&gt;0 - Ikke aktiv&lt;/li&gt;
+&lt;li&gt;1 - Aktiv&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWUSERREPORT
+&lt;ul&gt;
+&lt;li&gt;0 - Endre melding&lt;/li&gt;
+&lt;li&gt;1 - Dialog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MSGLINKSTARTPAGE : Hvilken side som vises når man åpner en melding i forenklet grensesnitt
+&lt;ul&gt;
+&lt;li&gt;0 - Endre melding&lt;/li&gt;
+&lt;li&gt;1 - Dialog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;FAULT&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;COST: Vis kostnad i meldingssystemet
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1 i meldingen, 0 i oversikten&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PRIORITY: Vis prioritet i meldingssystemet
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PRIORITY_TYPE: Hva prioritetsfeltet kalles
+&lt;ul&gt;
+&lt;li&gt;0 - Prioritet&lt;/li&gt;
+&lt;li&gt;1 - Alvorlighetsgrad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;OCCURENCES: Vis antall i meldingssystemet
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SINGLEPROB: Bruk samme sannsynlighet for alle risikokategorier i meldingen
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MESSAGESPRPAGE: antall meldinger pr side&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 20&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;AUTOMATICPROCESSDELAY: Antall dager tilgjenglig ved automatisk frist for saksbehandling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Standardverdi 7&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EARLYCASEPROCESS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Send til saksbehandler dialogen aktivert av denne opsjonen tar med all brukere med systemrollen Standard meldingsmottaker (standard, brukertypen Leder), samt alle brukere som er definert i ekstra saksbehandler regler i forhold til valgt avdeling i navigatoren. For skjemaer med Tidlig saksbehandlingsregler definert,vil egendefinerte regler med tidlig saksbehandlere overstyre de automatiske - også når denne opsjonen er satt til 0.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Viser ikke send til saksbehandler i meldingsskjemaet&lt;/li&gt;
+&lt;li&gt;1 - Viser send til saksbehandler i meldingsskjemaet&lt;/li&gt;
+&lt;li&gt;2 - På, dropp ekstra saksbehandlere.&lt;/li&gt;
+&lt;li&gt;3 - På, dropp underavdelinger.&lt;/li&gt;
+&lt;li&gt;4 - På, dropp ekstra saksbehandlere og underavdelinger.&lt;/li&gt;
+&lt;li&gt;5 - På, med sjekk og oppdatering av saksbehandlerlisten for hver endring i meldingen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EARLYCASEPROCESSINFO
+&lt;ul&gt;
+&lt;li&gt;0 - no extra inform&lt;/li&gt;
+&lt;li&gt;1 - inform some user. Span then contains the preselectedInformUser&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EARLYCASEPROCESSSELECT
+&lt;ul&gt;
+&lt;li&gt;0 - Bare standard saksbehandler vises i valgboksen&lt;/li&gt;
+&lt;li&gt;1 - Kan velge saksbehandler selv&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DEFAULTCASEPROCESSOR: Uid for den brukeren som skal være valgt i liste over saksbehandlere dersom ikke annen bruker er valgt tidligere. SetBy kolonnen kan ha et avdelingsnr som begrenser effekten til den avdelingen. Span er tenkt brukt til å begrense til skjemanr (ikke laget)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VIEWALLVERSIONS: Kunne velge å se på tidligere versjoner av en melding for komplett endringshistorikk&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWCOMMENTS: Ta med kommentarer til lister og spørreskejmaer i grafer og meldingslister
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SEARCHDATE : Setter hva som skal være standard fra dato på søkesiden
+&lt;ul&gt;
+&lt;li&gt;0 - Et år&lt;/li&gt;
+&lt;li&gt;1 - 01.01.00&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CHOOSELOGGER : Regulerer om alle brukere får lov til å registrere meldinger på andre på sin avdeling enn seg selv
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På. For på brukes Spanverdien også
+&lt;ul&gt;
+&lt;li&gt;0: Endringen gjelder alle brukertyper.&lt;/li&gt;
+&lt;li&gt;1: Endringen gjelder kun saksbehandlere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdier 0 og 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTIONSHORTCUTBUTTON : Vis / fjern lag tiltaksknappen i meldingsskjemaet.
+&lt;ul&gt;
+&lt;li&gt;0 - Fjern&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;COSTREADONLY : Gjør første kostnadsfelt kun redigerbart for Innholdsadministrator.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOW_REPORTED_BY_IN_SEARCH_RESULT : Viser registrert på / melder kolonnen i tabellen og i PDF visning for søkeresultater.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FAULT_RISK_DUE_DATE : Fristkolonnen vises i tabellen i Risikoarkfanen
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CHOOSEDEPARTMENT : Om brukeren får lov til å registrere melding på annen avdeling enn egen
+&lt;ul&gt;
+&lt;li&gt;0 - Nei&lt;/li&gt;
+&lt;li&gt;1 - Alle tilgjengelige avdelinger&lt;/li&gt;
+&lt;li&gt;-1 - Fra og med avdelingen over innlogget avdeling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;FIELDROLECONTROL : (Ikke i bruk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RISKSCALE : Id til hvilken skala som skal brukes. Mappes mot et sett med tekstfelter i språkdatabasen MANAGERFAULTOVERVIEW.RISK&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Se på Sannsynlighetssiden og Konsekvenssiden for de mulige verdiene hittil. Vær oppmerksom på at samme settnummer skal bli brukt for både sannsynlighet og konsekvens. Hvis et annet settnummer må brukes for konsekvens, kan du sette det i SPAN-feltet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SHOWFORMSELECT&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SHOWPRDEPCAT&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CASEPROCESSORFORMFILTER : (Ikke i bruk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CASEDOCUMENTS : Om last opp fil komponenten skal vises i meldingsskjemaet eller ikke.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SEND_MESSAGE_REGISTERED_CONFIRMATION : Send kvittering på epost til melder når en ny melding registreres.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - Send kvittering når melding registreres via nettsidene.&lt;/li&gt;
+&lt;li&gt;2 - Send kvittering når melding registreres via web-service (mobil).&lt;/li&gt;
+&lt;li&gt;3 - Send kvittering uansett hvordan melding registreres.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi  0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DEPARTMENTPATH : Styrer hvor mye av stien til valgt avdeling som vises i Ny / Endre melding og i siden for forhåndsvisning av meldingsskjema.
+&lt;ul&gt;
+&lt;li&gt;0 - Hele stien vises.&lt;/li&gt;
+&lt;li&gt;X - Viser bare de X siste nivående i stien.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;GPS_ACTIVE : Option to enable location services in the Qm+ app and to display location for the registered messages on a map afterwards.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;MYPAGE&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWBUTTONS : Bestemmer om det skal være nedfallsmeny eller knapper for å regsitrere ny melding.
+&lt;ul&gt;
+&lt;li&gt;0 - Nedfallsmeny&lt;/li&gt;
+&lt;li&gt;1 - Knapper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOW_ID : Skal saksnummer vises i Innboks
+&lt;ul&gt;
+&lt;li&gt;0 - Nei&lt;/li&gt;
+&lt;li&gt;1 - Ja&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MAXBUTTONS : Antall skjemaer som gjør at knapperaden for å registrere ny melding blir byttet ut med fellesknapp i Innboks og medarbeidersiden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 4&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CATEGORY_GROUP_TABLE_DISPLAY: When this is set to 1, display one column per category group, ordered alphabetically.
+&lt;ul&gt;
+&lt;li&gt;0 - Nei&lt;/li&gt;
+&lt;li&gt;1 - Ja&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ACTION&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MESSAGESPRPAGE: antall meldinger pr side&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Standardverdi 20&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;COST: Vis kostnad i avvikssystemet
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;TIME: Show the action time fields
+&lt;ul&gt;
+&lt;li&gt;0 - Skjul&lt;/li&gt;
+&lt;li&gt;1 - Vis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PREVENTION_FIELD: Show or hide the action prevention field (&amp;ldquo;Hvordan hindre gjentakelse (årsaksanalyse)&amp;quot;)
+&lt;ul&gt;
+&lt;li&gt;0 Skjul&lt;/li&gt;
+&lt;li&gt;1 Vis&lt;/li&gt;
+&lt;li&gt;2 Skjul feltet for alle tiltak opprettet etter datoen som er angitt i SPAN-feltet (datoformat: ÅÅÅÅMMDD)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;INFO&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ORDER:
+&lt;ul&gt;
+&lt;li&gt;0 - Sorter alfabetisk&lt;/li&gt;
+&lt;li&gt;1 - Sorter etter posisjon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PRCOL:
+&lt;ul&gt;
+&lt;li&gt;1 - 1 kolonne med linkkategorier&lt;/li&gt;
+&lt;li&gt;2 - 2 kolonner med linkkategorier&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Standardverdi 2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NOGOAL:
+&lt;ul&gt;
+&lt;li&gt;0 - Målarkfanen vises&lt;/li&gt;
+&lt;li&gt;1 - Målarkfanen vises ikke&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INLINEPAGE
+&lt;ul&gt;
+&lt;li&gt;0 - Vanlig visning med navn på dokumenter som åpnes når man trykker på dem.&lt;/li&gt;
+&lt;li&gt;1 - Dokumenter i en gitt arkfane vises direkte i Qm+ siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWPDFICON
+&lt;ul&gt;
+&lt;li&gt;0 - PDF ikon for eksport til PDF dokument vises ikke for dokumenter skrevet i Qm+&lt;/li&gt;
+&lt;li&gt;1 - PDF ikon for eksport til PDF dokument vises for dokumenter skrevet i Qm+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWPDFGROUPICON - PDF ikon for eksport av alle dokumenter i en mappe som kan eksporteres til PDF. Kun dokumenter skrevet i Qm+ kan idag eksporteres til PDF. Mapper uten slike dokumenter viser ikke ikonet.
+&lt;ul&gt;
+&lt;li&gt;0 - PDF ikon vises ikke for mapper&lt;/li&gt;
+&lt;li&gt;1 - PDF ikon vises for mapper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWWORDICON
+&lt;ul&gt;
+&lt;li&gt;0 - Word ikon for eksport til docx dokument vises ikke for dokumenter skrevet i Qm+&lt;/li&gt;
+&lt;li&gt;1 - Word ikon for eksport til docx dokument vises for dokumenter skrevet i Qm+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;TABLE_LAYOUT : Om dokumentgruppene følger tabell eller flyt layout
+&lt;ul&gt;
+&lt;li&gt;1 - Flytlayout&lt;/li&gt;
+&lt;li&gt;2 - Tabell&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_LAWS_TAB : Aktiver lovoversikten &amp;ldquo;Lovgrunnlag for kommuner&amp;rdquo; fra fellesdatabasen.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_PROCEDURES_TAB : Aktiver prosedyreoversikten fra fellesdatabasen. (&amp;ldquo;Eksempel - Dokumentstruktur&amp;rdquo;)
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_LAWS_CONSTRUCTION_TAB : Aktiver lovoversikten &amp;ldquo;Lovgrunnlag for byggebransjen&amp;rdquo; fra fellesdatabasen.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_LAWS_REGION_TAB : Aktiver lovoversikten &amp;ldquo;Lovgrunnlag for fylkeskommuner&amp;rdquo; fra fellesdatabasen. (DEAKTIVERT NÅ!!)
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_LAWS_COMPANY_TAB : Aktiver lovoversikten &amp;ldquo;Lovgrunnlag for bedrifter&amp;rdquo; fra fellesdatabasen.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_PROCEDURES_REGION_TAB :
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_PROCEDURES_COMPANY_TAB :
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_CUSTOM_TAB :
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_DOCUMENTS_AFK :
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;RISK&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LEVEL1: Laveste risikotall med gul advarsel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Standardverdi 5&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LEVEL2: Laveste risikotall med rød advarsel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 15&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;LIST&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANONYMOUSPARTICIPATIONLIMIT : Antall svar som må være registrert før en graf for en anonym aktivitet kan vises
+&lt;ul&gt;
+&lt;li&gt;0 - Grafen vises uansett antall svar&lt;/li&gt;
+&lt;li&gt;x &amp;gt; 0 - Grafen vises kun dersom antall registrerte svar er &amp;lt; x for valgt utvalg.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ANONYMOUSPARTICIPATIONMINIMUMLIMIT : Minimum value for the drop-down &amp;ldquo;Number of answers before the result is visible&amp;rdquo; in the Edit activity page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 4&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;HIDECOMMENTDIRECTLOGON : Skjul listen over kommentarer for de som har fått tilsent resultatet via Send resultat
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 - Aktivert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EDITAFTERDUEDATE : Fylle ut nye svar og endre gamle for ledere og saksbehandlere etter at fristen er gått ut
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 - Aktivert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWGROUPMEAN : Vis gjennomsnittsverdien for hele gruppen samlet i grafen.
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 - Aktivert&lt;/li&gt;
+&lt;li&gt;Span brukes for å sette antall siffre etter , for desimaltall.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0
+Standardverdi for span 2&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DEFAULTCOMMENTFORMID : Standard meldingsskjema å bruke for kommentarer til lister. Denne bør settes til id for Kommentarskjema for nye kunder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DEFAULTCOMMENTCATEGORYNR : Standard kategori å bruke for kommentarer til lister. Denne bør settes til id for kategorien Kommentar i Kommentarskjema for nye kunder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOELEMENTOR : Om det skal gjøres AND eller OR sjekk for for alternativer i hvert spørsmpl ved svaralternativfiltrering i listegrafen
+&lt;ul&gt;
+&lt;li&gt;0 - Bruk AND&lt;/li&gt;
+&lt;li&gt;1 - Bruk OR&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INDIVIDUALCOMMENTFIELDS : Om det for flervalgspørsmål skal vises eget kommentarfelt for hvert alternativ.
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 - Aktivert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;CALENDAR&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ADDCHILDACTIVITY : Ha muligheten til å lage underaktiviteter til aktiviteter i Aktivitetsplan. Underaktiviteter fungerer som vanlige aktiviteter, men de sorterer under hovedaktiviteten.
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 - Aktivert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWREFERENCE : Vis navnet på tilknyttede dokumenter til en aktivitet som en referanse for aktiviteten i tabellene som gir oversikt over aktiviteter i Aktivitetsplan.
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 - Aktivert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWFULLCOMMENTFORM : Alltid ha muligheten til å få opp fulstendig meldingsskjema med siden Har du kommentarer? selv om tekstfeltet har vært aktivit rett i listen.
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 - Aktivert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CALENDAR_DEFAULT_READ_AND_UNDERSTOOD_LISTID : Id på liste som skal brukes som standard for lest og forstått aktiviteter. Brukes når SETUP_ACTIVITYDISTRIBUTION = 1.
+&lt;ul&gt;
+&lt;li&gt;Id på list som skal være forhåndsvalgt&lt;/li&gt;
+&lt;li&gt;Span verdien brukes for å sette id for delplanen som skal være forhåndsvalgt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;CALENDAR_EXCHANGE_INTEGRATION : Styrer om feltene som indikerer mulig Exchange integrasjon er aktivert.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 - Aktivert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;WARNING&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CASEPROCESSORWARNING: Send epost til bruker som har meldinger eller tiltak der tidsfristen er gått ut. Det sendes 1 epost per bruker. Denne epostmeldingen inneholder lenker til alle meldingene, tiltakene og varsler for dokumenter som skal revideres brukeren er ansvarlig for, hvor fristen er gått ut.
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 - Aktivert: Ny epost sendes hver natt, så lenge sakene forblir ubehandlet.&lt;/li&gt;
+&lt;li&gt;2 - hver søndag: For 2-&amp;gt;8 sendes epost ukentlig på valgt dag.&lt;/li&gt;
+&lt;li&gt;3 - hver mandag&lt;/li&gt;
+&lt;li&gt;4 - hver tirsdag&lt;/li&gt;
+&lt;li&gt;5 - hver onsdag&lt;/li&gt;
+&lt;li&gt;6 - hver torsdag&lt;/li&gt;
+&lt;li&gt;7 - hver fredag&lt;/li&gt;
+&lt;li&gt;8 - hver lørdag&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ESCALATION_DAYS : Bestemmer om saker eskaleres etter å ha gått over frist. Verdien av opsjonen bestemmer hvor mange dager over fristen som må til før saken eskaleres. Eskaleringen utføres av nattjobben. Når en melding eskaleres, endres meldingens saksbehandler til å være første bruker rutinen møter på i et søk etter brukere med Systemrollen Standard meldingsmottaker i overliggende avdeling. Er det ikke treff i første overliggende avdeling, forsøkes neste nivå, inntil eventuelt toppen av organisasjonen nås. Span field can be used to define the days allowed to the new case handler, by moving the due date of the case ahead by this number of days.
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 -&amp;gt; Antall dager før eskalering inntreffer. Span field can be used to define the days allowed to the new case handler, by moving the due date of the case this number of days ahead.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;OVERDUEACTIONCREATOR: Når et tiltak er over frist, send e-postmeldingen ikke bare til de som skal utføre det, men også til brukeren som opprettet det.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;MAIL&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;INCLUDEAPPDATA : Styrer om applikasjonsdata feltet i epost er med eller ikke. Bør bare være på for kunder med epostservere som ikke støtter &amp;ldquo;In-Reply-to&amp;rdquo; feltet i epost hodet.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;HIGHLIGHTLINKWARNING : Skal advarselen &amp;ldquo;Videresend aldri eposter fra Qm+ som inneholder lenke&amp;hellip;&amp;rdquo; være på toppen i eposter sendt fra systemet og med rød farge?
+&lt;ul&gt;
+&lt;li&gt;0 - nei, advarselen legges nederst med svart tekst&lt;/li&gt;
+&lt;li&gt;1 - ja, advarselen legges øverst med rød tekst&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Standardverdi  0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;INCLUDE_DESCRIPTION_IN_INFORM_EMAIL : Legger til det første tekstfeltet fra meldingen (saksbeskrivelse) til Inform-eposten (fra regelen)
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;DOCUMENTS&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CUSTOMHEADING : Styrer om virksomheten bruker egendefinert dokumenthode.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;AUTO_PUBLISH : Styrer om virksomhetens dokumenter trenger publisering før de er synlige under Info.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PUBLISH_DEPARTMENT : Styrer om det skal være mulig å legge inn dokumenter fra andre enn sine egne avdelinger.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_EDITOR_MANUAL_STYLE_OPTIONS : Styrer om brukeren har opsjonene for å justere font og font størrelse manuelt aktivert.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CUSTOMHEADINGFIELDS : Styrer funksjonen for kundespesifike dokumenthodefelt. Feltene må i tillegg kodes inn i kundens database for at dennefunksjonen skal virke.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_AUTO_INCREASE_REVISION_PUBLISHED_ONLY : Styrer om dokumentet lagres med eget revisjonsnummer før dokumentet er publisert. Dersom denne opsjonen er aktivert, vil ikke dokumentet ha endringshistorikk før det publiseres.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_STYLE_SHEET : Styrer om virksomheten bruker eget stilark for html editor og dokumentinnhold.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;Tallverdi - id for .css filen som skal brukes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_PUBLISH_ONLY_APPROVED : Styrer om et dokument må ha en godkjent høring hør det kan publiseres.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Span feltet kan brukes til å gi et avdelingsnummer der begrensningen starter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_COMMON_LAWS_TAB : Aktiver lovoversikten fra fellesdatabasen.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_PROCEDURES_LAWS_TAB : Aktiver prosedyreoversikten fra fellesdatabasen.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_SHOW_HEARING_IN_HEADER : Om høringsinformasjonen skal tas med i dokumenthodet
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_SKIP_CONTROLLERS_IN_HEADER : Om høringsdeltakerne skal droppes i dokumenthodet. Har ingen effekt om DOCUMENTS_SHOW_HEARING_IN_HEADER er 0
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_MAX_FILE_SIZE : Kan økes opp til 50 MB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 10 MB&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;LDAP&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LDAPINTEGRATION_ACTIVE : Determines if the night job runs LDAP synchronisation for this customer
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LDAPINTEGRATION_SEND_DEACTIVATE_USER_NOTICE
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tilknyttede meldinger</title>
+      <link>https://docs3.qmplus.com/docs/other/connected_messages/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/other/connected_messages/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Tilknyttede meldinger er en arkfane under Table edit.png Innboks og Book.png Arkiv.&lt;/p&gt;
+&lt;p&gt;Denne siden brukes til å få oversikt over de meldingene som er tilknytett dette tiltaket. Flere meldinger kan kobles til eller kobles fra tiltaket. Godkjente tiltak kan ikke kobles til flere meldinger eller kobles fra meldinger.&lt;/p&gt;
+&lt;h3 id=&#34;meldinger-tilknyttet-dette-tiltaket&#34;&gt;Meldinger tilknyttet dette tiltaket&lt;/h3&gt;
+&lt;p&gt;Tabell som vise meldinger tilknyttet dette tiltaket. Det må alltid være minst en melding tilkoblet et tiltak.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en melding.&lt;/li&gt;
+&lt;li&gt;Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_magnify.png&#34;  width=&#34;&#34; /&gt;
+
+
+ i siste kolonne for å åpne en melding.&lt;/li&gt;
+&lt;li&gt;Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å koble en melding fra tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;meldinger-som-ikke-er-lukket&#34;&gt;Meldinger som ikke er lukket&lt;/h3&gt;
+&lt;p&gt;Tabell som vise åpne meldinger som ikke er tilknyttet dette tiltaket. Over tabellen er det litt søkefunksjonalitet slik at ikke alle åpne meldinger vises samtidig.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Valg av kategorigruppe: Her velges hvilket kriterie som skal være likt meldinger allerede tilkoblet tiltaket for å bli vist i tabellen under.
+&lt;ul&gt;
+&lt;li&gt;Definerende kategori: Meldingen må ha krysset av for samme definerende kategori.&lt;/li&gt;
+&lt;li&gt;&amp;lt;Navn på kategorigruppe&amp;gt;: Meldingen må ha krysset av for samme kategori i den valgte kategorigruppen.&lt;/li&gt;
+&lt;li&gt;En eller annen kategori: Meldingen må ha krysset av for samme kategori i minst en kategorigruppe.&lt;/li&gt;
+&lt;li&gt;Aktivitet: Meldingen må være kommentarmelding til samme aktivitet.&lt;/li&gt;
+&lt;li&gt;Listeelement: Meldingen må være kommentarmelding til samme spørsmål.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ta med meldinger fra denne og underliggende avdelinger
+&lt;ul&gt;
+&lt;li&gt;Ja: Meldinger fra fra denne og underliggende avdelinger blir med.&lt;/li&gt;
+&lt;li&gt;Nei: Kun meldinger fra fra denne avdelingen blir med.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Utfør søk: Trykk på denne når du har gjordt valgene i feltene over for å oppdatere tabellen under.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en melding.&lt;/li&gt;
+&lt;li&gt;Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_magnify.png&#34;  width=&#34;&#34; /&gt;
+
+
+ i siste kolonne for å åpne en melding.&lt;/li&gt;
+&lt;li&gt;Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å koble en melding til tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiltaksbehandling: Åpner Tiltaksbehandling&lt;/li&gt;
+&lt;li&gt;Slett tiltak&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Knapp som kun synes for brukere med systemrollen innholdsadministrator. Kobler alle meldinger fra dette tiltaket og sletter tiltaket. Meldinger koblet til andre åpne tiltak får status tiltaksprosess. Meldinger kun koblet til andre godkjente tiltak får status lukket. Meldinger ikke koblet til andre tiltak får status Ny.&lt;/p&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Endre melding: Åpner Endre melding&lt;/li&gt;
+&lt;li&gt;Meldingsbehandling: Åpner Meldingsbehandling&lt;/li&gt;
+&lt;li&gt;Tiltaksbehandling: Laster dette skjermbildet på nytt.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

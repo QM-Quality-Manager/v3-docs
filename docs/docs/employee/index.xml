@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Goldydocs – Dokumentasjon for Medarbeider</title>
+    <title>Quality Manager – Dokumentasjon for Medarbeider</title>
     <link>https://docs3.qmplus.com/docs/employee/</link>
-    <description>Recent content in Dokumentasjon for Medarbeider on Goldydocs</description>
+    <description>Recent content in Dokumentasjon for Medarbeider on Quality Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
@@ -13,6 +13,118 @@
         
       
     
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/employee/tabs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/employee/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;mine-saker-arkfane-medarbeider&#34;&gt;Mine saker arkfane medarbeider&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Mine saker er en arkfane på Hovedsiden for medarbeider&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Messages_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Meldinger: Registrer ny melding og oversikt over dine registrerte meldinger.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Actions_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tiltak: Tiltak du skal utføre og oversikt over utførte tiltak. Ikke med i standardversjonen&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Questionnaires_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Spørreskjemaer: Sjekklister, Risikoanalyser og Spørreskjemaer du skal fylle ut.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tiltak-arkfane-medarbeider&#34;&gt;Tiltak arkfane medarbeider&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Actions_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tiltak er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/My-cases_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Mine saker for medarbeider.&lt;/p&gt;
+&lt;p&gt;Brukes til å utføre og følge opp tiltak.n&lt;/p&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil tiltaket åpnes.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over H symbolet i andre kolonne for å få opp historikken til et tiltak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner-1&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiltak jeg må gjennomføre: Viser oversikt over ikke utførte tiltak.&lt;/li&gt;
+&lt;li&gt;Tiltak til godkjennelse: Viser oversikt over utførte tiltak som venter på godkjennelse.&lt;/li&gt;
+&lt;li&gt;Tiltak som er godkjent: Viser oversikt over utførte tiltak som er godkjent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s8-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Forskjellen på fargene på meldingene&lt;/li&gt;
+&lt;li&gt;Obligatoriske kategorier&lt;/li&gt;
+&lt;li&gt;Følge opp saker jeg har vært involvert i&lt;/li&gt;
+&lt;li&gt;Tilføye informasjon og endringer på saker jeg har vært engasjert i&lt;/li&gt;
+&lt;li&gt;sjekke hva som er blitt gjort med saker jeg har vært engasjert i&lt;/li&gt;
+&lt;li&gt;Hvem kan se saker jeg har meldt inn&lt;/li&gt;
+&lt;li&gt;Tilltaksbehandling&lt;/li&gt;
+&lt;li&gt;Godkjenne tiltak og utføre tiltak&lt;/li&gt;
+&lt;li&gt;Fylle ut spørreskjema og legge til kommentarer&lt;/li&gt;
+&lt;li&gt;Finne frem til lover, prossedyrer, rapporter m.m.&lt;/li&gt;
+&lt;li&gt;Dine innstillinger: Endre brukernavn, passord m.m.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/medarbeider.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Docs: Hjem dashbord</title>

@@ -1,0 +1,379 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Tiltak</title>
+    <link>https://docs3.qmplus.com/docs/action/</link>
+    <description>Recent content in Tiltak on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/action/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/action/tabs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/action/tabs/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;tiltak-søk-resultat&#34;&gt;Tiltak søk resultat&lt;/h1&gt;
+&lt;p&gt;Søk er en Arkfane under Tiltak.&lt;/p&gt;
+&lt;p&gt;Denne siden brukes til å vise resultatet fra søk etter tiltak og når noen har trykket på en tiltaksgraf under Rapporter.&lt;/p&gt;
+&lt;h3 id=&#34;søkekriterier&#34;&gt;Søkekriterier&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lister opp alle parametere som er i bruk for å lage søkeresultatet. Nedfallsmenyen for avdelinger kan brukes til å endre hvilke avdelinger tiltakene skal hentes fra.&lt;/li&gt;
+&lt;li&gt;Navigatoren kan brukes til å endre hvilken avdeling eller fra og med avdelinger, avhengig av nedfallsmenyen for avdelinger over, tiltakene skal hentes fra.&lt;/li&gt;
+&lt;li&gt;Nytt søk knappen fjerner alle andre parametere enn valgt avdeling i navigatoren og åpner søkesiden for tiltak.&lt;/li&gt;
+&lt;li&gt;Utvid søk knappen åpner søkesiden for tiltak med alle parametere listet opp i søkekriterierlisten satt. Denne knappen bruker du hvis du skal jobbe videre med det nåværende søket.&lt;/li&gt;
+&lt;li&gt;Grafer: 2 nedfallsmenyer som kan brukes til å endre innhold eller fokus for søket og vise resultatet under Rapporter.
+&lt;ul&gt;
+&lt;li&gt;Rapporter: Brukes til å velge grafrapporttype.&lt;/li&gt;
+&lt;li&gt;Kategorigrupper: Avhengig av valgt grafrapporttype. For Per avdeling / per kategori og Per kategori/gruppe viser grafen en oversikt for kategorier tilhørende den valgte kategorigruppen. For de andre grafrapporttypene blir kun tiltak med tilkoblede meldinger med avkryssede kategorier av den valgte kategorigruppen tatt med i grafen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Søk: Denne knappen åpner Rapporter med de parametere som er satt i dette bildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bruk av tabellen er forklart i Tiltak.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tiltak</title>
+      <link>https://docs3.qmplus.com/docs/action/action/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/action/action/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Redigeres i tiltaksbehandling.&lt;/p&gt;
+&lt;p&gt;Opprettes vanligvis fra meldingsbehandling.&lt;/p&gt;
+&lt;p&gt;Kan slettes og få koblet til eller koblet fra meldinger i tilknyttede meldinger&lt;/p&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Navn: Brukes til å identifisere tiltaket. Obligatorisk felt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kostndadsramme: Brukes til å fortelle hvor mye penger som er satt av til dette tiltaket.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Faktisk kostnad: Beskriver hva den faktiske kostnaden ble. Dette feltet brukes som kostnadsfelt i rapporten for tiltak.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status: Under planlegging, under gjennomføring, under godkjenning, godkjent. Se tiltaksstatus.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiltakskategorier: Kategoriene av typen tiltak i den meldingen dette tiltaket ble laget til kan brukes i tiltaket for å kategoriesere det. Dette feltet er flervalg.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tekstfelter&#34;&gt;Tekstfelter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Opprinnelig hendelse: Beskrivelse av hva som var den opprinnelige hendelsen. Kopieres fra det første tekstfeltet i den meldingen dette tiltaket ble laget fra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Korrigerende tiltak: Beskrivelse av hva som er det korrigerende tiltaket. Opsjon: Kan kopieres fra det andre tekstfeltet i den meldingen dette tiltaket ble laget fra. Teksten koppiert inn her bør ofte tolkes som et forslag og endres av den som opprettet tiltakser til å bli en jobbbeskrivelse.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hvordan hindre gjentakelse: Beskrivelse av hvordan man skal hindre at hendelsen gjentar seg. Må man gjøre noe mer enn bare å rette feilen. Opsjon: Kan kopieres fra et eventuelt tredje tekstfelt i meldingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kommentar: Ekstra kommentar til tiltaket.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ansvarlige-personer&#34;&gt;Ansvarlige personer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Opprinnelig melder: Den/de som har laget de meldingene som er koblet til dette tiltaket.&lt;/li&gt;
+&lt;li&gt;Tiltaket ble opprettet av: Den som opprettet og eier - dvs er ansvarlig for tiltaket. Denne brukeren vil også måtte godkjenne tiltaket for å avslutte&lt;/li&gt;
+&lt;li&gt;Tiltaket utføres av: Den/de brukerne som skal utføre selve jobben. Kan velges blandt samtlige brukere i systemet.&lt;/li&gt;
+&lt;li&gt;Tiltaket godkjennes av: Alltid den som opprettet tiltaket. Kan også gjøres av en superbruker med systemrollen Innholdsadministrator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tilgangskontroll&#34;&gt;Tilgangskontroll&lt;/h3&gt;
+&lt;p&gt;Alle tiltak registreres på en avdeling og får status Under planlegging eller Under utførelse dersom valg av gjennomførere gjøres i meldingsbehandlingsbildet. Hvilken tilgang en bruker har til et tiltak avgjøres av tiltakets status og avdeling og brukerens brukertype, avdeling og roller.&lt;/p&gt;
+&lt;h4 id=&#34;de-ulike-tilgangstypene-gir-disse-rettighetene&#34;&gt;De ulike tilgangstypene gir disse rettighetene&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lesetilgang
+&lt;ul&gt;
+&lt;li&gt;Kan lese tiltaket.&lt;/li&gt;
+&lt;li&gt;Sende epostkommentarer til det.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Skrivetilgang
+&lt;ul&gt;
+&lt;li&gt;Kan endre tiltaket.&lt;/li&gt;
+&lt;li&gt;Noen felt krever også behandlingstilgang for å kunne redigere.&lt;/li&gt;
+&lt;li&gt;Aktiverer lagreknappen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Utføre selv
+&lt;ul&gt;
+&lt;li&gt;Kan melde tiltaket utført for sin egen bruker.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Utføre andre
+&lt;ul&gt;
+&lt;li&gt;Kan melde tiltaket utført for brukere innenfor eget hierarki.&lt;/li&gt;
+&lt;li&gt;Med behandlingstilgang, kan melde tiltaket utført for brukere utenfor eget hierarki.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Behandlingstilgang
+&lt;ul&gt;
+&lt;li&gt;Kan behandle tiltaket&lt;/li&gt;
+&lt;li&gt;Skifte status&lt;/li&gt;
+&lt;li&gt;Tilordne eller fjerne ansvarlige for gjennomføring.&lt;/li&gt;
+&lt;li&gt;Kan koble tiltaket til flere meldinger eller koble fra meldinger.&lt;/li&gt;
+&lt;li&gt;Redigere feltet for opprinnelig hendelse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Slettetilgang
+&lt;ul&gt;
+&lt;li&gt;Kan slette tiltaket. Alle tilkoblede meldinger blir koblet fra og får status ny eller sendt til saksbehandler avhengig av tidligere status.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Administrasjonstilgang
+&lt;ul&gt;
+&lt;li&gt;Kan redigere et tiltak selv om det er lukket og låst.&lt;/li&gt;
+&lt;li&gt;Kan gjenåpne lukkede tiltak.&lt;/li&gt;
+&lt;li&gt;Kan også utføre alle handlinger gitt for de øvrige tilgangstypene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;krav-for-å-få-de-ulike-tilgangstypene&#34;&gt;Krav for å få de ulike tilgangstypene&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lesetilgang&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Opprinnelig melder for en melding som er koblet til tiltaket.&lt;/li&gt;
+&lt;li&gt;Utfører av tiltaket.&lt;/li&gt;
+&lt;li&gt;Brukere med brukertype leder, saksbehandler eller verneombud som har samme avdeling som tiltaket er registert på eller en overliggende avdeling av denne.&lt;/li&gt;
+&lt;li&gt;Brukere med brukertype leder, saksbehandler eller verneombud som har samme avdeling som en melding tilkoblet tiltaket er registert på eller en overliggende avdeling av denne.&lt;/li&gt;
+&lt;li&gt;Brukere som har vært definert som saksbehandler for en meldingen og denne meldingen er tilknyttet dette tiltaket.&lt;/li&gt;
+&lt;li&gt;Brukere med brukertype leder, saksbehandler eller verneombud som har samme avdeling som en bruker som har vært saksbehandler for en melding tilkoblet tiltaket eller en overliggende avdeling av denne.&lt;/li&gt;
+&lt;li&gt;Brukere som er informert om en melding gjennom en epost fra meldingsbehandlingsbildet og denne meldingen er tilknyttet dette tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skrivetilgang gis kun når tiltakets status ikke er godkjent.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukere med brukertype leder eller saksbehandler som har samme avdeling som tiltaket er registert på eller en overliggende avdeling av denne.&lt;/li&gt;
+&lt;li&gt;Brukerne som skal utføre tiltaket og tiltakets status er under gjennomføring.&lt;/li&gt;
+&lt;li&gt;Brukere med brukertype leder og saksbehandler som har samme avdeling som en av tiltakets utførere eller en overliggende avdeling av disse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Utfører selv&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukerne som skal utføre tiltaket og tiltakets status er under gjennomføring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Utfører andre&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukere med brukertype leder eller saksbehandler som har samme eller overliggende avdeling som en av tiltakets utførere og tiltakets status er under gjennomføring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Behandlingstilgang&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukere med brukertype leder eller saksbehandler som har samme avdeling som tiltaket er registert på eller en overliggende avdeling av denne.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Slettetilgang&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eier av tiltaket, den brukeren som skal godkjenne tiltaket, kan slette det dersom det har status under planlegging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Administrasjonstilgang&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gis til brukere med systemrollen Innholdsadministrator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tiltak søk</title>
+      <link>https://docs3.qmplus.com/docs/action/action_search/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/action/action_search/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;generelle-søkekriterier&#34;&gt;Generelle søkekriterier&lt;/h3&gt;
+&lt;h4 id=&#34;felt-som-bruker-data-fra-tiltaket&#34;&gt;Felt som bruker data fra tiltaket&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Tidsrom: Fra og med og til og med dato felt.&lt;/li&gt;
+&lt;li&gt;Status: Ta med tiltak med de valgte status.&lt;/li&gt;
+&lt;li&gt;Tiltaksnummer: Søk etter tiltaket med dette nummeret.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;felt-som-bruker-data-fra-tilkoblede-meldinger&#34;&gt;Felt som bruker data fra tilkoblede meldinger&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Prioritet: Ta med tiltak med den valgte prioritet.&lt;/li&gt;
+&lt;li&gt;Skjematype: Vises kun om Logmeldinger eller Risikomeldinger er aktivert. Ta med tiltak koblet til meldinger med den valgte skjematype.&lt;/li&gt;
+&lt;li&gt;Skjema: Hvis man velger noe annet enn Alle her, vil kategorigruppene og kategoriene i Type kategori å søke på delen under kun vise de som er i bruk i det valgte meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;Meldingsnummer: Søk etter tiltak koblet til meldingen med valgt meldingsnummeret. Når dette feltet brukes sees det bort fra alle andre søkekriterier.&lt;/li&gt;
+&lt;li&gt;Fritekst: Søk etter meldinger som inneholder en gitt tekst. Detksten kan være i alle fritekstfelter i meldingen. Det skilles ikke mellom store og små bokstaver. Lucene brukes som søkemotor for denne funksjonen. Se Lucene Query Syntax (kun engelsk) for detaljert informasjon om syntaks for søkefeltet.&lt;/li&gt;
+&lt;li&gt;Vis meldinger fra:
+&lt;ul&gt;
+&lt;li&gt;Denne avdelingen: Kun meldinger regisrert på avdelingen valgt i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Denne og underliggende avdelinger: Alle meldinger registrert fra og med avdelingen valgt i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Kun underliggende avdelinger: Kun meldinger registrert i avdelinger under den avdelingen som er valgt i navigatoren vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vis tiltak som er: Begge valgene tar med tiltak fra og med valgt avdeling i navigatoren.
+&lt;ul&gt;
+&lt;li&gt;Opprettet på valgte avdelinger: Avdelingen tiltaket er opprettet på.&lt;/li&gt;
+&lt;li&gt;Behandlet av personer fra valgte avdelinger: Avdelingen til de som skal utføre tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Risiko: Vis tiltak koblet til meldinger med kategorier av kategorigruppetypen Risiko. Velg S og K verdi for meldingene som skal brukes.
+&lt;ul&gt;
+&lt;li&gt;S: Sannsynlighet. Verdi fra 0 - 5. 0 betyr at denne parameteren ikke skal brukes.&lt;/li&gt;
+&lt;li&gt;K: Konsekvens. Verdi fra 0 - 5. 0 betyr at denne parameteren ikke skal brukes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;type-kategori-å-søke-på&#34;&gt;Type kategori å søke på&lt;/h3&gt;
+&lt;p&gt;Alle parametere i dette feltet brukes mot meldingene som er tilkoblet tiltakene.&lt;/p&gt;
+&lt;p&gt;Dette feltet brukes til å søke etter kategorigrupper og kategorier. Kryss av for en eller flere kategorigrupper og / eller velg kategorier fra menyene. De definerende kategorigruppene vises øverst. Blandt dem kan du bare søke på en kategorigruppe og eller kategori. Hvis meldingstype eller meldingsskjema velges, vil det i dette feltet kun vises kategorigrupper og kategorier brukt i disse meldingsskjemaene.&lt;/p&gt;
+&lt;h3 id=&#34;sorter-etter&#34;&gt;Sorter etter&lt;/h3&gt;
+&lt;p&gt;Velg hvilken kolonne resultattabellen skal være sortert etter.&lt;/p&gt;
+&lt;h3 id=&#34;vis-resultatet-i&#34;&gt;Vis resultatet i&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tabell: Viser resultatet i tabell på søkeresultatsiden for tiltak.&lt;/li&gt;
+&lt;li&gt;Utvidet visning: Viser resultatet i en utvidet form som tar med alle detaljer i tiltakene på søkeresultatsiden for tiltak.&lt;/li&gt;
+&lt;li&gt;Graf: Viser resultatet som graf under Rapporter.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tiltaksbehandling</title>
+      <link>https://docs3.qmplus.com/docs/action/processing/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/action/processing/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;tiltaksdata&#34;&gt;Tiltaksdata&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiltaksnummer: Unikt nummer for hvert tiltak.&lt;/li&gt;
+&lt;li&gt;Navn på tiltaket: Brukes til å identifisere tiltaket i tabeller og oversikter. Obligatorisk felt.&lt;/li&gt;
+&lt;li&gt;Kostnadsramme: Hvor mye er satt av til gjennomføringen av tiltaket.&lt;/li&gt;
+&lt;li&gt;Faktisk kostnad: Hvor mye ble brukt på gjennomføringen av tiltaket. Dette feltet blir brukt for å beregne kostnadsgrafen for tiltak under Rapporter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;beskrivelse-av-tiltaket&#34;&gt;Beskrivelse av tiltaket&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Opprinnelig hendelse: Kopierers fra det første tekstfeltet i den opprinnelige meldingen.&lt;/li&gt;
+&lt;li&gt;Jobbeskrivelse: Kopierers fra det andre tekstfeltet i den opprinnelige meldingen. Bør ofte endres til en konkret arbeidsoppgave for de som skal utføre tiltaket.&lt;/li&gt;
+&lt;li&gt;Hvordan hindre gjentakelse: Kopierers fra et eventuelt tredje tekstfelt i den opprinnelige meldingen. Her kan man skrive litt om andre endringer enn selve det som skal utføres i dette tiltaket for at den opprinneligehendelsen ikke skal gjenta seg.&lt;/li&gt;
+&lt;li&gt;Kommentar: Ekstra kommentar til tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tiltakskategorier&#34;&gt;Tiltakskategorier&lt;/h3&gt;
+&lt;p&gt;Brukes for å kategorisere tiltaket.&lt;/p&gt;
+&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+&lt;p&gt;Dette feltet forteller hvor tiltaket er i tiltaksprosessen. Det styrer en del av utseende til resten av dette skjermbildet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Under planlegging: Alle tiltak starter med denne statusen. I denne fasen skal tiltaket planlegges. Gi først tiltaket et navn slik at det blir lett å identifisere senere, fyll inn kostnadsrammen dersom dere bruker dette feltet. Tekstfeltene Korrigerende tiltak og Hvordan hindre gjentakelse må fylles ut slik at de som skal gjennomføre tiltaket skjønner hva de skal gjøre. Tiltakskategoriene kan også fylles ut nå. Siste punkt er å plukke ut de som skal utføre tiltaket og gi dem en frist. Dette gjøres i det obligatoriske Oversikt over ansvarlige feltet. Trykk så på &amp;ldquo;Lagre og send til gjennomføring&amp;rdquo; eller &amp;raquo; knappen i statusfeltet for å lagre tiltaket og skifte status til Under gjennomføring.&lt;/li&gt;
+&lt;li&gt;Under gjennomføring: I denne fasen skal jobben som beskrives i tiltaket gjennomføres. Deretter skal det krysses av for utført av de som utført tiltaket. Det kan også skrives en kommentar i kommentarfeltet og den faktisk kostnaden kan fylles hvis den er tilgjengelig. Når alle avkryssninger er gjordt, brukes knappen &amp;ldquo;Send til godkjenning&amp;rdquo; eller &amp;raquo; knappen i statusfeltet. Dette lagrer tiltaket og endrer status til Under godkjenning.&lt;/li&gt;
+&lt;li&gt;Under godkjenning: Her skal den som opprettte tiltaket kontrollere at alt er i orden før tiltaket godkjennes.&lt;/li&gt;
+&lt;li&gt;Godkjent: Et godkjent tiltak er lukket og låst og kan ikke endres annet enn av brukere med systemrollen innholdsadministrator. Kommentarer til alle involverte brukere kan fortsatt sendes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;oversikt-over-ansvarlige&#34;&gt;Oversikt over ansvarlige&lt;/h3&gt;
+&lt;p&gt;Viser oversikt over alle som har vært involvert i saken. Alle har et avkryssningsfelt ved siden av seg som brukes hvis man ønsker å sende en beskjed på e-post til noen av disse anngående denne saken. Alle beskjeder som blir sendt vil også vises nederst i dette skjermbildet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Opprinnelig melder: Brukerne som har opprettet meldinger tilkoblet dette tiltaket.&lt;/li&gt;
+&lt;li&gt;Tiltaket ble opprettet av: Brukeren som opprettet tiltaket og dermed er ansvarlig for det. Må godkjenne tiltaket før det lukkes.&lt;/li&gt;
+&lt;li&gt;Tiltaket ble utført av: De som skal utføre tiltaket.&lt;/li&gt;
+&lt;li&gt;Tiltaket godkjennes av: Den som skal godkjenne tiltaket. I standardversjonen er det alltid samme bruker som opprettet tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sakens-historie&#34;&gt;Sakens historie&lt;/h3&gt;
+&lt;p&gt;Viser en oversikt over hendelser for dette tiltaket&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alle redigeringer av innhold eller status.&lt;/li&gt;
+&lt;li&gt;Tilknyttning eller fjerning av meldinger.&lt;/li&gt;
+&lt;li&gt;Alle epostkommentarer sendt ut tilknyttet dette tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument av tiltaket du er inne i. Denne er beregnet på utskrift til papir.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slett tiltaket: Sletter tiltaket. Vises bare for brukeren som har opprettet tiltaket så lenge det fremdeles har status under planlegging, og for Innholdsadministrator. Slettede tiltak kan ikke gjenopprettes eller bli funnet igjen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre tiltak: Lagrer de endringene du har gjordt. Husk at denne knappen aldri endrer status.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Send: Vises når man ikke har tilgang til å gjøre endringer i tiltaket. Brukes for å sende epostkommentarer knyttet til tiltaket.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Returnerer deg dit du kom fra, med mindre du sto i en melding og laget et tiltak. Da vil du komme dit du åpnet denne meldingen fra.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kalender: Åpner kalenderen for datovalg.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut den aktive siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Viser denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tilknyttede meldinger: Viser de meldingene som er tilknyttet dette tiltaket. Mulighet til å koble til og koble fra fler og til å slette tiltaket for de brukerne som har rettighetene til det.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiltaksbehandling: Laster denne siden på nytt igjen. Alle endringer du har gjordt uten å trykke lagre blir borte.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

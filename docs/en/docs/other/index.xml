@@ -1,0 +1,2450 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – General</title>
+    <link>https://docs3.qmplus.com/en/docs/other/</link>
+    <description>Recent content in General on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Consequence</title>
+      <link>https://docs3.qmplus.com/en/docs/other/consequence/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/other/consequence/</guid>
+      <description>
+        
+        
+        &lt;p&gt;To reduce the risk value one must initiate consequence-reducing measures.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Example: Injury event. Possible consequence-reducing measures:
+&lt;ul&gt;
+&lt;li&gt;Use of helmets on the construction site.&lt;/li&gt;
+&lt;li&gt;First Aid kits.&lt;/li&gt;
+&lt;li&gt;Mandatory life vest when on a boat.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The scale of consequence in Qm+ is 1 - 5. The default values are:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SET 1&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Insignificant damage&lt;/li&gt;
+&lt;li&gt;Light damage&lt;/li&gt;
+&lt;li&gt;Damage&lt;/li&gt;
+&lt;li&gt;Great damage&lt;/li&gt;
+&lt;li&gt;Widespread damage&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Alternatively, customers can define their own texts. These sets are also available and can be used by setting the system preference RISKSCALE. Please note that the same set number will be used for both probability and consequence unless a different set number is defined for Consequence in the SPAN field.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SET 2&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Safe&lt;/li&gt;
+&lt;li&gt;Dangerous&lt;/li&gt;
+&lt;li&gt;Critical&lt;/li&gt;
+&lt;li&gt;Very critical&lt;/li&gt;
+&lt;li&gt;Catastrophic&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;SET 3&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cat 1&lt;/li&gt;
+&lt;li&gt;Cat 2&lt;/li&gt;
+&lt;li&gt;Cat 3&lt;/li&gt;
+&lt;li&gt;Cat 4&lt;/li&gt;
+&lt;li&gt;Cat 5&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;SET 4&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Insignificant damage&lt;/li&gt;
+&lt;li&gt;Light damage&lt;/li&gt;
+&lt;li&gt;Damage&lt;/li&gt;
+&lt;li&gt;Great damage&lt;/li&gt;
+&lt;li&gt;Widespread damage&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;SET 5&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Negligible&lt;/li&gt;
+&lt;li&gt;Moderate&lt;/li&gt;
+&lt;li&gt;Significant&lt;/li&gt;
+&lt;li&gt;Severe&lt;/li&gt;
+&lt;li&gt;Catastrophic&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;SET 6&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Insignificant damage&lt;/li&gt;
+&lt;li&gt;Light damage&lt;/li&gt;
+&lt;li&gt;Damage&lt;/li&gt;
+&lt;li&gt;Great damage&lt;/li&gt;
+&lt;li&gt;Widespread damage&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;SET 7&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Little consequence&lt;/li&gt;
+&lt;li&gt;Middle consequence&lt;/li&gt;
+&lt;li&gt;Big consequence&lt;/li&gt;
+&lt;li&gt;Very big consequence&lt;/li&gt;
+&lt;li&gt;Catastrophic&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Definitions</title>
+      <link>https://docs3.qmplus.com/en/docs/other/definitions/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/other/definitions/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Action plan = measures to correct errors or eliminate system errors in order to prevent recurrence
+Adverse event (AE) = something more than a deviation, abbreviated to AE (or RAE = Registered AE)
+Audit = control / comparison &amp;ldquo;live and learn&amp;rdquo;, with checklists and questions
+Audit report = contains: minutes, reviewed topics, who conducted what, conclusions
+Checklist = point-wise enumeration of conditions to be controlled
+Contribute = employees must actively participate in the HES work, §§ 4 og 5.3
+Control = comparison, synonymous with audit
+Deviation = something missing, error in relation to written procedures. See adverse events.
+Deviation message = form where deviations and proposals are registered
+Deviation overview = graphs and tables that display all or a specific extract of deviation messages
+Instructions = recommended procedure (most often when a person should do something)
+Internal control (IC) = Own (self) control, synonymous term for quality management
+Motivate = set in motion, - not to be confused with the desire to create feelings
+Procedure = written procedure, description of a process in which many participate (From the Latin &amp;ldquo;procedere&amp;rdquo;: To show the order of execution and requirements for the execution of each phase (= Method), and who is involved in every phase with which responsibility)
+Quality = Properties
+Quality Management (QM) = a craft that requires active use of specific methods
+Quality plan = includes all activities that are used for preventing errors
+Responsibility = the ability to give answers when needed
+Risk = probability x consequence
+Routine = agreed procedure (oral)
+System = when specified parts work together
+System error = error that recurs, that happens because the system allows it
+User survey = questionnaire answered by users, customers, relatives, etc.
+Verify = check if it is true, from the Latin &amp;ldquo;Verus&amp;rdquo; = true, &amp;ldquo;facere&amp;rdquo; = make&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Attached messages</title>
+      <link>https://docs3.qmplus.com/en/docs/other/attached_messages/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/other/attached_messages/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Several messages can be attached to or detached from the action. Approved actions can not be attached to several messages or detached from messages.&lt;/p&gt;
+&lt;h3 id=&#34;messages-attached-to-this-action&#34;&gt;Messages attached to this action&lt;/h3&gt;
+&lt;p&gt;A table showing messages attached to this action. There must always be at least one message connected to an action.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hold the cursor over the + symbol in the first column to get more information about a message.&lt;/li&gt;
+&lt;li&gt;Click on the Show message icon Application form magnify.png in the last column in order to look at or edit a message.&lt;/li&gt;
+&lt;li&gt;Click on the Detach message icon Application form delete.png to detach the selected message from the action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;messages-that-are-not-closed&#34;&gt;Messages that are not closed&lt;/h3&gt;
+&lt;p&gt;A table showing the open messages that are not attached to this action. Above the table are some search options, so that not all the open messages are shown at the same time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Select a category group: Here you can select criteria so that the messages shown in the table below will be similar to the ones that are already attached to this action.
+&lt;ul&gt;
+&lt;li&gt;Defining category: The message must have have the same defining category checked.&lt;/li&gt;
+&lt;li&gt;&lt;Category group name&gt;: The message must have the same category of the selected category group checked.&lt;/li&gt;
+&lt;li&gt;Any category: The message must have the same category checked in at least one category group.&lt;/li&gt;
+&lt;li&gt;Activity: The message must be a comment message to the same activity.&lt;/li&gt;
+&lt;li&gt;List element: The message must be a comment message to the same question.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Show messages from this and subordinate departments
+&lt;ul&gt;
+&lt;li&gt;Yes: Messages from this and the subordinate departments will be included in the table.&lt;/li&gt;
+&lt;li&gt;No: Only messages from this department will be included in the table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Search: Click on this when you have made the selection in the fields above to update the table below.&lt;/li&gt;
+&lt;li&gt;Hold the cursor over the + symbol in the first column to get more information about a message.&lt;/li&gt;
+&lt;li&gt;Click on the Show message icon Application form magnify.png in the last column in order to look at or edit a message.&lt;/li&gt;
+&lt;li&gt;Click on the Attach message icon Application form add.png to attach the selected message to the action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;delete-action&#34;&gt;Delete action&lt;/h3&gt;
+&lt;p&gt;Button that appears only for users with the system role content administrator. Detaches all messages from this action and deletes the action. Messages attached to other open actions get the status Action process. Messages only attached to other closed actions get the status Closed. Messages not attached to other actions get the status New.&lt;/p&gt;
+&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Action process: Opens the Action process page.&lt;/li&gt;
+&lt;li&gt;Attached messages: Reloads this screen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Export to the common library</title>
+      <link>https://docs3.qmplus.com/en/docs/other/export_to_common_library/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/other/export_to_common_library/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;List name: The name that will appear in the common library. The original name of the exported form is set as default.
+Information: Additional information field.
+Select description tags: Check the words that describe what you are exporting or the general area for it. Contact drift@qmplus.com if the required word or phrase is missing. These words can be used to search for forms in the common library.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Export: Performs the export to the common library and takes you back to the page you came from.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Closes this screen and takes you back to the page you came from. Nothing will be saved.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Navigator</title>
+      <link>https://docs3.qmplus.com/en/docs/other/navigator/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/other/navigator/</guid>
+      <description>
+        
+        
+        &lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/NavigatorOpen.png&#34;  width=&#34;&#34; /&gt;
+
+
+ An open navigator&lt;/p&gt;
+&lt;p&gt;To open the Navigator again, press the Navigator bar on the left side of the screen.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/NavigatorClosed.png&#34;  width=&#34;&#34; /&gt;
+
+
+ A closed navigator&lt;/p&gt;
+&lt;p&gt;There is a system setting that defines if the Navigator should start open or closed upon login.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Expand.png&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Collapse.png&#34;  width=&#34;&#34; /&gt;
+
+
+ are used to expand and collapse the organisation chart respectively. If you click on the name of a department, that department will be set as the selected department.&lt;/p&gt;
+&lt;p&gt;The selected department is used as the basis for what appears on the main screen to the right of the Navigator. There are two ways to see which is the selected department. In the Navigator that department gets a light blue background colour (Like &amp;ldquo;Teknisk etat&amp;rdquo; in the picture above) and in the main screen it is written next to the name of the logged in user.&lt;/p&gt;
+&lt;p&gt;There is a system setting that defines if the number of users per department will be displayed next to each department name.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Probability</title>
+      <link>https://docs3.qmplus.com/en/docs/other/probability/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/other/probability/</guid>
+      <description>
+        
+        
+        &lt;p&gt;To reduce the risk value one must initiate Probability-reducing measures.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Example: Injury event. Possible Probability-reducing measures:
+&lt;ul&gt;
+&lt;li&gt;Proper and adequate training.&lt;/li&gt;
+&lt;li&gt;Using scaffolding rather than ladders when working at heights.&lt;/li&gt;
+&lt;li&gt;Covering of slippery outdoor areas in the winter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The scale of probability in Qm+ is 1 - 5. The default values are:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SET 1&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Less than one occurrence per 20 years&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One occurrence per 10 years&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One occurrence per year&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One occurrence per month&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One occurrence per week&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Alternatively, customers can define their own texts. These are also available and can be used by setting the system preference RISKSCALE. Please note that the same set number will be used for both probability and consequence unless a different set number is defined for Consequence in the SPAN field.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SET 2&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Very small probability&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Small probability&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Probable&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Very probable&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Significant probability&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;SET 3&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Cat 1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cat 2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cat 3&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cat 4&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cat 5&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;SET 4&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Incident that happens less than once every 60 years&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Incident that happens once between every 30 years and every 60 years&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Incident that happens once between every 10 years and every 30 years&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Incident that occurs once between 1 and every 10 years&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Incident that occurs more than once a year&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;SET 5&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Very unlikely&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Unlikely&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Possible&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Likely&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Very likely&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;SET 6&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Less than 1 incident per 20 years&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;About 1 incident per 10-20 years or more&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;About 1 incident per 10 years or more&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;About 1 incident per year or more&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;10 incidents per year or more&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;SET 7&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Less than 1 incident every 50 years&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Between 1 incident every 10 years and once every 50 years&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Between 1 incident every year and once every 10 years&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;More than once every year&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 incident or more per month&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: System settings</title>
+      <link>https://docs3.qmplus.com/en/docs/other/settings/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/other/settings/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;report&#34;&gt;REPORT&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;LISTLENGTH: How many lines are shown in the four most common / most expensive tables.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;1 gives all. -1 turns off the four parts of the heading (four most common / most expensive).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 4&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LISTCOST
+&lt;ul&gt;
+&lt;li&gt;0 - The listCost field is not shown in the table.&lt;/li&gt;
+&lt;li&gt;1 - Shows the listCost.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LISTAMOUNT
+&lt;ul&gt;
+&lt;li&gt;0 - The listAmount field is not shown in the table. // ORDER BY Data_Element_4 DESC&lt;/li&gt;
+&lt;li&gt;1 - Shows the listAmount. // ORDER BY Data_Element_2 DESC&lt;/li&gt;
+&lt;li&gt;-1 - The listAmount field is not shown // ORDER BY TEXTTAG ASC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;GRAPHAMOUNT
+&lt;ul&gt;
+&lt;li&gt;0 - The amount graph is not shown.&lt;/li&gt;
+&lt;li&gt;1 - Shows the amount graph.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;GRAPHCOST
+&lt;ul&gt;
+&lt;li&gt;0 - The cost graph is not shown.&lt;/li&gt;
+&lt;li&gt;1 - Shows the cost graph.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;GRAPHORDER
+&lt;ul&gt;
+&lt;li&gt;0 - ALPHABETICAL&lt;/li&gt;
+&lt;li&gt;1 - OCCURENCES&lt;/li&gt;
+&lt;li&gt;2 - COST&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;TABLEORDER
+&lt;ul&gt;
+&lt;li&gt;0 - OCCURENCES&lt;/li&gt;
+&lt;li&gt;1 - COST&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SORTTYPE
+&lt;ul&gt;
+&lt;li&gt;0 - ASCENDING&lt;/li&gt;
+&lt;li&gt;1 - DESCENDING&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PAPERVERSION
+&lt;ul&gt;
+&lt;li&gt;0 - The Extended view (previously: Printer friendly) button is not shown.&lt;/li&gt;
+&lt;li&gt;1 - It shows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EMPLOYEEGRAPH
+&lt;ul&gt;
+&lt;li&gt;0 - The employee graph is not shown.&lt;/li&gt;
+&lt;li&gt;1 - It shows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWDATESELECT
+&lt;ul&gt;
+&lt;li&gt;0 - The drop-down menu for the time period is not shown.&lt;/li&gt;
+&lt;li&gt;1 - Shows the drop-down menu for the time period.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYCATEGORYCHART
+&lt;ul&gt;
+&lt;li&gt;0 - The category chart starts hidden&lt;/li&gt;
+&lt;li&gt;1 - The category chart starts shown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYTOTALCHART
+&lt;ul&gt;
+&lt;li&gt;0 - The total chart starts hidden (Overview by Departments checkbox unselected)&lt;/li&gt;
+&lt;li&gt;1 - The total chart starts shown (Overview by Departments checkbox selected)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYSTATUSCHART
+&lt;ul&gt;
+&lt;li&gt;0 - The status chart starts hidden&lt;/li&gt;
+&lt;li&gt;1 - The status chart starts shown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYFORMCHART
+&lt;ul&gt;
+&lt;li&gt;0 - The form chart starts hidden&lt;/li&gt;
+&lt;li&gt;1 - The form chart starts shown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYPRIORITYCHART
+&lt;ul&gt;
+&lt;li&gt;0 - The priority chart starts hidden&lt;/li&gt;
+&lt;li&gt;1 - The priority chart starts shown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYUSERCHART
+&lt;ul&gt;
+&lt;li&gt;0 - The user chart starts hidden&lt;/li&gt;
+&lt;li&gt;1 - The user chart starts shown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DISPLAYTRENDCHART
+&lt;ul&gt;
+&lt;li&gt;0 - The trend chart starts hidden&lt;/li&gt;
+&lt;li&gt;1 - The trend chart starts shown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;REPORT_INCLUDE_BLANK_DEPARTMENTS
+&lt;ul&gt;
+&lt;li&gt;0 - Departments without messages are not shown in the Overview by departments&lt;/li&gt;
+&lt;li&gt;1 - Departments without messages are shown in the Overview by departments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWFORMSELECT If the charts by form should be displayed or not on the Reports page.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWPRDEPCAT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;faultcaseprocess&#34;&gt;FAULTCASEPROCESS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;SENDEMAIL (NOT IN USE, replaced by ACTIONCASEPROCESS_SENDEMAIL)
+&lt;ul&gt;
+&lt;li&gt;0 - The option Send email to case handler when sending an action to case handler is not checked by default.&lt;/li&gt;
+&lt;li&gt;1 - The option Send email to case handler when sending an action to case handler is checked by default.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;USERSENDEMAIL (NOT IN USE, NOT IMPLEMENTED. PLEASE USE FAULTCASEPROCESS_USERFEEDBACK_DEFAULT_ON_CLOSE FOR OPTION 1)
+&lt;ul&gt;
+&lt;li&gt;0 - The option Email to message originator is not checked by default.&lt;/li&gt;
+&lt;li&gt;1 - The option Email to message originator is checked by default on any user action that closes the case (Message process: Close the case, Reject. Action process: Approved).&lt;/li&gt;
+&lt;li&gt;2 - The option Email to message originator is checked by default on any user action that closes the case, as well as when the case is sent to a case handler or when an action is created (Message process: Choose case handler / Return to former case handler, Plan an action, Close the case, Reject. Action process: Approved).&lt;/li&gt;
+&lt;li&gt;3 - The option Email to message originator is checked by default on any user action that closes the case, as well as when the case is sent to a case handler or when an action is created, and on every step in the action process (Message process: Choose case handler / Return to former case handler, Plan an action, Close the case, Reject. Action process: Send to execution, Send to approval, Approved)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CASEPROCESSSENDEMAIL
+&lt;ul&gt;
+&lt;li&gt;0 - The option Email to case handler is not checked by default.&lt;/li&gt;
+&lt;li&gt;1 - The option Email to case handler is checked by default.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SETDEFAULOWNER&lt;/li&gt;
+&lt;li&gt;0 - The owner must be set manually when creating an action.&lt;/li&gt;
+&lt;li&gt;1 - The owner is set to the current user when creating an action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTIONTAB
+&lt;ul&gt;
+&lt;li&gt;0 - The Attach action tab is not shown.&lt;/li&gt;
+&lt;li&gt;1 - The Attach action tab is shown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EXPANDEDFIXEDDIRECTLY : Register the name and description of the action immediately when forwarded. The parameter only affects the &amp;ldquo;Close the case&amp;rdquo; option on the Message process page.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;USENROFTEXTFIELDS : When an action is created from message forms with more than two text fields, this command can be used to control where in the action they go.
+&lt;ul&gt;
+&lt;li&gt;0 - Text field 1 in message -&amp;gt; text field 1 in action.&lt;/li&gt;
+&lt;li&gt;2 - All text fields in the message -&amp;gt; text field 1 in action.&lt;/li&gt;
+&lt;li&gt;3 - Text field 1 in message -&amp;gt; text field 1 in action. Rest of message text fields -&amp;gt; prevention field in action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;COMMENTTEXTFIELDS : When an action is created from message forms all text fields including this one, are copied into the action comment. Both the name and value of the field are copied. Specially ordered by Tess.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;X - Number. Copy all text fields including this one, to the comment in the new action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CASEDOCUMENTS : Attachments to messages.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWCOMPLETEMESSAGE : When you open the Message process page all categories will be visible.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FAULTCASEPROCESS_USERFEEDBACK_DEFAULT_ON_CLOSE : Send a note about the case starts preselected by default for all actions that close the case
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;INFOSENDEMPTYEMAIL (not in use)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;INFOTOPUSERDEP : Brukes for å sette hvilken avdeling som brukes som utgansgpunkt for å hente brukerne for &amp;ldquo;Alle&amp;rdquo; valget i &amp;ldquo;Informer flere&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - &amp;ldquo;Alle&amp;rdquo; valget er ikke tilgjengelig&lt;/li&gt;
+&lt;li&gt;-1 - &amp;ldquo;Alle&amp;rdquo; valget er tilgjengelig, men bruker avdelingen spesifisert i SPAN som utgangspunkt
+&amp;ndash;  Span: Hvis INFOTOPUSERDEP = -1, brukes span til å justere øverste avdeling&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Bruk avdelingen over innlogget avdeling (standardverdi)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;X - Kun avdelinger under dette avdelingsnummeret kan brukes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Alle andre verdier, &amp;ldquo;Alle&amp;rdquo; valget tilgjengelig. Bruk verdien som avdelingsnummer, f.eks 1 for at alle skal kunne velge alle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value null (Bruk øverste tilgjenglige avdeling for den aktive brukeren).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFOROLESETUP : Justerer øverste avdeling å hente brukere fra for rollevalgene i Informer flere
+&lt;ul&gt;
+&lt;li&gt;0 - Bruk øverste avdeling 1&lt;/li&gt;
+&lt;li&gt;1 - Bruk brukerens innloggede avdeling&lt;/li&gt;
+&lt;li&gt;2 - Bruk valgt avdeling&lt;/li&gt;
+&lt;li&gt;-1 - Bruk avdelingen over innlogget avdeling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NOACTIONNAME : Om navnet på tiltaket skal starte tomt eller ikke.
+&lt;ul&gt;
+&lt;li&gt;0 - Navnet på tiltaket blir satt opp med de første 20 bokstavene fra første tekstfelt i meldingen&lt;/li&gt;
+&lt;li&gt;1 - Starter blankt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NOACTIONDESCRIPTION : Om første tekstfelt i tiltaket skal starte tomt eller ikke.
+&lt;ul&gt;
+&lt;li&gt;0 - Tekstfeltet blir satt opp som kopi av første tekstfelt i meldingen&lt;/li&gt;
+&lt;li&gt;1 - Starter blankt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NOPREVENTIONDESCRIPTION : Om andre tekstfelt i tiltaket skal starte tomt eller ikke.
+&lt;ul&gt;
+&lt;li&gt;0 - Tekstfeltet blir satt opp som kopi av første tekstfelt i meldingen&lt;/li&gt;
+&lt;li&gt;1 - Starter blankt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;STANDARDACTIONTYPE (not in use)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DEFAULTACTIONOWNER (not in use)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SHOWALLCATEGORIESINEMAILS : All the selected categories of the message are included in the email about the case, not just the defining one.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;actioncaseprocess&#34;&gt;ACTIONCASEPROCESS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;SENDEMAIL
+&lt;ul&gt;
+&lt;li&gt;0 - The option Send email to responsible for execution when creating an action is not checked by default.&lt;/li&gt;
+&lt;li&gt;1 - The option Send email to responsible for execution when creating an action is checked by default.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;STRICTAPPROVAL
+&lt;ul&gt;
+&lt;li&gt;0 - All managers can approve an action.&lt;/li&gt;
+&lt;li&gt;1 - Only the manager who is set as the Responsible for approving the action can approve it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTIONTOPUSERDEP Used to set which department can be used as entry point for getting users to perform an action
+&lt;ul&gt;
+&lt;li&gt;-1 - Use the department above the active department (the department the user logged in to), for the user.&lt;/li&gt;
+&lt;li&gt;0 - Use the active department for the user, activeDepNr&lt;/li&gt;
+&lt;li&gt;others - Use the value as a department number, example: 1 makes it possible for all to select users from the whole organisation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTIONTEXTTAG Used to set the title for the action description field.
+&lt;ul&gt;
+&lt;li&gt;1 Work description&lt;/li&gt;
+&lt;li&gt;2 Corrective action&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;COST&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;TIME&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;START_DATE_FIELD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CHANGEMESSAGEDUEDATE Change the message due date to match the action due date, if message due date is earlier.
+&lt;ul&gt;
+&lt;li&gt;0 - Message due date is independent of action(s) due date&lt;/li&gt;
+&lt;li&gt;1 - Message due date gets updated automatically to match the action due date if action due date is after the message due date&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;logon&#34;&gt;LOGON&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;TOPSELECTABLELOGONDEPNR
+&lt;ul&gt;
+&lt;li&gt;-1 - Use PRESETLOGONDEPNR.&lt;/li&gt;
+&lt;li&gt;Otherwise -The highest department number in the department hierarchy is allowed to log in anonymously or create users. Effective only if such a login is allowed from the settings in the control database.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PRESETLOGONDEPNR : If anonymous login or self-generation of users is allowed, and you do not want the users themselves to choose department, set the department number here.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DIRECTLOGONHEADER : What should be written in the header of the direct login page next to Select.
+&lt;ul&gt;
+&lt;li&gt;0 - Location&lt;/li&gt;
+&lt;li&gt;1 - Department&lt;/li&gt;
+&lt;li&gt;2 - Organisation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LOGONHEADER : What should be written in the header of the login page
+&lt;ul&gt;
+&lt;li&gt;0 - Sikkerhetsstyring&lt;/li&gt;
+&lt;li&gt;1 - Quality management system&lt;/li&gt;
+&lt;li&gt;2 - Kartlegging&lt;/li&gt;
+&lt;li&gt;3 - Kvalitetsstyringssystem&lt;/li&gt;
+&lt;li&gt;4 - HMS-rapportering&lt;/li&gt;
+&lt;li&gt;5 - Avviks-/HMS-meldingssystem&lt;/li&gt;
+&lt;li&gt;6 - Kvalitetsportalen&lt;/li&gt;
+&lt;li&gt;7 - HMS og Kvalitetssystem&lt;/li&gt;
+&lt;li&gt;8 - HMSSK styringssystem&lt;/li&gt;
+&lt;li&gt;9 - Kvalitets- og avvikssystem&lt;/li&gt;
+&lt;li&gt;10 - Ledelsessystem&lt;/li&gt;
+&lt;li&gt;11 - Kvalitet og internkontroll&lt;/li&gt;
+&lt;li&gt;12 - Ledelsessystem for kvalitet og miljø&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;WORKERSTARTPAGE : Opening page for users
+&lt;ul&gt;
+&lt;li&gt;0 - Non conformance / Proposals&lt;/li&gt;
+&lt;li&gt;1 - Preventive activities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MANAGERSTARTPAGE: Defines the starting tab after login, if the user has that tab based on access rights.
+&lt;ul&gt;
+&lt;li&gt;0 - HOME&lt;/li&gt;
+&lt;li&gt;1 - ACTIVITY PLAN&lt;/li&gt;
+&lt;li&gt;2 - INFO&lt;/li&gt;
+&lt;li&gt;4 - ARCHIVE&lt;/li&gt;
+&lt;li&gt;5 - Message form selection (Register message button list)&lt;/li&gt;
+&lt;li&gt;Any other other number - RISK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;setup&#34;&gt;SETUP&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;GOAL : Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CALENDAR : Tab control for Activity plan menu
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ADMIN : Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;REPORTS : Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FAULT : Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTION : Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;HELP : Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;RISK : Activates the risk module
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LOGMESSAGES : Activates the log messages module
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;WORKORDER : Activates work messages and Work order replacement for Actions
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MAILTYPE : Email sending
+&lt;ul&gt;
+&lt;li&gt;0 - multipart/alternative; html + text&lt;/li&gt;
+&lt;li&gt;1 - html&lt;/li&gt;
+&lt;li&gt;2 - text&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ADVANCEDDOCSYSTEM: Shows the &amp;ldquo;Document tabs&amp;rdquo; under Admin/Documents and these also show as extra tabs under Info
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ROLESACTIVATED: Activates the role management tab under Admin
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MENUROLECONTROL: Shows the system roles for the tab Level 1 Control
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FIELDROLECONTROL: Shows the system roles for fields control
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NOPASSWORDDIRECTLOGON: Accept direct login without password
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;li&gt;2 - Accept links without password. Used for the pseudo SSO login.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;RMSHOWNAME: Include the name of the recipient in front of the link in the reminder email. Important for shared email address, eg Torshov
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWUSERCOUNT: Show the aggregated number of users per department in the Navigator. If On and span = 1, only show for content administrator.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;REPORTFORM: Attach an additional message form to a list. Used to create a report / conclusion for an activity.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SIMPLECASEPROCESS: Allowed actions are: Choose case handler, Close the case and Reject. Plan an action option removed.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTIVITYDISTRIBUTION: Select between NORMAL, AUDIT, READ AND UNDERSTOOD (optional)
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EMAILPREAMBLE: Set additional text in the Subject field for identification
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 -&amp;gt; Text number to set&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWUSERNAMEINFULLNAME: Controls how the name of a user is displayed.
+&lt;ul&gt;
+&lt;li&gt;0 - First name, middle name, last name&lt;/li&gt;
+&lt;li&gt;1 - Last name, first name, middle name&lt;/li&gt;
+&lt;li&gt;2 - Username first name, middle name, last name&lt;/li&gt;
+&lt;li&gt;3 - Username last name, first name, middle name&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;NAVIGATORSTARTCLOSED: Should the navigator start closed or open.
+&lt;ul&gt;
+&lt;li&gt;0 - Start open&lt;/li&gt;
+&lt;li&gt;1 - Start closed&lt;/li&gt;
+&lt;li&gt;2 - Start closed if the department the user is logging in to has no subdepartments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LOG_MESSAGE_ACCESS : Controls if logging of message content access should be logged
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SENDSMS : Controls if the SMS module is active or not
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;USER_NAME_SORT_TYPE : Controls how users are sorted
+&lt;ul&gt;
+&lt;li&gt;0 Order by Last name, first name, middle name&lt;/li&gt;
+&lt;li&gt;1 Order by full name&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;CASEOFFICERLISTSETUP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ENCRYPTPASSWORDS. This preference is no longer in use (v3.95)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MFT (not in use)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;FACILIT (not in use)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;COMBINEDLIST (not in use)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CASESENSITIVEPASSWORD (not in use)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CASE_INSENSITIVE_USERNAME : Se bort fra store og små bokstaver i brukernavnet&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;COMPETENCE : Var funksjon laget for VFK som endret litt på visning av resultater for spørreundersøkelser. Brukes ikke av noen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;EXTRA_USER_ATTRIBUTES : Legger til en mulighet i brukeradministrasjon for flere felter&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ARCHIVE : (Ikke i bruk - byttet ut med FOLDER_ARCHIVE systemrolle knyttet til brukertyper)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PREFERENCESADMIN (not in use)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;USE_V4_TOPMENU: Use the icons from the v4 in the top tab row&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Off (Keep the old look with the normal tabs)&lt;/li&gt;
+&lt;li&gt;1 - On (Use the new look with the large tabs)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FORMTYPE_EXTERNAL : Message form type External can be used for linking message registration buttons to external systems
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MULTIPLE_LOGOS : Possibility to have different logos per department (in document headers and in login screens) - NOT IN USE
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;workersetup&#34;&gt;WORKERSETUP&lt;/h1&gt;
+&lt;p&gt;Settings the simplified interface.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GOAL: Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;OVERVIEW: Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PREFERENCES: Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;HELP: Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FAULT: Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTION: Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LIST: Tab control
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CONFUSED: Use Non conformance / Proposals in the upper toolbar instead of My cases. Bfk.
+&lt;ul&gt;
+&lt;li&gt;0 - Not activated&lt;/li&gt;
+&lt;li&gt;1 - Activated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWUSERREPORT
+&lt;ul&gt;
+&lt;li&gt;0 - Endre melding&lt;/li&gt;
+&lt;li&gt;1 - Dialog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MSGLINKSTARTPAGE : Hvilken side som vises når man åpner en melding i forenklet grensesnitt
+&lt;ul&gt;
+&lt;li&gt;0 - Endre melding&lt;/li&gt;
+&lt;li&gt;1 - Dialog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;fault&#34;&gt;FAULT&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;COST: Show the cost in the action system
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1 in messages, 0 in the overview&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PRIORITY: Show the priority in the message system
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PRIORITY_TYPE: What the priority field is called
+&lt;ul&gt;
+&lt;li&gt;0 - Priority&lt;/li&gt;
+&lt;li&gt;1 - Severity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;OCCURENCES: Show the number in the message system
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SINGLEPROB: Use the same probability for all risk categories in the message
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MESSAGESPRPAGE: number of messages per page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default value 20&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AUTOMATICPROCESSDELAY: Number of days available for the automatic deadline for processing a case&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;default-value-7&#34;&gt;Default value 7&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EARLYCASEPROCESS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Send to case handler dialogue that is enabled by this option includes all users with the system role Default message receiver (by default, user type Manager), and all the users defined in the rules for additional case handlers in relation to the department which is selected in the navigator. For forms that have Early case handler rules defined, the defined rules with the early case handlers will override the default ones - including when this option has value 0.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Does not show the Send to case handler option in the message form&lt;/li&gt;
+&lt;li&gt;1 - Shows the Send to case handler option in the message form. If the span is also set, it only affects the form with the given formId (i.e. early case process is only activated for the form set in the span field)&lt;/li&gt;
+&lt;li&gt;2 - On, skip extra case handlers.&lt;/li&gt;
+&lt;li&gt;3 - On, skip sub departments&lt;/li&gt;
+&lt;li&gt;4 - On, skip both extra case handlers and sub departments&lt;/li&gt;
+&lt;li&gt;5 - On, checking and updating the case handler select after each change in the Edit message page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EARLYCASEPROCESSINFO.
+&lt;ul&gt;
+&lt;li&gt;0 - no extra inform&lt;/li&gt;
+&lt;li&gt;1 - inform some user. Span then contains the preselectedInformUser.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EARLYCASEPROCESSSELECT
+&lt;ul&gt;
+&lt;li&gt;0 - Only the default case handler will appear in the selection box&lt;/li&gt;
+&lt;li&gt;1 - The user can select the case handler himself / herself.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DEFAULTCASEPROCESSOR: Uid for the user who will be selected in the list of case handlers unless another user was previously selected. SetBy column can have a department number that limits the impact to the department. Span is intended to be used for limiting the form number (not created)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VIEWALLVERSIONS: Could choose to look at earlier versions of a message for the complete edit history&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWCOMMENTS: Include comments to lists and survey forms in graphs and message lists
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SEARCHDATE : Sets what will be the default &amp;ldquo;From&amp;rdquo; date on the search page
+&lt;ul&gt;
+&lt;li&gt;0 - One year&lt;/li&gt;
+&lt;li&gt;1 - 01.01.00&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CHOOSELOGGER : Determines if all users are allowed to register messages on others in their department besides themselves
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On. For On also the Span value is used
+&amp;ndash;  0: The change applies to all user types
+&amp;ndash;  1: The change applies only to case handlers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0 and 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ACTIONSHORTCUTBUTTON : Show / hide the Create action button in the message form
+&lt;ul&gt;
+&lt;li&gt;0 -Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;COSTREADONLY : Makes the first cost field editable only for the Content administrator
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOW_REPORTED_BY_IN_SEARCH_RESULT : Shows the registered on / Message originator column in the table and PDF view for search results.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FAULT_RISK_DUE_DATE : Show or hide due date column in Risk tab
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CHOOSEDEPARTMENT : Om brukeren får lov til å registrere melding på annen avdeling enn egen
+&lt;ul&gt;
+&lt;li&gt;0 - Nei&lt;/li&gt;
+&lt;li&gt;1 - Alle tilgjengelige avdelinger&lt;/li&gt;
+&lt;li&gt;-1 - Fra og med avdelingen over innlogget avdeling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;FIELDROLECONTROL (not in use)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RISKSCALE : Id of scale to use for labels in the risk matrix. Mapped against a set of textfields in language database MANAGERFAULTOVERVIEW.RISK&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;See the Probability page and the Consequence page for the possible values so far. Please note that by setting an id here, the same set number will be used for both Probability and Consequence. If a different set number needs to be used for Consequence, you can set it in the SPAN field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SHOWFORMSELECT&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SHOWPRDEPCAT&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CASEPROCESSORFORMFILTER (not in use)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CASEDOCUMENTS : File component activated or not in message form page&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SEND_MESSAGE_REGISTERED_CONFIRMATION : Send an email to the message originator upon new message registration.
+&lt;ul&gt;
+&lt;li&gt;0 - Do not send an email&lt;/li&gt;
+&lt;li&gt;1 - Send email confirmation when message registered from the web page&lt;/li&gt;
+&lt;li&gt;2 - Send email confirmation when message registered from the mobile app&lt;/li&gt;
+&lt;li&gt;3 - Send email confirmation when message registered from the web page or the mobile app&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DEPARTMENTPATH : Controls how much of the path to the selected department is displayed on the New / Edit message page and on the Message form preview page.
+&lt;ul&gt;
+&lt;li&gt;0 - The full path is displayed.&lt;/li&gt;
+&lt;li&gt;X - Only the last X number of departments in the organisation hierarchy are displayed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;GPS_ACTIVE : Option to enable location services in the Qm+ app and to display location for the registered messages on a map afterwards.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;mypage&#34;&gt;MYPAGE&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWBUTTONS : Determines if there will be a drop-down menu or a button for registering new messages
+&lt;ul&gt;
+&lt;li&gt;0 - Drop-down menu&lt;/li&gt;
+&lt;li&gt;1 - Button&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOW_ID : Is the case number shown in the Inbox
+&lt;ul&gt;
+&lt;li&gt;0 - No&lt;/li&gt;
+&lt;li&gt;1 - Yes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MAXBUTTONS : Antall skjemaer som gjør at knapperaden for å registrere ny melding blir byttet ut med fellesknapp i Innboks og medarbeidersiden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default value 4&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CATEGORY_GROUP_TABLE_DISPLAY: When this is set to 1, display one column per category group, ordered alphabetically.
+&lt;ul&gt;
+&lt;li&gt;0 - No&lt;/li&gt;
+&lt;li&gt;1 - Yes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;h1 id=&#34;action&#34;&gt;ACTION&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;MESSAGESPRPAGE: number of messages per page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default value 20&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;COST: Show the cost in the message system
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;TIME: Show the action time fields
+&lt;ul&gt;
+&lt;li&gt;0 - Hide&lt;/li&gt;
+&lt;li&gt;1 - Show&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PREVENTION_FIELD
+&lt;ul&gt;
+&lt;li&gt;0 Hide action prevention field (&amp;ldquo;How to prevent repetition (root cause analysis)&amp;quot;)&lt;/li&gt;
+&lt;li&gt;1 Show action prevention field.&lt;/li&gt;
+&lt;li&gt;2 Hide action prevention field for all actions created after the date set in the SPAN field (date format: YYYYMMDD) - date specified included&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;info&#34;&gt;INFO&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;ORDER: (v3.96, May 2019: This may not be in use any more.)
+&lt;ul&gt;
+&lt;li&gt;0 - Sort alphabetically&lt;/li&gt;
+&lt;li&gt;1 - Sort by position&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PRCOL:
+&lt;ul&gt;
+&lt;li&gt;1 - 1 column with document groups&lt;/li&gt;
+&lt;li&gt;2 - 2 columns with document groups&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default value 2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NOGOAL:
+&lt;ul&gt;
+&lt;li&gt;0 - The Goal tab is shown&lt;/li&gt;
+&lt;li&gt;1 - The Goal tab is not shown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;INLINEPAGE
+&lt;ul&gt;
+&lt;li&gt;0 - Normal view with document names that opens the documents when clicked on.&lt;/li&gt;
+&lt;li&gt;1 - Documents in a given tab are shown directly in the Qm+ page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWPDFICON
+&lt;ul&gt;
+&lt;li&gt;0 - PDF icon for export to PDF document is not shown for documents written in Qm+&lt;/li&gt;
+&lt;li&gt;1 - PDF icon for export to PDF document is shown for documents written in Qm+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWPDFGROUPICON - PDF icon for export of all documents in a folder that may be exported to PDF. Only documents written in Qm+ may currently be exported to PDF. Folders without such documents do not show this icon.
+&lt;ul&gt;
+&lt;li&gt;0 - PDF icon is not shown for folders&lt;/li&gt;
+&lt;li&gt;1 - PDF icon is shown for folders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWWORDICON
+&lt;ul&gt;
+&lt;li&gt;0 - Word icon for export to docx document is not shown for documents written in Qm+&lt;/li&gt;
+&lt;li&gt;1 - Word icon for export to docx document is shown for documents written in Qm+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;TABLE_LAYOUT
+&lt;ul&gt;
+&lt;li&gt;0 - Off. Normal flow layout. A group uses the amount of space it requires.&lt;/li&gt;
+&lt;li&gt;1 - On. Table layout. 2 and 2 groups shown beside each other have the same length on the page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_LAWS_TAB : Activate the law overview &amp;ldquo;Lovgrunnlag for kommuner&amp;rdquo; from the common database.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_PROCEDURES_TAB : Activate the procedure overview from the common database. (&amp;ldquo;Eksempel - Dokumentstruktur&amp;rdquo;)
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_LAWS_CONSTRUCTION_TAB : Activate the law overview &amp;ldquo;Lovgrunnlag for byggebransjen&amp;rdquo; from the common database.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_LAWS_REGION_TAB : Activate the law overview &amp;ldquo;Lovgrunnlag for fylkeskommuner&amp;rdquo; from the common database. (DEACTIVATED NOW!!)
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_LAWS_COMPANY_TAB : Activate the law overview &amp;ldquo;Lovgrunnlag for bedrifter&amp;rdquo; from the common database.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_PROCEDURES_REGION_TAB :
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_PROCEDURES_COMPANY_TAB :
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_CUSTOM_TAB :
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INFO_COMMON_DOCUMENTS_AFK :
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;risk&#34;&gt;RISK&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;LEVEL1: The lowest risk number with a yellow warning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default value 5&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LEVEL2: The lowest risk number with a red warning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 15&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;list&#34;&gt;LIST&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;ANONYMOUSPARTICIPATIONLIMIT : Number of answers that must be registered before a graph for an anonymous activity can be shown
+&lt;ul&gt;
+&lt;li&gt;0 - The graph shows regardless of the number of answers&lt;/li&gt;
+&lt;li&gt;x &amp;gt; 0 - The graph shows only if the number of registered answers is&amp;lt; x for the selected range.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default value 6&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ANONYMOUSPARTICIPATIONMINIMUMLIMIT : Minimum value for the drop-down &amp;ldquo;Number of answers before the result is visible&amp;rdquo; in the Edit activity page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 4&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;HIDECOMMENTDIRECTLOGON : Hide the list of comments for those who have received the result via Send results
+&lt;ul&gt;
+&lt;li&gt;0 - Deactivated&lt;/li&gt;
+&lt;li&gt;1 - Activated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;EDITAFTERDUEDATE : Fill out new answers and change the old for managers and case handlers after the deadline has expired
+&lt;ul&gt;
+&lt;li&gt;0 - Deactivated&lt;/li&gt;
+&lt;li&gt;1 - Activated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWGROUPMEAN : Show the average value for the whole group depicted in the graph.
+&lt;ul&gt;
+&lt;li&gt;0 - Deactivated&lt;/li&gt;
+&lt;li&gt;1 - Activated&lt;/li&gt;
+&lt;li&gt;Span used to set number of decimals after ,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0
+Default value span 2&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DEFAULTCOMMENTFORMID : Standard meldingsskjema å bruke for kommentarer til lister. Denne bør settes til id for Kommentarskjema for nye kunder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DEFAULTCOMMENTCATEGORYNR : Standard kategori å bruke for kommentarer til lister. Denne bør settes til id for kategorien Kommentar i Kommentarskjema for nye kunder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOELEMENTOR : Om det skal gjøres AND eller OR sjekk for for alternativer i hvert spørsmpl ved svaralternativfiltrering i listegrafen
+&lt;ul&gt;
+&lt;li&gt;0 - Bruk AND&lt;/li&gt;
+&lt;li&gt;1 - Bruk OR&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INDIVIDUALCOMMENTFIELDS : Om det for flervalgspørsmål skal vises eget kommentarfelt for hvert alternativ.
+&lt;ul&gt;
+&lt;li&gt;0 - Deaktivert&lt;/li&gt;
+&lt;li&gt;1 - Aktivert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;h1 id=&#34;calendar&#34;&gt;CALENDAR&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;ADDCHILDACTIVITY : Have the possibility to create subactivities for the activities in the Activity plan. Subactivities works as usual activities, but they are sorted under the main activity.
+&lt;ul&gt;
+&lt;li&gt;0 - Deactivated&lt;/li&gt;
+&lt;li&gt;1 - Activated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWREFERENCE : Show the name of the attached documents to an activity as a reference for the activity in the tables that provide an overview of the activities in the Activity plan.
+&lt;ul&gt;
+&lt;li&gt;0 - Deactivated&lt;/li&gt;
+&lt;li&gt;1 - Activated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SHOWFULLCOMMENTFORM : Always have the possibility to get a complete message form with the page Do you have any comments? even if the text field has been active right in the list.
+&lt;ul&gt;
+&lt;li&gt;0 - Deactivated&lt;/li&gt;
+&lt;li&gt;1 - Activated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CALENDAR_DEFAULT_READ_AND_UNDERSTOOD_LISTID : Used when SETUP_ACTIVITYDISTRIBUTION = 1.
+&lt;ul&gt;
+&lt;li&gt;The listId of the Read and Understood list.&lt;/li&gt;
+&lt;li&gt;Span can be used for the default activity group.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CALENDAR_EXCHANGE_INTEGRATION : Controls if the fields that indicate the possible Exchange integration is activated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Deactivated&lt;/li&gt;
+&lt;li&gt;1 - Activated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;warning&#34;&gt;WARNING&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;CASEPROCESSORWARNING: Send an email to users who have messages or actions that the deadline has expired. One email is sent for each user. The email contains links to all messages, actions and warnings for documents that need to be audited for which the user is responsible and their due date has passed.
+&lt;ul&gt;
+&lt;li&gt;0 - Deactivated&lt;/li&gt;
+&lt;li&gt;1 - Activated. New emails are sent each night, as long as the cases remain unhandled.&lt;/li&gt;
+&lt;li&gt;2 - Every Sunday. For 2 - 8, messages are sent weekly on the selected day.&lt;/li&gt;
+&lt;li&gt;3 - Every Monday&lt;/li&gt;
+&lt;li&gt;4 - Every Tuesday&lt;/li&gt;
+&lt;li&gt;5 - Every Wednesday&lt;/li&gt;
+&lt;li&gt;6 - Every Thursday&lt;/li&gt;
+&lt;li&gt;7 - Every Friday&lt;/li&gt;
+&lt;li&gt;8 - Every Saturday&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ESCALATION_DAYS : Determines whether cases are escalated after exceeding deadlines. The value of the option determines how many days over the period allowed before the case is escalated. The escalation is performed by the night job. When a message is escalated, the message&amp;rsquo;s case handler changes to be the first user the routine meets in a search for users with the System Role Default message receiver in the parent department. If there is no match in the first parent department, its parent is tried until eventually the top of the organization is reached. So, in detail: Upon escalation, it is checked whether the current case handler has the role Default message receiver (the user type Manager is the only one that has it in the standard version). If the current case handler does not have this role, the message is sent to the first user the system finds in the same department (normally the user&amp;rsquo;s manager) who has it. If the current case handler has this role, the message is sent to the first user the system finds in the department above which satisfies the requirement (the manager&amp;rsquo;s manager).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 - Deactivated&lt;/li&gt;
+&lt;li&gt;1 -&amp;gt; Number of days before the escalation happens. Span field can be used to define the days allowed to the new case handler, by moving the due date of the case this number of days ahead.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;OVERDUEACTIONCREATOR: When an action has expired, send the warning email not only to its executors but also to its creator.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;mail&#34;&gt;MAIL&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;INCLUDEAPPDATA : Turns the application data field in emails On or Off. Should be On only for customers with email servers that do not support the &amp;ldquo;In-Reply-to&amp;rdquo; email header.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;HIGHLIGHTLINKWARNING : Should the warning &amp;ldquo;Never forward emails from Qm+ containing links&amp;hellip;&amp;rdquo; be at the top of the emails sent from the system and in red colour?
+&lt;ul&gt;
+&lt;li&gt;0 - no, warning goes to the bottom of the email and text is black&lt;/li&gt;
+&lt;li&gt;1 - yes, warning goes to the top of the email and text is red&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;INCLUDE_DESCRIPTION_IN_INFORM_EMAIL : Adds the 1st text field from the message (case description) to the Inform email (from the rule)
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;documents&#34;&gt;DOCUMENTS&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;CUSTOMHEADING : Turn on to use a customer defined document head.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;AUTO_PUBLISH : Controls if documents need to be published before they can appear under Info.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PUBLISH_DEPARTMENT : Controls if is possible to store documents in departments other than your own.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_EDITOR_MANUAL_STYLE_OPTIONS : Controls if the user has the options in the editor to adjust font and font size.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;CUSTOMHEADINGFIELDS : Controls the function for customer specific document heading fields. The fields must additionally be coded into the customer database for this function to work.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_AUTO_INCREASE_REVISION_PUBLISHED_ONLY : Controls if the document is stored with a new revision number before it is published. If this option is active, the document will not have a change log in the version history before it is published.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_STYLE_SHEET : Controls if the customer uses special stylesheet for html editor and document content.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;Number - id for .css file to be used&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_PUBLISH_ONLY_APPROVED : Controls if a document must have an approved hearing before it can be published.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The Span value can be used to define a department number where the restriction starts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_COMMON_LAWS_TAB : Activate the law overview from the common database.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_PROCEDURES_LAWS_TAB : Activate the procedure overview from the common database.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_MAX_FILE_SIZE : The maximum allowed file size in MB for uploaded documents. Can be increased up to 50 MB.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 10 MB&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_SHOW_HEARING_IN_HEADER : Include the hearing information in the document header or not
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;DOCUMENTS_SKIP_CONTROLLERS_IN_HEADER : If the hearing participants should be excluded from the document header. Has no effect if DOCUMENTS_SHOW_HEARING_IN_HEADER is 0
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;facilit&#34;&gt;FACILIT&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ACTIONMODE&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DEMANDROLE&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ldap&#34;&gt;LDAP&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;LDAPINTEGRATION_ACTIVE : Determines if the night job runs LDAP synchronisation for this customer
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;LDAPINTEGRATION_SEND_DEACTIVATE_USER_NOTICE
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
