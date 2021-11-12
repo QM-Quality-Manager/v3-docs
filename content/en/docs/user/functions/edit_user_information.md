@@ -1,14 +1,10 @@
 ---
-title: "Functions"
-linkTitle: "Functions"
+title: "Edit user information"
+linkTitle: "Edit user information"
 date: 2017-01-04
 description: >
-  All functions for users.
+  Function under Users for changing the data of users.
 ---
-# Edit user information
-
-Function under Users for changing the data of users.
-
 ### Fields
 
 - User name: Used by the user for logging into the system. Distinguishes between uppercase and lowercase letters. Must be unique for each customer.
