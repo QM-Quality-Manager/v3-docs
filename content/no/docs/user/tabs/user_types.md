@@ -1,13 +1,10 @@
 ---
-title: "Arkfaner"
-linkTitle: "Arkfaner"
+title: "Brukertyper"
+linkTitle: "Brukertyper"
 date: 2017-01-06
 description: >
- Arkfaner under brukere
+ Brukertyper er en arkfane under Brukere
 ---
-# Brukertyper
-Brukertyper er en arkfane under {{< onlystaticimg src="/images/User.png" >}} Brukere
-
 Her administreres virksomhetens brukertyper. Bare brukere med Systemrollen Systemrolleadministrator eller Brukeradministrator kan se arkfanen.
 
 Man må ha Systemrollen Systemrolleadministrator for å kunne gjøre endringer.

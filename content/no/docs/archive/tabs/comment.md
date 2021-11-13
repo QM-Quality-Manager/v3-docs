@@ -1,14 +1,10 @@
 ---
-title: "Arkfaner"
-linkTitle: "Arkfaner"
+title: "Kommentarer"
+linkTitle: "Kommentarer"
 date: 2017-01-06
 description: >
-  Alle arkfaner for arkiv.
+  Kommentarer er en arkfane under Arkiv
 ---
-# Kommentarer
-
-Kommentarer er en arkfane under {{< onlystaticimg src="/images/Book.png" >}} Arkiv
-
 Inneholder alle kommentarmeldinger i systemet. Kommentarmeldinger er meldinger som er registrert som svar kommentar til en liste delt ut i Aktivitetsplan. Ved søk enten fra Rapporter eller Søk for meldinger vises det over resultattabellen en oversikt over de søkekriteriene som er satt for søket.
 
 ### Valg

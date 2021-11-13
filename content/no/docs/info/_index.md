@@ -6,10 +6,5 @@ description: >
   Info
 ---
 
-Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.
-
-* Oppsummer
-* Seksjonen din
-* Her
-
+Dette er landingsiden for dokumentasjonen til info siden.
 

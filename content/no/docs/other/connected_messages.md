@@ -5,7 +5,7 @@ date: 2017-01-06
 description: >
   Alle arkfaner for lister.
 ---
-Tilknyttede meldinger er en arkfane under Table edit.png Innboks og Book.png Arkiv.
+Tilknyttede meldinger er en arkfane under {{< onlystaticimg src="/images/Table_edit.png" >}} Innboks og {{< onlystaticimg src="/images/Book.png" >}} Arkiv.
 
 Denne siden brukes til å få oversikt over de meldingene som er tilknytett dette tiltaket. Flere meldinger kan kobles til eller kobles fra tiltaket. Godkjente tiltak kan ikke kobles til flere meldinger eller kobles fra meldinger. 
 

@@ -1,4 +1,3 @@
-
 ---
 title: "Arkiv"
 linkTitle: "Arkiv"
@@ -7,10 +6,4 @@ description: >
   Arkiv.
 ---
 
-Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.
-
-* Oppsummer
-* Seksjonen din
-* Her
-
-
+Dette er landingsiden for dokumentasjon relatert til archive.

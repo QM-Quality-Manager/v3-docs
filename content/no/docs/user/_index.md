@@ -1,4 +1,3 @@
-
 ---
 title: "Bruker dokumentasjon"
 linkTitle: "Bruker dokumentasjon"
@@ -7,10 +6,5 @@ description: >
   Bruker dokumentasjon.
 ---
 
-Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.
-
-* Oppsummer
-* Seksjonen din
-* Her
-
+Dette er landingsiden for dokumentasjon relatert til brukere.
 

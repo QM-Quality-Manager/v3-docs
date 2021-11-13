@@ -3,7 +3,7 @@ title: "Navigatoren"
 linkTitle: "Navigatoren"
 date: 2017-01-06
 description: >
-  Meldingsskjemaer er en arkfane under skjemaer 
+  Navigatoren befinner seg i den venstre spalten i Hovedsiden.
 ---
 ### {{< onlystaticimg src="/images/64px-Monitor.png" >}} Interaktiv opplæring
 

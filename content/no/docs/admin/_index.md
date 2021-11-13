@@ -6,4 +6,4 @@ description: >
   En samling av alle artikler om administrasjon.
 ---
 
-En samling av alle artikler om administrasjon
+Dette er landingsiden for dokumentasjon relatert til administrasjon.

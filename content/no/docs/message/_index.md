@@ -1,4 +1,3 @@
-
 ---
 title: "Meldinger"
 linkTitle: "Meldinger"
@@ -7,10 +6,5 @@ description: >
   Meldinger.
 ---
 
-Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.
-
-* Oppsummer
-* Seksjonen din
-* Her
-
+Dette er landingsiden for dokumentasjon relatert til meldinger.
 

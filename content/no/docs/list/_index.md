@@ -1,4 +1,3 @@
-
 ---
 title: "Spørreskjemar"
 linkTitle: "Spørreskjemar"
@@ -7,10 +6,4 @@ description: >
   Spørreskjemar.
 ---
 
-Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.
-
-* Oppsummer
-* Seksjonen din
-* Her
-
-
+Dette er landingsiden for dokumentasjon relatert til Spørreskjemar.

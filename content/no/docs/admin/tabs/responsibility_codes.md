@@ -1,7 +1,10 @@
-
-# Ansvarskoder
-{{< onlystaticimg src="/images/User_suit.png" >}} Ansvarskoder er en arkfane under Admin.png Admin.
-
+---
+title: "Ansvarskoder"
+linkTitle: "Ansvarskoder"
+date: 2017-01-06
+description: >
+ Ansvarskoder er en arkfane under Admin.png Admin.
+---
 Her kan du administrere ansvarskoder. Ansvarskoder kan brukes i dokumenter av typen prosesskart. Bruk av ansvarskoder er en forutsettning for at prosesskartet skal kunne vises som ansvarsmatrise. Ansvarskoder endres i Endre ansvarskode siden.
 
 ### Knapper

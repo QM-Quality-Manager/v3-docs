@@ -1,14 +1,10 @@
 ---
-title: "Arkfaner"
-linkTitle: "Arkfaner"
+title: "Mine saker arkfane medarbeider"
+linkTitle: "Mine saker arkfane medarbeider"
 date: 2017-01-06
 description: >
-  Alle arkfaner for medarbeidere.
+  Mine saker er en arkfane på Hovedsiden for medarbeider.
 ---
-
-# Mine saker arkfane medarbeider
-{{< onlystaticimg src="/images/Table_edit.png" >}} Mine saker er en arkfane på Hovedsiden for medarbeider
-
 ### Knapper
 
 - {{< onlystaticimg src="/images/Printer.png" >}} Skriv ut: Skriver ut det aktive skjermbildet.

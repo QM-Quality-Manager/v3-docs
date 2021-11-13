@@ -1,13 +1,11 @@
 ---
-title: "Arkfaner"
-linkTitle: "Arkfaner"
+title: "Spørreskjemaer arkfane medarbeider"
+linkTitle: "Spørreskjemaer arkfane medarbeider"
 date: 2017-01-06
 description: >
-  Alle arkfaner for lister.
+  Spørreskjemaer er en arkfane under Mine saker for medarbeider.
 ---
-# Spørreskjemaer arkfane medarbeider
-{{< onlystaticimg src="/images/Questionnaires_16px.png" >}} Spørreskjemaer er en arkfane under {{< onlystaticimg src="/images/My-cases_16px.png" >}} Mine saker for medarbeider
-Knapper
+### Knapper
 
 - {{< onlystaticimg src="/images/Printer.png" >}} Skriv ut: Skriver ut det aktive skjermbildet.
 - {{< onlystaticimg src="/images/Help.png" >}} Hjelp: Åpner denne siden

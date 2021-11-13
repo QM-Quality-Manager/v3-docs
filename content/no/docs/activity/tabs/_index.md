@@ -3,6 +3,6 @@ title: "Arkfaner"
 linkTitle: "Arkfaner"
 date: 2017-01-04
 description: >
-  Alle arkfaner for tiltak.
+  Alle arkfaner for aktiviteter.
 ---
-Alle arkfaner for tiltak.
+Alle arkfaner for aktiviteter.

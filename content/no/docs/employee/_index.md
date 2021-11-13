@@ -1,4 +1,3 @@
-
 ---
 title: "Dokumentasjon for Medarbeider"
 linkTitle: "Medarbeidere"
@@ -7,10 +6,5 @@ description: >
   Dokumentasjon for Medarbeider.
 ---
 
-Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.
-
-* Oppsummer
-* Seksjonen din
-* Her
-
+Dette er landingsiden for dokumentasjon relatert til medarbeidere.
 
