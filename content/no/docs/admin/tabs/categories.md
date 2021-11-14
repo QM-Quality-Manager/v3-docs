@@ -7,7 +7,7 @@ description: >
 ---
 Her administreres virksomhetens kategorier og kategorigrupper.
 
-### Info.png Hva kan jeg gjøre her?
+### {{< onlystaticimg src="/images/Info.png" >}} Hva kan jeg gjøre her?
 - ADMIN-arkfanen gir meg muligheter for å gjøre forandringer i Kategorier. (Disse kan senere legges inn i meldingsskjemaer: Klikk Skjemaer.)
 
 - Her lages navn på ny Kategorigruppe. Klikk "Aktiv kategorigruppe".
@@ -20,7 +20,7 @@ Her administreres virksomhetens kategorier og kategorigrupper.
 - Valg av kategorigruppe: Lister opp alle aktive kategorigrupper i systemet. Alle kategoriene i den valgte gruppen lagt inn fra den valgte avdelingen i navigatoren blir vist i oversikten.
 
 ### Knapper
-- {{< onlystaticimg src="/images/}Note_add.png" >}} Ny kategori: Oppretter en ny kategori og tar deg til endre kategori skjermbildet.
+- {{< onlystaticimg src="/images/Note_add.png" >}} Ny kategori: Oppretter en ny kategori og tar deg til endre kategori skjermbildet.
 
 ### Ikoner
 - {{< onlystaticimg src="/images/Note_edit.png" >}} Tar deg til endre kategori skjermbildet for å endre kategorien den linjen det ble trykket på tilhører.
