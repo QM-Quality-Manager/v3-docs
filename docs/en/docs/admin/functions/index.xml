@@ -1,0 +1,335 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Functions</title>
+    <link>https://docs3.qmplus.com/en/docs/admin/functions/</link>
+    <description>Recent content in Functions on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/admin/functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Edit category</title>
+      <link>https://docs3.qmplus.com/en/docs/admin/functions/edit_category/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/admin/functions/edit_category/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here you can manage the data of categories.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-what-can-i-do-here&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ What can I do here?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Categories tab gives me the possibility to create new or edit existing Categories. (They will later be added to a message form).
+&lt;ol&gt;
+&lt;li&gt;Select a category group. Then&lt;/li&gt;
+&lt;li&gt;enter the name of the new category. if applicable,&lt;/li&gt;
+&lt;li&gt;predefine the cost (which will be automatically added when you select this category in a message form).&lt;/li&gt;
+&lt;li&gt;You can decide from which department (in the navigator) the category will be visible in a message form.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Attention! The same message form can have different content depending on the location in the Navigator you have selected! If you want a pop-up for this category: Write this in the information text field.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for the language: The name of a category can be set once for every language that is activated in the system. Appears only for customers who have multiple active languages.&lt;/li&gt;
+&lt;li&gt;Category group: The category&amp;rsquo;s group. The category group type of the category group determines how this category will look like in a message form. A text at the bottom of this screen describes the type of the selected group.&lt;/li&gt;
+&lt;li&gt;Category name: The name used to represent the category. A category can have one name for every language that is activated in the system.&lt;/li&gt;
+&lt;li&gt;Priority: Low, Medium, High. The pre-defined priority of a category. Can be overridden by the person who fills out the message form. The priority of a message is the highest priority of the checked categories unless it is overridden by the user.&lt;/li&gt;
+&lt;li&gt;Cost: The predefined cost of a category. Can be overridden by the person who fills out the message form. The cost of a message is the sum of the costs of the checked categories, unless it is overridden by the user. Cost functionality can be removed for those who wish it.&lt;/li&gt;
+&lt;li&gt;From department: The category is available from the selected department and its subordinate departments.&lt;/li&gt;
+&lt;li&gt;Attached document: The document that will be activated if you click on the category in the message form.&lt;/li&gt;
+&lt;li&gt;Information: Text field that is visible when you hold the cursor over the category in the message form.&lt;/li&gt;
+&lt;li&gt;Risk data: Appear only for the categories belonging to a category group with the category group type Risk. Used to set different acceptance criteria for various risk categories.
+&lt;ul&gt;
+&lt;li&gt;Start yellow risk area: Overviews of this category will give a yellow risk value from (and including) this risk value.&lt;/li&gt;
+&lt;li&gt;Start the red risk area: Overviews of this category will give a red risk value from (and including) this risk value.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Add the category to the selected message forms (in the left column): In this panel you can manage the message forms to which the category will appear. The left panel shows the message forms where this category has already been added, the right panel shows the message forms where this category can be added. If a message form in the left panel is marked with yellow, the category will appear both when the message form is opened at the department where the category was added and at any subordinate department. Message forms in white will contain this category only when opening the form at the same department where the category was added. This is set by the state of the &amp;ldquo;Show for subdepartments&amp;rdquo; checkbox (checked or not) when adding the category to a message form.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes made in the fields.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Takes you back to the page you came from.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo; Add: Adds this category to the selected message form in the right panel.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Remove &amp;raquo;: Removes this category from the selected message form in the left panel.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Edit department</title>
+      <link>https://docs3.qmplus.com/en/docs/admin/functions/edit_department/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/admin/functions/edit_department/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;p&gt;Department name: The name used for the department in the system. Will appear in the Navigator.
+Subdepartment of: The department under which this department will be shown in the Navigator. This department will inherit forms, documents, and activities from the departments above it.&lt;/p&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hide advanced options: Use to display or hide the most advanced capabilities for this page.
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes made in the fields.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Takes you back to the page you came from.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Advanced options&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are things that come up when the Show advanced options is used. The advanced options are hidden using the button Hide advanced options.&lt;/p&gt;
+&lt;h3 id=&#34;roles&#34;&gt;Roles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Granted roles: The roles assigned to this department.
+&lt;ul&gt;
+&lt;li&gt;Roles associated with a department apply to all users of the active department. That means all employees of that department and all other users who have selected that department in the navigator.&lt;/li&gt;
+&lt;li&gt;Roles associated with a department are used to control the accessibility of documents, forms and activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Role storage: The roles that are not assigned to this department.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons-1&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo; Add: Adds the selected roles in the Role storage to the Granted roles.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Remove &amp;raquo;: Removes the selected roles from the Granted roles. They will then be visible again in the Role storage.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hide system roles: Determines if the System roles will be included in the list of roles. This button appears only if the user has the role System roles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;main-tasks&#34;&gt;Main tasks&lt;/h3&gt;
+&lt;p&gt;Departments may be related to categories in a category group classified as Tasks. This is meant to visualize the department&amp;rsquo;s main tasks, and has currently no system effect beyond that.&lt;/p&gt;
+&lt;h4 id=&#34;buttons-2&#34;&gt;Buttons&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Configure tasks. Shows the Department main tasks and the Task storage, so that the user can add to or remove tasks from the department.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show as list. Shows the tasks in a table view, with the Task name and Information.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo; Add: Adds the selected tasks in the Task storage to the Department main tasks.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Remove &amp;raquo;: Removes the selected tasks from the Department main tasks. They will then be visible again in the Task storage.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Edit role</title>
+      <link>https://docs3.qmplus.com/en/docs/admin/functions/edit_role/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/admin/functions/edit_role/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Used for managing the name of a role and the users to whom the selected role is assigned. To manage all the roles of a specific user, it is easier to use Edit user information.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for the language: A role may have one name for each registered language in the system.&lt;/li&gt;
+&lt;li&gt;Role name: Name of the role.&lt;/li&gt;
+&lt;li&gt;Assigning the role to users: The left panel shows the users who have this role, the right panel shows those who do not. This component appears only after a new role has been saved at least once.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;drop-down-menu&#34;&gt;Drop-down menu&lt;/h3&gt;
+&lt;p&gt;Department selection: Determines which users will appear in the role assignment panels.&lt;/p&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo; Add: Assigns this role to the selected users in the right panel.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Remove &amp;raquo;: Removes this role from the selected users in the left panel.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the change of the name.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Returns you to the page you came from.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Edit role group</title>
+      <link>https://docs3.qmplus.com/en/docs/admin/functions/edit_role_group/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/admin/functions/edit_role_group/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Used to manage the name of the role group and the roles that belong to the role group.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for the language: A role group can have a name for each registered language in the system.&lt;/li&gt;
+&lt;li&gt;Role group name: The name of the role group.&lt;/li&gt;
+&lt;li&gt;Assigning roles to the role group: The left panel shows the roles in this role group. The right panel shows the roles that are not in this role group.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;functions&#34;&gt;Functions&lt;/h3&gt;
+&lt;h4 id=&#34;buttons&#34;&gt;Buttons&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;laquo; Add: Adds the selected roles in the right panel into this role group.&lt;/li&gt;
+&lt;li&gt;Remove &amp;raquo;: Removes the selected roles in the left panel from this role group.&lt;/li&gt;
+&lt;li&gt;Save: Saves the name change.&lt;/li&gt;
+&lt;li&gt;Close: Returns you to the screen where you came from.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Edit user type</title>
+      <link>https://docs3.qmplus.com/en/docs/admin/functions/edit_user_type/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/admin/functions/edit_user_type/</guid>
+      <description>
+        
+        
+        &lt;p&gt;One must have the system role &amp;ldquo;System role administrator&amp;rdquo; to be able to make changes to the page.&lt;/p&gt;
+&lt;p&gt;Note 1: Be very careful when you make changes to the user type you are logged in with. It may be impossible to reverse your changes if you change the wrong access, for example if you take away your own user type&amp;rsquo;s access to the Admin tab.&lt;/p&gt;
+&lt;p&gt;Note 2. All changes done to user types will take effect immediately for all users who are logged in with that user type, with the exception of tabs of the top level. The page needs to be reloaded to see changes there. This can be done for example by pressing the F5 key on your keyboard.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for language: Used to select the language of the name field. Displayed only if more than one languages are enabled.&lt;/li&gt;
+&lt;li&gt;Name: The name of the user type. Used wherever the user type is displayed.&lt;/li&gt;
+&lt;li&gt;Position: Used to sort lists where the user type is displayed. Position 1 shows first.&lt;/li&gt;
+&lt;li&gt;Information: Additional information about the user type.&lt;/li&gt;
+&lt;li&gt;Interface: Determines whether the user type should have the Complete interface (previously called Manager interface) or the Simplified interface (previously called Worker interface). The choice here determines the system roles that can be given to the user type.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;role-overview&#34;&gt;Role overview&lt;/h3&gt;
+&lt;p&gt;Overview of all the roles associated with this user type. System roles appear first, followed by the user-defined roles. A logged in user has all the rights from the roles that are attached to the user type (s)he is logged in with, in addition to the rights from the roles which are directly attached to that user. System roles for tabs can only be attached to user types.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The selected system roles give access to specific parts of the system.&lt;/li&gt;
+&lt;li&gt;The selected user-defined roles give no direct rights to the user unless the actual roles are also attached to elements like message forms, activities or documents.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the help page for System roles where you can find a short description for - the related system role.&lt;/li&gt;
+&lt;li&gt;Checking the box next to the Select column heading of each table title selects all roles in that table. Unchecking it when checked, deselects all roles in that table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes done in the page.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Takes you back to the page you came from.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

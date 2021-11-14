@@ -15,27 +15,6 @@
     
     
     <item>
-      <title>Docs: Arkfaner</title>
-      <link>https://docs3.qmplus.com/docs/info/tabs/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/info/tabs/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;styrende-dokumenter&#34;&gt;Styrende dokumenter&lt;/h1&gt;
-&lt;p&gt;Styrende dokumenter er en arkfane under 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Info_16px.png&#34;  width=&#34;&#34; /&gt;
-
-
- Info&lt;/p&gt;
-&lt;p&gt;Brukes i standardversjonen til å vise dokumenter. Kan endres/fjernes av virksomhetens superbruker.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Info</title>
       <link>https://docs3.qmplus.com/docs/info/info/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
@@ -185,15 +164,20 @@
 &lt;li&gt;Mål&lt;/li&gt;
 &lt;li&gt;Favorittdokumenter&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;mål&#34;&gt;Mål&lt;/h3&gt;
-&lt;p&gt;Mål er en arkfane under 
 
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Info_16px.png&#34;  width=&#34;&#34; /&gt;
-
-
- Info&lt;/p&gt;
-&lt;p&gt;Brukes i standardversjonen til å vise en tekstlig beskrivelse av virksomhetens mål. Det er et felt for Mål for kvalitetsstyrings-arbeidet og et for Mål for HMS-arbeidet. Brukere med brukertypen Leder som er registrert på øverste avdeling har en lagre knapp som gjør at de kan endre innholdet i disse feltene.&lt;/p&gt;
-&lt;p&gt;Mål er ikke flerspråklig og er lik for alle avdelinger. Dersom slik funksjonalitet ønskes, benytt de vanlige mekanismene for dokumenter se Info. Arkfanen Mål er tenkt fjernet på sikt.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/info/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/info/tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Dette er landingsiden for dokumentasjon relatert til info siden.&lt;/p&gt;
 
       </description>
     </item>

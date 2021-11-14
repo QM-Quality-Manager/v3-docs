@@ -1,0 +1,533 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Funksjoner</title>
+    <link>https://docs3.qmplus.com/docs/activity/functions/</link>
+    <description>Recent content in Funksjoner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/activity/functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Brukere som har svart på elementet</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/user_answered_elements/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/functions/user_answered_elements/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;overskrifter&#34;&gt;Overskrifter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hovedoverskriften forteller hvilken eller hvilke aktiviteter det blir vist data for i tabellen nedenfor.&lt;/li&gt;
+&lt;li&gt;Underoverskriften Brukere som har svart på elementet forteller hvilket spørsmål i listen det blir vist data for i tabellen nedenfor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis tiltak / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis brukere: Skifter mellom å vise tiltak laget for det aktuelle spørsmålet og brukere som har krysset av / besvart dette spørsmålet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Planlegg nytt tiltak: Lager et nytt tiltak for det punktet i listen som er beskrevet av overskriftene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Skriver ut den aktive siden som .pdf fil.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Sender deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabell&#34;&gt;Tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn: Navn på brukeren.&lt;/li&gt;
+&lt;li&gt;Type: Brukertype.&lt;/li&gt;
+&lt;li&gt;Avdeling: Avdelingen svaret er registrert på.&lt;/li&gt;
+&lt;li&gt;Dato registrert: Dato for når besvarelsen først ble registrert.&lt;/li&gt;
+&lt;li&gt;Endre Folder.png: Åpner brukerens besvarte liste.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre aktivitet</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/change_activity/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/functions/change_activity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Tilgjengelig fra aktiviteter.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Delplan: Velg hvilken delplan aktiviteten skal tilhøre.&lt;/li&gt;
+&lt;li&gt;Navn på aktiviteten: Identifiserer aktiviteten i tabeller og oversikter. Brukes også som overskrift når en tilknyttetliste fylles ut.&lt;/li&gt;
+&lt;li&gt;Liste tilknyttet: Dersom en liste skal fylles ut velges den her. Listene i nedfallsmenyen er sortert etter listetype. Dette feltet kan ikke endres etter at noen har besvart aktiviteten.
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis papirversjon: Åpner papirversjonen av den valgte listen. Trykk på det når en liste er valgt for å se hvordan den ser ut.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Fra: Tidspunktet aktiviteten starter. Trykk 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å åpne en kalender for datovalg.&lt;/li&gt;
+&lt;li&gt;Til: Aktiviteten avsluttes. Trykk 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å åpne en kalender for datovalg.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern avanserte muligheter: Viser eller skjuler de avanserte mulighetene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;avanserte-muligheter&#34;&gt;Avanserte muligheter&lt;/h3&gt;
+&lt;p&gt;Dette er muligheter som kommer opp når knappen 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis avanserte muligheter brukes. De avanserte mulighetene fjernes ved å bruke knappen 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern avanserte muligheter.&lt;/p&gt;
+&lt;h4 id=&#34;felter-1&#34;&gt;Felter&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Vis for språket: Nedfallsmeny med et valg per språk som er aktivisert i systemet. Gjør at navnet på aktiviteten kan registreres en gang per språk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aktivitetens distribusjon:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Normal: Svarene til deltagerne registreres på deres egen avdeling.&lt;/li&gt;
+&lt;li&gt;Revisjon: De som deltar kan besvare aktiviteten en gang for hver avdeling de har tilgang til. Er aktiviteten repeterende kan de besvare den et ubegrenset antall ganger per avdeling.&lt;/li&gt;
+&lt;li&gt;Lest og forstått: En Lest og forstått aktivitet brukes for å distribuere et dokument og få kvittert tilbake at det er lest og forstått. Lest og forstått aktiviteter oppfører seg ellers helt som vanlig aktiviteter, med unntak av at de ikke kan sendes ut periodisk, repeterende eller anonymt. Disse mulighetene skjules derfor når typen Lest og forstått velges som type. De som ønsker denne funksjonen skrudd på, må gi beskjed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Underavdelingene skal utføre aktiviteten: Fjern krysset bare dersom det kun er avdelingen valgt i navigatoren som skal utføre aktiviteten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hvor ofte skal aktiviteten utføres?: Nedfallsmeny for å bestemme aktivitetstypen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;En gang: Vanlig aktivitet som kan fylles ut en gang av alle brukere som kan delta.&lt;/li&gt;
+&lt;li&gt;Repeterende: Repeterende aktivitet. Kan fylles ut et ubegrenset antall ganger av alle brukere som kan delta. Brukes når man på forhånd ikke vet hvor mange ganger en liste behøves og fylles ut. Kan også brukes til anonyme eksterne undersøkelser.&lt;/li&gt;
+&lt;li&gt;Periodisk: Brukes når du vil planlegge en periodisk utførelse av en aktivitet fremmover i tid. Sett Fra og Til tidsrommet til å dekke hele perioden du vil planlegge. Gjør alle de andre valgene i dette bildte du behøver og trykk Lagre. Da kommer du inn i bildet for å Oppsett av periodisk aktivitet. Der kan bestemmes perioden, f.eks daglig, ukentlig, årlig. Dette valget anbefales ikke brukt de første gangene du lager en aktivitet. Det er kun hensiktsmessig å lage periodiske aktiviteter dersom du er sikker på at listen som er tilknyttet ikke kommer til å endre seg innenfor perioden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vil du ha tilsendt en e-postpåminnelse før tidsfristen går ut? Systemet kan sende en e-post til den som har laget aktiviteten det antall dager før den avsluttes som velges i denne nedfallsmenyen. E-posten vil inneholde opplysninger som hvor mange som har deltatt og hvor mange som skal delta, samt en link til Oppfølging der en purre e-post til de som ikke har svart kan skrives.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Send ny påminnelse?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skal det sendes en e-postpåminnelse til deltakerne før tidsfristen går ut?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Send ny påminnelse?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Det skal svares anonymt på denne aktiviteten: Krysses av hvis skal være anonym.
+Antall besvarelser før resultatet vises: Vises kun for anonyme aktiviteter: Listegrafen viser ingen resultater for en avdeling før antallet besvarelser valgt her er registrert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vis som liste: Listen skal besvares i listeversjon. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å se hvordan det ser ut. Bør brukes for sjekklister og risikoanalyser. Kan brukes for spørreskjemaer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vis som serie av enkeltspørsmål (kun påminnelseslink): Listen skal besvares som serie av enkeltspørsmål. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å se hvordan det ser ut. Brukes for å gi spørreskjemaer et mer tradisjonelt spørreundersøkelsesutseende. Dersom listen ikke åpnes ved å trykke på en link i e-post som er blitt sendt ut som et varsel for aktiviteten blir den vist som liste. Dvs fyller man ut listen når man er pålogget Qm+ på vanlig måte, brukes alltid listeversjonen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vis som kontrolliste: Merk at for kontrolliste lages et avkryssningsfelt per dag per spørsmål. Den ser helt bort fra valgte svaralternativer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Legg roller til aktiviteten: Tilordningsfelt for roller. Kun de brukerne som har samme rolle som aktiviteten kan delta i den. Hvis ingen roller velges, kan alle innenfor de valgte avdelingene delta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Valg av dokumentarkfane Tilordningsfeltene for dokumenter viser kun dokumenter som tilhører den dokumentarkfanen som er valgt her.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Legg dokumenter til aktiviteten: Tilordningsfelt for dokumenter. Dokumenter lagt til aktiviteten vises som blå klikkbare lenker øverst i den tilknyttede listen når den besvares. Brukes hvis de som skal svare trenger å ha referansematriell eller yttligere informasjon tilgjengelig når de skal besvare listen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;laquo; Legg til: Legger et eller flere element valgt i det høyre feltet til aktiviteten.&lt;/li&gt;
+&lt;li&gt;Fjern &amp;raquo;: Fjerner et eller flere element valgt i det venstre feltet til aktiviteten.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre dato</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/change_date/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/functions/change_date/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;tilgjengelig-fra-aktiviteter&#34;&gt;Tilgjengelig fra aktiviteter.&lt;/h3&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fra: Tidspunktet aktiviteten starter.&lt;/li&gt;
+&lt;li&gt;Til: Aktiviteten avsluttes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Kommentarer til aktiviteten</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/activity_comment/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/functions/activity_comment/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;overskrifter&#34;&gt;Overskrifter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hovedoverskriften forteller hvilken eller hvilke aktiviteter det blir vist data for i tabellen nedenfor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Underoverskriften Anngående spørsmål forteller hvilket spørsmål i listen det blir vist data for i tabellen nedenfor. Hvis denne overskriften ikke er her, vises det data for hele listen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Valg av dokumenttype.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis kommentarer: Kommentarmeldinger vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Vis tiltak: Tiltak vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Vis rapporter: Aktivitetsrapporter vises i tabellen. Ikke med i standardversjonen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Valg av tiltaksplassering: Vises kun for tiltak.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiltak registrert på: Tar kun hensyn til hvilken avdeling tiltaket er registrert på. Det er den avdelingen brukeren hadde valgt i sin navigator når &amp;ldquo;Lag nytt tiltak&amp;rdquo; ble brukt.&lt;/li&gt;
+&lt;li&gt;Tiltak med ansvarlige for gjennomføring fra: Tar kun hensyn til hvilken avdeling de som er satt opp til å utføre tiltaket er regisrert på.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Avdelingsvalg: Vises kun for tiltak.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Denne avdelingen: Kun saker med tilhørighet på den avdelingen som er valgt i navigatoren vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Denne og underliggende avdlinger: Saker med tilhørighet på den avdelingen som er valgt i navigatoren eller avdelinger som ligger under denne vises i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument for de aktuelle kommentarmeldingene. Denne er beregnet på utskrift til papir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvidet visning/Table.png Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingene.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Report.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Rapport: Lag en ny rapport for denne aktiviteten. Ikke med i standardversjonen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Planlegg nytt tiltak. Avhenger av valgt visningsform i nedfallsmenyen Valg av dokumenttype.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis kommentarer: Lager et nytt tiltak for det punktet i listen som er beskrevet av overskriftene. Alle kommentarer i listen, som det er krysset av for i &amp;ldquo;Velg&amp;rdquo; kolonnen, blir koblet på det nye tiltaket.&lt;/li&gt;
+&lt;li&gt;Vis tiltak: Lager et nytt tomt tiltak som ikke er tilknyttet noen kommentarer.&lt;/li&gt;
+&lt;li&gt;Vis rapporter: Planlegg nytt tiltak knappen vises ikke.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Sender deg tilbake til siden du kom fra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Sorter på denne kolonnen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Tabellen er sortert på denne kolonnen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Ved flere sider, bla forover.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Ved flere sider, bla bakover.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabell&#34;&gt;Tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;+: Hold pekeren over dette feltet for å få opp utvidet informasjon, inkludert historikken.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Registrert: Når saken ble registrert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frist: Sakens frist. Vises ikke for tiltak.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Spørsmål: Spørsmålet kommentaren ble gitt til. Vises ikke for tiltak.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kommentar: Teksten skrevet inn av brukeren som kommentar til det aktuelle spørsmålet. Vises ikke for tiltak.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritet: Vises ikke for tiltak.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aktuell avdeling: Avdelingen kommentaren er til behandling ved. Vises ikke
+for tiltak. Vises ikke for anonyme aktiviteter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Navn på tiltaket: Vises kun for tiltak.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Utføres av: Hvem som skal gjennomføre tiltaket. Vises kun for tiltak.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Send resultat</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/send_results/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/functions/send_results/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å sende resultatet fra en aktivitet til brukere som normalt ikke har tilgang til dem. Resultatet sendes med e-post som inneholder en link som åpner grafen for aktiviteten.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Overskrift: Navnet på aktiviteten.&lt;/li&gt;
+&lt;li&gt;Tittel: Tittelfeltet i den e-posten som skal sendes ut.&lt;/li&gt;
+&lt;li&gt;Tekstfelt: Her skrives teksten som skal være med i e-posten. Teksten &amp;ldquo;&lt;a href=&#34;http://www.qmplus.com/Resultat%22&#34;&gt;http://www.qmplus.com/Resultat&amp;quot;&lt;/a&gt; kan plassers hvor som helst i e-posten og vil byttes ut med en individuell link for hver mottaker. Denne linken vil da kunne brukes til å vise grafen for aktiviteten.&lt;/li&gt;
+&lt;li&gt;Avsenderadresse: Denne e-postadressen vil stå i avsenderfeltet. Settes automatisk til den e-postadressen brukeren som skriver varselet er registrert med. Denne adressen vil også motta alle feilmeldinger om ugyldige e-postadresser. E-postadresser kan endres i endre bruker under Brukere under Admin.&lt;/li&gt;
+&lt;li&gt;Tidligere resultatmeldinger sendt for denne aktiviteten: Dersom resultatet er sendt for denne aktiviteten tidligere vil det listes opp her. Dersom du vil bruke samme tekst som ved et tidligere utsendelse, kryss av i Velgkolonnen og trykk på Bruk valgt tidligere melding knappen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;send-resultat-til&#34;&gt;Send resultat til&lt;/h3&gt;
+&lt;p&gt;Brukes til å lage en liste over mulige mottakere.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avdeling: Siden resultatet som sendes ut er grafen for den avdelingen som er valgt i navigatoren, kan man her velge avdeling for de brukerne som skal motta resultatet.&lt;/li&gt;
+&lt;li&gt;De som har svart: Tar med alle brukere som har besvart aktiviteten.&lt;/li&gt;
+&lt;li&gt;De som kunne svare: Tar med alle brukere som kunne besvare aktiviteten.&lt;/li&gt;
+&lt;li&gt;Alle som har følgende rolle: Åpner en ny dialog der man kan velge et sett av roller. Alle brukere som har minst en av de valgte rollene taes med.&lt;/li&gt;
+&lt;li&gt;Velg blant alle brukere: Gir mulighet til å velge blant alle brukere fra og med valgt avdeling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Velg et av alternativene over og trykk på &amp;ldquo;Velg&amp;rdquo;-knappen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Øverst står det en oppsummering av hvor mange brukere som er i listen og hvor mange av disse som har en tilsynelatende lovlig e-postadresse.&lt;/li&gt;
+&lt;li&gt;Send til: Avkryssningsfelt for de som skal motta varselet. Alle brukere i listen som har en tilsynelatende lovlig e-postadresse er i utgangspunktet krysset av.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Velg alle: Krysser av for alle brukere i listen som har en tilsynelatende lovlig e-postadresse.&lt;/li&gt;
+&lt;li&gt;Velg ingen: Fjerner alle avkryssninger i brukerlisten. Kan for eksempel være nyttig dersom man ønsker å teste et varsel til seg selv eller et lite utvalg før man sender det ut til alle.&lt;/li&gt;
+&lt;li&gt;Send resultat: Sender resultatet til alle brukere det er krysset av for i brukerlisten. Dersom det er mange (&amp;gt;100) brukere i listen kan det ta noe tid før alle e-postene er sendt ut. Det er mulig å lukke send resultat vinduet mens e-postene blir sendt. Når alle e-postene er sendt vil du få en melding om det dersom du ikke har lukket send resultat vinduet. Det betyr ikke at alle nødvendigvis har mottatt sin e-post. E-post i enkelte tilfeller ta lengre tid før de er fremme enn man forventer. Husk også å se i din egen e-post etter meldinger om ugyldige e-postadresser. Disse adressene må rettes opp før du kan sende varselet på nytt til dem.&lt;/li&gt;
+&lt;li&gt;Bruk valgt tidligere melding: Vises kun for aktiviteter som har sendt ut resultatet før. Henter tittel og tekst for den valgte tidligere meldingen slik at det kan brukes på nytt. Du kan gjøre endringer i den tidligere teksten før du sender meldingen ved å bruke Send resultat på vanlig måte.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Send varsel</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/send_warning/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/functions/send_warning/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å varsle de som skal utføre en aktivitet. Varselet sendes på e-post og inneholder en link som åpner listen som er tilkoblet aktiviteten. Listen over mulige mottakere inneholder alle som skal delta i aktiviteten som ennå ikke har svart.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Overskrift: Navnet på aktiviteten.&lt;/li&gt;
+&lt;li&gt;Tittel: Tittelfeltet i den e-posten som skal sendes ut.&lt;/li&gt;
+&lt;li&gt;Tekstfelt: Her skrives teksten som skal være med i e-posten. Teksten &amp;ldquo;&lt;a href=&#34;http://www.qmplus.net/Link%22&#34;&gt;http://www.qmplus.net/Link&amp;quot;&lt;/a&gt; kan plassers hvor som helst i e-posten og vil byttes ut med en individuell link for hver mottaker. Denne linken vil da kunne brukes til å besvare aktiviteten for den aktuelle brukeren. Dersom flere brukere svarer på samme aktivitet ved å bruke samme link vil kun det siste svaret bli registrert med mindre aktiviteten er registrert som en repeterende aktivitet. Det er derfor viktig at slike e-poster ikke videresendes.&lt;/li&gt;
+&lt;li&gt;Avsenderadresse: Denne e-postadressen vil stå i avsenderfeltet. Settes automatisk til den e-postadressen brukeren som skriver varselet er registrert med. Denne adressen vil også motta alle feilmeldinger om ugyldige e-postadresser. E-postadresser kan endres i endre bruker under Brukere under Admin.&lt;/li&gt;
+&lt;li&gt;Tidligere påminnelsesmeldinger sendt for denne aktiviteten: Dersom varsel er sendt for denne aktiviteten tidligere vil de listes opp her. Dersom du vil bruke samme tekst som ved et tidligere varsel, kryss av i Velgkolonnen og trykk på Bruk valgt tidligere melding knappen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;brukerliste&#34;&gt;Brukerliste&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Listen inneholder alle brukere som skal delta i aktiviteten som ikke allerede har svart. Listen er sortert etter navn.&lt;/li&gt;
+&lt;li&gt;Øverst står det en oppsummering av hvor mange brukere som er i listen og hvor mange av disse som har en tilsynelatende lovlig e-postadresse.&lt;/li&gt;
+&lt;li&gt;Send til: Avkryssningsfelt for de som skal motta varselet. Alle brukere i listen som har en tilsynelatende lovlig e-postadresse er i utgangspunktet krysset av.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Velg alle: Krysser av for alle brukere i listen som har en tilsynelatende lovlig e-postadresse.&lt;/li&gt;
+&lt;li&gt;Velg ingen: Fjerner alle avkryssninger i brukerlisten. Kan for eksempel være nyttig dersom man ønsker å teste et varsel til seg selv eller et lite utvalg før man sender det ut til alle.&lt;/li&gt;
+&lt;li&gt;Send varsel: Sender varselet til alle brukere det er krysset av for i brukerlisten. Dersom det er mange (&amp;gt;100) brukere i listen kan det ta noe tid før alle e-postene er sendt ut. Det er mulig å lukke send varsel vinduet mens e-postene blir sendt. Når alle e-postene er sendt vil du få en melding om det dersom du ikke har lukket send varsel vinduet. Det betyr ikke at alle nødvendigvis har mottatt sin e-post. E-post i enkelte tilfeller ta lengre tid før de er fremme enn man forventer. Husk også å se i din egen e-post etter meldinger om ugyldige e-postadresser. Disse adressene må rettes opp før du kan sende varselet på nytt til dem.&lt;/li&gt;
+&lt;li&gt;Bruk teksten fra valgt tidligere påminnelse: Vises kun for aktiviteter som har sendt tidligere varsel. Henter tittel og tekst for det valgte tidligere varselet slik at det kan brukes på nytt. Du kan gjøre endringer i den tidligere teksten før du sender meldingen ved å bruke Send varsel på vanlig måte.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

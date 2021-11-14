@@ -1,0 +1,47 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/info/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/info/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Mål</title>
+      <link>https://docs3.qmplus.com/docs/info/tabs/goals/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/info/tabs/goals/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes i standardversjonen til å vise en tekstlig beskrivelse av virksomhetens mål. Det er et felt for Mål for kvalitetsstyrings-arbeidet og et for Mål for HMS-arbeidet. Brukere med brukertypen Leder som er registrert på øverste avdeling har en lagre knapp som gjør at de kan endre innholdet i disse feltene.&lt;/p&gt;
+&lt;p&gt;Mål er ikke flerspråklig og er lik for alle avdelinger. Dersom slik funksjonalitet ønskes, benytt de vanlige mekanismene for dokumenter se Info. Arkfanen Mål er tenkt fjernet på sikt.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Styrende dokumenter</title>
+      <link>https://docs3.qmplus.com/docs/info/tabs/controlling_documents/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/info/tabs/controlling_documents/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes i standardversjonen til å vise dokumenter. Kan endres/fjernes av virksomhetens superbruker.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

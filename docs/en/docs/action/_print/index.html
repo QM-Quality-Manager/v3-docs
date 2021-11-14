@@ -175,9 +175,60 @@ This the multi-page printable view of this section.
     
     
 	
-<li>3: <a href="#pg-5f6fbb905beaf28c4cf68ecb064c3b1e">Tabs</a></li>
+<li>3: <a href="#pg-3a52793bef21c41e39299420f9f8e005">Tabs</a></li>
 
 
+    
+    <ul>
+        
+  
+  
+  
+  
+
+  
+    
+    
+	
+<li>3.1: <a href="#pg-8bd38832e9eeaccd6f1bff6c85da4f3e">Action process</a></li>
+
+
+    
+  
+    
+    
+	
+<li>3.2: <a href="#pg-4fd68af3c8fcbdbc78fe758bf7390c6e">Action search results</a></li>
+
+
+    
+  
+    
+    
+	
+<li>3.3: <a href="#pg-3224174c4a66742d7b29b1ee6a4e4f9d">Actions</a></li>
+
+
+    
+  
+    
+    
+	
+<li>3.4: <a href="#pg-2e83d8761f6cdf98b648ac65ef739fe6">Activity groups</a></li>
+
+
+    
+  
+    
+    
+	
+<li>3.5: <a href="#pg-7fb956453fccc197cd499abbde39a4f3">Activity report tab worker</a></li>
+
+
+    
+  
+
+    </ul>
     
   
 
@@ -401,16 +452,197 @@ Show results in</p>
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-5f6fbb905beaf28c4cf68ecb064c3b1e">3 - Tabs</h1>
-    <div class="lead">All tabs for actions.</div>
-	<h1 id="actions">Actions</h1>
-<p>Actions is a tab under 
+	<h1 id="pg-3a52793bef21c41e39299420f9f8e005">3 - Tabs</h1>
+    <div class="lead">All tabs associated with actions.</div>
+	<p>All tabs associated with actions.</p>
 
-  <img src="https://docs3.qmplus.com/images/Book.png"  width="" />
+</div>
 
 
- Archive.</p>
-<p>Shows all the actions registered on the department which is selected in the Navigator with the status that is selected in one of the underlying tabs. If the underlying tabs have one action for every status, an additional tab for search appears. When performing a search from Action search, the selected search criteria are shown in a separate table above the results table.</p>
+
+    
+      
+  
+  
+  
+  
+
+  
+  
+
+  
+    
+    
+	
+    
+
+<div class="td-content" style="">
+    
+	<h1 id="pg-8bd38832e9eeaccd6f1bff6c85da4f3e">3.1 - Action process</h1>
+    <div class="lead">Tab under Inbox and Archive.</div>
+	<p>The possibility to make changes in this page depends on the user&rsquo;s access to the relevant action. See Access control for actions.</p>
+<h3 id="action-data">Action data</h3>
+<ul>
+<li>Action number: A unique number for each action.</li>
+<li>Action name: Used to identify the action in tables and overviews. Mandatory field.</li>
+<li>Registered on department: The department on which the action is registered.</li>
+<li>Start time: Does not show in the standard version.</li>
+<li>Must be finished before: Due date for the action.</li>
+<li>Budget: How much is allocated to the implementation of the action.</li>
+<li>Actual cost: How much was spent on the execution of the action. This field is used for calculating the cost graph for the action under Reports.</li>
+<li>Planned time:</li>
+<li>Actual time:</li>
+</ul>
+<h3 id="action-description">Action description</h3>
+<ul>
+<li>Original deviation: Copied from the first text field in the original message.</li>
+<li>Work description: Copied from the second text field in the original message. Should often be changed to a concrete task for those who will execute the action.</li>
+<li>How to prevent repetition: Copied from a possible third text field in the original message. Here you can write a little about other changes than the one that must be executed in this action, so that the original deviation will not happen again.</li>
+<li>Comment: Additional comments to the action.</li>
+</ul>
+<h3 id="action-categories">Action categories</h3>
+<p>Used for categorizing the action.</p>
+<h3 id="status">Status</h3>
+<p>This panel indicates where the action is in the action process. It partly controls the appearance of the rest of this screen.</p>
+<ul>
+<li>Under planning: All actions start with this status. In this phase, the action is being planned. First give a name to the action so that it becomes easy to identify it later, and enter the budget if you use this field. The text fields Corrective action and How to prevent repetition must be filled out so that those who will execute the action will know what to do. The action categories may also be selected now. The last thing is to select those who should execute the action and give them a deadline. This is done in the mandatory panel Persons responsible. Click on Send to execution &raquo; or the &raquo; button in the Status panel to save the action and change its status to Under execution.</li>
+<li>Under execution: In this phase, the work described in the action will be executed. Then those who carried out the action must tick the Executed box. They can also write a comment in the Comment field and fill in the Actual cost if they know it. When all the changes have been done, use the button Send to approval &raquo; or the &raquo; button in the Status panel. This saves the action and changes its status to Under approval.</li>
+<li>Under approval: Here the person who created the action will make sure everything is in order before (s)he approves the action.</li>
+<li>Approved: An approved action is closed and locked and can not be changed except by users with the system role content administrator. Comments can still be sent out to all involved users .</li>
+</ul>
+<h3 id="persons-responsible">Persons responsible</h3>
+<p>Shows an overview of all who have been involved in the case. They all have a checkbox next to their name that is used if you wish to send a message by email to some of these people with regard to this case. All sent messages will also appear at the bottom of this screen.</p>
+<ul>
+<li>Message originator: The users who have created messages attached to this action.</li>
+<li>The action was created by: The user who created the action and thus is responsible for it. Must approve the action before it is closed.</li>
+<li>The action will be executed by: Those who will execute the action.
+<ul>
+<li>Executed: This must be checked when the action has been performed (finished).</li>
+<li>Executed on / Hours spent: If time registration is enabled, the action executor can log his / her work here, by setting a date and filling in the hours field (decimal values accepted), and then clicking Save.</li>
+<li>Work log: If time registration is enabled, each time the Save button is clicked above, the logged hours appear here. You cannot add multiple entries for the same day, but you can always edit the existing entry for a specific date by clicking on it (the fields are editable).</li>
+</ul>
+</li>
+<li>The action will be approved by: The person who will approve the action. In the standard version it is always the same user who created the action.</li>
+</ul>
+<h3 id="case-history">Case history</h3>
+<p>Displays an overview of events for this action.</p>
+<ul>
+<li>All edits of the content or status.</li>
+<li>Attachment or detachment of messages.</li>
+<li>All sent out email comments attached to this action.</li>
+</ul>
+<h3 id="buttons">Buttons</h3>
+<ul>
+<li>
+
+  <img src="https://docs3.qmplus.com/images/Page_white_acrobat.png"  width="" />
+
+
+ Show as pdf: Opens the Option page for reports from which you can export the current action to a .pdf file. This is intended for paper printing.</li>
+<li>
+
+  <img src="https://docs3.qmplus.com/images/Application_form_delete.png"  width="" />
+
+
+ Delete action: Deletes the action. Appears only for the user who has created the action as long as it still has status Under planning, and for Content administrators. Deleted actions cannot be restored or found again.</li>
+<li>
+
+  <img src="https://docs3.qmplus.com/images/Tick.png"  width="" />
+
+
+ Save action: Saves the changes you have made. Remember that this button never changes the Status.</li>
+<li>
+
+  <img src="https://docs3.qmplus.com/images/Tick.png"  width="" />
+
+
+ Send: Appears when you do not have permission to make changes in the action. Used to send email comments related to the action.</li>
+<li>
+
+  <img src="https://docs3.qmplus.com/images/Cross.png"  width="" />
+
+
+ Close: Returns you to the page you came from, unless you were in a message and created an action. Then you will go to where you opened this message from.</li>
+<li>
+
+  <img src="https://docs3.qmplus.com/images/Calendar_icon.png"  width="" />
+
+
+ Calendar: Opens the calendar to select the date.</li>
+<li>
+
+  <img src="https://docs3.qmplus.com/images/Printer.png"  width="" />
+
+
+ Print: Prints the current page.</li>
+<li>
+
+  <img src="https://docs3.qmplus.com/images/Help.png"  width="" />
+
+
+ Help: Opens this page.</li>
+<li>
+
+  <img src="https://docs3.qmplus.com/images/Application_form.png"  width="" />
+
+
+ Attached messages: Displays the messages attached to this action. Possibility to attach and detach more messages and to delete the action, for users who have the right to do it.</li>
+</ul>
+<h3 id="tabs">Tabs</h3>
+<ul>
+<li>Action process: Reloads this page. All changes you have made without pressing the Save button afterwards will be lost.</li>
+</ul>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-4fd68af3c8fcbdbc78fe758bf7390c6e">3.2 - Action search results</h1>
+    <div class="lead">Search is a tab under Actions.</div>
+	<p>This page displays the results when performing an action search and when someone has clicked on an action graph under Reports.</p>
+<h3 id="search-criteria">Search criteria</h3>
+<p>Displays all the parameters that are used for the search.</p>
+<ul>
+<li>The drop-down menu for the departments can be used to change the departments from which the actions will be retrieved from. The Navigator can be used to change the department or the department and its subordinate departments from which the actions will be retrieved, depending on what you have selected in the drop-down menu for departments.</li>
+<li>The New search button clears all the search parameters except from the department which is selected in the Navigator and opens the search page for actions.</li>
+<li>The Expand search button opens the search page for actions with all the parameters listed above in the search criteria list set. You should use this button if you want to continue working with the current search.</li>
+<li>Graphs: 2 drop-down menus that can be used to change the content or focus of the search and display the result under Reports.
+<ul>
+<li>Reports: Used to select the graph report type.</li>
+<li>Category groups: The graph depends on the selected graph report type. When Per department / Per category and Per category / category group are selected, the graph shows an overview of the categories that belong to the selected category group. For the other graph report types, only actions with attached messages with checked categories of the selected category group are included in the graph.</li>
+</ul>
+</li>
+<li>Search: This button opens the Reports with the parameters set in this page.</li>
+</ul>
+<p>Use of the table is explained in Actions.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-3224174c4a66742d7b29b1ee6a4e4f9d">3.3 - Actions</h1>
+    <div class="lead">Actions is a tab under Archive.</div>
+	<p>Shows all the actions registered on the department which is selected in the Navigator with the status that is selected in one of the underlying tabs. If the underlying tabs have one action for every status, an additional tab for search appears. When performing a search from Action search, the selected search criteria are shown in a separate table above the results table.</p>
 <h3 id="table">Table</h3>
 <ul>
 <li>By clicking on a line in the main table, the action will open in the Action process page.</li>
@@ -495,9 +727,24 @@ Show results in</p>
 <li>Approved actions: Approved actions.</li>
 <li>Search: Advanced search for actions.</li>
 </ul>
-<h1 id="activity-groups">Activity groups</h1>
-<p>Tab under Activity plan</p>
-<p>The Activity groups page is used for managing activity groups. It is important that there is at least one activity group, otherwise it will not be possible to create new activities.</p>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-2e83d8761f6cdf98b648ac65ef739fe6">3.4 - Activity groups</h1>
+    <div class="lead">Tab under Activity plan.</div>
+	<p>The Activity groups page is used for managing activity groups. It is important that there is at least one activity group, otherwise it will not be possible to create new activities.</p>
 <h3 id="fields">Fields</h3>
 <ul>
 <li>Name of the activity group: The name of the activity group.</li>
@@ -522,7 +769,7 @@ Show results in</p>
 
  Delete activity group: Appears only for activity groups without activities.</li>
 </ul>
-<h3 id="buttons-1">Buttons</h3>
+<h3 id="buttons">Buttons</h3>
 <ul>
 <li>
 
@@ -543,15 +790,30 @@ Show results in</p>
 
  Close: Closes the data fields for the requested activity group.</li>
 </ul>
-<h1 id="activity-report-tab-worker">Activity report tab worker</h1>
-<p>Activity report is a tab under Questionnaires for users having the simplified interface, and a function under Activity plan / Fill out and results for users having the complete interface.</p>
-<p>Displays an overview of all the activities the user has participated in.</p>
-<h3 id="drop-down-menus-1">Drop-down menus</h3>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-7fb956453fccc197cd499abbde39a4f3">3.5 - Activity report tab worker</h1>
+    <div class="lead">Activity report is a tab under Questionnaires for users having the simplified interface, and a function under Activity plan / Fill out and results for users having the complete interface.</div>
+	<p>Displays an overview of all the activities the user has participated in.</p>
+<h3 id="drop-down-menus">Drop-down menus</h3>
 <ul>
 <li>Activity group: Restricts the activities in the Activity drop-down menu to the activities from the selected activity group.</li>
 <li>Activity: The answers that the user has provided for the selected activity will be shown in the table below.</li>
 </ul>
-<h3 id="buttons-2">Buttons</h3>
+<h3 id="buttons">Buttons</h3>
 <ul>
 <li>
 
@@ -605,28 +867,14 @@ Show results in</p>
 <li>Department: The department on which the action is registered.</li>
 <li>Status: The status of the action.</li>
 </ul>
-<h1 id="action-search-results">Action search results</h1>
-<p>Search is a tab under Actions.</p>
-<p>This page displays the results when performing an action search and when someone has clicked on an action graph under Reports.</p>
-<h3 id="search-criteria">Search criteria</h3>
-<p>Displays all the parameters that are used for the search.</p>
-<ul>
-<li>The drop-down menu for the departments can be used to change the departments from which the actions will be retrieved from. The Navigator can be used to change the department or the department and its subordinate departments from which the actions will be retrieved, depending on what you have selected in the drop-down menu for departments.</li>
-<li>The New search button clears all the search parameters except from the department which is selected in the Navigator and opens the search page for actions.</li>
-<li>The Expand search button opens the search page for actions with all the parameters listed above in the search criteria list set. You should use this button if you want to continue working with the current search.</li>
-<li>Graphs: 2 drop-down menus that can be used to change the content or focus of the search and display the result under Reports.
-<ul>
-<li>Reports: Used to select the graph report type.</li>
-<li>Category groups: The graph depends on the selected graph report type. When Per department / Per category and Per category / category group are selected, the graph shows an overview of the categories that belong to the selected category group. For the other graph report types, only actions with attached messages with checked categories of the selected category group are included in the graph.</li>
-</ul>
-</li>
-<li>Search: This button opens the Reports with the parameters set in this page.</li>
-</ul>
-<p>Use of the table is explained in Actions.</p>
 
 </div>
 
 
+
+    
+	
+  
 
     
 	

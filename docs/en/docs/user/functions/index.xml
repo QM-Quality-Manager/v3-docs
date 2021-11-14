@@ -1,0 +1,150 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Functions</title>
+    <link>https://docs3.qmplus.com/en/docs/user/functions/</link>
+    <description>Recent content in Functions on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/user/functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Edit user information</title>
+      <link>https://docs3.qmplus.com/en/docs/user/functions/edit_user_information/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/user/functions/edit_user_information/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;User name: Used by the user for logging into the system. Distinguishes between uppercase and lowercase letters. Must be unique for each customer.&lt;/li&gt;
+&lt;li&gt;Department / Type. This field defines the users access to the system.
+&lt;ul&gt;
+&lt;li&gt;Department: The department to which the user belongs.
+&lt;ul&gt;
+&lt;li&gt;If the department association is marked with 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Server_connect.png&#34;  width=&#34;&#34; /&gt;
+
+
+, the entry may not be deleted. But it is allowed to alter the department and user type. Only relevant for customers with AD / LDAP integration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Type: The user&amp;rsquo;s user type.&lt;/li&gt;
+&lt;li&gt;Substitute: The substitute function gives the option for a defined user to log into the system with the same access rights as the access one is substituting for. One substitute may be defined for each access a user has. For each access a user has:
+&lt;ul&gt;
+&lt;li&gt;If a substitute is defined, the name of the substitute is shown. Click on the name to edit or remove the substitute.&lt;/li&gt;
+&lt;li&gt;If no substitute is defined, a button to set the substitute is shown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Password: Used by the user for logging into the system. Distinguishes between uppercase and lowercase letters.&lt;/li&gt;
+&lt;li&gt;Repeat password: Must be identical with the password field in order for the user&amp;rsquo;s data to be saved.&lt;/li&gt;
+&lt;li&gt;First name: The user&amp;rsquo;s first name.&lt;/li&gt;
+&lt;li&gt;Middle name: The user&amp;rsquo;s middle name.&lt;/li&gt;
+&lt;li&gt;Surname: The user&amp;rsquo;s last name.&lt;/li&gt;
+&lt;li&gt;Email address: The user&amp;rsquo;s email address. Some functionality of the system is linked to the user&amp;rsquo;s email address. It is therefore preferred that each user has a unique email address.&lt;/li&gt;
+&lt;li&gt;Language: Selection of the display language for the user. Available languages in the system are: Norwegian (bokmål), Norwegian (nynorsk), English, Swedish and Danish (not translated framework for Danish). The available languages for each customer will vary.&lt;/li&gt;
+&lt;li&gt;Mobile number: Can be used for receiving SMS from the system, if this functionality is activated.&lt;/li&gt;
+&lt;li&gt;Comment: Free text field for additional information about the user.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Add department: Adds a department to the user. It is possible to assign multiple departments to each user. For each department the user belongs to, (s)he can have only one corresponding user type. Users who belong to multiple departments select the department they wish to log into on the login page.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Remove department: Deletes the selected department from the user. Appears for users who belong to multiple departments.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Set substitute:&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the selected substitute user.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cancel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Cancel&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Delete&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes made in the fields.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Takes you back to the page you came from.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hide advanced options: Shows or hides the advanced options (see below).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;advanced-options&#34;&gt;Advanced options&lt;/h3&gt;
+&lt;p&gt;These are things that come up when the Show advanced options button is used. The advanced options are hidden by using the button Hide advanced options.&lt;/p&gt;
+&lt;h3 id=&#34;fields-1&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Granted roles: The roles assigned to this user.&lt;/li&gt;
+&lt;li&gt;Role storage: The roles not assigned to this user.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons-1&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;laquo; Add: Adds the selected roles in the Role storage to the Granted roles.&lt;/li&gt;
+&lt;li&gt;Remove &amp;raquo;: Removes the selected roles from the Granted roles. They will then be visible again in the Role storage.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hide system roles: Determines if the system roles will be included in the list of roles. This button appears only if the user has the role System roles.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

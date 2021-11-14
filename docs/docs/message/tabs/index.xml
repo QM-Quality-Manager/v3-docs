@@ -1,0 +1,880 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/message/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/message/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Avdelingens saker</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/department_cases/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/department_cases/</guid>
+      <description>
+        
+        
+        &lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_organisation.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Avdelingens saker er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Innboks&lt;/p&gt;
+&lt;p&gt;Avdelingens saker viser saker det jobbes med på den avdelingen som er valgt i navigatoren.&lt;/p&gt;
+&lt;p&gt;Rosa saker er meldinger, gule saker er tiltak og blågrå saker er høringer&lt;/p&gt;
+&lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Registrer ny melding: Velg et meldingsskjema for å registrere en ny melding. Åpner endre melding. Meldingsksjemaene vises om individuelle knapper dersom det er 4 eller færre skjemaer. Er det fler, må først knappen Application form add.png Registrer ny melding trykkes på. Den åpner en liste over alle aktive meldingsskjemaer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alle meldinger: Velg et meldingsskjema og kun saker med opprinnelse i et slikt skjema vises&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Sort_down.png&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/No_sort.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Sort_down.png&#34;  width=&#34;&#34; /&gt;
+
+
+g. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/No_sort.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å sortere på den kolonnen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_green.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_yellow.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_red.png&#34;  width=&#34;&#34; /&gt;
+
+
+ symboliserer lav, middels og høy prioritet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hovedtabellen&#34;&gt;Hovedtabellen&lt;/h3&gt;
+&lt;p&gt;Ved å trykke på en linje i hovedtabellen vil saken åpnes i sitt behandlingsbilde. Meldinger åpnes i meldingsbehandlingsbildet, tiltak åpnes i tilltaksbehandlingsbildet og høringer åpnes i besvar høring.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;+: Utvidet informasjon og historikk: Hold pekeren over denne til å få opp utvidet informasjon om saken. Foreløpig kun meldinger og tiltak.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meldingsskjema: Hvilket meldingsskjema saken er opprettet med.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Registrert: Dato for når saken ble registrert. For meldinger når den ble registrert, for tiltak når det ble opprettet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frist: For meldinger behandlingsfrist, for tiltak gjennomføringsfrist og godkjenningsfrist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beskrivelse: For meldinger teksten i det første tekstfeltet i meldingen, for tiltak navnet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritet: Fargekodet prioritet. For tiltak gjelder prioriteten til den tilkoblede meldingen som er høyest.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status: Sakens status.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Registrert på avdeling: Avdelingen saken er registrert på.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Saken ligger nå hos: Avhenger av sakens type og status.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger:
+&lt;ul&gt;
+&lt;li&gt;Blank: Saken er registeret på denne avdelingen og er ikke tilordnet en ansvarlig.&lt;/li&gt;
+&lt;li&gt;&amp;lt;Navn på bruker&amp;gt;: Den navngitte brukeren er tilordnet som ansvarlig for saken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tiltak:
+&lt;ul&gt;
+&lt;li&gt;Med status &amp;laquo;Under planlegging&amp;raquo;: Navnet på den brukeren som har opprettet tiltaket og er overordnet ansvarlig for det.&lt;/li&gt;
+&lt;li&gt;Med status &amp;laquo;Under gjennomføring&amp;raquo;: Navnene på de brukerne som skal gjennomføre tiltaket.&lt;/li&gt;
+&lt;li&gt;Med status &amp;laquo;Under godkjenning&amp;raquo;: Navnet på den brukeren som har opprettet tiltaket og er ansvarlig for å godkjenne det.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Høring:
+&lt;ul&gt;
+&lt;li&gt;Med status &amp;laquo;Ute på høring&amp;raquo;: Navnene på de brukerne som skal delta i høringen.&lt;/li&gt;
+&lt;li&gt;Med status &amp;laquo;Til godkjenning&amp;raquo;: Navnet på den brukeren som skal godkjenne høringen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hvilke-saker-vises-i-tabellen&#34;&gt;Hvilke saker vises i tabellen?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Meldinger som er sendt til en bruker i den valgte avdelingen via Send til saksbehandler i Behandlingsbildet eller via tidlig saksbehandling i Endre melding.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For ledere:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meldinger registrert på valgt avdling hvis den har en lederen, som ikke har fått tilordnet en annen ansvarlig person.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meldinger registrert på en underliggende avdlingen, hvor det ikke er en egen leder som ikke har fått tilordnet en annen ansvarlig person. Meldinger registrert på avdelinger uten leder vil flyte oppover i organisasjonen og vises i Innboks på den første overliggende avdelingen som har en leder.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiltak under planlegging opprettet av en bruker på avdelingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiltak under gjennomføring som skal utføres av en bruker på avdelingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiltak under godkjenning som skal godkjennes av en bruker på avdelingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Høringer som er ute til høring der en bruker på avdelingen skal delta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Høringer som er til godkjenning der en bruker på avdelingen skal godkjenne den.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Merk at meldinger andre brukere har registrert som er laget med meldingsskjemaer som har en rolle med &amp;ldquo;Se meldinger&amp;rdquo; begrensning, ikke blir vist her med mindre den påloggede brukeren har den samme rollen eller Systemrollen Se alle meldinger tilknyttet seg eller den brukertypen brukeren er logget på med. Meldinger brukeren selv har registrert blir vist.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dialog</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/dialog/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/dialog/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Status: Meldingens status og hvem som er ansvarlig for den vises øverst i siden.&lt;/li&gt;
+&lt;li&gt;Tilbakemelding til saksbehandler: Her kan en tekst skrives inn og sendes på e-post. Tekster som sendes slik blir også registret på saken og vil følge den. Den vil vises i dette bildet i tabellen nedenfor.&lt;/li&gt;
+&lt;li&gt;Send epost til: Velg den som skal motta meldingen. Listen er sortert etter avdeling og inneholder:
+&lt;ul&gt;
+&lt;li&gt;Nærmeste leder(e) vises alltid.&lt;/li&gt;
+&lt;li&gt;Aktuell saksbehandler for den valgte meldingen, dersom en behandler er satt.&lt;/li&gt;
+&lt;li&gt;Enhver som har sendt en melding til den påloggede brukeren om den aktuelle saken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tabell som viser tidligere kommunikasjon om denne saken.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre melding</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/change_message/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/change_message/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Et meldingsskjema har avkryssningsfelter eller nedfallsmenyer og tekstfelter spesifisert av virksomhetens superbruker. Minst et felt vil ha en oransjeaktig bakgrunnsfarge. Slike felt er obligatoriske og må fylles ut for at meldingen skal kunne lagres.&lt;/p&gt;
+&lt;p&gt;Når en melding lagres blir den registrert på den avdelingen som har navnet sitt i øverst i den midterste spalten i meldingsskjemaet. Meldingen vil øyeblikkelig dukke opp i Innboksbildet til den/de som er definert som leder på den valgte avdelingen med mindre tidlig saksbehandling er aktivert, se nedenfor. Meldingen vil også øyeblikkelig være med i Rapporter og rapporter laget fra samme eller en overliggende avdeling.&lt;/p&gt;
+&lt;h3 id=&#34;utfylling&#34;&gt;Utfylling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Husk å krysse av i alle felt med oransjeaktig bakgrunnsfarge. Det vil som regel ligge ett slikt felt øverst til venstre i bildet. Du vil få en feilmelding om du forsøker å lagre en melding uten at alle slike obligatoriske felter er fyllt ut. Merk at dersom flere felter er markert med Tag blue.png, så vil du kun få fyllt ut ett av dem.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Avkryssningsfelt:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Enkeltvalg: Felt som har en rund boks foran hvert alternativ. Det betyr at du kan sette ett kryss i denne gruppen. Har du først satt ett kryss i et felt som er enkeltvalg, så kan du ikke ta det bort igjen.&lt;/li&gt;
+&lt;li&gt;Flervalg: Felt som har en firkantet boks foran hvert alternativ. Her kan du kryss av for alle eller ingen alternativer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sett kryss og skriv tekst i de feltene du føler anngår deg. Det kan være at noen meldingsskjemaer er generelle og at kun noen felter er aktuelle i din situasjon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Husk at den som behandler din melding kan gjøre endringer, typisk komme ned supplerende informasjon og endre kostnadsfeltet og prioritet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hvis det er et forslagsfelt, skriv ditt forslag der. Det er viktig for forbedringsprosessen i virksomheten. Enkelte virksomheter premierer månedens eller halvårets beste forbedringsforslag.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritet: Dette feltet får en verdi ut ifra de kryssene du har satt i meldingsskjemaet. Denne verdien kan overstyres.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kostnad: Dette feltet er tenkt å representere de eventuelle kostnadene hendelsen du registrerer har medført. Dette feltet får en verdi ut ifra de kryssene du har satt i meldingsskjemaet. Denne verdien kan overstyres. Superbruker kan fjerne kostnadsfeltet fra et meldingsskjema.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Risikovurdering: Enkelte meldingsskjemaer kan ha en innebygd risikovurdering. I noen tilfeller skal man da vurdere sannsynlighet og konsekvens for om den registrerte hendelsen skjer i gjen, i andre tilfeller skal man vurdere sannsynlighet og konsekvens for en tenkt hendelse. Risikoverdien blir så automatisk regnet ut og vist med farge tilsvarende plasseringen i risikomatrisen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tallfelt: Kategorier kan vises som tallfelt i stedet for avkryssningsbokser. Slike tallfelt kan brukes til å rapportere f.eks antall liter vannforbruk eller andre antall eller mengde anngivelser.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre / Send: Lagrer endringer du har gjordt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder_table.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Behandle: Kun leder og saksbehandler. Lagrer endringer du har gjordt og tar deg til behandlingsbildet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_copy.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kopier: Kopierer denne meldingen og åpner kopien. Vises kun for risikomeldinger.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter hvor du kan lage et pdfdokument for meldingen du er inne i. Denne er beregnet på utskrift til papir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Sender deg tilbake til siden du kom fra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Endre meldingsskjema: Bare for brukere med systemrollen innholdsadministrator. Gir mulighet til å endre meldingsskjema av en melding. Det viser bare hvordan den gjeldende meldingen ville se ut om et annet skjema ble brukt. Meldingsskjemaet er faktisk ikke endret før brukeren trykker på Lagre-knappen. Anonymitet, avdeling, prioritet, tekstfeltene, kostnadsfeltene og de valgte kategoriene som finnes i begge meldingsskjemaer (det som ble brukt for den opprinnelige meldingen og det nye) er bevart.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Versjonsoversikt: Kun for lagrede meldinger. Nyeste versjon er alltid valgt når meldingen åpnes. En hvilken som helst annen tidligere versjon kan velges. Da vil meldingen bli vist slik den så ut på det tidspunktet. Det kan kun gjøres endringer i nyeste versjon. Alle endringer av en melding fører til at det lages en ny versjon. Nye versjoner merkes med hvem som har gjordt endringen og når den ble utført.&lt;/li&gt;
+&lt;li&gt;Registrert på avdeling: Kun for brukere med systemrollen Innholdsadministrator. Brukes til å flytte registrerte meldinger.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tidlig-saksbehandling&#34;&gt;Tidlig saksbehandling&lt;/h3&gt;
+&lt;p&gt;Dette feltet vises kun for meldinger som ikke er lagret og bare dersom det er aktivert for det meldingsskjemaet man ser på. Aktivering av tidlig saksbehandling anbefales ikke for nye kunder, med mindre de har helt spesielle behov.&lt;/p&gt;
+&lt;p&gt;Tidlig saksbehandling gjør at meldingen kan tilordnes en ansvarlig behandler allerede når den registreres. Normalt gjøres ikke dette av den som registrerer meldingen men først i behandling av en leder eller saksbehandler på den avdelingen der meldingen ble registrert. Tidlig saksbehandling kan aktiveres av virksomhetens superbruker under Regler i Admin ved å lage regler av typen &amp;ldquo;Tidlig saksbehandler&amp;rdquo;. Det er også mulig å aktivere en opsjon som gjør at en meny tilsvarende den som vises for &amp;ldquo;Send til saksbehandler&amp;rdquo; i meldingsbehandlingsbildet vises i &amp;ldquo;Ny melding&amp;rdquo;. Denne opsjonen gjør at man ikke trenger &amp;ldquo;Tidlig saksbehandler&amp;rdquo; regler, men de kan brukes selv om denne opsjonen er på og nedfallsmenyen i &amp;ldquo;Ny melding&amp;rdquo; vil da kun vise disse.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Send til saksbehandler/linjeleder: Nedfallsmeny der man kan velge hvem som skal få denne meldingen tilsendt. Dette endrer ikke hvilken avdeling meldingen blir registrert på selv om den valgte brukeren befinner seg på en annen avdeling.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Send e-post: Hvis det krysses av her, vil det gå en e-post til den brukeren som er valgt over når man trykker på Lagre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frist: Dato / Tid. Dette tidspunktet vil komme opp som frist for den som får tilsendt meldingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;p&gt;Arkfanene her er kun aktive for lagrede meldinger. Endringer i bildet blir ikke lagret om du trykker på en arkfane.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Endre melding: Laster meldingen på nytt. Bruk denne hvis du vil fjerne endringer du har utført som ikke er lagret.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dialog: For medarbeidere. Tar deg til dialogskjermbildet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Behandling: For ledere, saksbeahndlere og verneombud. Tar deg til behandlingsbildet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Felter undermeny meldingsskjema</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/field_under_form/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/field_under_form/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden brukes for å administrere tekst- og kostnadsfeltene i meldingsskjemaet.&lt;/p&gt;
+&lt;h3 id=&#34;tekstfelter&#34;&gt;Tekstfelter&lt;/h3&gt;
+&lt;p&gt;Et meldingsskjema kan ha 0 eller så mange tekstfelter det ønskes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feltnavn: Navn over feltet i meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;Skjult: Kryss av hvis feltet skal være skjult. Innholdet i skjulte tekstfelter vises kun i endre meldingsbildet for den som har registrert meldingen eller bruker med systemrollen Tilgang til skjulte tekstfelter og samtidig er satt som meldingens saksbehandler. I standardversjonen har brukertypen leder den Systemrollen.
+&lt;ul&gt;
+&lt;li&gt;Er Tilgang til skjulte tekstfelter tilknyttet brukertypen gis tilgang kun om brukeren er saksbehandler for den aktuelle meldingen.&lt;/li&gt;
+&lt;li&gt;Er Tilgang til skjulte tekstfelter tilknyttet brukeren gis tilgang uansett melding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I alle andre skjermbilder blir innholdet kun vist som &amp;ndash; skjult tekstfelt &amp;ndash;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Obligatorisk: Kryss av dersom tekstfeltet skal være obligatorisk. Det betyr at feltet må ha innhold for at meldingen skal kunne lagres.&lt;/li&gt;
+&lt;li&gt;Rader: Hvor mange rader tekstfeltet skal ha.&lt;/li&gt;
+&lt;li&gt;Kolonner: Hvor mange kolonner tekstfeltet skal ha. 0 brukes for at tekstfeltet skal fylle all tilgjengelig plass.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slette: Trykk på dette ikonet for å slette tekstfeltet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til felt: Brukes for å opprette et nytt tekstfelt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;kostnadsfelter&#34;&gt;Kostnadsfelter&lt;/h3&gt;
+&lt;p&gt;Et meldingsskjema kan ha 0, 1 eller 2 kostnadsfelter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feltnavn: Navn over feltet i meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slette: Trykk på dette ikonet for å slette kostnadsfeltet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til felt: Brukes for å opprette et nytt kostnadsfelt.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Kategorier undermeny meldingsskjema</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/category_sub_menu_form/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/category_sub_menu_form/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden brukes for å administrere kategoriene i meldingsskjemaet.&lt;/p&gt;
+&lt;h3 id=&#34;legg-kategorier-til-meldingsskjemaet&#34;&gt;Legg kategorier til meldingsskjemaet&lt;/h3&gt;
+&lt;p&gt;Felt for å administrere kategoriene i meldingsskjemaet.&lt;/p&gt;
+&lt;p&gt;Det venstre feltet viser kategorier i meldingsskjemaet, det høyre kategorier som kan legges til. Feltene filtreres på kategorigruppen valgt i kategorigruppenedfallsmenyen over det venstre feltet.&lt;/p&gt;
+&lt;p&gt;Dersom kategoriene i det venstre feltet er markert med gult, vil de vises i meldingsskjemaet når det åpnes på avdelingen kategorien ble lagt til på eller på en av denne avdelingens underavdelinger. Kategorier i hvit blir kun vist når man åpner meldingsskjemaet på den samme avdelingen som kategorien ble lagt til på. Dette bestemmes av om avkryssingsfeltet &amp;ldquo;Vis for underavdelinger&amp;rdquo; er krysset av eller ikke når man legger en kategori til meldingsskjemaet.&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;p&gt;Punktene merket med (Avansert mulighet) vises bare når knappen &amp;ldquo;Vis avanserte muligheter&amp;rdquo; i Endre meldingsskjema siden har blitt trykket på.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Velg kategorigruppe: Feltene under denne nedfallsmenyen vil kun inneholde kategorier tilhørende den valgte kategorigruppen. Kategorigruppene i denne nedfallsmenyen er gruppert etter kategorigruppetype.&lt;/li&gt;
+&lt;li&gt;Sorteringstype (Avansert mulighet): Vises over kategorigruppenedfallsmenyen ved feltet Legg kategorier til meldingsskjemaet.
+&lt;ul&gt;
+&lt;li&gt;Sortering etter type er standard og betyr at kategorigruppene blir sortert etter sin kategorigruppetype.&lt;/li&gt;
+&lt;li&gt;Sortering etter indeks betyr at man kan tilordne en kolonne - venstre, senter eller høyre og en indeks til hver kategorigruppe i meldingsskjemaet. Dersom sortering etter indeks bør man gå gjennom alle kategorigruppene og sette kolonne og indeks. Lagreknappen må benyttes mellom hver endring for at den skal tre ikraft.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Merk at en kategorigruppe må ha minst en av sine kategorier tilknyttet meldingsskjemaet for at de følgende opsjonene skal ha noen effekt.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis som: Avgjør hvordan den valgte kategorigruppen blir vist i meldingsskjemaet (Avkryssningsboks/Nedfallsmeny).&lt;/li&gt;
+&lt;li&gt;Visning i meldingsskjemaet (Avansert mulighet): Avgjør om og hvordan den gitte kategorigruppen blir vist i meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;Visning i meldingsbehandlingssiden (Avansert mulighet): Avgjør om og hvordan den gitte kategorigruppen blir vist i meldingsbehandlings siden.&lt;/li&gt;
+&lt;li&gt;Visning i tiltaksbehandlingssiden (Avansert mulighet): Avgjør om og hvordan den gitte kategorigruppen blir vist i tiltaksbehandlings siden.&lt;/li&gt;
+&lt;li&gt;Visning i Innboks (Avansert mulighet): Hvis satt til ja, så vil det i innboks bli vist en ekstra kolonne der avkryssede kategorier i meldinger tilhørende denne kategorigruppen listes opp.&lt;/li&gt;
+&lt;li&gt;Visning i mobilapplikasjonen (Avansert mulighet): Hvis nei, vil denne kategorigruppen ikke vises i meldingsskjemaet når det vises i mobilapplikasjonen. Dette feltet vises bare om mobilapplikasjonen er aktivert.&lt;/li&gt;
+&lt;li&gt;Obligatorisk: Hvis ja, må det krysses av i denne gruppen for at en melding med dette meldingsskjemaet skal kunne lagres. Definerende kategorigrupper er et spesialtilfelle og vil alltid ha ja her. Merk at om et meldingsskjema har mer enn en definerende kategorigruppe, så gjelder obligatorisk kravet slik at kun en av de definerende kategorigruppene må være krysset av.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny kategori: Åpner ny kategori skjermbildet med Kategoritype satt til samme kategorigruppe som den som er valgt i nedfallsmenyen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo; Legg til: Legger de valgte kategoriene i høyre felt til dette meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern &amp;raquo;: Fjerner de valgte kategoriene i venstre felt fra dette meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Endre kategoriavhengighet for den aktuelle kategorien. Åpner Endre kategoriavhengighet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;kategorier-i-dette-meldingsskjemaet&#34;&gt;Kategorier i dette meldingsskjemaet&lt;/h3&gt;
+&lt;p&gt;Viser en tabell for hver kategorigruppe med kategorier tilknyttet meldingsskjemaet. Tabellene viser navnet på kategorien og hvilken avdeling den er tilknyttet fra. For å slette en kategori fra et meldingsskjema, så må man ha valgt samme avdeling i navigatoren som kategorien er lagt inn fra.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Melding søk</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/message_search/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/message_search/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden brukes for å fjøre søk blandt registrerte meldinger. Hvilken arkfane man åpner denne siden fra bestemmer hvilken verdi skjematypefeltet starter med. I mange tilfeller er det mer hensikstmessig å bruke Rapporter til å finne frem til bestemte meldinger enn denne siden, men denne siden gir flere muligheter. Denne siden kan også benyttes sammen med Rapporter via knappen Utvid søk i søkeresultater.&lt;/p&gt;
+&lt;h3 id=&#34;generelle-søkekriterier&#34;&gt;Generelle søkekriterier&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Tidsrom: Søk etter saker fra et bestemt tidsrom. Fra og med og til og med dato felt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status: Ta med meldinger med de valgte status.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritet: Ta med meldinger med den valgte prioritet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skjematype: Vises kun om Logmeldinger eller Risikomeldinger er aktivert. Ta med meldinger med den valgte skjematype. Resultatet vil vises i den arkfanen som tilsvarer valgt skjematype.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skjema: Kun meldinger laget med meldingsskjemaet valgt her blir tatt med. Hvis man velger noe annet enn Alle her, vil kategorigruppene og kategoriene i Type kategori å søke på delen under kun vise de som er i bruk i det valgte meldingsskjemaet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meldingsnummer: Søk etter meldingen med valgt meldingsnummeret. Når dette feltet brukes sees det bort fra alle andre søkekriterier.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Melder: Søk etter meldinger som den valgte brukeren har rapportert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fritekst: Søk etter meldinger som inneholder en gitt tekst. Detksten kan være i alle fritekstfelter i meldingen. Det skilles ikke mellom store og små bokstaver. Lucene brukes som søkemotor for denne funksjonen. Se Lucene Query Syntax (kun engelsk) for detaljert informasjon om syntaks for søkefeltet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vis meldinger fra:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Denne avdelingen: Kun meldinger regisrert på avdelingen valgt i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Denne og underliggende avdelinger: Alle meldinger registrert fra og med avdelingen valgt i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Kun underliggende avdelinger: Kun meldinger registrert i avdelinger under den avdelingen som er valgt i navigatoren vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Risiko: Vis meldinger med kategorier av kategorigruppetypen Risiko. Velg S og K verdi for meldingene som skal tas med.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;S: Sannsynlighet. Verdi fra 0 - 5. 0 betyr at denne parameteren ikke skal brukes.&lt;/li&gt;
+&lt;li&gt;K: Konsekvens. Verdi fra 0 - 5. 0 betyr at denne parameteren ikke skal brukes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;type-kategori-å-søke-på&#34;&gt;Type kategori å søke på&lt;/h3&gt;
+&lt;p&gt;Dette feltet brukes til å søke etter kategorigrupper og kategorier. Kryss av for en eller flere kategorigrupper og / eller velg kategorier fra menyene. De definerende kategorigruppene vises øverst. Blandt dem kan du bare søke på en kategorigruppe og eller kategori. Hvis meldingstype eller meldingsskjema velges, vil det i dette feltet kun vises kategorigrupper og kategorier brukt i disse meldingsskjemaene.&lt;/p&gt;
+&lt;h3 id=&#34;sorter-etter&#34;&gt;Sorter etter&lt;/h3&gt;
+&lt;p&gt;Velg hvilken kolonne resultattabellen skal være sortert etter.&lt;/p&gt;
+&lt;h3 id=&#34;vis-resultatet-i&#34;&gt;Vis resultatet i&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Tabell: Viser resultatet i tabell på søkeresultatsiden for meldinger.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Utvidet visning: Viser resultatet i en utvidet visningsform som tar med alle detaljer i meldingene på søkeresultatsiden for meldinger.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Graf: Viser resultatet som graf under Rapporter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Melding søk resultat</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/message_search_result/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/message_search_result/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden brukes til å vise resultatet fra søk etter meldinger og når noen har trykket på en meldingsgraf under Rapporter.&lt;/p&gt;
+&lt;h3 id=&#34;søkekriterier&#34;&gt;Søkekriterier&lt;/h3&gt;
+&lt;p&gt;Lister opp alle parametere som er i bruk for å lage søkeresultatet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nedfallsmenyen for avdelinger:
+&lt;ul&gt;
+&lt;li&gt;Denne avdelingen. Kun meldinger registrert på valgt avdeling.&lt;/li&gt;
+&lt;li&gt;Denne og underliggende avdelinger. Alle meldinger fra og med valgt avdeling.&lt;/li&gt;
+&lt;li&gt;Kun underliggende avdelinger. Alle meldinger registrert i en avdeling underliggende valgt avdeling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Merk at dersom søkekriteriene er laget ved å trykke på en graf, kan de være basert på en annen avdeling enn den som er valgt i Navigatoren. Dette vil i tilfelle være markert med avdelingens navn i feltet Søk fra avdeling i søkekriteriene. Navigatoren brukes til å endre avdeling.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Nytt søk: Åpner søkesiden for meldinger med alle andre parametere enn valgt avdeling i navigatoren og valgt meldingstype nullstillt.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvid søk: Åpner søkesiden for meldinger med alle parametere listet opp i søkekriterierlisten satt. Denne knappen bruker du hvis du skal redigere søkekriteriene for å jobbe videre med det nåværende søket.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tilbake til grafene: Åpner Rapporter slik de så ut i foregående bilde. Stolpen som ble trykket på for åpne denne siden blir ikke lagt til i søkekriteriene. Denne knappen vises kun dersom man åpnet denne siden ved å trykke på en graf i Rapporter. Når man trykker på en graf i Rapporter utfører man et søk etter de meldingene som lå til grunn for stolpen man trykket på.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis i grafer: Åpner Rapporter med meldingene i tabellen under som utgangspunkt. Dette gjøres ved at stolpen man trykket på for å komme til denne siden blir lagt til i søkekriteriene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bruk av tabellen er forklart i Meldinger/UH, Logg, Risiko og Kommentarer avhengig av hvilken arkfane du arbeider under.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Meldinger arkfane medarbeider</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/message_tab_employee/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/message_tab_employee/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her vises alle meldinger brukeren har registrert og nye meldinger kan registreres.&lt;/p&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;p&gt;Ved å trykke på en linje i hovedtabellen vil meldingen åpnes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;+ Utfyllende data: Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en sak.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Registrert: Dato for når meldingen ble registrert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beskrivelse: Tekst hentet fra det første tekstfeltet i meldingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritet: 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_green.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_yellow.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_red.png&#34;  width=&#34;&#34; /&gt;
+
+
+ symboliserer lav, middels og høy prioritet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status: Meldingsstatus. Mulige verdier er: Nye saker, Sendt til saksbehandler, Tiltaksprosess, Lukket og Avvist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Saken ligger nå hos: Navnet på brukeren som er ansvarlig for å behandle meldingen. Hvis feltet er blankt er meldingen hos nærmeste leder, uten at denne har gjort noe med den enda.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aktuell avdeling: Avdelingen der meldingen ligger til behandling eller sist ble behandlet. Se Historikken for mer detaljer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Register-message_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Registrer ny melding: Velg et knappen med navnet på et meldingsskjema for å registrere en ny melding. Meldingskjemaene vises om individuelle knapper dersom det er 4 eller færre skjemaer. Er det fler, må først knappen Register-message 16px.png Registrer ny melding trykkes på. Den åpner en liste over alle aktive meldingsskjemaer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med Arrowopen.gif. Trykk på Arrowclosed.gif for å sortere på en annen kolonne.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut den aktive siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Avvik og forslag: Tabellen viser vanlige meldinger.&lt;/li&gt;
+&lt;li&gt;Log: Tabellen viser loggmeldinger. Ikke med i standardversjonen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s10-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Her kan du lære&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Forskjellen på fargene på meldingene&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Obligatoriske kategorier&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Følge opp saker jeg har vært involvert i&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tilføye informasjon og endringer på saker jeg har vært engasjert i&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;sjekke hva som er blitt gjort med saker jeg har vært engasjert i&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hvem kan se saker jeg har meldt inn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tilltaksbehandling&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Godkjenne tiltak og utføre tiltak&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fylle ut spørreskjema og legge til kommentarer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Finne frem til lover, prossedyrer, rapporter m.m.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dine innstillinger: Endre brukernavn, passord m.m.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ 
+&lt;a href=&#34;https://docs3.qmplus.com/assets/basiskunnskaper_medarbeider.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Sendt til saksbehandler</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/sent_to_casehandler/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/sent_to_casehandler/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Sendt til saksbehandler viser alle meldinger som er overført til en ansvarlig person. Dette brukes til å finne igjen meldinger man har sendt avgårde slik at de ikke lenger tilgjengelig på egen avdeling. Hvilke meldinger som vises i tabellen nedenfor avgjøres av valgene i nedfallsmenyene. Kun meldinger registrert de siste 3 måneder vises i dette bildet. For eldre meldinger benytt Rapporter eller søk.&lt;/p&gt;
+&lt;h3 id=&#34;funksjoner&#34;&gt;Funksjoner&lt;/h3&gt;
+&lt;h4 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Alle meldinger: Velg et meldingsskjema og kun meldinger med opprinnelse i et slikt meldingsskjema vises.&lt;/li&gt;
+&lt;li&gt;Meldingstype:
+&lt;ul&gt;
+&lt;li&gt;Fra saksbehandler på denne avdelingen: Viser meldinger sendt fra en bruker på den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Fra meg: Viser meldinger sendt av den påloggede brukeren.&lt;/li&gt;
+&lt;li&gt;Til saksbehandler på denne avdelingen: Viser meldinger som har fått tilordnet en ansvarlig person fra den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Registrert på denne avdelingen: Viser meldinger som opprinnelig er registrert på den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Status: Kun meldinger med den valgte status vises i tabellen.
+&lt;ul&gt;
+&lt;li&gt;Alle status: Alle meldinger vises.&lt;/li&gt;
+&lt;li&gt;Meldingsprosess: Kun meldinger med status Ny eller Sendt til saksbehandler vises.&lt;/li&gt;
+&lt;li&gt;Tiltaksprosess: Kun meldinger tilkoblet et tiltak som ikke er godkjent vises.&lt;/li&gt;
+&lt;li&gt;Avvist: Kun avviste meldinger vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil meldingen åpnes i behandlingsbildet.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en melding inkludert historikken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvidet visning / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+Table.png Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument. Denne er beregnet på utskrift til papir.&lt;/li&gt;
+&lt;li&gt;Sideskift: Pilene 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ brukes til å skifte side når det er mer enn 20 meldinger som kan vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ for å sortere på en annen kolonne.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det skjermbildet som vises på skjermen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

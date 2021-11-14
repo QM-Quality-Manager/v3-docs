@@ -1,0 +1,126 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/user/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/user/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Brukerrapporter</title>
+      <link>https://docs3.qmplus.com/docs/user/tabs/user_report/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/user/tabs/user_report/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukere er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Icon_graph2.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Rapporter&lt;/p&gt;
+&lt;p&gt;Gir oversikt over pålogginger og dokumentbruk i systemet i et gitt tidsrom. Styres av valgt rapport, rapporttype, tidsrom og periodetype.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Søk: Oppdaterer rapporten med det valgte tidsrommet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Rapport&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapport for pålogginger&lt;/li&gt;
+&lt;li&gt;Rapport for dokumentbruk. Viser data for åpning av dokumenter, uansett om det er fra Info, Admin, registrer ny melding eller ekstern bruk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rapporttype med Rapport for pålogginger&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Påloggingsoversikt: Lister opp alle pålogginger i en gitt periode. Tabellen kan sorteres på Navn eller Tidspunkt ved å trykke på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ ikonet.&lt;/li&gt;
+&lt;li&gt;Påloggingsoversikt fordelt på tid: Viser antall pålogginger per bruker per periode.&lt;/li&gt;
+&lt;li&gt;Pålogginger fordelt på tid: Viser antall pålogginger per periode.&lt;/li&gt;
+&lt;li&gt;Gjennomsnittsverdier for perioden: Viser gjennomsnittsverdi per periode.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rapporttype med Rapport for dokumentbruk&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokumenter per bruker: Lister opp alle dokumenter og brukeren som har åpnet dem i en gitt periode.&lt;/li&gt;
+&lt;li&gt;Dokumenter per bruker over tid: Viser hvor mange dokumenter hver bruker har åpnet i hver periode.&lt;/li&gt;
+&lt;li&gt;Brukere per dokument over tid: Viser hvor mange brukere som har åpnet hvert dokument i hver periode.&lt;/li&gt;
+&lt;li&gt;Dokumenter over tid: Viser hvor mange dokumenter som totalt sett er åpnet i hver periode.&lt;/li&gt;
+&lt;li&gt;Gjennomsnittsverdier for perioden: Viser mange dokumenter som gjennomsnittlig er åpnet per periode.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Periodetype&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dag&lt;/li&gt;
+&lt;li&gt;Uke&lt;/li&gt;
+&lt;li&gt;Måned&lt;/li&gt;
+&lt;li&gt;År&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Maks 1000 rader vises i tabellen uansett valg.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Brukertyper</title>
+      <link>https://docs3.qmplus.com/docs/user/tabs/user_types/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/user/tabs/user_types/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens brukertyper. Bare brukere med Systemrollen Systemrolleadministrator eller Brukeradministrator kan se arkfanen.&lt;/p&gt;
+&lt;p&gt;Man må ha Systemrollen Systemrolleadministrator for å kunne gjøre endringer.&lt;/p&gt;
+&lt;p&gt;Alle tabelloverskriftene kan brukes til å sortere tabellen.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny brukertype: Åpner endre brukertype med mulighet for å lage en ny brukertype.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre brukertype skjermbildet for å endre den brukertypen som linjen det ble trykket på tilhører.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter denne brukertypen. Kun tilgjengelig dersom brukertypen ikke er tilordnet noen brukere.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

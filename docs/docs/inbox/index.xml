@@ -1,0 +1,188 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Innboks</title>
+    <link>https://docs3.qmplus.com/docs/inbox/</link>
+    <description>Recent content in Innboks on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/inbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Saker jeg er ansvarlig for</title>
+      <link>https://docs3.qmplus.com/docs/inbox/tabs/cases_im_responsible_for/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/inbox/tabs/cases_im_responsible_for/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Saker jeg er ansvarlig for viser saker den påloggede brukeren skal jobbe med, uavhengig av avdeling valgt i navigatoren. Arkfanen vises ikke dersom brukeren hverken kan behandle meldinger, utføre tiltak, delta i høringer eller gjennomføre revisjoner.&lt;/p&gt;
+&lt;p&gt;Rosa saker er meldinger, gule saker er tiltak, blågrå saker er høringer. Varseler om revisjon er fargeløse.&lt;/p&gt;
+&lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Registrer ny melding: Velg et meldingsskjema for å registrere en ny melding. Åpner endre melding. Meldingskjemaene vises om individuelle knapper dersom det er 4 eller færre skjemaer. Er det fler, må først knappen 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Registrer ny melding trykkes på. Den åpner en liste over alle aktive meldingsskjemaer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alle meldinger: Velg et meldingsskjema og kun saker med opprinnelse i et slikt skjema vises&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Saker jeg er ansvarlig for / Alle saker jeg har vært involvert i: Saker jeg er ansvarlig viser kun saker den påloggede brukeren skal gjøre noe med. Alle saker jeg har vært involvert endrer visningen til å inneholde de sakene den påloggede brukeren har gjort noe med som fremdeles ikke er lukket.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Sort_down.png&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/No_sort.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Sort_down.png&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/No_sort.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å sortere på den kolonnen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_green.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_yellow.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_red.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Prioritet: Symboliserer lav, middels og høy prioritet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hovedtabellen&#34;&gt;Hovedtabellen&lt;/h3&gt;
+&lt;p&gt;Ved å trykke på en linje i hovedtabellen vil saken åpnes i sitt behandlingsbilde. Meldinger åpnes i meldingsbehandlingsbildet, tiltak åpnes i tilltaksbehandlingsbildet og høringer åpnes i besvar høring.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Utvidet informasjon og historikk: Hold pekeren over denne til å få opp utvidet informasjon om saken. Foreløpig kun meldinger og tiltak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meldingsskjema: Hvilket meldingsskjema saken er opprettet med.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Registrert: Dato for når saken ble registrert. For meldinger når den ble registrert, for tiltak når det ble opprettet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frist: For meldinger behandlingsfrist, for tiltak gjennomføringsfrist og godkjenningsfrist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beskrivelse: For meldinger teksten i det første tekstfeltet i meldingen, for tiltak navnet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritet: 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_green.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_yellow.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_red.png&#34;  width=&#34;&#34; /&gt;
+
+
+ symboliserer lav, middels og høy prioritet. For tiltak gjelder prioriteten til den tilkoblede meldingen som er høyest.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status: Statusen til saken.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Registrert på avdeling: Avdelingen saken er registrert på.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Saken ligger nå hos: Den brukeren som har ansvaret for å gjøre noe med saken. Avhenger av sakens type og status. Vises bare når &amp;ldquo;Alle saker jeg har vært involvert i&amp;rdquo; er valgt.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger:
+&lt;ul&gt;
+&lt;li&gt;&amp;lt;Navn på bruker&amp;gt;: Den navngitte brukeren er tilordnet som ansvarlig for saken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tiltak:
+&lt;ul&gt;
+&lt;li&gt;Med status &amp;laquo;Under planlegging&amp;raquo;: Navnet på den brukeren som har opprettet tiltaket og er overordnet ansvarlig for det.&lt;/li&gt;
+&lt;li&gt;Med status &amp;laquo;Under gjennomføring&amp;raquo;: Navnene på de brukerne som skal gjennomføre tiltaket.&lt;/li&gt;
+&lt;li&gt;Med status &amp;laquo;Under godkjenning&amp;raquo;: Navnet på den brukeren som har opprettet tiltaket og er ansvarlig for å godkjenne det.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Høring:
+&lt;ul&gt;
+&lt;li&gt;Med status &amp;laquo;Ute på høring&amp;raquo;: Navnene på de brukerne som skal delta i høringen.&lt;/li&gt;
+&lt;li&gt;Med status &amp;laquo;Til godkjenning&amp;raquo;: Navnet på den brukeren som skal godkjenne høringen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sideskift: Knappene markert med Først, Forrige, Neste, Siste og eventuelle nummererte knapper i mellom brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hvilke-saker-vises-i-tabellen&#34;&gt;Hvilke saker vises i tabellen?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger som er sendt til den påloggede brukeren via Send til saksbehandler i Behandlingsbildet eller via tidlig saksbehandling i Endre melding.&lt;/li&gt;
+&lt;li&gt;For ledere:
+&lt;ul&gt;
+&lt;li&gt;Meldinger registrert på avdlingen lederen er registrert på som ikke har fått tilordnet en annen ansvarlig person.&lt;/li&gt;
+&lt;li&gt;Meldinger registrert på underliggende avdelinger, hvor det ikke er en egen leder som ikke har fått tilordnet en annen ansvarlig person. Meldinger registrert på avdelinger uten leder vil flyte oppover i organisasjonen og vises i Innboks på den første overliggende avdelingen som har en leder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tiltak brukeren har opprettet som er under planlegging.&lt;/li&gt;
+&lt;li&gt;Tiltak brukeren skal utføre som er under gjennomføring.&lt;/li&gt;
+&lt;li&gt;Tiltak brukeren er satt til godkjenner for som skal godkjennes. Man blir godkjenner for et tiltak om man har laget det, eller via en regel av typen tiltaksgodkjenner.&lt;/li&gt;
+&lt;li&gt;Høringer brukeren skal delta i som er ute til høring.&lt;/li&gt;
+&lt;li&gt;Høringer brukeren skal godkjenne som er til godkjenning.&lt;/li&gt;
+&lt;li&gt;Revisjonsvarsel for dokumenter som har passert sin revisjonsvarslingsfrist og brukeren er satt som revisjonsansvarlig.&lt;/li&gt;
+&lt;li&gt;Revisjoner brukeren skal gjennomføre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Merk at meldinger andre brukere har registrert som er laget med meldingsskjemaer som har en rolle med &amp;ldquo;Se meldinger&amp;rdquo; begrensning, ikke blir vist her med mindre den påloggede brukeren har den samme rollen eller Systemrollen Se alle meldinger tilknyttet seg eller den brukertypen brukeren er logget på med. Meldinger brukeren selv har registrert blir vist.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

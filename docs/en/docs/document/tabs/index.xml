@@ -1,0 +1,709 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Tabs</title>
+    <link>https://docs3.qmplus.com/en/docs/document/tabs/</link>
+    <description>Recent content in Tabs on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/document/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Audit overview</title>
+      <link>https://docs3.qmplus.com/en/docs/document/tabs/audit_overview/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/document/tabs/audit_overview/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Shows a table with all the audits that the document has been through. Click on a row in the table to open the actual audit.&lt;/p&gt;
+&lt;h3 id=&#34;table&#34;&gt;Table&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Audit number. Identifier for the audit.&lt;/li&gt;
+&lt;li&gt;Information. Free text field with information entered by the audit responsible.&lt;/li&gt;
+&lt;li&gt;Audit responsible. The name of the user who is responsible for doing the audit.&lt;/li&gt;
+&lt;li&gt;Department. The name of the department where the audit was created.&lt;/li&gt;
+&lt;li&gt;Start date. The date when the audit starts.&lt;/li&gt;
+&lt;li&gt;Due date. The due date for the audit.&lt;/li&gt;
+&lt;li&gt;Completed. The date when the audit was completed. Otherwise blank.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Document groups</title>
+      <link>https://docs3.qmplus.com/en/docs/document/tabs/document_group/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/document/tabs/document_group/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here one can manage the company&amp;rsquo;s document groups.
+Deactivated document groups do not appear under Info and no document can be assigned to them. Documents that belong to a deactivated document group do not appear under Info either.&lt;/p&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Choice of department: The table shows either all the document groups created at the department which is selected in the Navigator or the document groups created at the department which is selected in the Navigator and those created by its subordinate departments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;New document group: Opens the Edit document group screen to create a new document group.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the Edit document group screen to change an existing document group.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deactivates or activates the document group depending on whether you are under Document groups or under Deactivated document groups respectively.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Document tabs</title>
+      <link>https://docs3.qmplus.com/en/docs/document/tabs/document_tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/document/tabs/document_tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here one can manage the company&amp;rsquo;s document tabs.&lt;/p&gt;
+&lt;p&gt;Deactivated document tabs do not appear under Info and no documents can be assigned to them. Documents that belong to a deactivated document tab do not appear under Info either.&lt;/p&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;New document tab: Opens the Edit document tab screen to create a new document tab.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the Edit document tab screen to edit an existing document tab.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deactivates or activates the document tab depending on whether you are under Document tabs or Deactivated document tabs respectively.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/View.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Used to open a document tab which you do not have the right to change. One has the right to change the document tabs created from the selected department in the Navigator and the underlying departments of that&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Documents submenu</title>
+      <link>https://docs3.qmplus.com/en/docs/document/tabs/documents_submenu/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/document/tabs/documents_submenu/</guid>
+      <description>
+        
+        
+        &lt;p&gt;From here you can manage the company&amp;rsquo;s documents.&lt;/p&gt;
+&lt;p&gt;The document names function as links. Click on a document name to open the document. Especially for documents created in Qm+: You can either open the HTML version by clicking on the document name, or you can get a PDF version of the document by clicking on the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ icon on the right of the document name.&lt;/p&gt;
+&lt;p&gt;Deactivated documents do not appear under Info and cannot be attached to lists, message forms or activities. Already attached documents will still be shown there even if they are deactivated. Attached documents can not be deleted. Unpublished documents are not shown under Info either. If a document has both a published and a newer unpublished version, the published version will be displayed under Info.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s1-hbhb-what-can-i-do-here&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ What can I do here?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a new document click the button &amp;ldquo;New document&amp;rdquo; at the bottom of the page.&lt;/li&gt;
+&lt;li&gt;Audit a document / send it out on a hearing: Click on the yellow &amp;ldquo;Edit document data&amp;rdquo;-icon on the right side of the table.&lt;/li&gt;
+&lt;li&gt;In the next page you can select between the tabs Version overview, Hearing overview, Audit overview.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Department selection: The table shows either all the documents created at the department which is selected in the Navigator or the documents created at the department which is selected in the Navigator and those from its subordinate departments.&lt;/li&gt;
+&lt;li&gt;Document tab selection: The table shows only the documents that belong to the selected document tab. If the option &amp;ldquo;Show documents from all document tabs&amp;rdquo; is selected, all the documents are shown independent of the document tab they belong to. Please note that only documents that belong to active document tabs are shown. The drop-down does not contain any deactivated document tabs either, but contains tabs from all departments.&lt;/li&gt;
+&lt;li&gt;Document group selection: The table shows only the documents that belong to the selected document group. If the option &amp;ldquo;Show documents from all document groups&amp;rdquo; is selected, all the documents are shown independent of the document group they belong to. Please note that only documents that belong to active document groups are shown.&lt;/li&gt;
+&lt;li&gt;Display mode:
+&lt;ul&gt;
+&lt;li&gt;Document Information. Default, shows an overview of where in the structure the document belongs.&lt;/li&gt;
+&lt;li&gt;Audit information. Displays the warning date for the next audit for the document and information about the previous / ongoing audit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New document: Opens the Edit document data screen to create a new document.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Icons are used to symbolize different types of documents:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_world.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Link to the online version of the document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Lovdata_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Link to a page from Lovdata&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_word.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Word document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ PDF document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_excel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Excel document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_powerpoint.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Powerpoint document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_text.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Document created in Qm+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Document of type Process chart, created in Qm+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Unknown or Blank document&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder_page_white.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Folder. Can not be opened, used only to create a document structure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;edit&#34;&gt;Edit&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Edit document data. Opens the Edit document data screen to edit an existing document.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Create read and understood activity. This opens the New activity page under Activity plan and automatically sets the Activity group, the Activity name, the Attached list, the time period (From - To), the Activity distribution and the attached document. It is possible to use other lists than the default one for Read and understood. If someone wants to use another list as default, they will have to contact QmPlus AS. If you click the Create read and understood activity button of a document that has subdocuments, the subdocuments will also be added to the activity automatically.&lt;/li&gt;
+&lt;li&gt;Turnarrow.gif: Deactivate / Activate document. Deactivates or activates the document depending on whether you are under Documents or Deactivated documents respectively.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Delete document. Deletes the document. Only visible for deactivated documents that are not attached to other elements in the system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;status&#34;&gt;Status&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_error.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Not indexed.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_medal.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Approved.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tag_blue_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: On hearing.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Ok.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Error.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Indexing error. This may mean that the document is not available or is in a format that our indexing engine has not been able to decipher. It may happen that even normal formats like .pdf and .doc fail. If the link opens the document correctly, the error only means that the document will not appear in any search results if you do a free text search under Info. Links to intranet pages or other sites that the search engine has no access to, will always give indexing errors.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Exclamation.png&#34;  width=&#34;&#34; /&gt;
+
+
+: The document has a newer unpublished / existing published version.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date.png&#34;  width=&#34;&#34; /&gt;
+
+
+: The document is part of a Read and understood activity. If you leave the cursor over the icon, you will see a popup with information about the last Read and understood activity for the document.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Edit document data</title>
+      <link>https://docs3.qmplus.com/en/docs/document/tabs/edit_document_data/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/document/tabs/edit_document_data/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-what-can-i-do-here&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ What can I do here?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;As a super user / manager I can add new documents.&lt;/li&gt;
+&lt;li&gt;I can choose whether the document will be retrieved from my own database: Click &amp;ldquo;Link&amp;rdquo;, or from a file: CliCk &amp;ldquo;File&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Or I can write a document in the internal editor. Click on the tab &amp;ldquo;Document content&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Document data: Used to edit the general information relating to a document. This is the first page you see when you create a new document.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Document content: Shows only for internal documents (document type: &amp;ldquo;Write a document&amp;rdquo;). Used if you wish to write or edit a document directly in Qm+. The document is saved as an HTML document and has some formatting options. The text edit field uses TinyMCE.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Process chart setup: Shows only when the document type &amp;ldquo;Process chart&amp;rdquo; is selected and the document has been saved at least once. Used to define the various fields in a process chart.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Role overview: Used to attach roles.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Version overview: Shows the overview of all versions, with the document at the current time, when it was changed and who made the change.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Telephone_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hearing / Approval: Used to create a new hearing and decide who will participate and approve it.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Read and understood: Shows an overview of the status of all Read and understood activities the document has had.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_code.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Audit overview: Shows an overview of all the audits the document has had.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Image_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Reference overview: Shows an overview of all the references for the document.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc_multiple.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Create new version: Creates a new version of the document.
+&lt;ul&gt;
+&lt;li&gt;Example: If a document is in version 3.14 and you click on this button, it will change version to 4.1.&lt;/li&gt;
+&lt;li&gt;Should be used before making major changes to the document.&lt;/li&gt;
+&lt;li&gt;Shows only for documents that have been saved at least once.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes made in the fields.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Takes you back to the page you came from.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Hearing / Approval</title>
+      <link>https://docs3.qmplus.com/en/docs/document/tabs/hearing/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/document/tabs/hearing/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here you can create a hearing, set its participants and approver.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hearing number: Serial number for all hearings in the system.&lt;/li&gt;
+&lt;li&gt;Status: Can have the values On hearing, For approval and Approved.&lt;/li&gt;
+&lt;li&gt;The hearing refers to document number X in version Y: Explains which document, in which version, the selected hearing applies to.&lt;/li&gt;
+&lt;li&gt;Document: Link to open the document itself.&lt;/li&gt;
+&lt;li&gt;Responsible for the hearing: The person who has created the hearing.&lt;/li&gt;
+&lt;li&gt;Created: The creation date and time.&lt;/li&gt;
+&lt;li&gt;Hearing due date: Deadline to reply to the hearing.&lt;/li&gt;
+&lt;li&gt;Responsible for approval of the document: The person who will approve the hearing and who can change its status. This field is mandatory.&lt;/li&gt;
+&lt;li&gt;Participants: The tool to determine who should participate in the hearing. Those taking part are in the left panel with the headline participants. They can be selected from the list in the right panel with the heading Choose participants.&lt;/li&gt;
+&lt;li&gt;Send a comment by e-mail to the participants in the hearing: Here you can write a comment. When you click on the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save button, it will be sent as an e-mail to all listed under Participants.&lt;/li&gt;
+&lt;li&gt;Comments to the hearing: Shows all comments that have come to this hearing. The comments can be sent from this page or from the page Reply to a hearing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo;: Add participant.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;raquo;: Remove participant.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Telephone_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New hearing: Creates a new hearing for the selected version.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes you have done in this page.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Closes this page and takes you back to the page you came from.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the active window.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Read and understood</title>
+      <link>https://docs3.qmplus.com/en/docs/document/tabs/read_and_understood/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/document/tabs/read_and_understood/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here you can see an overview of the status of all Read and understood activities the document has had.&lt;/p&gt;
+&lt;h3 id=&#34;table-headings&#34;&gt;Table headings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Period: Shows the time period during which the activity was active.&lt;/li&gt;
+&lt;li&gt;Name: The name of the activity.&lt;/li&gt;
+&lt;li&gt;Created by: The name of the user who created the activity.&lt;/li&gt;
+&lt;li&gt;Reference: If the activity is set up with a reference, the link to the reference is displayed here.&lt;/li&gt;
+&lt;li&gt;Completed forms: The participation in the activity is shown in a small bar chart as the number of answers / the number of possible participants.
+&lt;ul&gt;
+&lt;li&gt;For common activities, the numbers after the bar chart represent the number of users who answered / the number of users who will participate in the activity.&lt;/li&gt;
+&lt;li&gt;For repetitive activities, the numbers after the bar chart represent the number of users who answered / number users who can participate / the total number of answers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Comments: The number of comments on this activity. Opens the page Comments to the activity.&lt;/li&gt;
+&lt;li&gt;Email reminder: Here you can send out the activity as an e-mail to those who have to perform it. Send reminder is also used when you want to warn the users who have not filled out the activity. Opens the Send reminder in a separate window.&lt;/li&gt;
+&lt;li&gt;Answer form: Appears only for the current activities that have already started.Here you can fill out the activity.&lt;/li&gt;
+&lt;li&gt;Result: Here you get the result from the activity. Opens the page Graphs for the list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Create read and understood activity: This opens the New activity page under Activity plan and automatically sets the Activity group, the Activity name, the Attached list, the time period (From - To), the Activity distribution and the attached document. It is possible to use other lists than the default one for Read and understood. If someone wants to use another list as default, they will have to contact QmPlus AS. If you click the Create read and understood activity button of a document that has subdocuments, the subdocuments will also be added to the activity automatically.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc_multiple.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Create new version: Creates a new version of the document.
+&lt;ul&gt;
+&lt;li&gt;Example: If a document is in version 3.14 and you click on this button, it will change version to 4.1.&lt;/li&gt;
+&lt;li&gt;Should be used before making major changes to the document.&lt;/li&gt;
+&lt;li&gt;Shows only for documents that have been saved at least once.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes you have done in this page.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Closes this page and takes you back to the page you came from.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the active window.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Reference overview</title>
+      <link>https://docs3.qmplus.com/en/docs/document/tabs/reference_overview/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/document/tabs/reference_overview/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Shows a table with all the documents that refer to (contain an image or link reference to) the current document.&lt;/p&gt;
+&lt;p&gt;If the document is of type &amp;ldquo;Written document&amp;rdquo; then a second table shows the documents that this document refers to in its content.&lt;/p&gt;
+&lt;h3 id=&#34;table&#34;&gt;Table&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reference type. Image 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Image.png&#34;  width=&#34;&#34; /&gt;
+
+
+ or Link 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;Name. The document name. The table is sorted by this column.&lt;/li&gt;
+&lt;li&gt;Department. The departments this document has been added to. If the document is from the common library, then this is written here instead of a department name.&lt;/li&gt;
+&lt;li&gt;Subdocument of.&lt;/li&gt;
+&lt;li&gt;Document group.&lt;/li&gt;
+&lt;li&gt;Document tab.&lt;/li&gt;
+&lt;li&gt;Edit. If the user has access rights to edit the specific document, the relevant icons appear.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Reply to a hearing</title>
+      <link>https://docs3.qmplus.com/en/docs/document/tabs/reply_to_hearing/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/document/tabs/reply_to_hearing/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This page can be accessed from the Inbox of those who should reply to it, and from Edit document data under Admin / Documents for users with access to it.&lt;/p&gt;
+&lt;p&gt;This page is used for replying to a hearing. The users who have been given the responsibility to participate in the hearing can reply to it and give their comments. The hearing&amp;rsquo;s status can be changed by the person who has been assigned the responsibility to approve it.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Document: Link to open the document itself. Document number X in version Y: Number (X) and version (Y) of the document to which the hearing is attached. 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ takes you to the Edit document data page for that document.&lt;/li&gt;
+&lt;li&gt;Responsible for approval of the document: The person who will approve the hearing and who can change its status.&lt;/li&gt;
+&lt;li&gt;Hearing / approval status: Can have the values On hearing, For approval and Approved.&lt;/li&gt;
+&lt;li&gt;Hearing number: Serial number for all hearings in the system.&lt;/li&gt;
+&lt;li&gt;Created: The creation date of the hearing.&lt;/li&gt;
+&lt;li&gt;Responsible for the hearing: The person who has created the hearing.&lt;/li&gt;
+&lt;li&gt;Hearing due date: The deadline (date and time) to reply to the hearing.&lt;/li&gt;
+&lt;li&gt;My answer to the hearing: Unanswered / Ok / Not ok. Used by those who will participate in the hearing to provide feedback on the document.&lt;/li&gt;
+&lt;li&gt;Hearing / approval status drop-down: Used by the person responsible for approving the hearing to change its status.&lt;/li&gt;
+&lt;li&gt;Comment: Text field that can be used by anyone with access to the hearing.&lt;/li&gt;
+&lt;li&gt;My comment: Menu for selecting who will receive the message written in the Comment field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes you have made in this screen. If you wrote a comment it will be sent in the manner you have chosen in My answer.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Closes this page and takes you back to the page you came from.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Participants in the hearing: Overview over those who will reply to the hearing, their answers and when they last changed their answer.&lt;/li&gt;
+&lt;li&gt;Comments to the hearing: All comments added to the hearing.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Version overview</title>
+      <link>https://docs3.qmplus.com/en/docs/document/tabs/version_overview/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/document/tabs/version_overview/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Used to provide an overview of all the versions of the document.&lt;/p&gt;
+&lt;h3 id=&#34;table&#34;&gt;Table&lt;/h3&gt;
+&lt;p&gt;The table contains one row per version (Major version) that the document has been through.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Name: Name of the document for this version.&lt;/li&gt;
+&lt;li&gt;Version: &amp;ldquo;Version number.Edit number&amp;rdquo;. Create a new version when you have made ​​major changes to the document. Must be done manually. The edit number changes whenever you save a change in the document.
+&lt;ul&gt;
+&lt;li&gt;Click RightArrow.gif to show the minor versions.&lt;/li&gt;
+&lt;li&gt;The version that is published and displayed under Info is marked with a 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_put.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Copy and set as latest version. Click on this to copy the version of this row as a new version. Copies all content and document data, including the name. Shows only for documents of type Written document (&amp;ldquo;Write a file&amp;rdquo;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Address: The address of the document. Click on it to open the selected version of the document.&lt;/li&gt;
+&lt;li&gt;Created by: Who created this version.&lt;/li&gt;
+&lt;li&gt;Created: When this version was first created.&lt;/li&gt;
+&lt;li&gt;Latest edit by: The last user to change the document.&lt;/li&gt;
+&lt;li&gt;Latest edit: When the last change was made.&lt;/li&gt;
+&lt;li&gt;Compare: You can select any 2 versions from the table. Then when you click the Compare versions button, you will be able to see the text or the HTML differences between the two versions. Use the Compare as HTML / Compare as text button to switch the comparison view mode. Added elements are highlighted with green, while removed elements are highlighted with red and a strikethrough line. The function works only for documents written in the Qm+ editor.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

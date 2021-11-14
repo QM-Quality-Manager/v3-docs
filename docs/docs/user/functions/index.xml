@@ -1,0 +1,192 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Funksjoner</title>
+    <link>https://docs3.qmplus.com/docs/user/functions/</link>
+    <description>Recent content in Funksjoner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/user/functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Endre bruker</title>
+      <link>https://docs3.qmplus.com/docs/user/functions/edit_user/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/user/functions/edit_user/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukernavn: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver. Må være unik for hver kunde.&lt;/li&gt;
+&lt;li&gt;Avdeling / Type. Dette feltet angir brukerens tilgang til systemet.
+&lt;ul&gt;
+&lt;li&gt;Avdelingen brukeren tilhører.
+&lt;ul&gt;
+&lt;li&gt;Dersom avdelingstilknyttingen er markert med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Server_connect.png&#34;  width=&#34;&#34; /&gt;
+
+
+, kan den ikke slettes. Det er lov å endre avdeling og brukertype. Bare aktuelt for kunder med AD / LDAP integrering.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Type: Brukerens brukertype.&lt;/li&gt;
+&lt;li&gt;Vikar: Vikarfunksjonen gir mulighet for en definert bruker til å logge inn med samme tilgangsrettigheter som tilgangen man er vikar for. Det kan settes en vikar for hver tilgang en bruker har. For hver tilgang en bruker har:
+&lt;ul&gt;
+&lt;li&gt;Dersom det er satt opp en vikar for tilgangen vises navnet på vikaren. Trykk på navnet for å endre eller ta bort vikaren.&lt;/li&gt;
+&lt;li&gt;Dersom det ikke er definert en vikar, vises en knapp for å sette vikar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Passord: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver.&lt;/li&gt;
+&lt;li&gt;Gjenta passord: Må være lik passordfeltet for å få lagret brukeren.&lt;/li&gt;
+&lt;li&gt;Fornavn: Brukerens fornavn.&lt;/li&gt;
+&lt;li&gt;Mellomnavn: Brukerens mellomnavn.&lt;/li&gt;
+&lt;li&gt;Etternavn: Brukerens etternavn.&lt;/li&gt;
+&lt;li&gt;E-postadresse: Brukerens e-postadresse. En del funksjonalitet i systemet er knyttet opp mot brukerens e-postadresse. Det er derfor en fordel at hver bruker har en unik e-postadresse.&lt;/li&gt;
+&lt;li&gt;Språk: Valg av visningsspråk for brukeren. Tilgjenglige språk i systemet: norsk (bokmål), norsk (nynorsk), engelsk, svensk og dansk (ikke oversatt rammeverk for dansk). Språkene tilgjenglige for den enkelte kunde vil variere.&lt;/li&gt;
+&lt;li&gt;Mobilnummer: Kan brukes for utsendelse av SMS dersom SMS er aktivert.&lt;/li&gt;
+&lt;li&gt;Kommentar: Fritekstfelt for ytteligere informasjon om brukeren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til avdeling: Legg en avdeling til brukeren. Det er mulig å tilordne flere avdelinger til hver bruker. For hver avdeling brukeren hører til, må brukeren ha en tilhørende brukertype. Brukere som tilhører flere avdelinger må velge hvilken avdeling de ønsker å logge seg på i innloggingssiden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slett avdeling: Sletter valgt avdeling fra brukeren. Vises kun for brukere som tilhører flere avdelinger.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sett vikar: Åpner muligheten til å sette vikar for en brukertilgang.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cancel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Avbryt&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slette&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringer gjordt i feltene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern avanserte muligheter: De avanserte mulighetene vises eller skjules.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;avanserte-muligheter&#34;&gt;Avanserte muligheter&lt;/h3&gt;
+&lt;p&gt;Dette er ting som kommer opp når knappen Vis avanserte muligheter brukes. De avanserte mulighetene fjernes ved å bruke knappen Fjern avanserte muligheter.
+Felter&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukerens roller: De rollene som er tilknyttet denne brukeren.&lt;/li&gt;
+&lt;li&gt;Rollebank: De rollene som ikke er tilknyttet denne brukeren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;laquo; Legg til: Legger de valgte rollene i Rollebanken til brukerens roller.&lt;/li&gt;
+&lt;li&gt;Fjern &amp;raquo;: Fjerner de valgte rollene fra brukerens roller. De blir da synlige igjen i rollebanken.&lt;/li&gt;
+&lt;li&gt;Cog add.png Vis / Cog delete.png Fjern systemroller: Avgjør om Systemroller blir vist i listen over roller. Denne knappen vises kun dersom brukeren har rollen Systemroller.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre brukertype</title>
+      <link>https://docs3.qmplus.com/docs/user/functions/change_usertype/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/user/functions/change_usertype/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Man må ha systemrollen systemrolleadministrator for å kunne gjøre endringer på siden.&lt;/p&gt;
+&lt;p&gt;Obs. Vær spesielt oppmerksom om du gjør endringer på brukertypen du er logget på med. Det går an å fjerne tilgangen til å reverse endringer, for eksempel ved å ta vekk sin egen tilgang til Admin arkfanen.&lt;/p&gt;
+&lt;p&gt;Obs2. Alle endringer gjordt på brukertyper er umiddelbart synlige for alle brukere som er logget på med den aktuelle brukertypen, med unntak av arkfaner på det øverste nivået. De trenger en relasting av siden for å vise endringen. Dette kan eksempelvis gjøres ved å trykke på F5 tasten på tastaturet.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Brukes til å velge språk for navnefeltet. Vises kun dersom mer enn ett språk er aktivert.&lt;/li&gt;
+&lt;li&gt;Navn: Navnet på brukertypen. Brukes alle steder der brukertypen omtales.&lt;/li&gt;
+&lt;li&gt;Posisjon: Brukes for å sortere lister der brukertypen er med. Posisjon 1 kommer først.&lt;/li&gt;
+&lt;li&gt;Informasjon: Ekstra informasjon om brukertypen.&lt;/li&gt;
+&lt;li&gt;Grensesnitt: Bestemmer om brukertypen skal ha fullstendig (tidligere kalt Leder grensesnitt) eller forenklet (tidligere kalt medarbeidergrensesnitt) grensesnitt. Valget her avgjør hvilke systemroller brukertypen kan tilknyttes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rolleoversikt&#34;&gt;Rolleoversikt&lt;/h3&gt;
+&lt;p&gt;Oversikt over alle roller som er tilknyttet denne brukertypen. Systemrollene vises først. En pålogget bruker har alle rettigheter som rollene tilknyttet brukertypen brukeren er logget på med har, i tillegg til de rettighetene rollene direkte tilknyttet brukeren gir. Systemroller for arkfaner kan kun tilknyttes brukertyper.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avkryssede systemroller gir konkrete egenskaper i systemet.&lt;/li&gt;
+&lt;li&gt;Avkryssede brukerdefinerte roller gir ingen direkte rettigheter til brukeren med mindre de aktuelle rollene også er tilknyttet elementer som meldingsskjemaer, aktiviteter eller dokumenter.&lt;/li&gt;
+&lt;li&gt;Velg feltet setter eller fjerner avkryssingen for alle roller i sin tabell.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på dette ikonet for å lese mer om systemrollen på samme linje.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringer gjordt i siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

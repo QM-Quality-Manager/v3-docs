@@ -1,0 +1,511 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Funksjoner</title>
+    <link>https://docs3.qmplus.com/docs/admin/functions/</link>
+    <description>Recent content in Funksjoner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/admin/functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Endre bruker</title>
+      <link>https://docs3.qmplus.com/docs/admin/functions/change_user/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/functions/change_user/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Brukernavn: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver. Må være unik for hver kunde.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Avdeling / Type. Dette feltet angir brukerens tilgang til systemet.
+Avdelingen brukeren tilhører.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dersom avdelingstilknyttingen er markert med Server connect.png, kan den ikke slettes. Det er lov å endre avdeling og brukertype. Bare aktuelt for kunder med AD / LDAP integrering.&lt;/li&gt;
+&lt;li&gt;Type: Brukerens brukertype.&lt;/li&gt;
+&lt;li&gt;Vikar: Vikarfunksjonen gir mulighet for en definert bruker til å logge inn med samme tilgangsrettigheter som tilgangen man er vikar for. Det kan settes en vikar for hver tilgang en bruker har. For hver tilgang en bruker har:
+&lt;ul&gt;
+&lt;li&gt;Dersom det er satt opp en vikar for tilgangen vises navnet på vikaren. Trykk på navnet for å endre eller ta bort vikaren.&lt;/li&gt;
+&lt;li&gt;Dersom det ikke er definert en vikar, vises en knapp for å sette vikar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Passord: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gjenta passord: Må være lik passordfeltet for å få lagret brukeren.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fornavn: Brukerens fornavn.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mellomnavn: Brukerens mellomnavn.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Etternavn: Brukerens etternavn.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;E-postadresse: Brukerens e-postadresse. En del funksjonalitet i systemet er knyttet opp mot brukerens e-postadresse. Det er derfor en fordel at hver bruker har en unik e-postadresse.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Språk: Valg av visningsspråk for brukeren. Tilgjenglige språk i systemet: norsk (bokmål), norsk (nynorsk), engelsk, svensk og dansk (ikke oversatt rammeverk for dansk). Språkene tilgjenglige for den enkelte kunde vil variere.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mobilnummer: Kan brukes for utsendelse av SMS dersom SMS er aktivert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kommentar: Fritekstfelt for ytteligere informasjon om brukeren.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Add.png Legg til avdeling: Legg en avdeling til brukeren. Det er mulig å tilordne flere avdelinger til hver bruker. For hver avdeling brukeren hører til, må brukeren ha en tilhørende brukertype. Brukere som tilhører flere avdelinger må velge hvilken avdeling de ønsker å logge seg på i innloggingssiden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slett avdeling: Sletter valgt avdeling fra brukeren. Vises kun for brukere som tilhører flere avdelinger.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sett vikar: Åpner muligheten til å sette vikar for en brukertilgang.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cancel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Avbryt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slette&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringer gjordt i feltene.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern avanserte muligheter: De avanserte mulighetene vises eller skjules.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;avanserte-muligheter&#34;&gt;Avanserte muligheter&lt;/h3&gt;
+&lt;p&gt;Dette er ting som kommer opp når knappen Vis avanserte muligheter brukes. De avanserte mulighetene fjernes ved å bruke knappen Fjern avanserte muligheter.&lt;/p&gt;
+&lt;h4 id=&#34;felter-1&#34;&gt;Felter&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukerens roller: De rollene som er tilknyttet denne brukeren.&lt;/li&gt;
+&lt;li&gt;Rollebank: De rollene som ikke er tilknyttet denne brukeren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;laquo; Legg til: Legger de valgte rollene i Rollebanken til brukerens roller.&lt;/li&gt;
+&lt;li&gt;Fjern &amp;raquo;: Fjerner de valgte rollene fra brukerens roller. De blir da synlige igjen i rollebanken.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern systemroller: Avgjør om Systemroller blir vist i listen over roller. Denne knappen vises kun dersom brukeren har rollen Systemroller.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre kategoriavhengighet</title>
+      <link>https://docs3.qmplus.com/docs/admin/functions/change_category_dependency/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/functions/change_category_dependency/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Sidens overskrift forteller hvilken kategori man redigerer kategoriavhengigheter for og hvilken kategorigruppe den tilhører. En kategoriavhengighet gjelder kun for det aktuelle meldingsskjemaet den legges opp for. En kategori kan kun ha en avhengighet mot hver av de andre kategoriene i det aktuelle meldingsskjemaet.&lt;/p&gt;
+&lt;p&gt;En kategori oppfyller sine avhengigheter når den både:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oppfyller alle &amp;ldquo;Og&amp;rdquo; avhengigheter. Har den ingen &amp;ldquo;Og&amp;rdquo; avhengighet er alle oppfyllt.&lt;/li&gt;
+&lt;li&gt;Oppfyller minst en &amp;ldquo;Eller&amp;rdquo; avhengighet eller ikke har noen &amp;ldquo;Eller&amp;rdquo; avhengighet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Merk at når man lukker denne siden må man laste 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kategorier eller Endre meldingsskjema på nytt for at endringen skal være synlig i kategoritabellen. Dette gjør man enklest ved å trykke på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kategorier arkfanen over kategoritabellen.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Eksisterende kategoriavhengigheter viser de avhengighetene den valgte kategorien allerede har. Her kan man:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Endre type avhengighet mellom &amp;ldquo;Og&amp;rdquo; og &amp;ldquo;Eller&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Slette en avhengighet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ny kategoriavhengighet. Her kan man legge til en ny avhengighet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Velg kategorigruppe den kategorien man skal lage en avhengighet mot tilhører i nedfallsmeny 1.&lt;/li&gt;
+&lt;li&gt;Velg så kategori fra nedfallsmeny 2. Merk at innholdet her avhenger av hva du valgte i nedfallsmeny 1.&lt;/li&gt;
+&lt;li&gt;Velg så type avhengighet. &amp;ldquo;Og&amp;rdquo; er standard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Sletter aktuell avhengighet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene gjordt i bildet. Dersom feltene i Ny kategoriavhengighet delen er satt, lages det en ny avhengighet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre for gruppen: Lagrer endringene gjordt i bildet. Dersom feltene i Ny kategoriavhengighet delen er satt, lages det en ny avhengighet som legges til alle kategorier i den kategorigruppen som er navngitt i sidens overskrift.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre kategorigruppe</title>
+      <link>https://docs3.qmplus.com/docs/admin/functions/change_category_group/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/functions/change_category_group/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her vedlikeholdes data om kategorigrupper.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Brukes for å velge språket navnet på Kategorigruppen skal redigeres for. Vises bare for kunder som har flere aktive språk.&lt;/li&gt;
+&lt;li&gt;Kategorigruppetype: Kategorigruppens Kategorigruppetype. Bestemmer hvordan kategorier i denne kategorigruppen vil se ut i et meldingsskjema. En beskrivende tekst nederst i dette skjermbildet beskriver den valgte kategorigruppetypen.&lt;/li&gt;
+&lt;li&gt;Kategorinavn: Navnet som blir brukt til å representere kategorigruppen. En kategorigruppe kan ha et navn per aktive språk i systemet.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Kategorigruppen er tilgjengelig fra og med den valgte avdelingen.&lt;/li&gt;
+&lt;li&gt;Informasjon: Tekst som vises når man holder pekeren over kategorigruppenavnet i meldingsskjemaet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;avanserte-muligheter&#34;&gt;Avanserte muligheter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Klassifisering: Standard eller Oppgaver.&lt;/li&gt;
+&lt;li&gt;Undergruppe av: Skal kategorigruppen være en undergruppe av en annen kategorigruppe.&lt;/li&gt;
+&lt;li&gt;Vises for underavdelinger?: Settes til nei dersom denne kategorigruppen kun skal være tilgjengelig i avdelingen valgt over.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern avanserte muligheter: Viser eller fjerner de avanserte mulighetene.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre rolle</title>
+      <link>https://docs3.qmplus.com/docs/admin/functions/change_role/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/functions/change_role/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å administrere navn på roller og hvilke brukere som har tilordnet den valgte rollen. For å adminstrere alle rollene til en bestemt bruker er det enklest å benytte endre bruker.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: En rolle kan ha et navn for hvert registrerte språk i systemet.&lt;/li&gt;
+&lt;li&gt;Rollenavn: Navnet på rollen.&lt;/li&gt;
+&lt;li&gt;Tilordning av roller til brukere: Det venstre feltet viser brukere som har denne rollen det høyre de som ikke har den. Dette feltet vises først etter at en ny rolle er lagret minst en gang.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallsmeny&#34;&gt;Nedfallsmeny&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Valg av avdelingstilhørighet: Påvirker hvilke brukere som vises i rolletilordningsfeltene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo; Legg til: Gir markerte brukere i høyre felt denne rollen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern &amp;raquo;: Tar fra markerte brukere i venstre felt denne rollen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer navneendringen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Returnerer deg til dit du kom fra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre rollegruppe</title>
+      <link>https://docs3.qmplus.com/docs/admin/functions/change_role_groups/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/functions/change_role_groups/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å administrere navn på rollegrupper og hvilke roller som tilhører rollegruppen.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: En rollegruppe kan ha et navn for hvert registrerte språk i systemet.&lt;/li&gt;
+&lt;li&gt;Rollegruppenavn: Navnet på rollegruppen.&lt;/li&gt;
+&lt;li&gt;Tilordning av roller til rollegruppen: Det venstre feltet viser roller i denne rollegruppen. Det høyre de som ikke er i den.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;funksjoner&#34;&gt;Funksjoner&lt;/h3&gt;
+&lt;h4 id=&#34;knapper&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;laquo; Legg til: Legger markerte roller i høyre felt inn i denne rollegruppen.&lt;/li&gt;
+&lt;li&gt;Fjern &amp;raquo;: Fjerner markerte roller i venstre felt fra denne rollegruppen.&lt;/li&gt;
+&lt;li&gt;Lagre: Lagrer navneendringen.&lt;/li&gt;
+&lt;li&gt;Lukk: Returnerer deg til dit du kom fra.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Rediger avdeling</title>
+      <link>https://docs3.qmplus.com/docs/admin/functions/edit_organisation/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/functions/edit_organisation/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Avdelingsnavn: Navnet som brukes på avdelingen i systemet. Vil vises i navigatoren&lt;/li&gt;
+&lt;li&gt;Underavdeling av: Avdelingen denne avdelingen vises under i navigatoren. Denne avdelingen vil arve skjemaer, dokumenter og aktiviteter fra sine overliggende avdelinger.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern avanserte muligheter: Brukes for å vise eller fjerne de avanserte mulighetene for siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;avanserte-muligheter&#34;&gt;Avanserte muligheter&lt;/h3&gt;
+&lt;p&gt;Dette er ting som kommer opp når knappen Vis avanserte muligheter brukes. De avanserte mulighetene fjernes ved å bruke knappen Fjern avanserte muligheter.&lt;/p&gt;
+&lt;h3 id=&#34;roller&#34;&gt;Roller&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Avdelingens roller: De rollene som er tilknyttet denne avdelingen.
+&lt;ul&gt;
+&lt;li&gt;Roller tilknyttet en avdeling gjelder for alle brukere for den aktive avdelingen. Dvs alle medarbeidere på avdelingen og alle andre brukere som har valgt avdelingen i navigatoren.&lt;/li&gt;
+&lt;li&gt;Roller tilknyttes en avdeling for å styre tilgjengelighet av dokumenter, skjemaer og aktiviteter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Rollebank: De rollene som ikke er tilknyttet denne avdelingen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo; Legg til: Legger de valgte rollene i Rollebanken til Avdelingensroller.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern &amp;raquo;: Fjerner de valgte rollene fra Avdelingensroller. De blir da synlige igjen i Rollebanken.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern systemroller: Avgjør om Systemroller blir vist i listen over roller. Denne knappen vises kun dersom brukeren har rollen Systemroller.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hovedoppgaver&#34;&gt;Hovedoppgaver&lt;/h3&gt;
+&lt;p&gt;Avdelinger kan tilknyttes kategorier i en gruppe med klassifisering Oppgaver. Dette er ment for å visualisere avdelingens hovedoppgaver, og har ingen direkte funksjon i systemet ut over dette.&lt;/p&gt;
+&lt;h3 id=&#34;knapper-2&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tilpass oppgaver.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som liste.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo; Legg til: Legger de valgte oppgaver i Oppgavebanken til Avdelingens hovedoppgaver.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern &amp;raquo;: Fjerner de valgte oppgaver fra Avdelingens hovedoppgaver. De blir da synlige igjen i Oppgavebanken.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

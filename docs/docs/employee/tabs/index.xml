@@ -1,0 +1,356 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/employee/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/employee/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Hjem dashbord</title>
+      <link>https://docs3.qmplus.com/docs/employee/tabs/home_dashboard/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/employee/tabs/home_dashboard/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Hjem dashbord&lt;/strong&gt; er en Arkfane på Hovedsiden og er startsiden i det fullstendige grensesnittet. I denne siden kan hver enkelt bruker bestemme hvilke komponenter som skal vises. Dersom ingen komponenter er satt, vil settet med standardkomponenter vises.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Trykk på Tilpass dashbord for å velge hvilke komponenter som skal vises i siden. Brukerens endringer blir automatisk lagret.&lt;/li&gt;
+&lt;li&gt;Trykk på Registrer ny melding for å åpne listen over tilgjengelige meldingsskjemaer, tilsvarende listen man får i Innboks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;komponenter&#34;&gt;Komponenter&lt;/h4&gt;
+&lt;p&gt;Det vises 5 rader som standard i hver tabellkomponent. En bruker må ha tilgang til modulen som komponenten tilhører for at den skal vises.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Aktuelle aktiviteter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser aktiviteter som pågår nå og som snart skal starte.&lt;/li&gt;
+&lt;li&gt;Tilsvarer Aktuelle aktiviteter i Aktivitetsplan / Oppfølging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arbeidsordrebehandling hittil i år.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser arbeidsordre som har endret status i år.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arbeidsordrebehandling siste 30 dager.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser arbeidsordre som nylig har endret status.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Definerende kategorier brukt de siste 12 måneder.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser de definerende kategoriene brukt i meldinger registrert de siste 12 måneder.&lt;/li&gt;
+&lt;li&gt;Vises i en klikkbar linjegraf.&lt;/li&gt;
+&lt;li&gt;For virksomheter med mange definerende kategorier, kan denne bli litt rotete.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Definerende kategorier brukt i loggmeldinger de siste 12 måneder.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Definerende kategorier brukt i oppdragsmeldinger de siste 12 måneder.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;De nyeste loggmeldingene jeg har registrert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;De nyeste meldingene jeg har registrert.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger registrert av den innloggede brukeren.&lt;/li&gt;
+&lt;li&gt;Sortert etter registreringsdato, synkende.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;De nyeste oppdragsmeldingene jeg har registrert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Høringer jeg har vært involvert i.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Loggmeldingsskjemaer brukt de siste 12 måneder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meldingsskjemaer brukt de siste 12 måneder&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser meldingsskjemaene brukt i til å registre meldinger de siste 12 måneder.&lt;/li&gt;
+&lt;li&gt;Vises i en klikkbar linjegraf.&lt;/li&gt;
+&lt;li&gt;For virksomheter med mange meldingsskjemaer, kan denne bli litt rotete.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mine aktiviteter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser aktiviteter den innloggede brukeren skal delta i.&lt;/li&gt;
+&lt;li&gt;Aktivitetene vises inntil fristen er passert, slik at man også kan endre besvarte aktiviteter.&lt;/li&gt;
+&lt;li&gt;Tilsvarer listen over aktiviteter vist i det forenklede brukergrensesnittet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mine nyeste oppgaver.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger som skal behandles, tiltak, høringer og revisjoner som skal utføres.&lt;/li&gt;
+&lt;li&gt;Sortert etter registreringstidspunkt, synkende.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mine oppgaver sortert etter fristen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger som skal behandles, tiltak, høringer og revisjoner som skal utføres.&lt;/li&gt;
+&lt;li&gt;Sortert etter frist, synkende.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Oppdragsmeldingsskjemaer brukt des siste 12 måneder.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Siste endrede dokumenter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kun endringer i publiserte dokumenter med synlighet i Info vises her.&lt;/li&gt;
+&lt;li&gt;Sortert etter endringstidspunkt, synkende.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Siste innlogginger i systemet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Denne komponenten forutsetter at brukeren har tilgang til arkfanen Grafer.&lt;/li&gt;
+&lt;li&gt;Sortert etter innloggingstidspunkt, synkende.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for arbeidsordre registrert de siste 30 dager.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for arbeidsordre registrert hittil i år.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for meldinger registrert de siste 30 dager.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser nylig registrerte meldinger.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for meldinger registrert hittil i år.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser meldinger registrert i år.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for oppdrag registrert de siste 30 dager.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for oppdrag registrert hittil i år.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for tiltak registrert de siste 30 dager.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser nylig registrerte tiltak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status for tiltak registrert hittil i år.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser tiltak registrert i år.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Søk etter sak.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Søk etter meldinger, tiltak eller dokumenter.&lt;/li&gt;
+&lt;li&gt;Meldinger og tiltak kan søkes etter nummer og fritekst i innholdet.&lt;/li&gt;
+&lt;li&gt;Dokumenter kan kun søke fritekst i innholdet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiltaksbehandling de siste 30 dager.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser tiltak som nylig har endret status.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiltaksbehandling hittil i år.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klikkbar paigraf som viser tiltak som har endret status i år.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;komponent-kontrollikoner&#34;&gt;Komponent kontrollikoner&lt;/h4&gt;
+&lt;p&gt;
+
+&lt;span class=&#34;fa fa-minus&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+
+ Minimer komponenten.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;span class=&#34;fa fa-plus&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+
+ Glyphicon-plus.png Vises kun etter at komponenten er minimert. Vis komponenten i normal størrelse igjen.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;span class=&#34;fa fa-times&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+
+  Tar komponenten bort fra dashbordet. Bruk Tilpass dashbord for å få den tilbake igjen.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;span class=&#34;fa fa-cog&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+
+ Glyphicon-cog.png Åpner egenskapene til komponenten.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bestemme plassering.&lt;/li&gt;
+&lt;li&gt;For tabellkomponenter, sett hvor mange rader som maksimalt vises i komponenten.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Mine saker arkfane medarbeider</title>
+      <link>https://docs3.qmplus.com/docs/employee/tabs/my_cases_employee_tab/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/employee/tabs/my_cases_employee_tab/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Messages_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Meldinger: Registrer ny melding og oversikt over dine registrerte meldinger.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Actions_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tiltak: Tiltak du skal utføre og oversikt over utførte tiltak. Ikke med i standardversjonen&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Questionnaires_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Spørreskjemaer: Sjekklister, Risikoanalyser og Spørreskjemaer du skal fylle ut.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tiltak-arkfane-medarbeider&#34;&gt;Tiltak arkfane medarbeider&lt;/h1&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Actions_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tiltak er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/My-cases_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Mine saker for medarbeider.&lt;/p&gt;
+&lt;p&gt;Brukes til å utføre og følge opp tiltak.&lt;/p&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil tiltaket åpnes.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over H symbolet i andre kolonne for å få opp historikken til et tiltak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner-1&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiltak jeg må gjennomføre: Viser oversikt over ikke utførte tiltak.&lt;/li&gt;
+&lt;li&gt;Tiltak til godkjennelse: Viser oversikt over utførte tiltak som venter på godkjennelse.&lt;/li&gt;
+&lt;li&gt;Tiltak som er godkjent: Viser oversikt over utførte tiltak som er godkjent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s7-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Forskjellen på fargene på meldingene&lt;/li&gt;
+&lt;li&gt;Obligatoriske kategorier&lt;/li&gt;
+&lt;li&gt;Følge opp saker jeg har vært involvert i&lt;/li&gt;
+&lt;li&gt;Tilføye informasjon og endringer på saker jeg har vært engasjert i&lt;/li&gt;
+&lt;li&gt;sjekke hva som er blitt gjort med saker jeg har vært engasjert i&lt;/li&gt;
+&lt;li&gt;Hvem kan se saker jeg har meldt inn&lt;/li&gt;
+&lt;li&gt;Tilltaksbehandling&lt;/li&gt;
+&lt;li&gt;Godkjenne tiltak og utføre tiltak&lt;/li&gt;
+&lt;li&gt;Fylle ut spørreskjema og legge til kommentarer&lt;/li&gt;
+&lt;li&gt;Finne frem til lover, prossedyrer, rapporter m.m.&lt;/li&gt;
+&lt;li&gt;Dine innstillinger: Endre brukernavn, passord m.m.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/medarbeider.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Skjemadata</title>
+      <link>https://docs3.qmplus.com/docs/employee/tabs/form_data/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/employee/tabs/form_data/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden brukes for å administrere meldingsskjemadataene.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Tekstfeltene i et meldingsskjema som skjemanavn og tekst til knapp kan lagres en gang per språk som er aktivisert i systemet.&lt;/li&gt;
+&lt;li&gt;Skjemanavn: Identifiserer meldingsskjemaet i tabeller og oversikter.&lt;/li&gt;
+&lt;li&gt;Tekst til knapp: Identifiserer meldingsskjemaet på knappen eller i nedfallsmenyen i Innboks og Arkiv.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Meldingsskjemaet er tilgjengelig fra og med denne avdelingen.&lt;/li&gt;
+&lt;li&gt;Skjematype: Meldingsskjemaets type. Enten melding, log eller risiko. Vises kun dersom meldingstypene log eller risiko er aktivisert.&lt;/li&gt;
+&lt;li&gt;Anonym: Alle meldinger som blir registrert anonymt vil inneholde nn istedenfor navnet på brukeren som registrerte den. Et meldingsskjema kan være:
+&lt;ul&gt;
+&lt;li&gt;Ikke anonymt, standard (Anonym: Nei).&lt;/li&gt;
+&lt;li&gt;Anonymt (Anonym: Ja).&lt;/li&gt;
+&lt;li&gt;Ha avkryssningsboks for anonymitet som starter ikke avkrysset (Anonym: Brukervalgt, standard nei).&lt;/li&gt;
+&lt;li&gt;Ha avkryssningsboks for anonymitet som starter avkrysset (Anonym: Brukervalgt, standard ja).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Informasjon: Tekst som vises når pekeren holdes over knappen eller i nedfallsmenyen i Innboks og Arkiv. Denne teksten vises også øverst i meldingsskjemaet når meldingen registreres i endre meldingskjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

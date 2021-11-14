@@ -1,0 +1,578 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/archive/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/archive/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Behandling</title>
+      <link>https://docs3.qmplus.com/docs/archive/tabs/process/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/archive/tabs/process/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å behandle meldinger. Legg merke til meldingens status. Den står både i overskriften og i meldingsfeltet nedenfor. Legg også merke til om saken har en nåværende ansvarlig person før du begynner å gjøre noe med den. Hvis den har det, står det Saken ligger nå hos: &amp;lt;Navn på bruker&amp;gt; rett under overskriften.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Har kan jeg saksbehandle. Klikk: Velg handling i gult felt, eller&amp;hellip;..&lt;/li&gt;
+&lt;li&gt;Jeg kan bare &amp;ldquo;Sende en beskjed om saken&amp;rdquo;. Klikk i hvit firkant og skriv i tekstfeltet som dukker opp. Denne går i e-posten!&lt;/li&gt;
+&lt;li&gt;Jeg kan også endre meldingsinnholdet i tilsendt melding: Klikk på arkfanen &amp;ldquo;Endre melding&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s1-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her skal vi gå nærmere inn på oppfølging og behandling av meldinger og saker. Du kan lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avslutte saken&lt;/li&gt;
+&lt;li&gt;Avvis saken&lt;/li&gt;
+&lt;li&gt;Velge saksbehandler og gangen i dette&lt;/li&gt;
+&lt;li&gt;Sette frister&lt;/li&gt;
+&lt;li&gt;Planlegge tiltak og gangen i dette&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/saksbehandling.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h3 id=&#34;meldingsdetaljer&#34;&gt;Meldingsdetaljer&lt;/h3&gt;
+&lt;p&gt;Dette feltet gir en kort beskrivelse av innholdet og statusen til meldingen som blir behandlet i dette bildet. Trykk på Arrowclosed.gif for å se resten av de avkryssede kategoriene.&lt;/p&gt;
+&lt;h3 id=&#34;velg-handling&#34;&gt;Velg handling&lt;/h3&gt;
+&lt;p&gt;Nedfallsmeny med farget bakgrunn som betyr at det er her du må gjøre noe hvis du skal komme videre i denne siden. Uansett hvilket valg du gjør i denne nedfallsmenyen vil du kunne krysse av for Send en beskjed om saken for at dialogboksene blir vist og gi deg mulighet til å sende e-post til de som er involvert i saken.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mulige handlinger:&lt;/strong&gt; Trykk Lagre / Send etter at du har valgt en handling for at den skal utføres.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Velg saksbehandler: Brukes når du vil overføre ansvaret for meldingen til noen andre, eller sette en frist for meldingen. Merk at det da blir opp til den du sender meldingen til om det skal lages tiltak, eller om den skal avvises. De du kan sende meldingen til er de som har brukertypen leder eller saksbehandler på din egen avdeling, avdelingen over eller en av avdelingene under din egen. I tillegg kommer de som er lagt opp under arkfanen Regler med regeltype &amp;ldquo;Ekstra saksbehandler&amp;rdquo; med ansvarsområde som inkluderer din avdeling. Merk at for meldinger som er laget med meldingsskjemaer som har en rolle med &amp;ldquo;Se meldinger&amp;rdquo; begrensning, vil de som ikke tilfredsstiller begrensningen bli tatt ut av listen. Du kan sette en frist for når den du sender den til skal ta tak i den.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Returner til tidligere saksbehandler: Brukes når du ønsker å overføre ansvaret for meldingen tilbake til noen som har hatt ansvaret for den før. Denne muligheten vises kun dersom meldingen har skiftet saksbehandler minst en gang.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Avvis: Brukes når en melding ikke skal følges opp videre. Det kan være en testmelding, eller duplikat eller lignende. Dette alternativet bør ikke brukes på reelle meldinger.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Registrer utført tiltak&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Avslutt saken: Brukes når det bare skal gjennomføres eller allerede er gjennomført et mindre tiltak som ikke trenger videre oppfølging. Du får mulighet til å registrere hvem som har utført tiltaket samt skrive inn et navn på tiltaket og en beskrivelse av jobben som er utført.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Planlegg tiltak: Åpner alle feltene for tiltakets planleggningsfase.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gi tiltaket et navn.&lt;/li&gt;
+&lt;li&gt;Skriv en beskrivelse jobben som skal utføres. Denne bør inneholde nok informasjon til at den som skal utføre jobben vet hva han skal gjøre. Du kan også gi en utvidet beskrivelse av hva som kan gjøres for å hindre at hendelsen skjer igjen.&lt;/li&gt;
+&lt;li&gt;Velg hvem som skal utføre tiltaket i feltet Velg personene som skal gjøre jobben. Hvis du trenger folk fra andre avdelinger, bruk nedfallsmenyen / avdelingsvelgeren over de to feltene som viser brukere. For å legge til en bruker, velg den/dem i høyre felt og trykk på &amp;laquo; knappen.&lt;/li&gt;
+&lt;li&gt;Oppdater fristen for gjennomføring hvis nødvendig.&lt;/li&gt;
+&lt;li&gt;Send e-post til de som skal gjøre jobben hvis nødvendig.&lt;/li&gt;
+&lt;li&gt;Trykk Lagre / Send. Da blir tiltaket opprettes. Lenke til det nye tiltaket vises i en ramme øverst i siden. Trykk på den eller på arkfanen Tiltaksbehandling om du vil se det komplette tiltaksbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Last opp vedlegg: Brukes til å laste opp eksterne filer som skal være vedlagt denne meldingen. Er ikke aktivert i standardversjonen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Send til Facilit. Vises kun for de som har Facilitintegrasjon. Velg en eiendom og en byggning og trykk Lagre. Da opprettes et tiltak i Qm+ som er knyttet til et tiltak i Facilit. Teksten og kategoriene fra den opprinnelige meldingen blir sendt med til tiltaket i Facilit. Når tiltaket i Facilit endrer status, oppdaterer det statusen for tiltaket i Qm+. Ingen annen informasjon fra Facilit vises i tiltaket i Qm+ enn statusendringen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Det finnes en opsjon der man på kundebasis kan velge om tiltak som er meldt ferdig i Facilit skal få status Under godkjenning (standard) eller Godkjent. Tiltak som får status Under godkjenning i Qm+ må godkjennes manuelt i Qm+ av den som sendte saken til Facilit for å lukke den.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Det finnes en opsjon der man på kundebasis kan velge at alle andre behandlingsvalg enn Avslutt saken og Avvis blir fjernet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;send-en-beskjed-om-saken&#34;&gt;Send en beskjed om saken&lt;/h3&gt;
+&lt;p&gt;Dette feltet brukes til å sende tekstlige meldinger til brukere som er involvert i saken. Alle som har tilgang til en melding kan bruke disse feltene uansett meldingens status. Alle beskjeder sendt her vil bli lagret i denne saken og vises i &amp;laquo;Sakens historie:&amp;raquo; feltet nederst i skjermbildet. De sendes også som e-post dersom de valgt mottakerne har registrert en gydlig e-postadresse på seg. Dersom SMS-modulen er aktivert vil SMS bli vist som en alternativ måte å sende beskjeden på.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Melder: Kryss av i dette feltet for å sende en tekstlig beskjed til den som opprinnelig laget meldingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Har saken nå: Felt for aktuell saksbehandler&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tidligere saksbehandlere: Felt for alle brukere som har vært ansvarlige for meldingen tidligere. Kryss av for den/du du vil sende en beskjed til.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Informer flere: Her kan du velge brukere som ikke direkte er involvert i saksgangen men som likevel skal informeres om den. Brukerne i det venstre feltet vil få tilsendt beskjeden du skriver når du trykker Lagre.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Velg fra: Nedfallsmeny som bestemmer hvilke brukere som vises i listen over mulige mottakere til høyre under denne menyen. Alternativene er:
+&lt;ul&gt;
+&lt;li&gt;Saksbehandlerliste: Alle brukere med brukertype leder, saksbehandler og verneombud på den valgte avdelingen i navigatoren, avdelingen over og i alle avdelinger under. I tillegg alle brukere med brukertype leder eller saksbehandler som er lagt opp under arkfanen Regler med regeltype &amp;ldquo;Ekstra saksbehandler&amp;rdquo; med ansvarsområde som inkluderer den valgte avdelingen i navigatoren.&lt;/li&gt;
+&lt;li&gt;Alle: Alle brukere, uansett brukertype, fra og med avdelingen valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;&lt;Rollenavn&gt;: Alle brukere, uansett brukertype, fra og med avdelingen valgt i Navigatoren som har den valgte rollen.
+&lt;ul&gt;
+&lt;li&gt;Det er en opsjon der man på kundebasis kan velge om valgene Alle og &lt;Rollenavn&gt; skal gi alle brukere uansett avdeling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringer du har gjordt. Har du krysset av for Send e-post, så blir de sendt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_go.png%20&#34;  width=&#34;&#34; /&gt;
+
+
+ Send: Sender beskjeden du har skrevet, men lagrer ingen andre endringer. Denne knappen vises isteden for Lagreknappen om du ikke har rettigheter til å endre meldingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo;: Flytter de valgte brukerne fra høyre liste til i mottakerlisten til venstre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo; Alle: Flytter alle brukerne fra høyre liste til i mottakerlisten til venstre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;raquo; Alle: Fjerner alle brukerne fra mottakerlisten. De som tilhører valgt liste (listetypen satt i nedfallsmenyen Velg fra:) vises i listen til høyre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;raquo;: Fjerner de valgte brukerne fra mottakerlisten. De som tilhører valgt liste (listetypen satt i nedfallsmenyen Velg fra:) vises i listen til høyre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Sender deg tilbake til siden du kom fra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slette: Vises i knapp nederst i bildet for meldinger med status Avvist for brukere med Innholdsadministrator. Markerer en melding som slettet. Slike meldinger kan kun gjenfinnes ved søk på meldingens nummer og krever Innholdsadministrator for å kunne åpnes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter hvor du kan lage et pdfdokument for meldingen du er inne i. Denne er beregnet på utskrift til papir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slett: Vises ved siden av lenken til et vedlegg. Brukes til å slette vedlegget. Kun tilgjengelig for den brukeren som lastet opp vedlegget og Innholdsadministrator.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sakens-historie&#34;&gt;Sakens historie&lt;/h3&gt;
+&lt;p&gt;Viser historikk for alle endringer for meldingen, både for innhold og status. Viser også all korespondanse rundt saken. Alle beskjeder sendt fra dialogfeltet over og alle svar sendt til dem kommer her.&lt;/p&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Endre melding: Åpner endre melding.&lt;/li&gt;
+&lt;li&gt;Behandling: Laster denne siden på nytt. Alle endringer du har gjordt som ikke er lagret blir borte.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Kommentarer</title>
+      <link>https://docs3.qmplus.com/docs/archive/tabs/comment/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/archive/tabs/comment/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Inneholder alle kommentarmeldinger i systemet. Kommentarmeldinger er meldinger som er registrert som svar kommentar til en liste delt ut i Aktivitetsplan. Ved søk enten fra Rapporter eller Søk for meldinger vises det over resultattabellen en oversikt over de søkekriteriene som er satt for søket.&lt;/p&gt;
+&lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Nedfallsmeny Alle meldinger: Velg et meldingsskjema og kun meldinger registrert med dette meldingsskjemaet vises. Kun meldingsskjemaer brukt til å registrere kommentarmeldinger vises her.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dato søk: Fra dato, Til dato. Kun meldinger registrert i perioden vist her vises i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil meldingen åpnes i behandlingsbildet.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en melding, inkludert historikken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Søk: Oppdaterer tabellen med meldinger basert på de valgte datoene.&lt;/li&gt;
+&lt;li&gt;Tilpass kategorikolonner:&lt;/li&gt;
+&lt;li&gt;Tilpass kolonner: Brukes til å justere hvilke kolonner som vises.
+&lt;ul&gt;
+&lt;li&gt;Siden lastes på nytt etter hver endring.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene påvirker alle arkfanene i Arkiv for meldinger: Meldinger/UH, Logg, Kommentarer.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene varer til du logger ut.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene gjelder også om du eksporterer til PDF som Oversiktstabell.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvidet visning/Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument. Denne er beregnet på utskrift til papir.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ .gif og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+.gif for å sortere på en annen kolonne.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det skjermbildet som vises på skjermen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kommentaroversikt: Alle kommentarmeldinger registrert på den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Søk: Åpner søk for meldinger med skjematype Kommentar forhåndsvalgt.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Meldinger/UH</title>
+      <link>https://docs3.qmplus.com/docs/archive/tabs/message/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/archive/tabs/message/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Inneholder alle vanlige meldinger i systemet. Brukes for enkelt å kunne hente ut rapporter over hvilke meldinger som ligger til behandling på hver avdeling for hver status. Søkefunksjonaliteten her virker sammen med Rapporter for å gi detaljrapporter over hvilke meldinger som ligger til grunn for en stolpe i grafen. Ved søk enten fra Rapporter eller Søk for meldinger vises det over resultattabellen en oversikt over de søkekriteriene som er satt for søket.&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Alle meldinger: Velg et meldingsskjema og kun meldinger med opprinnelse i et slikt meldingsskjema vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil meldingen åpnes i behandlingsbildet.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en melding.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over H symbolet i andre kolonne for å få opp historikken til en melding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tilpass kategorikolonner:&lt;/li&gt;
+&lt;li&gt;Tilpass kolonner: Brukes til å justere hvilke kolonner som vises.
+&lt;ul&gt;
+&lt;li&gt;Siden lastes på nytt etter hver endring.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene påvirker alle arkfanene i Arkiv for meldinger: Meldinger/UH, Logg, Kommentarer.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene varer til du logger ut.&lt;/li&gt;
+&lt;li&gt;Kolonnejusteringene gjelder også om du eksporterer til PDF som Oversiktstabell.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvidet visning / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tabell: Skift mellom tabell og papirversjonsvisning. Tabellen gir en kompakt beskrivelse av sakene beregnet til bruk når man jobber med dem. Papirversjonen gir en mer fullstendig beskrivelse av hele saken beregnet til bruk når man vil skrive ut rapporter.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner meldinger i et pdfdokument.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sideskift: Pilene brukes til å skifte side når det er mer enn 20 meldinger som kan vises i tabellen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ for å sortere på en annen kolonne.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det skjermbildet som vises på skjermen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sidehjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;p&gt;Arkfanene brukes her til å velge hvilken status man vil se på.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nye saker: Meldinger som ikke er behandlet.&lt;/li&gt;
+&lt;li&gt;Sendt til saksbehandler: Meldinger som har fått tilordnet en ansvarlig person.&lt;/li&gt;
+&lt;li&gt;Tiltaksbehandles: Meldinger som er tilkoblet et tiltak som ikke er avsluttet og godkjent.&lt;/li&gt;
+&lt;li&gt;Lukket: Meldinger som er tilkoblet et tiltak som er avsluttet og godkjent.&lt;/li&gt;
+&lt;li&gt;Avvist: Meldinger som er avvist. Avviste meldinger kan slettes av brukere med systemrollen innholdsadministrator.&lt;/li&gt;
+&lt;li&gt;Søk: Åpner søk for meldinger&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tiltaksbehandling</title>
+      <link>https://docs3.qmplus.com/docs/archive/tabs/action_process/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/archive/tabs/action_process/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Tilgangen til å gjøre endringer i dette bildet, styres av brukerens tilgang til det aktuelle tiltaket. Se tilgangskontroll til tiltak.&lt;/p&gt;
+&lt;h3 id=&#34;tiltaksdata&#34;&gt;Tiltaksdata&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiltaksnummer: Unikt nummer for hvert tiltak.&lt;/li&gt;
+&lt;li&gt;Navn på tiltaket: Brukes til å identifisere tiltaket i tabeller og oversikter. Obligatorisk felt.&lt;/li&gt;
+&lt;li&gt;Kostnadsramme: Hvor mye er satt av til gjennomføringen av tiltaket.&lt;/li&gt;
+&lt;li&gt;Faktisk kostnad: Hvor mye ble brukt på gjennomføringen av tiltaket. Dette feltet blir brukt for å beregne kostnadsgrafen for tiltak under Rapporter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;beskrivelse-av-tiltaket&#34;&gt;Beskrivelse av tiltaket&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Opprinnelig hendelse: Kopierers fra det første tekstfeltet i den opprinnelige meldingen.&lt;/li&gt;
+&lt;li&gt;Jobbeskrivelse: Kopierers fra det andre tekstfeltet i den opprinnelige meldingen. Bør ofte endres til en konkret arbeidsoppgave for de som skal utføre tiltaket.&lt;/li&gt;
+&lt;li&gt;Hvordan hindre gjentakelse: Kopierers fra et eventuelt tredje tekstfelt i den opprinnelige meldingen. Her kan man skrive litt om andre endringer enn selve det som skal utføres i dette tiltaket for at den opprinneligehendelsen ikke skal gjenta seg.&lt;/li&gt;
+&lt;li&gt;Kommentar: Ekstra kommentar til tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tiltakskategorier&#34;&gt;Tiltakskategorier&lt;/h3&gt;
+&lt;p&gt;Brukes for å kategorisere tiltaket.&lt;/p&gt;
+&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+&lt;p&gt;Dette feltet forteller hvor tiltaket er i tiltaksprosessen. Det styrer en del av utseende til resten av dette skjermbildet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Under planlegging: Alle tiltak starter med denne statusen. I denne fasen skal tiltaket planlegges. Gi først tiltaket et navn slik at det blir lett å identifisere senere, fyll inn kostnadsrammen dersom dere bruker dette feltet. Tekstfeltene Korrigerende tiltak og Hvordan hindre gjentakelse må fylles ut slik at de som skal gjennomføre tiltaket skjønner hva de skal gjøre. Tiltakskategoriene kan også fylles ut nå. Siste punkt er å plukke ut de som skal utføre tiltaket og gi dem en frist. Dette gjøres i det obligatoriske Oversikt over ansvarlige feltet. Trykk så på &amp;ldquo;Lagre og send til gjennomføring&amp;rdquo; eller &amp;raquo; knappen i statusfeltet for å lagre tiltaket og skifte status til Under gjennomføring.&lt;/li&gt;
+&lt;li&gt;Under gjennomføring: I denne fasen skal jobben som beskrives i tiltaket gjennomføres. Deretter skal det krysses av for utført av de som utført tiltaket. Det kan også skrives en kommentar i kommentarfeltet og den faktisk kostnaden kan fylles hvis den er tilgjengelig. Når alle avkryssninger er gjordt, brukes knappen &amp;ldquo;Send til godkjenning&amp;rdquo; eller &amp;raquo; knappen i statusfeltet. Dette lagrer tiltaket og endrer status til Under godkjenning.&lt;/li&gt;
+&lt;li&gt;Under godkjenning: Her skal den som opprettte tiltaket kontrollere at alt er i orden før tiltaket godkjennes.&lt;/li&gt;
+&lt;li&gt;Godkjent: Et godkjent tiltak er lukket og låst og kan ikke endres annet enn av brukere med systemrollen innholdsadministrator. Kommentarer til alle involverte brukere kan fortsatt sendes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;oversikt-over-ansvarlige&#34;&gt;Oversikt over ansvarlige&lt;/h3&gt;
+&lt;p&gt;Viser oversikt over alle som har vært involvert i saken. Alle har et avkryssningsfelt ved siden av seg som brukes hvis man ønsker å sende en beskjed på e-post til noen av disse anngående denne saken. Alle beskjeder som blir sendt vil også vises nederst i dette skjermbildet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Opprinnelig melder: Brukerne som har opprettet meldinger tilkoblet dette tiltaket.&lt;/li&gt;
+&lt;li&gt;Tiltaket ble opprettet av: Brukeren som opprettet tiltaket og dermed er ansvarlig for det. Må godkjenne tiltaket før det lukkes.&lt;/li&gt;
+&lt;li&gt;Tiltaket ble utført av: De som skal utføre tiltaket.&lt;/li&gt;
+&lt;li&gt;Tiltaket godkjennes av: Den som skal godkjenne tiltaket. I standardversjonen er det alltid samme bruker som opprettet tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sakens-historie&#34;&gt;Sakens historie&lt;/h3&gt;
+&lt;p&gt;Viser en oversikt over hendelser for dette tiltaket&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alle redigeringer av innhold eller status.&lt;/li&gt;
+&lt;li&gt;Tilknyttning eller fjerning av meldinger.&lt;/li&gt;
+&lt;li&gt;Alle epostkommentarer sendt ut tilknyttet dette tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument av tiltaket du er inne i. Denne er beregnet på utskrift til papir.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slett tiltaket: Sletter tiltaket. Vises bare for brukeren som har opprettet tiltaket så lenge det fremdeles har status under planlegging, og for Innholdsadministrator. Slettede tiltak kan ikke gjenopprettes eller bli funnet igjen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre tiltak: Lagrer de endringene du har gjordt. Husk at denne knappen aldri endrer status.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Send: Vises når man ikke har tilgang til å gjøre endringer i tiltaket. Brukes for å sende epostkommentarer knyttet til tiltaket.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Returnerer deg dit du kom fra, med mindre du sto i en melding og laget et tiltak. Da vil du komme dit du åpnet denne meldingen fra.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kalender: Åpner kalenderen for datovalg.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut den aktive siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Viser denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tilknyttede meldinger: Viser de meldingene som er tilknyttet dette tiltaket. Mulighet til å koble til og koble fra fler og til å slette tiltaket for de brukerne som har rettighetene til det.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiltaksbehandling: Laster denne siden på nytt igjen. Alle endringer du har gjordt uten å trykke lagre blir borte.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

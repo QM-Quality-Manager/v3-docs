@@ -1,0 +1,194 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Tabs</title>
+    <link>https://docs3.qmplus.com/en/docs/list/tabs/</link>
+    <description>Recent content in Tabs on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/list/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Tabs</title>
+      <link>https://docs3.qmplus.com/en/docs/list/tabs/common_library/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/list/tabs/common_library/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;common-library&#34;&gt;Common library&lt;/h1&gt;
+&lt;p&gt;The Common library is a tab under Checklists, Risk analysis lists, Message forms and Survey forms.&lt;/p&gt;
+&lt;p&gt;Here you can see all the forms that have been added to the common library of the customers of Qm+, for the form type you are under. Used for exchanging forms. Documents are planned for a later version.&lt;/p&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Form type. All forms that are uploaded to the common library can be marked with various keywords. Use this drop-down menu to see only those forms that are tagged with the selected keyword.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+Opens the preview window to see how the list looks in the printer friendly version. In this window you can also choose to see the list in list version and in single question view as it will look when it will be filled out.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+Imports the current form into your Qm+ database. Please note that for message forms, all the category groups and categories in the form that do not already exist in your database will be created on the department you are when you click on this icon. This icon can be deactivated / grayed out. This means that the form already exists in your database.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+Deletes the current form. This icon appears only to the user who uploaded the form in the common library.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tabs</title>
+      <link>https://docs3.qmplus.com/en/docs/list/tabs/edit_list_information/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/list/tabs/edit_list_information/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;edit-list-information&#34;&gt;Edit list information&lt;/h1&gt;
+&lt;p&gt;Function used by all lists for changing the information about them.&lt;/p&gt;
+&lt;p&gt;Available from Checklists, Risk analysis lists and Survey forms.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for the language: The name of a list can be registered once for every language that is activated in the system.&lt;/li&gt;
+&lt;li&gt;List name: Identifies the list in tables and overviews.&lt;/li&gt;
+&lt;li&gt;List type: Grouping for the list. Appears only for checklists.&lt;/li&gt;
+&lt;li&gt;Registered by department: The list is available from this department and from its subordinate departments. Changes can only be made in the list from this department.&lt;/li&gt;
+&lt;li&gt;Attached message form: The message form which will be used as the comment form when this list is used. If &amp;ldquo;No comment&amp;rdquo; is selected (only for individual groups and questions of survey forms), it will not be possible to comment on the questions of this list.&lt;/li&gt;
+&lt;li&gt;Attached category: This category will be preselected for the comment form. If &amp;ldquo;All categories&amp;rdquo; is selected, then no category will be preselected. This prevents the display type single question view from being used.&lt;/li&gt;
+&lt;li&gt;Attached report form: The message form that will be used as the report form when this list is used. Not enabled in the standard version.&lt;/li&gt;
+&lt;li&gt;Attached report category: This category will be preselected for the report form. Not enabled in the standard version.&lt;/li&gt;
+&lt;li&gt;List comment: Free text field for additional information about the list. It will be shown at the top of the list when it is answered.&lt;/li&gt;
+&lt;li&gt;Risk alternative: Appears only for Risk analysis lists.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit list content. Takes you to the Edit list content screen to edit the questions of the selected checklist.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_key.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit alternative answers. Takes you to the Edit alternative answers screen to edit the content of the selected list. It is only possible to edit alternative answers in survey forms that were created on the department which is selected in the Navigator.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Preview. Opens the preview window to see how the list looks in the printer friendly version. In this window you can also choose to see the list in list form or as a series of single questions which is how it will look when it will be filled out.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes made in the fields.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Takes you back to the page you came from.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hide advanced options. Shows and hides the advanced options.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;advanced-options&#34;&gt;Advanced options&lt;/h3&gt;
+&lt;p&gt;These are things that come up when the button Show advanced options is pressed. The advanced options are hidden when you press the button Hide advanced options.&lt;/p&gt;
+&lt;h4 id=&#34;fields-1&#34;&gt;Fields&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;The list&amp;rsquo;s documents: The documents that are attached to this list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;buttons-1&#34;&gt;Buttons&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Add: Adds the selected document to this list. Please note that if you add a document that has subdocuments, all its subdocuments will also be added to the list.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white%20delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Delete: Removes the selected document from this list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;only-for-survey-forms&#34;&gt;Only for survey forms&lt;/h3&gt;
+&lt;p&gt;The fields of the attached message form and the attached category are repeated in a table for all topics and questions in the list. This can be used to adjust the associations for the whole list so that some questions get different comment forms or checked category.&lt;/p&gt;
+&lt;p&gt;If you want to change all the associations for all the questions under a topic, make the change in the topic line and press Save. Then automatically all the questions under this topic will get the same association that was selected for the topic. Similarly, if the attachment is changed for the list and the Save button is pressed, all questions will also be changed.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: </title>
+      <link>https://docs3.qmplus.com/en/docs/list/tabs/active_activities_tab_worker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/list/tabs/active_activities_tab_worker/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;active-activities-tab-worker&#34;&gt;Active activities tab worker&lt;/h1&gt;
+&lt;p&gt;Active activities is a tab under Questionnaires for users having the simplified interface.&lt;/p&gt;
+&lt;p&gt;Used to fill out lists. Normally filled out when you click on a link in an e-mail you have received. If no such email was sent or if you have deleted it, you can fill out the list here. You can also make changes in already filled out lists until the deadline expires.&lt;/p&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;table&#34;&gt;Table&lt;/h3&gt;
+&lt;p&gt;Click on a line in the table to open the list that has to be filled out.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Name of activity: The name that this activity has.&lt;/li&gt;
+&lt;li&gt;Perform before: Deadline. The list will disappear from this page when the deadline expires.&lt;/li&gt;
+&lt;li&gt;Finished on: &amp;quot; - &amp;quot; for unanswered activities or the date of the first time it was answered.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,333 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/list/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/list/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Listeresultater</title>
+      <link>https://docs3.qmplus.com/docs/list/tabs/list_results/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/list/tabs/list_results/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å finne frem til alle aktiviteter som har benyttet en bestemt liste i en gitt periode. Resultatene fra slike aktiviteter kan så vises i samme graf, både lagt sammen og sammenlignes.&lt;/p&gt;
+&lt;p&gt;Det som velges i nedfallsmenyer og datofeltene brukes her til å definere utvalget av aktiviteter som vises i tabellen nederst på siden.&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Valg av delplan:
+&lt;ul&gt;
+&lt;li&gt;Vis alle aktiviteter: Alle aktiviter uavhengig av delplan vises i tabellen.&lt;/li&gt;
+&lt;li&gt;&amp;lt;Navn på en delplan&amp;gt;: Kun aktiviter fra den valgte delplanen vises i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Valg av avdelinger:
+&lt;ul&gt;
+&lt;li&gt;Fylles ut på denne avdelingen: Kun aktiviteter i den valgte avdelingen i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Opprettet på underliggende avdelinger: Kun aktiviteter i underliggende avdelinger til den valgte avdelingen i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Opprettet på denne og underliggende avdelinger: Alle aktiviteter fra og med den valgte avdelingen i navigatoren vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Velg sjekkliste her: Inneholder de listene som er tilknyttet aktiviteter som tilfredsstiller valgene over. Trykk søk for å oppdatere innholdet i denne nedfallsmenyen. Når valgt liste endres her, enten ved at brukeren gjør et valg her eller fordi den valgte listen blir fjernet herfra på grunn av endringer i søkekriteriene over, blir listen over aktiviteter nedenfor automatisk oppdatert.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;datovalg&#34;&gt;Datovalg&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis aktiviteter for perioden: 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ åpner en kalender for datovalg.
+&lt;ul&gt;
+&lt;li&gt;Fra: Fra og med.&lt;/li&gt;
+&lt;li&gt;Til: Til og med.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Søk: Bruker valgene gjordt over til å oppdatere innholdet i valg av sjekklistenedfallsmenyen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Velg alle: Krysser av for alle aktivitetene i tabellen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis graf for valgte aktiviteter: Åpner grafen for de valgte aktivitetene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;aktivitetstabell&#34;&gt;Aktivitetstabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktivitetens navn: Navnet på aktiviteten.&lt;/li&gt;
+&lt;li&gt;Laget av: Navnet på brukeren som laget aktiviteten.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Navnet på avdelingen aktiviteten ble lagt opp på.&lt;/li&gt;
+&lt;li&gt;Periode: Fra og til dato aktiviteten var aktiv.&lt;/li&gt;
+&lt;li&gt;Avsluttet:
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Aktiviteten er ikke avsluttet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Aktiviteten er avsluttet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kommentarer: Antall kommentarer til denne aktiviteten. Trykk på denne for å vise Kommentarer til aktiviteten.&lt;/li&gt;
+&lt;li&gt;Vis i graf: Kryss av for den / de aktivitetene du vil ha med i grafen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Sjekklister</title>
+      <link>https://docs3.qmplus.com/docs/list/tabs/checklist/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/list/tabs/checklist/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens sjekklister.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hva er en sjekkliste&lt;/li&gt;
+&lt;li&gt;Hvor finner du sjekklisten&lt;/li&gt;
+&lt;li&gt;Lage en sjekkliste&lt;/li&gt;
+&lt;li&gt;Endre listeinnhold og listeinformasjon&lt;/li&gt;
+&lt;li&gt;Legge til kommentarfelt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Husk at når du skal publisere sjekklisten må du gå til veileder for Aktivitetsplan&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/sjekklister.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Valg av listetype: Velg den listetypen du vil se oversikt for. Listetypen er kun en måte å organisere listene på.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny liste: Oppretter en ny sjekkliste og tar deg til Ny liste skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_gear.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre listeinformasjon skjermbildet for å endre informasjon om den sjekklisten som linjen det ble trykket på tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre listeinnhold skjermbildet for å endre spørsmålene i den sjekklisten som linjen det ble trykket på tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform og som liste av enkeltspørsmål slik den ser ut når den skal fylles ut.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktiverer/Deaktiverer - avhengig av valgt arkfane sjekklisten som linjen det ble trykket på tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_copy.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kopier liste: Lager en kopi av den valgte sjekklisten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter listen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom arkfanen Deaktiverte lister er valgt og sjekklisten det gjelder ikke har vært benyttet i en aktivitet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Åpner siden Eksporterer til fellesbiblioteket. Hvis dette ikonet er deaktivert/grået ut, ligger listen allerede i fellesbiblioteket.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive lister: Viser de aktive listene som er tilgjengelige i den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Deaktiverte lister: Viser de deaktiverte listene som er tilgjengelige i den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Fellesbiblioteket: Åpner fellesbiblioteket for sjekklister.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Spørreskjemaer arkfane medarbeider</title>
+      <link>https://docs3.qmplus.com/docs/list/tabs/questionnaire_employee/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/list/tabs/questionnaire_employee/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;p&gt;I standardversjonen vises kun lister som skal fylles ut. Derfor vises ikke arkfanene der.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive aktiviteter: Aktiviteter som skal utføres. Som regel betyr det å fylle ut en liste.&lt;/li&gt;
+&lt;li&gt;Aktivitetsrapport: Oversikt over utførte aktiviteter. Ikke med i standardversjonen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;svaralternativgrupper&#34;&gt;Svaralternativgrupper&lt;/h1&gt;
+&lt;p&gt;Arkfane under spørreskjemaer&lt;/p&gt;
+&lt;p&gt;Her administreres virksomhetens svaralternativgrupper og svaralternativgruppeoversikter.&lt;/p&gt;
+&lt;h3 id=&#34;funksjoner&#34;&gt;Funksjoner&lt;/h3&gt;
+&lt;h4 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Velg svaralternativgruppeoversikt. Svaralternativgruppene i den valgte oversikten blir da vist i tabellen under.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ny svaralternativgruppeoversikt: Tar deg til Ny svaralternativgruppeoversikt skjermbildet for å lage en ny svaralternativgruppeoversikt.&lt;/li&gt;
+&lt;li&gt;Endre svaralternativgruppeoversikt: Tar deg til endre svaralternativgruppeoversikt skjermbildet for å endre den valgte svaralternativgruppeoversikten.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny svaralternativgruppe: Oppretter en ny svaralternativgruppe og tar deg til endre svaralternativgruppe skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Copy.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Kopierer den valgte svaralternativgruppen slik at man kan jobbe videre med grupper som er i bruk. Dette ikonet kommer kun opp dersom svaralternativgruppen det gjelder er brukt i et besvart spørreskjema.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Endre.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre svaralternativgruppe skjermbildet for å endre svaralternativgruppen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom svaralternativgruppen det gjelder ikke er brukt i et besvart spørreskjema.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktiverer/Deaktiverer - avhengig av valgt arkfane svaralternativgruppen som linjen det ble trykket på tilhører. Deaktiverte svaralternativgrupper kan ikke velges i endre svaralternativer skjermbildet men påvirker ikke lister som er i bruk.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter svaralternativgruppen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom svaralternativgruppen det gjelder ikke er brukt i et besvart spørreskjema.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;arkfaner-1&#34;&gt;Arkfaner&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive lister: Viser de aktive spørreskjemaene tilgjenglig i den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Deaktiverte lister: Viser de deaktiverte spørreskjemaene tilgjenglig i den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Aktive svaralternativgrupper: Viser de aktive svaralternativgruppene i systemet.&lt;/li&gt;
+&lt;li&gt;Deaktiverte svaralternativgrupper: Viser de deaktiverte svaralternativgruppene i systemet.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

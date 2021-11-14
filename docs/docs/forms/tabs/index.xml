@@ -1,0 +1,280 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/forms/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/forms/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: GPS-koordinater</title>
+      <link>https://docs3.qmplus.com/docs/forms/tabs/gps/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/forms/tabs/gps/</guid>
+      <description>
+        
+        
+        &lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Map.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Meldinger registrert gjennom den mobile applikasjonen sender GPS-koordinatene til beliggenhet av den mobile enheten på tidspunktet for registrering. Bruk denne siden til å avgjøre om disse koordinatene vil vises i meldingsbehandlingsiden og i pdf-rapporter. Flere alternativer vil dukke opp på denne siden snart.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Meldingsskjemaer</title>
+      <link>https://docs3.qmplus.com/docs/forms/tabs/forms/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/forms/tabs/forms/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens meldingsskjemaer.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Som Superbruker kan jeg lage 4 ulike skjemaer (lister): Sjekkliste, Risikoliste, Meldingskjema og Spørreskjema. Klikk på Nytt skjema nederst i bildet.&lt;/li&gt;
+&lt;li&gt;Jeg kan endre innholdet i eksisterende skjemaer: Klikk på ikonet med gul blyant i ENDRE.&lt;/li&gt;
+&lt;li&gt;Jeg kan importere skjemaer fra Fellesbiblioteket. Det inneholder skjemaer som andre Qm+ kunder vil at andre også kan bruke.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s1-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;kategorigrupper og typer&lt;/li&gt;
+&lt;li&gt;Kategorier&lt;/li&gt;
+&lt;li&gt;Å sette kostnader på et meldingsskjema&lt;/li&gt;
+&lt;li&gt;Å tilknytte dokument på kategorier og i skjema&lt;/li&gt;
+&lt;li&gt;Skjematyper&lt;/li&gt;
+&lt;li&gt;Avhengigheter&lt;/li&gt;
+&lt;li&gt;Avanserte muligheter i et meldingsskjema&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/meldingsskjema.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Nytt meldingsskjema: Oppretter et nytt meldingsskjema og tar deg til endre meldingsskjema skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre meldingsskjema skjermbildet for å redigere innholdet i det meldingsskjemaet som linjen det ble trykket på tilhører.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis papirversjon:&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktiverer/Deaktiverer - avhengig av valgt arkfane meldingsskjemaet som linjen det ble trykket på tilhører.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter meldingsskjemaet som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom arkfanen Deaktiverte skjemaer er valgt og meldingsskjemaet det gjelder ikke har vært benyttet til å registrere en melding.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Åpner siden Eksporterer til fellesbiblioteket. Hvis dette ikonet er deaktivert/grået ut, ligger skjemaet allerede i fellesbiblioteket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive skjemaer: Viser de aktive meldingsskjemaene som er tilgjengelige i den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Deaktiverte skjemaer: Viser de deaktiverte meldingsskjemaene som er tilgjengelige den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Fellesbiblioteket: Åpner fellesbiblioteket for meldingsskjemaer.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Regler undermeny meldingsskjema</title>
+      <link>https://docs3.qmplus.com/docs/forms/tabs/rules_submenu_forms/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/forms/tabs/rules_submenu_forms/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden brukes for å få en oversikt over hvilke regler som er tilknytte dette meldingsskjemaet.&lt;/p&gt;
+&lt;p&gt;En melding registrert med et meldingsskjema uten saksbehandlere følger normal saksgang og blir vist i Innboks/Mine saker for nærmeste leder. Dette er i de fleste tilfeller den beste løsningen.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Risikoanalyser</title>
+      <link>https://docs3.qmplus.com/docs/forms/tabs/risk_analysis/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/forms/tabs/risk_analysis/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens risikoanalyser.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ADMIN-arkfanen gir meg muligheter for å gjøre forandringer i eksisterende Risikoanalyse-lister. Klikk på gul-blyant ikon i &amp;ldquo;Endre&amp;rdquo;, eller lage ny liste. Klikk &amp;ldquo;Ny liste&amp;rdquo; (nederst).&lt;/li&gt;
+&lt;li&gt;ANBEFALING:
+&lt;ul&gt;
+&lt;li&gt;A. Lag en liste med typiske oppgaver som utføres i den avdelingen du velger i navigatoren. Bruk en arbeidsgruppe for å redigere innholdet (hvilke oppgaver) som skal inn i listen. **B. Send listen ut til de som skal svare – dvs. vurdere oppgavens risiko: Klikk i ADMIN/Planlegging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny liste: Oppretter en ny risikoanalyse og tar deg til Ny liste skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_gear.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre listeinformasjon skjermbildet for å endre informasjon om den risikoanalysen som linjen det ble trykket på tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre listeinnhold skjermbildet for å endre spørsmålene i den risikoanalysen som linjen det ble trykket på tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktiverer/Deaktiverer, avhengig av valgt arkfane, risikoanalysen som linjen det ble trykket på tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_copy.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kopier liste: Lager en kopi av den valgte risikoanalysen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter listen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom arkfanen Deaktiverte lister er valgt og risikoanalysen det gjelder ikke har vært benyttet i en aktivitet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Åpner siden Eksporterer til fellesbiblioteket. Hvis dette ikonet er deaktivert/grået ut, ligger listen allerede i fellesbiblioteket.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Aktive lister: Viser de aktive listene som er tilgjengelige i den avdelingen som er valgt i navigatoren.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deaktiverte lister: Viser de deaktiverte listene som er tilgjengelige i den avdelingen som er valgt i navigatoren.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fellesbiblioteket: Åpner fellesbiblioteket for risikoanalyser.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Roller undermeny meldingsskjema</title>
+      <link>https://docs3.qmplus.com/docs/forms/tabs/roles_submenu_form/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/forms/tabs/roles_submenu_form/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden brukes når man ønsker å lage restriksjoner for registrering av nye meldinger eller for å se eksisterende meldinger. For å legge på en restriksjon, krysser man av for ønsket rolle, under ønsket restriksjonstype. Det er to avkryssingsmuligheter per rolle, en per restriksjonstype. Det kontrolleres i begge tilfeller om brukeren har denne rollen i sin brukertype eller på sin bruker. Dersom det krysses av for flere roller, så holder det at man har en av dem for å oppfylle kravet. Meldingsskjemaer uten roller har ingen ekstra restriksjoner og kan brukes som normalt.&lt;/p&gt;
+&lt;h3 id=&#34;restriksjonstyper&#34;&gt;Restriksjonstyper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ny melding. Skjuler knappen for å registrere nye meldinger med dette meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;Se meldinger og grafer. Skjuler meldinger registrert med dette meldingsskjemaet i Rapporter, Innboks og Arkiv.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
