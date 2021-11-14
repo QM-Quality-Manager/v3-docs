@@ -19,7 +19,7 @@ description: >
 # Tiltak arkfane medarbeider
 {{< onlystaticimg src="/images/Actions_16px.png" >}} Tiltak er en arkfane under {{< onlystaticimg src="/images/My-cases_16px.png" >}} Mine saker for medarbeider.
 
-Brukes til å utføre og følge opp tiltak.n
+Brukes til å utføre og følge opp tiltak.
 
 ### Aktiv tabell
 
