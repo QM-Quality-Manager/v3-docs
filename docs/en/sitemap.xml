@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://docs3.qmplus.com/en/docs/</loc>
-    <lastmod>2021-11-09T16:45:22+01:00</lastmod>
+    <lastmod>2021-11-15T09:41:38+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -1185,6 +1185,19 @@
                 href="https://docs3.qmplus.com/en/categories/"
                 />
   </url><url>
+    <loc>https://docs3.qmplus.com/en/</loc>
+    <lastmod>2021-11-15T09:41:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/"
+                />
+  </url><url>
     <loc>https://docs3.qmplus.com/en/search/</loc>
     <lastmod>2021-11-05T12:40:55+01:00</lastmod>
     <xhtml:link
@@ -1208,19 +1221,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://docs3.qmplus.com/en/tags/"
-                />
-  </url><url>
-    <loc>https://docs3.qmplus.com/en/</loc>
-    <lastmod>2021-11-09T16:45:22+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://docs3.qmplus.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://docs3.qmplus.com/en/"
                 />
   </url>
 </urlset>
