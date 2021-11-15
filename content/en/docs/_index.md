@@ -8,8 +8,10 @@ menu:
     weight: 20
 ---
 
-Velkommen til dokumentasjonen for Qm+. Her skal du kunne finne dokumentasjon for all funksjonalitet i Qm+. Du kan enten bruke lenkene nedenfor til å gå til aktuell side, bruke søk i den venstre spalten eller trykke på Hjelpknappen i den siden i Qm+ der du lurer på noe.
+Welcome to the Quality manager documentation. Her you can find all the documentation about the available funcionality in the Qm+ application. You can use the links on the side bar to locate a specific topic or use the search functionality in the top right corner.
 
-Du kan finne generell informasjon om systemet på hjemmesiden vår: http://www.qmplus.com.
+Inside the application you can use the help button to access specific help.
 
-Har du spørsmål ta kontakt med oss på drift@qmplus.com.
+More general information is available on our home page at http://www.qmplus.com.
+
+For any questions please email us on drift@qmplus.com.
