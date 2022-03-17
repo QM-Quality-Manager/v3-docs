@@ -275,6 +275,7 @@ ACTIONCASEPROCESS
   - ACTIONTEXTTAG Brukes for å bestemme hva som står over tiltaksbeskrivelsesfeltet.
     - 1 Jobbeskrivelse
     - 2 Korrigerende tiltak
+    - 3 Tiltaksbeskrivelse / Vurdering av effekten av tiltaket
 
 > Standardverdi 1.
 

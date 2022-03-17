@@ -276,6 +276,7 @@ description: >
 - ACTIONTEXTTAG Used to set the title for the action description field.
   - 1 Work description
   - 2 Corrective action
+  - 3 Action description / Assessment of the effect of the action
 
 > Default value 1.
 
