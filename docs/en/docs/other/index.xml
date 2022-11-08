@@ -901,6 +901,7 @@ Select description tags: Check the words that describe what you are exporting or
 &lt;ul&gt;
 &lt;li&gt;1 Work description&lt;/li&gt;
 &lt;li&gt;2 Corrective action&lt;/li&gt;
+&lt;li&gt;3 Action description / Assessment of the effect of the action&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1857,7 +1858,7 @@ Select description tags: Check the words that describe what you are exporting or
 &lt;ul&gt;
 &lt;li&gt;PREVENTION_FIELD
 &lt;ul&gt;
-&lt;li&gt;0 Hide action prevention field (&amp;ldquo;How to prevent repetition (root cause analysis)&amp;quot;)&lt;/li&gt;
+&lt;li&gt;0 Hide action prevention field (&amp;ldquo;How to prevent repetition (root cause analysis)&amp;rdquo;)&lt;/li&gt;
 &lt;li&gt;1 Show action prevention field.&lt;/li&gt;
 &lt;li&gt;2 Hide action prevention field for all actions created after the date set in the SPAN field (date format: YYYYMMDD) - date specified included&lt;/li&gt;
 &lt;/ul&gt;

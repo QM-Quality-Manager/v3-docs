@@ -330,7 +330,7 @@ Alternative groups overview name: Write the name of the alternative groups overv
       <description>
         
         
-        &lt;p&gt;In this page you can change the subject of emails that are sent because of the Rules of the type Informed upon message registration. This means that in order to have any effect, this page must be used in combination with rules of this type. The email subject can be set to the name of a checked category in the message that belongs to a specified category group. If you do not set anything in this page, the default email subject will be used (e.g. &amp;ldquo;You have a new message in Qm+ from &amp;hellip;&amp;quot;).&lt;/p&gt;
+        &lt;p&gt;In this page you can change the subject of emails that are sent because of the Rules of the type Informed upon message registration. This means that in order to have any effect, this page must be used in combination with rules of this type. The email subject can be set to the name of a checked category in the message that belongs to a specified category group. If you do not set anything in this page, the default email subject will be used (e.g. &amp;ldquo;You have a new message in Qm+ from &amp;hellip;&amp;rdquo;).&lt;/p&gt;
 &lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Category group: The defining or single-choice category group, the checked category of which will be set as the email subject.&lt;/li&gt;
