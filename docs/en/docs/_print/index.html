@@ -12199,6 +12199,17 @@ Default value span 2</p>
 <blockquote>
 <p>Default value 0</p>
 </blockquote>
+<ul>
+<li>PERSONALIZE_SENDER : In order to make emails from the system more user-friendly, we set the sender of the email to appear to be the email of the actual sender user, instead of <a href="mailto:msg-handler@qmplus.com">msg-handler@qmplus.com</a>, which is the actual sender address. But some email servers reject emails where the actual sender is not the same as the sender that appears to the recipient for security reasons. For those, this preference must be set to 0.
+<ul>
+<li>0 - Off</li>
+<li>1 - On</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Default value 1</p>
+</blockquote>
 <h1 id="documents">DOCUMENTS</h1>
 <ul>
 <li>CUSTOMHEADING : Turn on to use a customer defined document head.

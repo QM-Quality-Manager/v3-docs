@@ -28,13 +28,13 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://docs3.qmplus.com/en/docs/other/settings/" /><meta property="article:section" content="docs" />
 <meta property="article:published_time" content="2017-01-04T00:00:00+00:00" />
-<meta property="article:modified_time" content="2022-03-17T15:42:16+02:00" /><meta property="og:site_name" content="Quality Manager" />
+<meta property="article:modified_time" content="2022-11-09T15:04:30+02:00" /><meta property="og:site_name" content="Quality Manager" />
 
 <meta itemprop="name" content="System settings">
 <meta itemprop="description" content="System settings are adjustable elements used for making individual adjustments per customer. Changes from the standard version can be ordered by the customer&#39;s contact person with QmPlus AS. 
 "><meta itemprop="datePublished" content="2017-01-04T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2022-03-17T15:42:16+02:00" />
-<meta itemprop="wordCount" content="5550">
+<meta itemprop="dateModified" content="2022-11-09T15:04:30+02:00" />
+<meta itemprop="wordCount" content="5632">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="System settings"/>
 <meta name="twitter:description" content="System settings are adjustable elements used for making individual adjustments per customer. Changes from the standard version can be ordered by the customer&#39;s contact person with QmPlus AS. 
@@ -2576,6 +2576,17 @@ Default value span 2</p>
 <blockquote>
 <p>Default value 0</p>
 </blockquote>
+<ul>
+<li>PERSONALIZE_SENDER : In order to make emails from the system more user-friendly, we set the sender of the email to appear to be the email of the actual sender user, instead of <a href="mailto:msg-handler@qmplus.com">msg-handler@qmplus.com</a>, which is the actual sender address. But some email servers reject emails where the actual sender is not the same as the sender that appears to the recipient for security reasons. For those, this preference must be set to 0.
+<ul>
+<li>0 - Off</li>
+<li>1 - On</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Default value 1</p>
+</blockquote>
 <h1 id="documents">DOCUMENTS</h1>
 <ul>
 <li>CUSTOMHEADING : Turn on to use a customer defined document head.
@@ -2814,7 +2825,7 @@ Default value span 2</p>
 	
 	
 	<div class="text-muted mt-5 pt-3 border-top">
-  Last modified March 17, 2022: <a href="https://github.com/QM-Quality-Manager/v3-docs/commit/b3815a66db3acc2689c9830274742978b3fbdf58">New value for preference ACTIONTEXTTAG (b3815a6)</a>
+  Last modified November 9, 2022: <a href="https://github.com/QM-Quality-Manager/v3-docs/commit/f132b64bf7b816494e0692b41e3752be8a50de51">Adding info on preference MAIL_PERSONALIZE_SENDER (f132b64)</a>
 </div>
 
 </div>

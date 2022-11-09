@@ -2545,6 +2545,17 @@ Standardverdi for span 2&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;PERSONALIZE_SENDER : For å gjøre e-poster fra systemet mer brukervennlige, setter vi at avsenderen av e-posten skal se ut til å være e-posten til den faktiske avsenderbrukeren, i stedet for &lt;a href=&#34;mailto:msg-handler@qmplus.com&#34;&gt;msg-handler@qmplus.com&lt;/a&gt;, som er den faktiske avsenderadressen. Men noen e-postservere avviser e-poster der den faktiske avsenderen ikke er den samme som avsenderen som vises for mottakeren av sikkerhetsgrunner. For disse må denne preferansen settes til 0.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 1&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;DOCUMENTS&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;CUSTOMHEADING : Styrer om virksomheten bruker egendefinert dokumenthode.
