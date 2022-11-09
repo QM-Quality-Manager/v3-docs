@@ -1090,6 +1090,13 @@ CALENDAR_EXCHANGE_INTEGRATION : Controls if the fields that indicate the possibl
 
 > Default value 0
 
+- PERSONALIZE_SENDER : In order to make emails from the system more user-friendly, we set the sender of the email to appear to be the email of the actual sender user, instead of msg-handler@qmplus.com, which is the actual sender address. But some email servers reject emails where the actual sender is not the same as the sender that appears to the recipient for security reasons. For those, this preference must be set to 0.
+  - 0 - Off
+  - 1 - On
+
+> Default value 1
+
+
 # DOCUMENTS
 
 - CUSTOMHEADING : Turn on to use a customer defined document head.

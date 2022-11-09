@@ -1089,6 +1089,12 @@ Standardverdi  0
 
 > Standardverdi 0
 
+- PERSONALIZE_SENDER : For å gjøre e-poster fra systemet mer brukervennlige, setter vi at avsenderen av e-posten skal se ut til å være e-posten til den faktiske avsenderbrukeren, i stedet for msg-handler@qmplus.com, som er den faktiske avsenderadressen. Men noen e-postservere avviser e-poster der den faktiske avsenderen ikke er den samme som avsenderen som vises for mottakeren av sikkerhetsgrunner. For disse må denne preferansen settes til 0.
+  - 0 - Av
+  - 1 - På
+
+> Standardverdi 1
+
 DOCUMENTS
 
 - CUSTOMHEADING : Styrer om virksomheten bruker egendefinert dokumenthode.
