@@ -30,7 +30,7 @@ Det kan bestilles at dokumenter vises direkte i siden under enkelte arkfaner i s
 - Tips
   - Ta bare med interessante ord. Dvs skal du søke etter prosedyrer knyttet til brann, bruk: prosedyrer brann.
   - Om du vil ha treff på deler av ord, bruk * for å få med alle ord som starter med ordet ditt. Eksempel : søk på redning gir ikke treff på redningsvest, men det gjør redning* .
-- Avansert: Se Lucene Query Syntax (kun engelsk) for detaljert informasjon om syntaks for søkefeltet.
+- Avansert: Se Lucene Query Syntax (https://www.lucenetutorial.com/lucene-query-syntax.html - kun engelsk) for detaljert informasjon om syntaks for søkefeltet.
   - Søkbare felt: Text, URL, DocumentId, Name, Information.
   - Dersom man ikke oppgir felt, søkes det i alle felt. Navnefeltet gis da ekstra vekt.
 

@@ -17,7 +17,7 @@ You can also get the document in .docx format by clicking on the {{< onlystatici
 
 Documents can appear directly in this page under separate tabs instead of having the name of the document appear as a link. This functionality has to be ordered separately. Contact drift@qmplus.com if you want such a solution.
 
-### Info.png What can I do here?
+### {{< onlystaticimg src="/images/Info.png" >}} What can I do here?
 
 - I can search for documents: Click the "Search"-button at the bottom of the page.
 - I can select between Tabs and Document groups to search in specific document collections.
@@ -36,7 +36,7 @@ Documents can appear directly in this page under separate tabs instead of having
     - Document group: Include documents from all or just the selected document group.
     - Department choice: Include documents from all documents available at the selected department or just the documents registered at the selected department.
   - Tip: Include only interesting words. For example, if you wish to search for procedures related to fire, use the keywords "procedures fire".
-  - Advanced: See Lucene Query Syntax for detailed information about the syntax for the search field.
+  - Advanced: See Lucene Query Syntax (https://www.lucenetutorial.com/lucene-query-syntax.html) for detailed information about the syntax for the search field.
     - Searchable fields: Text, URL, DocumentId, Name, Information.
     - If no fields are specified, all fields are searched. In that case, extra weight is given to the name field.
 
