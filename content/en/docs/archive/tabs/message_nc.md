@@ -45,4 +45,5 @@ The tabs here are used for choosing the status you wish to see.
 - Action in progress: Messages which are attached to an action that has not been completed and approved.
 - Closed cases: Messages which are attached to an action that has been completed and approved.
 - Rejected: Messages that have been rejected. Rejected messages can be deleted by users with the system role content administrator.
+- Overdue: Messages registered on the selected department / sent to a case handler on the selected department that are overdue.
 - Search: Opens the Message search page.

@@ -41,5 +41,6 @@ Arkfanene brukes her til å velge hvilken status man vil se på.
 - Tiltaksbehandles: Meldinger som er tilkoblet et tiltak som ikke er avsluttet og godkjent.
 - Lukket: Meldinger som er tilkoblet et tiltak som er avsluttet og godkjent.
 - Avvist: Meldinger som er avvist. Avviste meldinger kan slettes av brukere med systemrollen innholdsadministrator.
+- Over frist: Meldinger registrert på valgt avdeling / sendt til saksbehandler på valgt avdeling som er over frist.
 - Søk: Åpner søk for meldinger
 
