@@ -559,7 +559,12 @@
 
  icon. The option for exporting to .docx is not included in the standard version. If you want this option enabled, contact &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt;. Please note that the .pdf version is the most suitable for printing. At this point, we cannot guarantee that the .docx produced file will look the same in all editors or that it will open correctly in all versions of Microsoft Office or OpenOffice. This export format should only be used when there is a need for manually updating the report. This functionality is still in test mode.&lt;/p&gt;
 &lt;p&gt;Documents can appear directly in this page under separate tabs instead of having the name of the document appear as a link. This functionality has to be ordered separately. Contact &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; if you want such a solution.&lt;/p&gt;
-&lt;h3 id=&#34;infopng-what-can-i-do-here&#34;&gt;Info.png What can I do here?&lt;/h3&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s6-hbhb-what-can-i-do-here&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ What can I do here?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;I can search for documents: Click the &amp;ldquo;Search&amp;rdquo;-button at the bottom of the page.&lt;/li&gt;
 &lt;li&gt;I can select between Tabs and Document groups to search in specific document collections.&lt;/li&gt;
@@ -600,7 +605,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Tip: Include only interesting words. For example, if you wish to search for procedures related to fire, use the keywords &amp;ldquo;procedures fire&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Advanced: See Lucene Query Syntax for detailed information about the syntax for the search field.
+&lt;li&gt;Advanced: See Lucene Query Syntax (&lt;a href=&#34;https://www.lucenetutorial.com/lucene-query-syntax.html&#34;&gt;https://www.lucenetutorial.com/lucene-query-syntax.html&lt;/a&gt;) for detailed information about the syntax for the search field.
 &lt;ul&gt;
 &lt;li&gt;Searchable fields: Text, URL, DocumentId, Name, Information.&lt;/li&gt;
 &lt;li&gt;If no fields are specified, all fields are searched. In that case, extra weight is given to the name field.&lt;/li&gt;
