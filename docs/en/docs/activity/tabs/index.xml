@@ -51,6 +51,79 @@
     </item>
     
     <item>
+      <title>Docs: Activity report tab worker</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/tabs/activity_report_tab_worker/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/tabs/activity_report_tab_worker/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Displays an overview of all the activities the user has participated in.&lt;/p&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Activity group: Restricts the activities in the Activity drop-down menu to the activities from the selected activity group.&lt;/li&gt;
+&lt;li&gt;Activity: The answers that the user has provided for the selected activity will be shown in the table below.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show list: Shows the list associated with the selected activity in list version, as it looks like with the user&amp;rsquo;s answer.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show as pdf: Prints the current page to .pdf.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Closes this screen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Displays a table for each topic in the list that has been answered. The topic name appears above each table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;h4 id=&#34;summing-up-of-the-answered-list&#34;&gt;Summing up of the answered list&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Question: The question from the list that has been answered.&lt;/li&gt;
+&lt;li&gt;My answers (worker interface) / Answer (manager interface): The answer to the question. For survey forms the text of the selected alternative answer is displayed. For checklists, a checked checkbox is displayed. If the user has commented on his / hers response to a given question, the comment will show here.&lt;/li&gt;
+&lt;li&gt;Actions I participate in (worker interface) / Actions this user participates in (manager interface): If an action for this question has been created and the user is one of those who will execute it, a link to that action will appear here.&lt;/li&gt;
+&lt;li&gt;Other actions (worker interface) / Available actions (manager interface): If an action for this question has been created and the user is not one of those who will execute it, a link to that action will appear here.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;all-actions-created-for-the-selected-activity&#34;&gt;All actions created for the selected activity&lt;/h4&gt;
+&lt;p&gt;This table appears only in the manager interface.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Question: The question from the list to which the action is connected.&lt;/li&gt;
+&lt;li&gt;Action number: A unique identifier for the action.&lt;/li&gt;
+&lt;li&gt;Action name: The name of the action.&lt;/li&gt;
+&lt;li&gt;Department: The department on which the action is registered.&lt;/li&gt;
+&lt;li&gt;Status: The status of the action.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Archive</title>
       <link>https://docs3.qmplus.com/en/docs/activity/tabs/archive/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>

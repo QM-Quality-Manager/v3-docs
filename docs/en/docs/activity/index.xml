@@ -79,6 +79,65 @@
     </item>
     
     <item>
+      <title>Docs: Activity groups</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/activity_group/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/activity_group/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Activity groups page is used for managing activity groups. It is important that there is at least one activity group, otherwise it will not be possible to create new activities.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Name of the activity group: The name of the activity group.&lt;/li&gt;
+&lt;li&gt;Comment: A comment about the activity group. Appears only on this screen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for the language: Appears only when you have pressed Layout add.png New activity group or Folder.png Edit activity group. The text fields of an activity group can be registered in any language that is activated in the system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit this activity group: Opens the data fields for the activity group so that they can be changed.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Delete activity group: Appears only for activity groups without activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New activity group: Opens the data fields to create a new activity group.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the data fields of the selected activity group.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Closes the data fields for the requested activity group.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Annual plan</title>
       <link>https://docs3.qmplus.com/en/docs/activity/annual_plan/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>

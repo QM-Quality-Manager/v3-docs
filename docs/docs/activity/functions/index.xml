@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Brukere som har svart på elementet</title>
-      <link>https://docs3.qmplus.com/docs/activity/functions/user_answered_elements/</link>
+      <link>https://docs3.qmplus.com/docs/activity/functions/user_that_have_answered_the_element/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/activity/functions/user_answered_elements/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/functions/user_that_have_answered_the_element/</guid>
       <description>
         
         
@@ -86,10 +86,10 @@
     
     <item>
       <title>Docs: Endre aktivitet</title>
-      <link>https://docs3.qmplus.com/docs/activity/functions/change_activity/</link>
+      <link>https://docs3.qmplus.com/docs/activity/functions/edit_activity/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/activity/functions/change_activity/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/functions/edit_activity/</guid>
       <description>
         
         
@@ -239,10 +239,10 @@ Antall besvarelser før resultatet vises: Vises kun for anonyme aktiviteter: Lis
     
     <item>
       <title>Docs: Endre dato</title>
-      <link>https://docs3.qmplus.com/docs/activity/functions/change_date/</link>
+      <link>https://docs3.qmplus.com/docs/activity/functions/edit_date/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/activity/functions/change_date/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/functions/edit_date/</guid>
       <description>
         
         
@@ -496,10 +496,10 @@ for tiltak. Vises ikke for anonyme aktiviteter.&lt;/p&gt;
     
     <item>
       <title>Docs: Send varsel</title>
-      <link>https://docs3.qmplus.com/docs/activity/functions/send_warning/</link>
+      <link>https://docs3.qmplus.com/docs/activity/functions/send_reminder/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/activity/functions/send_warning/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/functions/send_reminder/</guid>
       <description>
         
         

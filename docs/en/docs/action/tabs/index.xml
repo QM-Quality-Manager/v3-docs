@@ -140,6 +140,65 @@
     </item>
     
     <item>
+      <title>Docs: Action search</title>
+      <link>https://docs3.qmplus.com/en/docs/action/tabs/search/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/action/tabs/search/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This page is used for searching among registered actions. In many cases it is more appropriate to use Reports to identify specific actions than to use this page, but this page gives more options. This page can also be used together with Reports via the Expand search button in the search results.&lt;/p&gt;
+&lt;h3 id=&#34;general-search-criteria&#34;&gt;General search criteria&lt;/h3&gt;
+&lt;h4 id=&#34;fields-that-use-data-from-the-actions&#34;&gt;Fields that use data from the actions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Time frame: From and To date fields (inclusive).&lt;/li&gt;
+&lt;li&gt;Status: Include actions with the selected status.&lt;/li&gt;
+&lt;li&gt;Action number: Search for the action with this number.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;fields-that-use-data-from-the-attached-messages&#34;&gt;Fields that use data from the attached messages&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Priority: Include actions with the selected priority.&lt;/li&gt;
+&lt;li&gt;Form type: Appears only if the Log messages or the Risk messages are activated. Include actions attached to messages with the selected form type.&lt;/li&gt;
+&lt;li&gt;Form: If you select something other than &amp;ldquo;All&amp;rdquo; here, the category groups and the categories in the section &amp;ldquo;Type of category to search by&amp;rdquo; below will only show those that are in use in the selected message form.&lt;/li&gt;
+&lt;li&gt;Message number: Search for actions attached to the message with the selected message number. When this field is used, none of the other search criteria is used.&lt;/li&gt;
+&lt;li&gt;Content search: Search for messages containing a given text. The text can be in any of the text fields in the message. Characters are not case sensitive. Lucene is the search engine used for this function. See Lucene Query Syntax for detailed information about the syntax for the search field.&lt;/li&gt;
+&lt;li&gt;Show messages from:
+&lt;ul&gt;
+&lt;li&gt;This department: Only messages registered on the department which is selected in the Navigator are shown.&lt;/li&gt;
+&lt;li&gt;This and subordinate departments: All messages registered on the department which is selected in the Navigator and on its subordinate departments are shown.&lt;/li&gt;
+&lt;li&gt;Subordinate departments: Only messages registered on the subordinate departments of the one which is selected in the Navigator are shown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Show actions that are: Both options include actions from the selected department in the Navigator and from its subordinate departments.
+&lt;ul&gt;
+&lt;li&gt;Created on selected departments: The department where the action was created.&lt;/li&gt;
+&lt;li&gt;Processed by persons in the selected departments: The department where the action will be executed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Risk: Show the actions attached to messages with categories of the category group type Risk. Choose the P and C value for the messages that will be used.
+&lt;ul&gt;
+&lt;li&gt;P: Probability. Value from 0 - 5. 0 means that this parameter will not be used.&lt;/li&gt;
+&lt;li&gt;C: Consequence. Value from 0 - 5. 0 means that this parameter will not be used.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;type-of-category-to-search-by&#34;&gt;Type of category to search by&lt;/h3&gt;
+&lt;p&gt;All the parameters in this section are used for the messages attached to the actions.&lt;/p&gt;
+&lt;p&gt;This section is used to search for category groups and categories. Check one or more category groups and / or select categories from the menus. The defining category groups appear at the top. Among them you can only search for one category group and / or category. If a message type or a message form is selected, only the category groups and the categories used in these message forms will appear in this section.&lt;/p&gt;
+&lt;h3 id=&#34;order-by&#34;&gt;Order by&lt;/h3&gt;
+&lt;p&gt;Select the column by which the result table will be sorted.
+Show results in&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Table: Show the results in the table of the Search results page for actions.&lt;/li&gt;
+&lt;li&gt;Expanded view: Show the results in the expanded view that contains all the action details (previously &amp;ldquo;Printer friendly&amp;rdquo; version) of the Search results page for actions.&lt;/li&gt;
+&lt;li&gt;Graph: Show the result as a chart under Reports.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Action search results</title>
       <link>https://docs3.qmplus.com/en/docs/action/tabs/action_search_results/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
@@ -261,138 +320,6 @@
 &lt;li&gt;Under approval: Executed actions that are pending approval.&lt;/li&gt;
 &lt;li&gt;Approved actions: Approved actions.&lt;/li&gt;
 &lt;li&gt;Search: Advanced search for actions.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Activity groups</title>
-      <link>https://docs3.qmplus.com/en/docs/action/tabs/activity_group/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/en/docs/action/tabs/activity_group/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The Activity groups page is used for managing activity groups. It is important that there is at least one activity group, otherwise it will not be possible to create new activities.&lt;/p&gt;
-&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Name of the activity group: The name of the activity group.&lt;/li&gt;
-&lt;li&gt;Comment: A comment about the activity group. Appears only on this screen.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Show for the language: Appears only when you have pressed Layout add.png New activity group or Folder.png Edit activity group. The text fields of an activity group can be registered in any language that is activated in the system.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
-
-
- Edit this activity group: Opens the data fields for the activity group so that they can be changed.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Delete activity group: Appears only for activity groups without activities.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- New activity group: Opens the data fields to create a new activity group.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Save: Saves the data fields of the selected activity group.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Close: Closes the data fields for the requested activity group.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Activity report tab worker</title>
-      <link>https://docs3.qmplus.com/en/docs/action/tabs/activity_report_tab_worker/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/en/docs/action/tabs/activity_report_tab_worker/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Displays an overview of all the activities the user has participated in.&lt;/p&gt;
-&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Activity group: Restricts the activities in the Activity drop-down menu to the activities from the selected activity group.&lt;/li&gt;
-&lt;li&gt;Activity: The answers that the user has provided for the selected activity will be shown in the table below.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
-
-
- Print: Prints the current screen.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
-
-
- Help: Opens this page&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
-
-
- Show list: Shows the list associated with the selected activity in list version, as it looks like with the user&amp;rsquo;s answer.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
-
-
- Show as pdf: Prints the current page to .pdf.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Close: Closes this screen.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Displays a table for each topic in the list that has been answered. The topic name appears above each table.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-&lt;h4 id=&#34;summing-up-of-the-answered-list&#34;&gt;Summing up of the answered list&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Question: The question from the list that has been answered.&lt;/li&gt;
-&lt;li&gt;My answers (worker interface) / Answer (manager interface): The answer to the question. For survey forms the text of the selected alternative answer is displayed. For checklists, a checked checkbox is displayed. If the user has commented on his / hers response to a given question, the comment will show here.&lt;/li&gt;
-&lt;li&gt;Actions I participate in (worker interface) / Actions this user participates in (manager interface): If an action for this question has been created and the user is one of those who will execute it, a link to that action will appear here.&lt;/li&gt;
-&lt;li&gt;Other actions (worker interface) / Available actions (manager interface): If an action for this question has been created and the user is not one of those who will execute it, a link to that action will appear here.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;all-actions-created-for-the-selected-activity&#34;&gt;All actions created for the selected activity&lt;/h4&gt;
-&lt;p&gt;This table appears only in the manager interface.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Question: The question from the list to which the action is connected.&lt;/li&gt;
-&lt;li&gt;Action number: A unique identifier for the action.&lt;/li&gt;
-&lt;li&gt;Action name: The name of the action.&lt;/li&gt;
-&lt;li&gt;Department: The department on which the action is registered.&lt;/li&gt;
-&lt;li&gt;Status: The status of the action.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

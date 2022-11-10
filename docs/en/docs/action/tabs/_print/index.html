@@ -167,7 +167,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>2: <a href="#pg-4fd68af3c8fcbdbc78fe758bf7390c6e">Action search results</a></li>
+<li>2: <a href="#pg-ef9ffa1f23d13c366e986c900b78b2a0">Action search</a></li>
 
 
     
@@ -175,7 +175,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>3: <a href="#pg-3224174c4a66742d7b29b1ee6a4e4f9d">Actions</a></li>
+<li>3: <a href="#pg-4fd68af3c8fcbdbc78fe758bf7390c6e">Action search results</a></li>
 
 
     
@@ -183,15 +183,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>4: <a href="#pg-2e83d8761f6cdf98b648ac65ef739fe6">Activity groups</a></li>
-
-
-    
-  
-    
-    
-	
-<li>5: <a href="#pg-7fb956453fccc197cd499abbde39a4f3">Activity report tab worker</a></li>
+<li>4: <a href="#pg-3224174c4a66742d7b29b1ee6a4e4f9d">Actions</a></li>
 
 
     
@@ -352,7 +344,70 @@ This the multi-page printable view of this section.
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-4fd68af3c8fcbdbc78fe758bf7390c6e">2 - Action search results</h1>
+	<h1 id="pg-ef9ffa1f23d13c366e986c900b78b2a0">2 - Action search</h1>
+    <div class="lead">Tab under Actions.</div>
+	<p>This page is used for searching among registered actions. In many cases it is more appropriate to use Reports to identify specific actions than to use this page, but this page gives more options. This page can also be used together with Reports via the Expand search button in the search results.</p>
+<h3 id="general-search-criteria">General search criteria</h3>
+<h4 id="fields-that-use-data-from-the-actions">Fields that use data from the actions</h4>
+<ul>
+<li>Time frame: From and To date fields (inclusive).</li>
+<li>Status: Include actions with the selected status.</li>
+<li>Action number: Search for the action with this number.</li>
+</ul>
+<h4 id="fields-that-use-data-from-the-attached-messages">Fields that use data from the attached messages</h4>
+<ul>
+<li>Priority: Include actions with the selected priority.</li>
+<li>Form type: Appears only if the Log messages or the Risk messages are activated. Include actions attached to messages with the selected form type.</li>
+<li>Form: If you select something other than &ldquo;All&rdquo; here, the category groups and the categories in the section &ldquo;Type of category to search by&rdquo; below will only show those that are in use in the selected message form.</li>
+<li>Message number: Search for actions attached to the message with the selected message number. When this field is used, none of the other search criteria is used.</li>
+<li>Content search: Search for messages containing a given text. The text can be in any of the text fields in the message. Characters are not case sensitive. Lucene is the search engine used for this function. See Lucene Query Syntax for detailed information about the syntax for the search field.</li>
+<li>Show messages from:
+<ul>
+<li>This department: Only messages registered on the department which is selected in the Navigator are shown.</li>
+<li>This and subordinate departments: All messages registered on the department which is selected in the Navigator and on its subordinate departments are shown.</li>
+<li>Subordinate departments: Only messages registered on the subordinate departments of the one which is selected in the Navigator are shown.</li>
+</ul>
+</li>
+<li>Show actions that are: Both options include actions from the selected department in the Navigator and from its subordinate departments.
+<ul>
+<li>Created on selected departments: The department where the action was created.</li>
+<li>Processed by persons in the selected departments: The department where the action will be executed.</li>
+</ul>
+</li>
+<li>Risk: Show the actions attached to messages with categories of the category group type Risk. Choose the P and C value for the messages that will be used.
+<ul>
+<li>P: Probability. Value from 0 - 5. 0 means that this parameter will not be used.</li>
+<li>C: Consequence. Value from 0 - 5. 0 means that this parameter will not be used.</li>
+</ul>
+</li>
+</ul>
+<h3 id="type-of-category-to-search-by">Type of category to search by</h3>
+<p>All the parameters in this section are used for the messages attached to the actions.</p>
+<p>This section is used to search for category groups and categories. Check one or more category groups and / or select categories from the menus. The defining category groups appear at the top. Among them you can only search for one category group and / or category. If a message type or a message form is selected, only the category groups and the categories used in these message forms will appear in this section.</p>
+<h3 id="order-by">Order by</h3>
+<p>Select the column by which the result table will be sorted.
+Show results in</p>
+<ul>
+<li>Table: Show the results in the table of the Search results page for actions.</li>
+<li>Expanded view: Show the results in the expanded view that contains all the action details (previously &ldquo;Printer friendly&rdquo; version) of the Search results page for actions.</li>
+<li>Graph: Show the result as a chart under Reports.</li>
+</ul>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-4fd68af3c8fcbdbc78fe758bf7390c6e">3 - Action search results</h1>
     <div class="lead">Search is a tab under Actions.</div>
 	<p>This page displays the results when performing an action search and when someone has clicked on an action graph under Reports.</p>
 <h3 id="search-criteria">Search criteria</h3>
@@ -385,7 +440,7 @@ This the multi-page printable view of this section.
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-3224174c4a66742d7b29b1ee6a4e4f9d">3 - Actions</h1>
+	<h1 id="pg-3224174c4a66742d7b29b1ee6a4e4f9d">4 - Actions</h1>
     <div class="lead">Actions is a tab under Archive.</div>
 	<p>Shows all the actions registered on the department which is selected in the Navigator with the status that is selected in one of the underlying tabs. If the underlying tabs have one action for every status, an additional tab for search appears. When performing a search from Action search, the selected search criteria are shown in a separate table above the results table.</p>
 <h3 id="table">Table</h3>
@@ -471,146 +526,6 @@ This the multi-page printable view of this section.
 <li>Under approval: Executed actions that are pending approval.</li>
 <li>Approved actions: Approved actions.</li>
 <li>Search: Advanced search for actions.</li>
-</ul>
-
-</div>
-
-
-
-    
-	
-  
-    
-    
-	
-    
-
-<div class="td-content" style="page-break-before: always">
-    
-	<h1 id="pg-2e83d8761f6cdf98b648ac65ef739fe6">4 - Activity groups</h1>
-    <div class="lead">Tab under Activity plan.</div>
-	<p>The Activity groups page is used for managing activity groups. It is important that there is at least one activity group, otherwise it will not be possible to create new activities.</p>
-<h3 id="fields">Fields</h3>
-<ul>
-<li>Name of the activity group: The name of the activity group.</li>
-<li>Comment: A comment about the activity group. Appears only on this screen.</li>
-</ul>
-<h3 id="drop-down-menus">Drop-down menus</h3>
-<ul>
-<li>Show for the language: Appears only when you have pressed Layout add.png New activity group or Folder.png Edit activity group. The text fields of an activity group can be registered in any language that is activated in the system.</li>
-</ul>
-<h3 id="icons">Icons</h3>
-<ul>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Folder.png"  width="" />
-
-
- Edit this activity group: Opens the data fields for the activity group so that they can be changed.</li>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Layout_delete.png"  width="" />
-
-
- Delete activity group: Appears only for activity groups without activities.</li>
-</ul>
-<h3 id="buttons">Buttons</h3>
-<ul>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Layout_add.png"  width="" />
-
-
- New activity group: Opens the data fields to create a new activity group.</li>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Tick.png"  width="" />
-
-
- Save: Saves the data fields of the selected activity group.</li>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Cross.png"  width="" />
-
-
- Close: Closes the data fields for the requested activity group.</li>
-</ul>
-
-</div>
-
-
-
-    
-	
-  
-    
-    
-	
-    
-
-<div class="td-content" style="page-break-before: always">
-    
-	<h1 id="pg-7fb956453fccc197cd499abbde39a4f3">5 - Activity report tab worker</h1>
-    <div class="lead">Activity report is a tab under Questionnaires for users having the simplified interface, and a function under Activity plan / Fill out and results for users having the complete interface.</div>
-	<p>Displays an overview of all the activities the user has participated in.</p>
-<h3 id="drop-down-menus">Drop-down menus</h3>
-<ul>
-<li>Activity group: Restricts the activities in the Activity drop-down menu to the activities from the selected activity group.</li>
-<li>Activity: The answers that the user has provided for the selected activity will be shown in the table below.</li>
-</ul>
-<h3 id="buttons">Buttons</h3>
-<ul>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Printer.png"  width="" />
-
-
- Print: Prints the current screen.</li>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Help.png"  width="" />
-
-
- Help: Opens this page</li>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Page.png"  width="" />
-
-
- Show list: Shows the list associated with the selected activity in list version, as it looks like with the user&rsquo;s answer.</li>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Page_white_acrobat.png"  width="" />
-
-
- Show as pdf: Prints the current page to .pdf.</li>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Cross.png"  width="" />
-
-
- Close: Closes this screen.</li>
-</ul>
-<h3 id="overview">Overview</h3>
-<ul>
-<li>Displays a table for each topic in the list that has been answered. The topic name appears above each table.</li>
-</ul>
-<h3 id="tables">Tables</h3>
-<h4 id="summing-up-of-the-answered-list">Summing up of the answered list</h4>
-<ul>
-<li>Question: The question from the list that has been answered.</li>
-<li>My answers (worker interface) / Answer (manager interface): The answer to the question. For survey forms the text of the selected alternative answer is displayed. For checklists, a checked checkbox is displayed. If the user has commented on his / hers response to a given question, the comment will show here.</li>
-<li>Actions I participate in (worker interface) / Actions this user participates in (manager interface): If an action for this question has been created and the user is one of those who will execute it, a link to that action will appear here.</li>
-<li>Other actions (worker interface) / Available actions (manager interface): If an action for this question has been created and the user is not one of those who will execute it, a link to that action will appear here.</li>
-</ul>
-<h4 id="all-actions-created-for-the-selected-activity">All actions created for the selected activity</h4>
-<p>This table appears only in the manager interface.</p>
-<ul>
-<li>Question: The question from the list to which the action is connected.</li>
-<li>Action number: A unique identifier for the action.</li>
-<li>Action name: The name of the action.</li>
-<li>Department: The department on which the action is registered.</li>
-<li>Status: The status of the action.</li>
 </ul>
 
 </div>

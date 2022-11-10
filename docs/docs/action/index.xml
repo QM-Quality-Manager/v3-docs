@@ -46,113 +46,113 @@
     </item>
     
     <item>
-      <title>Docs: Tiltaksbehandling</title>
-      <link>https://docs3.qmplus.com/docs/action/processing/</link>
+      <title>Docs: Tiltak arkfane</title>
+      <link>https://docs3.qmplus.com/docs/action/action/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/action/processing/</guid>
+      <guid>https://docs3.qmplus.com/docs/action/action/</guid>
       <description>
         
         
-        &lt;h3 id=&#34;tiltaksdata&#34;&gt;Tiltaksdata&lt;/h3&gt;
+        &lt;p&gt;Viser alle tiltak registrert på den avdelingen som er valgt i navigatoren med den status som er valgt i en av de underliggende arkfanene. Har underliggende arkfaner for alle status et tiltak kan ha i tillegg til en for søk. Ved søk fra Søk for tiltak vises det over resultattabellen en oversikt over de søkekriteriene som er satt for søket.&lt;/p&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Tiltaksnummer: Unikt nummer for hvert tiltak.&lt;/li&gt;
-&lt;li&gt;Navn på tiltaket: Brukes til å identifisere tiltaket i tabeller og oversikter. Obligatorisk felt.&lt;/li&gt;
-&lt;li&gt;Kostnadsramme: Hvor mye er satt av til gjennomføringen av tiltaket.&lt;/li&gt;
-&lt;li&gt;Faktisk kostnad: Hvor mye ble brukt på gjennomføringen av tiltaket. Dette feltet blir brukt for å beregne kostnadsgrafen for tiltak under Rapporter.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;beskrivelse-av-tiltaket&#34;&gt;Beskrivelse av tiltaket&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Opprinnelig hendelse: Kopierers fra det første tekstfeltet i den opprinnelige meldingen.&lt;/li&gt;
-&lt;li&gt;Jobbeskrivelse: Kopierers fra det andre tekstfeltet i den opprinnelige meldingen. Bør ofte endres til en konkret arbeidsoppgave for de som skal utføre tiltaket.&lt;/li&gt;
-&lt;li&gt;Hvordan hindre gjentakelse: Kopierers fra et eventuelt tredje tekstfelt i den opprinnelige meldingen. Her kan man skrive litt om andre endringer enn selve det som skal utføres i dette tiltaket for at den opprinneligehendelsen ikke skal gjenta seg.&lt;/li&gt;
-&lt;li&gt;Kommentar: Ekstra kommentar til tiltaket.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tiltakskategorier&#34;&gt;Tiltakskategorier&lt;/h3&gt;
-&lt;p&gt;Brukes for å kategorisere tiltaket.&lt;/p&gt;
-&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
-&lt;p&gt;Dette feltet forteller hvor tiltaket er i tiltaksprosessen. Det styrer en del av utseende til resten av dette skjermbildet.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Under planlegging: Alle tiltak starter med denne statusen. I denne fasen skal tiltaket planlegges. Gi først tiltaket et navn slik at det blir lett å identifisere senere, fyll inn kostnadsrammen dersom dere bruker dette feltet. Tekstfeltene Korrigerende tiltak og Hvordan hindre gjentakelse må fylles ut slik at de som skal gjennomføre tiltaket skjønner hva de skal gjøre. Tiltakskategoriene kan også fylles ut nå. Siste punkt er å plukke ut de som skal utføre tiltaket og gi dem en frist. Dette gjøres i det obligatoriske Oversikt over ansvarlige feltet. Trykk så på &amp;ldquo;Lagre og send til gjennomføring&amp;rdquo; eller &amp;raquo; knappen i statusfeltet for å lagre tiltaket og skifte status til Under gjennomføring.&lt;/li&gt;
-&lt;li&gt;Under gjennomføring: I denne fasen skal jobben som beskrives i tiltaket gjennomføres. Deretter skal det krysses av for utført av de som utført tiltaket. Det kan også skrives en kommentar i kommentarfeltet og den faktisk kostnaden kan fylles hvis den er tilgjengelig. Når alle avkryssninger er gjordt, brukes knappen &amp;ldquo;Send til godkjenning&amp;rdquo; eller &amp;raquo; knappen i statusfeltet. Dette lagrer tiltaket og endrer status til Under godkjenning.&lt;/li&gt;
-&lt;li&gt;Under godkjenning: Her skal den som opprettte tiltaket kontrollere at alt er i orden før tiltaket godkjennes.&lt;/li&gt;
-&lt;li&gt;Godkjent: Et godkjent tiltak er lukket og låst og kan ikke endres annet enn av brukere med systemrollen innholdsadministrator. Kommentarer til alle involverte brukere kan fortsatt sendes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;oversikt-over-ansvarlige&#34;&gt;Oversikt over ansvarlige&lt;/h3&gt;
-&lt;p&gt;Viser oversikt over alle som har vært involvert i saken. Alle har et avkryssningsfelt ved siden av seg som brukes hvis man ønsker å sende en beskjed på e-post til noen av disse anngående denne saken. Alle beskjeder som blir sendt vil også vises nederst i dette skjermbildet.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Opprinnelig melder: Brukerne som har opprettet meldinger tilkoblet dette tiltaket.&lt;/li&gt;
-&lt;li&gt;Tiltaket ble opprettet av: Brukeren som opprettet tiltaket og dermed er ansvarlig for det. Må godkjenne tiltaket før det lukkes.&lt;/li&gt;
-&lt;li&gt;Tiltaket ble utført av: De som skal utføre tiltaket.&lt;/li&gt;
-&lt;li&gt;Tiltaket godkjennes av: Den som skal godkjenne tiltaket. I standardversjonen er det alltid samme bruker som opprettet tiltaket.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;sakens-historie&#34;&gt;Sakens historie&lt;/h3&gt;
-&lt;p&gt;Viser en oversikt over hendelser for dette tiltaket&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Alle redigeringer av innhold eller status.&lt;/li&gt;
-&lt;li&gt;Tilknyttning eller fjerning av meldinger.&lt;/li&gt;
-&lt;li&gt;Alle epostkommentarer sendt ut tilknyttet dette tiltaket.&lt;/li&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil tiltaket åpnes i tiltaksbehandlingsbildet.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om et tiltak, inkludert historikken.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvidet visning / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av tiltakene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele tiltaket beregnet til bruk når man vil se en oversikt over hele innholdet i tiltaket.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ for å sortere på en annen kolonne.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre som fil: Gir mulighet til å laste ned og lagre siden som en htmlfil på din maskin lokalt. Filen kan redigeres i alle programmer som kan redigere html, inkludert Word.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
 
 
- Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument av tiltaket du er inne i. Denne er beregnet på utskrift til papir.&lt;/li&gt;
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument for de aktuelle tiltakene. Denne er beregnet på utskrift til papir.&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Slett tiltaket: Sletter tiltaket. Vises bare for brukeren som har opprettet tiltaket så lenge det fremdeles har status under planlegging, og for Innholdsadministrator. Slettede tiltak kan ikke gjenopprettes eller bli funnet igjen.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre tiltak: Lagrer de endringene du har gjordt. Husk at denne knappen aldri endrer status.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Send: Vises når man ikke har tilgang til å gjøre endringer i tiltaket. Brukes for å sende epostkommentarer knyttet til tiltaket.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Returnerer deg dit du kom fra, med mindre du sto i en melding og laget et tiltak. Da vil du komme dit du åpnet denne meldingen fra.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar_icon.png&#34;  width=&#34;&#34; /&gt;
-
-
- Kalender: Åpner kalenderen for datovalg.&lt;/li&gt;
-&lt;li&gt;
+&lt;p&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
 
 
- Skriv ut: Skriver ut den aktive siden.&lt;/li&gt;
+ Skriv ut: Skriver ut det skjermbildet som vises på skjermen.&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
 
 
- Hjelp: Viser denne siden.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form.png&#34;  width=&#34;&#34; /&gt;
-
-
- Tilknyttede meldinger: Viser de meldingene som er tilknyttet dette tiltaket. Mulighet til å koble til og koble fra fler og til å slette tiltaket for de brukerne som har rettighetene til det.&lt;/li&gt;
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;p&gt;Arkfanene brukes her til å velge hvilken status man vil se på.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Tiltaksbehandling: Laster denne siden på nytt igjen. Alle endringer du har gjordt uten å trykke lagre blir borte.&lt;/li&gt;
+&lt;li&gt;Under planlegging: Tiltak som ikke er satt igang.&lt;/li&gt;
+&lt;li&gt;Under gjennomføring: Tiltak som har fått tilordnet ansvarlig person for gjennomføring og er igangsatt.&lt;/li&gt;
+&lt;li&gt;Under godkjenning: Utførte tiltak som venter på godkjenning.&lt;/li&gt;
+&lt;li&gt;Godkjente tiltak: Godkjente tiltak.&lt;/li&gt;
+&lt;li&gt;Over frist&lt;/li&gt;
+&lt;li&gt;Søk: Avansert søk etter tiltak.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
