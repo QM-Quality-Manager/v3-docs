@@ -323,6 +323,115 @@
     </item>
     
     <item>
+      <title>Docs: Listeresultater</title>
+      <link>https://docs3.qmplus.com/docs/activity/tabs/list_results/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/tabs/list_results/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å finne frem til alle aktiviteter som har benyttet en bestemt liste i en gitt periode. Resultatene fra slike aktiviteter kan så vises i samme graf, både lagt sammen og sammenlignes.&lt;/p&gt;
+&lt;p&gt;Det som velges i nedfallsmenyer og datofeltene brukes her til å definere utvalget av aktiviteter som vises i tabellen nederst på siden.&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Valg av delplan:
+&lt;ul&gt;
+&lt;li&gt;Vis alle aktiviteter: Alle aktiviter uavhengig av delplan vises i tabellen.&lt;/li&gt;
+&lt;li&gt;&amp;lt;Navn på en delplan&amp;gt;: Kun aktiviter fra den valgte delplanen vises i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Valg av avdelinger:
+&lt;ul&gt;
+&lt;li&gt;Fylles ut på denne avdelingen: Kun aktiviteter i den valgte avdelingen i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Opprettet på underliggende avdelinger: Kun aktiviteter i underliggende avdelinger til den valgte avdelingen i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Opprettet på denne og underliggende avdelinger: Alle aktiviteter fra og med den valgte avdelingen i navigatoren vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Velg sjekkliste her: Inneholder de listene som er tilknyttet aktiviteter som tilfredsstiller valgene over. Trykk søk for å oppdatere innholdet i denne nedfallsmenyen. Når valgt liste endres her, enten ved at brukeren gjør et valg her eller fordi den valgte listen blir fjernet herfra på grunn av endringer i søkekriteriene over, blir listen over aktiviteter nedenfor automatisk oppdatert.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;datovalg&#34;&gt;Datovalg&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis aktiviteter for perioden: 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ åpner en kalender for datovalg.
+&lt;ul&gt;
+&lt;li&gt;Fra: Fra og med.&lt;/li&gt;
+&lt;li&gt;Til: Til og med.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Søk: Bruker valgene gjordt over til å oppdatere innholdet i valg av sjekklistenedfallsmenyen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Velg alle: Krysser av for alle aktivitetene i tabellen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis graf for valgte aktiviteter: Åpner grafen for de valgte aktivitetene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;aktivitetstabell&#34;&gt;Aktivitetstabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktivitetens navn: Navnet på aktiviteten.&lt;/li&gt;
+&lt;li&gt;Laget av: Navnet på brukeren som laget aktiviteten.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Navnet på avdelingen aktiviteten ble lagt opp på.&lt;/li&gt;
+&lt;li&gt;Periode: Fra og til dato aktiviteten var aktiv.&lt;/li&gt;
+&lt;li&gt;Avsluttet:
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Aktiviteten er ikke avsluttet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Aktiviteten er avsluttet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kommentarer: Antall kommentarer til denne aktiviteten. Trykk på denne for å vise Kommentarer til aktiviteten.&lt;/li&gt;
+&lt;li&gt;Vis i graf: Kryss av for den / de aktivitetene du vil ha med i grafen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Oppfølging</title>
       <link>https://docs3.qmplus.com/docs/activity/tabs/follow_up/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
@@ -645,11 +754,32 @@
     </item>
     
     <item>
-      <title>Docs: Utfylling og resultater</title>
-      <link>https://docs3.qmplus.com/docs/activity/tabs/fillingout_and_results/</link>
+      <title>Docs: Svar per bruker</title>
+      <link>https://docs3.qmplus.com/docs/activity/tabs/user_participation/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/activity/tabs/fillingout_and_results/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/tabs/user_participation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Svar per bruker viser alle ikke anonyme aktiviteter som den valgte brukeren skal delta i, sortert etter frist (de nyeste aktivitetene er øverst). Siden starter blank, velg bruker i nedfallsmenyen over tabellen for å se aktivitetene til den valgte brukeren. Trykk å en linje i tabellen for å åpne listen som skal fylles ut for denne aktiviteten, om den er ubesvart, eller se brukerens svar om den utfyllt.&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;h3 id=&#34;overskrifter-i-tabellen&#34;&gt;Overskrifter i tabellen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn på aktiviteten: Aktivitetens navn&lt;/li&gt;
+&lt;li&gt;Fullføres før: Frist&lt;/li&gt;
+&lt;li&gt;Gjennomført: Datoen aktiviteten ble besavrt første gang. &amp;ldquo;Ikke registrert&amp;rdquo; hvis aktiviteten er ubesvart.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Utfylling og resultater</title>
+      <link>https://docs3.qmplus.com/docs/activity/tabs/fill_out_and_results/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/tabs/fill_out_and_results/</guid>
       <description>
         
         

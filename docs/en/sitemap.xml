@@ -155,7 +155,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/tabs/activity_group/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-10T14:58:19+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -167,8 +167,8 @@
                 href="https://docs3.qmplus.com/en/docs/activity/tabs/activity_group/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/en/docs/activity/tabs/activity_plan/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/en/docs/main/tabs/activity_plan/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/tabs/activity_report_tab_worker/</loc>
     <lastmod>2022-11-10T13:46:36+02:00</lastmod>
@@ -205,9 +205,6 @@
     <loc>https://docs3.qmplus.com/en/docs/activity/annual_plan/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/en/docs/activity/tabs/archive/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
-  </url><url>
     <loc>https://docs3.qmplus.com/en/docs/archive/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
     <xhtml:link
@@ -219,6 +216,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://docs3.qmplus.com/en/docs/archive/"
+                />
+  </url><url>
+    <loc>https://docs3.qmplus.com/en/docs/main/tabs/archive/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/main/tabs/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/main/tabs/archive/"
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/other/attached_messages/</loc>
@@ -297,8 +307,18 @@
     <loc>https://docs3.qmplus.com/en/docs/archive/tabs/comments/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/en/docs/activity/tabs/comments_to_the_activity/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/en/docs/activity/functions/comments_to_the_activity/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/activity/functions/comments_to_the_activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/activity/functions/comments_to_the_activity/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/definitions/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -506,6 +526,16 @@
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/tabs/fill_out_and_results/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/activity/tabs/fill_out_and_results/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/activity/tabs/fill_out_and_results/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/list/functions/filling_out_a_list_form/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -641,6 +671,16 @@
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/functions/graphs_for_the_list/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/activity/functions/graphs_for_the_list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/activity/functions/graphs_for_the_list/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/document/tabs/hearing/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -718,6 +758,16 @@
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/tabs/list_results/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/activity/tabs/list_results/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/activity/tabs/list_results/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/archive/tabs/log/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -838,6 +888,16 @@
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/functions/periodic_activity_setup/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/activity/functions/periodic_activity_setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/activity/functions/periodic_activity_setup/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/tabs/planning/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -1214,6 +1274,16 @@
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/tabs/user_participation/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/activity/tabs/user_participation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/activity/tabs/user_participation/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/report/tabs/user_reports/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>

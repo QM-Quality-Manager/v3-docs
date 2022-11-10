@@ -272,11 +272,173 @@ Antall besvarelser før resultatet vises: Vises kun for anonyme aktiviteter: Lis
     </item>
     
     <item>
-      <title>Docs: Kommentarer til aktiviteten</title>
-      <link>https://docs3.qmplus.com/docs/activity/functions/activity_comment/</link>
+      <title>Docs: Grafer for listen</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/graphs_for_the_list/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/activity/functions/activity_comment/</guid>
+      <guid>https://docs3.qmplus.com/docs/activity/functions/graphs_for_the_list/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Ved å bruke Listeresultater kan resultatet fra flere aktiviteter som benytter samme liste vises og sammenlignes i samme bilde.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Overskrift: Sier hvilken liste som er brukt i aktiviteten. Trykk på denne for å vise kommentarer til aktiviteten for alle aktivitetene som er vist i denne siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aktiviteter vist i disse grafene: Liste over alle aktiviteter som inngår i grafene nedenfor. Vil kun være en med mindre man har brukt Listeresultater. Trykk på denne for å vise kommentarer til aktiviteten for den valgte aktiviteten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Avdelingsvalg:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fordelt på denne og underliggende avdelinger: Det blir vist en blå graf for resultatet fra den avdelingen som er valgt i navigatoren og en oransj graf for summen resultatene fra avdelingene under den valgte avdelingen.&lt;/li&gt;
+&lt;li&gt;Totalt for denne og underliggende avdelinger: Det blir vist en blå graf som er summen av resultatene i den valgte avdelingen og dens underliggende avdelinger.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Graftype:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vist som antall: Grafen viser resultatet som antall svar.&lt;/li&gt;
+&lt;li&gt;Vist i prosent: Grafen viser resultatet som en prosentandel av det totale antall besvarelser for det enkelte spørsmål. Hvis fordelt på denne og underliggende avdelinger er valgt, regnes det en prosentsats for den valgte avdelingen og en prosentsats for de underliggende avdelingene.
+&lt;ul&gt;
+&lt;li&gt;For spørreskjemaer regnes prosentsatsen for hvert svaralternativ utifra hvor mange som har besvart hvert enkelt spørsmål.&lt;/li&gt;
+&lt;li&gt;For sjekklister regnes prosentsatsen utifra alle som har besvart listen. Blanke svar er også med her.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vis som gjennomsnitt: Viser gjennomsnittsverdier for svarene. Dersom svaralternativene begynner med et tall, så skal det tallet brukes som vekting, hvis ikke får det første alternativet verdi 1, det neste 2 osv. Alternativer som begynner med tallet 0 regnes ikke med i snittverdien, hverken i summen eller for antall besvarelser det deles på. For alternativer som begynner med et tall vil snittverdien bli det utregnede tallet. For andre alternativer, vil det bli teksten på det alternativet som har indeks nærmest det utregnede tallet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;graf&#34;&gt;Graf&lt;/h3&gt;
+&lt;p&gt;Grafenes utseende avhenger av listetype.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sjekklister får en graf per spørsmål.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Risikoanalyser har en total risikomatrise over listen med spørsmål. En ekstra nedfallsmeny &amp;ldquo;Vis grafen&amp;rdquo; styrer om siden bruker antall eller gjennomsnittsvisning.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Antall: Totalmatrisen viser antall svar på spørsmålene i listen som faller innenfor hvert risikoområde. Hvert spørsmål i listen får en egen risikomatrise som viser fordelingen av svarene til det aktuelle spørsmålet. Til høyre for hver risikomatrise ligger the en tabell som viser fordelingen av svar til det aktuelle spørsmålet innenfor hver risikogruppe (rød,gul,grønn). Antall er forhåndsvalgt når man først åpner siden.&lt;/li&gt;
+&lt;li&gt;Gjennomsnitt: Totalmatrisen viser oversikt over antall spørsmål fordelt etter gjennomsnittsverdien av svarene til hvert spørsmål. Hvert spørsmål får to grafer som viser gjennomsnittsverdien for svar avgitt av brukere i avdelingen valgt i navigatoren (blått) og gjennomsnittsverdien for svar avgitt av brukere i avdelingen valgt i navigatoren (oransj).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Spørreskjemaer får en graf per svaralternativ.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;klikkfunksjonalitet&#34;&gt;Klikkfunksjonalitet&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Alle spørsmålene i listen kan trykkes på. Da får man opp kommentarer til aktiviteten for det valgte spørsmålet. Det gjør man også ved å trykke på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ ikonet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Klikk på aktivitetsnavnet eller det tilhørende 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ ikonet viser kommentarer til aktiviteten for den valgte aktiviteten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Klikk på listenavnet viser kommentarer til aktiviteten for alle aktiviteter i grafen. Normalt er det kun en aktivitet i grafen, men ved å bruke listeresultater kan man lage grafer som inneholder resultater fra flere aktiviteter samtidig.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alle grafer i tabellen kan trykkes på. Dette åpner brukere som har svart på elementet for det valgte spørsmålet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skjul resultatfilter: Viser eller skjuler resultatfilteret.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Når resultatfilteret er aktivisert kan man krysse av for de spørsmålene eller svaralternativer man vil filtrere på.&lt;/li&gt;
+&lt;li&gt;Kun besvarelser som tilfredsstiller alle avkryssningene vil være med i grafen etter at knappen Vis valgte resultater benyttes.&lt;/li&gt;
+&lt;li&gt;Resultatfilteret påvirker også hva som vises i kommentarer til aktiviteten og brukere som har svart på elementet.&lt;/li&gt;
+&lt;li&gt;Åpner også mulighet for å filtrere resultatet på en rolle tilknyttet den som har svart.&lt;/li&gt;
+&lt;li&gt;Om man velger en rolle i nedfallsmenyen, vil kun de brukerne som har den valgte rollen tilknyttet sin bruker, brukertype eller den avdelingen svaret er registrert på være med i resultatet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Send resultat: Åpner Send resultat for å publisere den grafen man ser på til andre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Skriver ut den aktive siden som .pdf fil.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Returnerer deg til siden du åpnet denne siden fra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut den aktive siden. Pass på at Skriv ut bakgrunnsfarger og bilder er krysset av i Alternativer for Internett / Avansert / Utskrift om du bruker Internet Explorer, Fil / Sideoppsett / Skriv ut bakgrunn (farger og bilder) i Mozilla Firefox. Hvis ikke blir ikke grafstolpene med i utskriften. Mozilla Firefox har i noen tilfeller problemer med å skrive ut skjermbilder som går over flere sider. Dette kan være avhengig av oppsett, men ser ut til å være et utbredt problem.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tiltak&#34;&gt;Tiltak&lt;/h3&gt;
+&lt;p&gt;For å lage tiltak til en aktivitet har man flere muligheter fra dette bildet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Åpne kommentarer til aktiviteten ved å trykke på et spørsmål, tittelen på aktiviteten eller tittelen for listen. Dette vil knytte tiltaket til de kommentarmeldingene som vises i denne siden. Dersom det ikke er noen kommentarmeldinger, vil tiltaket likevel knyttes til spørsmålet eller listen avhengig av hva man trykket på.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Åpne brukere som har svart på elementet ved å trykke på en graf. Dette gjør man om man vil lage et tiltak for de som har gitt et bestemt svar på et spørsmål.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hvilken side du går til, vil påvirke hva tiltaket tilknyttes. Så hva som er rett avhenger av om man ønsker at det skal være felles for hele listen, tilknyttes et enkelt spørsmål eller til et svaralternativ.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Kommentarer til aktiviteten</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/comments_to_the_activity/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/functions/comments_to_the_activity/</guid>
       <description>
         
         
@@ -446,6 +608,32 @@ for tiltak. Vises ikke for anonyme aktiviteter.&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;Utføres av: Hvem som skal gjennomføre tiltaket. Vises kun for tiltak.&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Oppsett av periodisk aktivitet</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/periodic_activity_setup/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/functions/periodic_activity_setup/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fra: Starttidspunkt for hele perioden. Kopiert fra endre aktivitet.&lt;/li&gt;
+&lt;li&gt;Til: Avsluttningstidspunkt for hele perioden. Kopiert fra endre aktivitet.&lt;/li&gt;
+&lt;li&gt;Hvor ofte skal aktiviteten gjennomføres: Her velges perioden. Trykk så på Velgknappen for å generere de ulike datoene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Etter at Velgknappen er trykket på kan de individuelle datoene justeres fritt. Kryss av i slettkolonnen dersom noen av datoene skal slettes. Trykk Lagre etter at alle endringer er utført.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Velg: Genererer de ulike datoene for den valgte perioden.&lt;/li&gt;
+&lt;li&gt;Lagre: Alle endringer i tabellen lagres.&lt;/li&gt;
+&lt;li&gt;Lukk: Sender deg tilbake til Aktiviteter.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

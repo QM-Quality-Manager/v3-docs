@@ -15,6 +15,144 @@
     
     
     <item>
+      <title>Docs: Comments to the activity</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/functions/comments_to_the_activity/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/functions/comments_to_the_activity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Used for viewing all the comment messages, actions and reports for an activity or a question.&lt;/p&gt;
+&lt;h3 id=&#34;headings&#34;&gt;Headings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The headline says for which activity or activities are the data shown in the table below.&lt;/li&gt;
+&lt;li&gt;The smaller heading &amp;ldquo;Concerning question&amp;rdquo; below says for which question in the list are the data shown in the table below. If this heading is not here, the data for the whole list is displayed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show comments / actions: Document type selection.
+&lt;ul&gt;
+&lt;li&gt;Show comments: Comment messages are shown in the table.&lt;/li&gt;
+&lt;li&gt;Show actions: Actions are shown in the table.&lt;/li&gt;
+&lt;li&gt;Show reports: Activity reports are shown in the table. Not included in the standard version.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Action location selection: Appears only when &amp;ldquo;Show actions&amp;rdquo; is selected in the first drop-down menu.
+&lt;ul&gt;
+&lt;li&gt;Actions registered on: Takes into account only the department on which the action is registered. This is the department that the user had selected in the Navigator when &amp;ldquo;Create new action&amp;rdquo; was pressed.&lt;/li&gt;
+&lt;li&gt;Actions with executors from: Takes into account only the department on which those that are set up to perform the action are registered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Department selection: Appears only when &amp;ldquo;Show actions&amp;rdquo; is selected in the first drop-down menu.
+&lt;ul&gt;
+&lt;li&gt;This department: Only cases that belong to the department which is selected in the Navigator appear in the table.&lt;/li&gt;
+&lt;li&gt;This and subordinate departments: Cases that belong to the department which is selected in the Navigator or to its subordinate departments appear in the table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show as pdf: Opens the Option page for reports, from which you can create a report with the related comment messages. This is intended for paper printing.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Expanded view / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Table: Switch between the expanded and the table view. The table gives a compact description of the comment messages intended for use when working with them. The expanded view gives a more complete description of the comment messages, similar to the printer friendly (.pdf) version.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the active window.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Report.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Report: Create a new report for this activity. Not included in the standard version.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Create new action: Creates a new action for the element in the list that is described by the headlines.
+&lt;ul&gt;
+&lt;li&gt;If &amp;ldquo;Show comments&amp;rdquo; is selected in the first drop-down menu, all selected comments in the table below will be attached to the new action. All comments are preselected. Click on the checkbox on the column header (next to &amp;ldquo;Select&amp;rdquo;) to select or deselect all comments at the same time or click on specific comments to (de)select them one at a time.&lt;/li&gt;
+&lt;li&gt;If &amp;ldquo;Show actions&amp;rdquo; is selected in the first drop-down menu, the new action will be blank and will be attached to a &amp;ldquo;dummy&amp;rdquo; message which will not be editable and will not be used otherwise. You can use this when you need to create an action for a question to which no comments were added.&lt;/li&gt;
+&lt;li&gt;The button does not appear when &amp;ldquo;Show reports&amp;rdquo; is selected in the first drop-down menu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Sends you back to the page you came from.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Sort on this column.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: The table is sorted on this column.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: If there are several pages, scroll forward.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: If there are several pages, scroll backward.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;table&#34;&gt;Table&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;+: Hold the cursor over this field to get extended information about the case, including its history.&lt;/li&gt;
+&lt;li&gt;Registered: When was the case registered.&lt;/li&gt;
+&lt;li&gt;Due: The deadline for the case. Does not appear when &amp;ldquo;Show actions&amp;rdquo; is selected in the first drop-down menu.&lt;/li&gt;
+&lt;li&gt;Question: The question for which the comment was written. Does not appear when &amp;ldquo;Show actions&amp;rdquo; is selected in the first drop-down menu.&lt;/li&gt;
+&lt;li&gt;Comment: Text written from the user as a comment to this question. Does not appear when &amp;ldquo;Show actions&amp;rdquo; is selected in the first drop-down menu.&lt;/li&gt;
+&lt;li&gt;Priority: Does not appear when &amp;ldquo;Show actions&amp;rdquo; is selected in the first drop-down menu.&lt;/li&gt;
+&lt;li&gt;Status: The status of the action or comment message.&lt;/li&gt;
+&lt;li&gt;Operative department: The department by which the comment is being processed. Does not appear when &amp;ldquo;Show actions&amp;rdquo; is selected in the first drop-down menu. Does not show for anonymous activities.&lt;/li&gt;
+&lt;li&gt;Select: When you press the &amp;ldquo;Create new action&amp;rdquo; button, the state of the checkbox determines if the new action will be attached to the current comment (selected) or not (not selected). Appears only when &amp;ldquo;Show comments&amp;rdquo; is selected in the first drop-down menu.&lt;/li&gt;
+&lt;li&gt;Action name: Appears only when &amp;ldquo;Show actions&amp;rdquo; is selected in the first drop-down menu.&lt;/li&gt;
+&lt;li&gt;Executor: Who will execute the action. Appears only when &amp;ldquo;Show actions&amp;rdquo; is selected in the first drop-down menu.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Edit activity</title>
       <link>https://docs3.qmplus.com/en/docs/activity/functions/edit_activity/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>

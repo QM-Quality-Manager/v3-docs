@@ -149,32 +149,6 @@
     </item>
     
     <item>
-      <title>Docs: Oppsett av periodisk aktivitet</title>
-      <link>https://docs3.qmplus.com/docs/activity/periodic_activity_setup/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/activity/periodic_activity_setup/</guid>
-      <description>
-        
-        
-        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fra: Starttidspunkt for hele perioden. Kopiert fra endre aktivitet.&lt;/li&gt;
-&lt;li&gt;Til: Avsluttningstidspunkt for hele perioden. Kopiert fra endre aktivitet.&lt;/li&gt;
-&lt;li&gt;Hvor ofte skal aktiviteten gjennomføres: Her velges perioden. Trykk så på Velgknappen for å generere de ulike datoene.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Etter at Velgknappen er trykket på kan de individuelle datoene justeres fritt. Kryss av i slettkolonnen dersom noen av datoene skal slettes. Trykk Lagre etter at alle endringer er utført.&lt;/p&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Velg: Genererer de ulike datoene for den valgte perioden.&lt;/li&gt;
-&lt;li&gt;Lagre: Alle endringer i tabellen lagres.&lt;/li&gt;
-&lt;li&gt;Lukk: Sender deg tilbake til Aktiviteter.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Årshjul</title>
       <link>https://docs3.qmplus.com/docs/activity/year_wheel/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
