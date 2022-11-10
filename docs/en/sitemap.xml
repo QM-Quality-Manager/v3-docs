@@ -74,7 +74,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/action/tabs/search/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-10T13:46:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -154,14 +154,34 @@
                 href="https://docs3.qmplus.com/en/docs/activity/activity/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/en/docs/activity/activity_group/</loc>
+    <loc>https://docs3.qmplus.com/en/docs/activity/tabs/activity_group/</loc>
     <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/activity/tabs/activity_group/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/activity/tabs/activity_group/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/tabs/activity_plan/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/tabs/activity_report_tab_worker/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-10T13:46:36+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/activity/tabs/activity_report_tab_worker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/activity/tabs/activity_report_tab_worker/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/admin/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -1226,6 +1246,16 @@
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/functions/users_that_have_answered_the_element/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/activity/functions/users_that_have_answered_the_element/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/activity/functions/users_that_have_answered_the_element/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/document/tabs/version_overview/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
