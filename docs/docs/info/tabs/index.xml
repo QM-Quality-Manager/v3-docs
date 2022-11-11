@@ -15,6 +15,26 @@
     
     
     <item>
+      <title>Docs: Favorittdokumenter</title>
+      <link>https://docs3.qmplus.com/docs/info/tabs/favorite_documents/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/info/tabs/favorite_documents/</guid>
+      <description>
+        
+        
+        &lt;p&gt;For å kunne se denne arkfanen må brukeren ha systemrollen &amp;ldquo;Info_Favorittdokumenter&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Denne siden inneholder en alfabetisk oversikt over alle dokumenter brukeren har merket som favoritter under Info. Når musepekeren holdes over et dokument vil ikonet &amp;ldquo;Ta vekk fra favoritter&amp;rdquo; 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Heart_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ vises. Ved å klikke på dette ikonet vil aktuelt dokument fjernes fra denne siden.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Mål</title>
       <link>https://docs3.qmplus.com/docs/info/tabs/goals/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>

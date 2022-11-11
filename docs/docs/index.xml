@@ -292,10 +292,10 @@
     
     <item>
       <title>Docs: Alternativer for dokumenter</title>
-      <link>https://docs3.qmplus.com/docs/document/tabs/alternatives_for_documents/</link>
+      <link>https://docs3.qmplus.com/docs/document/option_page_for_documents/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/tabs/alternatives_for_documents/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/option_page_for_documents/</guid>
       <description>
         
         
@@ -881,10 +881,10 @@ g. Trykk på
     
     <item>
       <title>Docs: Behandling</title>
-      <link>https://docs3.qmplus.com/docs/archive/tabs/process/</link>
+      <link>https://docs3.qmplus.com/docs/message/tabs/message_process/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/archive/tabs/process/</guid>
+      <guid>https://docs3.qmplus.com/docs/message/tabs/message_process/</guid>
       <description>
         
         
@@ -1112,10 +1112,10 @@ g. Trykk på
     
     <item>
       <title>Docs: Besvar høring</title>
-      <link>https://docs3.qmplus.com/docs/document/tabs/hearing_info/</link>
+      <link>https://docs3.qmplus.com/docs/document/tabs/reply_to_hearing/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/tabs/hearing_info/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/tabs/reply_to_hearing/</guid>
       <description>
         
         
@@ -2107,10 +2107,10 @@ g. Trykk på
     
     <item>
       <title>Docs: Dokumenter undermeny</title>
-      <link>https://docs3.qmplus.com/docs/document/tabs/document_submenu/</link>
+      <link>https://docs3.qmplus.com/docs/document/tabs/documents_submenu/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/tabs/document_submenu/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/tabs/documents_submenu/</guid>
       <description>
         
         
@@ -2304,10 +2304,10 @@ Date.png: Gir informasjon om siste Lest og forstått aktivitet for dokumentet.&l
     
     <item>
       <title>Docs: Dokumenter undermeny meldingsskjema</title>
-      <link>https://docs3.qmplus.com/docs/document/tabs/document_submenu_form/</link>
+      <link>https://docs3.qmplus.com/docs/forms/tabs/document_submenu_message_form/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/tabs/document_submenu_form/</guid>
+      <guid>https://docs3.qmplus.com/docs/forms/tabs/document_submenu_message_form/</guid>
       <description>
         
         
@@ -2865,10 +2865,10 @@ Antall besvarelser før resultatet vises: Vises kun for anonyme aktiviteter: Lis
     
     <item>
       <title>Docs: Endre data for dokumentet</title>
-      <link>https://docs3.qmplus.com/docs/document/functions/change_document_data/</link>
+      <link>https://docs3.qmplus.com/docs/document/functions/edit_document_data/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/functions/change_document_data/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/functions/edit_document_data/</guid>
       <description>
         
         
@@ -2972,126 +2972,6 @@ Antall besvarelser før resultatet vises: Vises kun for anonyme aktiviteter: Lis
     </item>
     
     <item>
-      <title>Docs: Endre data for dokumentet</title>
-      <link>https://docs3.qmplus.com/docs/document/functions/change_link/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/document/functions/change_link/</guid>
-      <description>
-        
-        
-        &lt;h3 id=&#34;infopng-hva-kan-jeg-gjøre-her&#34;&gt;Info.png Hva kan jeg gjøre her?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Som superbruker/leder kan jeg legge inn nye dokumenter.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Jeg kan velge om dokumentet skal hentes fra egen database: Klikk &amp;ldquo;Link&amp;rdquo;, eller fra en fil: Klikk &amp;ldquo;Fil&amp;rdquo;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Eller jeg kan skrivet dokumentet i redigeringsmodulen. Klikk arkfanen &amp;ldquo;Dokumentinnhold&amp;rdquo;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
- Dokumentdata: Brukes til å redigere dokumentdata. Dette er første siden som vises når man lager et nytt dokument.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
- Dokumentinnhold: Vises bare dersom dokumenttypen &amp;ldquo;Skriv et dokument&amp;rdquo; er valgt. Brukes dersom man ønsker å skrive et dokument rett inn i Qm+. Dokumentet blir lagret som et htmldokument og har en del formateringsmuligheter. Tekstredigeringsfeltet benytter TinyMCE.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
-
-
- Prosesskartoppsett: Vises bare dersom dokumenttypen &amp;ldquo;Prosesskart&amp;rdquo; er valgt og dokumentet er lagret minst en gang. Brukes for å definere de ulike feltene i et prosesskart.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Group.png&#34;  width=&#34;&#34; /&gt;
-
-
- Rolleoversikt: Brukes til å tilknytte roller.
-Folder_link.png Versjonsoversikt: Viser oversikt over alle versjoner, med dokumentet på det gjeldende tidspunkt, når det ble endret og hvem som utførte endringen.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Telephone_link.png&#34;  width=&#34;&#34; /&gt;
-
-
- Høring / Godkjenning: Brukes for å opprette nye høringer, bestemme hvem som skal delta og godkjenne.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Date.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lest og forstått: Viser oversikt med status for alle Lest og forstått aktiviteter dokumentet har hatt.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_code.png&#34;  width=&#34;&#34; /&gt;
-
-
- Revisjonsoversikt : Viser oversikt over alle revisjoner dokumentet har vært gjennom.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Image_link.png&#34;  width=&#34;&#34; /&gt;
-
-
- Referanseoversikt&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc_multiple.png&#34;  width=&#34;&#34; /&gt;
-
-
- Opprett ny versjon: Lager en ny versjon for dokumentet.
-&lt;ul&gt;
-&lt;li&gt;Eksempel: Et dokument i versjon 3.14 vil ved å bruke denne knappen få versjon 4.1.&lt;/li&gt;
-&lt;li&gt;Er ment brukt før det skal gjøres større endringer i dokumentet.&lt;/li&gt;
-&lt;li&gt;Vises kun for dokumenter som er lagret minst en gang.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre: Lagrer endringene utført i feltene.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Endre dato</title>
       <link>https://docs3.qmplus.com/docs/activity/functions/edit_date/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
@@ -3127,10 +3007,10 @@ Folder_link.png Versjonsoversikt: Viser oversikt over alle versjoner, med dokume
     
     <item>
       <title>Docs: Endre dokumentarkfane</title>
-      <link>https://docs3.qmplus.com/docs/document/functions/change_document_tab/</link>
+      <link>https://docs3.qmplus.com/docs/document/functions/edit_document_tab/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/functions/change_document_tab/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/functions/edit_document_tab/</guid>
       <description>
         
         
@@ -3192,10 +3072,10 @@ Folder_link.png Versjonsoversikt: Viser oversikt over alle versjoner, med dokume
     
     <item>
       <title>Docs: Endre dokumentgruppe</title>
-      <link>https://docs3.qmplus.com/docs/document/functions/change_document_group/</link>
+      <link>https://docs3.qmplus.com/docs/document/functions/edit_document_group/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/functions/change_document_group/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/functions/edit_document_group/</guid>
       <description>
         
         
@@ -4160,6 +4040,80 @@ Page.png Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man
 
  Lukk: Lukker endre listeinnhold og returnerer til siden man kom fra - sjekklister, risikoanalyser eller spørreskjemaer.&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre svaralternativgruppe</title>
+      <link>https://docs3.qmplus.com/docs/list/functions/change_answer_group_alternatives/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/list/functions/change_answer_group_alternatives/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å redigere svaralternativgrupper.&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Språk: Svaralternativene i en svaralternativgruppe kan legges inn en gang for hvert språk som er aktivert i systemet.&lt;/li&gt;
+&lt;li&gt;Svaralternativgruppeoversikt: Hver svaralternativgruppe tilhører en Svaralternativgruppeoversikt. Her kan du velge hvilken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Viser denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Nytt svaralternativ: Åpner et tekstfelt der navnet på et nytt svaralternativ kan skrives inn.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slett svaralternativ: Vises kun når et svaralternativ er valgt.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene du har gjordt. Bruk denne etter at du har skrevet inn et nytt eller endret et svaralternativ.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker denne siden og sender deg tilbake til svaralternativgrupper eller endre svaralternativer avhengig av hvor man kom fra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabell&#34;&gt;Tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Trykk på teksten til et svaralternativ for å velge dette. Raden i tabellen blir da markert med rødt. Nå kan du redigere teksten eller bruke Slett svaralternativ knappen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/SmallArrowUpFilled.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Flytt dette svaralternativet oppover i svaralternativgruppen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/SmallArrowDownFilled.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Flytt dette svaralternativet nedover i svaralternativgruppen.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

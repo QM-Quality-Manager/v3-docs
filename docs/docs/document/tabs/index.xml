@@ -15,99 +15,11 @@
     
     
     <item>
-      <title>Docs: Alternativer for dokumenter</title>
-      <link>https://docs3.qmplus.com/docs/document/tabs/alternatives_for_documents/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/document/tabs/alternatives_for_documents/</guid>
-      <description>
-        
-        
-        &lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Inkluder underdokumenter. Forhåndsvalgt.&lt;/li&gt;
-&lt;li&gt;Kun hoveddokumentet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lag rapport: Lager rapporten med de valgte opsjoner. Vær oppmerksom på at du ikke må lukke denne siden før rapporten er ferdig, ellers vil du ikke få rapporten opp. Etter at rapporten åpner, kan du enten lage en ny rapport med andre opsjoner eller lukke denne siden.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Lukker Alternativer for dokumenter.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
-
-
- Hjelp: Åpner denne siden.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;besvar-høring&#34;&gt;Besvar høring&lt;/h1&gt;
-&lt;p&gt;Besvar høring er en arkfane som vises under Table multiple.png Info når en høring skal besvares. Denne siden kan åpnes fra Innboks for de som skal utføre den og fra endre data for dokumentet under Admin/Dokumenter for brukere med tilgang dit.&lt;/p&gt;
-&lt;p&gt;Denne siden brukes til å besvare en høring. Brukere som gar fått ansvar for å delta i høringen kan besvare den og gi sine kommentarer. Høringens status kan endres av den som har fått tildelt ansvaret for å godkjenne den.&lt;/p&gt;
-&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Dokument: Lenke som åpner selve dokumentet. Nummer og versjon for dokumentet høringen er tilknyttet.&lt;/li&gt;
-&lt;li&gt;Ansvarlig for godkjenning av dokumentet: Den som skal godkjenne høringen og kan endre status på den.&lt;/li&gt;
-&lt;li&gt;Status: Status. Kan ha verdiene Ute på høring, Til godkjenning og godkjent.&lt;/li&gt;
-&lt;li&gt;Høringsnummer: Løpenummer for alle høringer i systemet.&lt;/li&gt;
-&lt;li&gt;Opprettet: Opprettelsestidspunkt.&lt;/li&gt;
-&lt;li&gt;Ansvarlig for høringen: Den som har opprettet høringen.&lt;/li&gt;
-&lt;li&gt;Høringsfrist.&lt;/li&gt;
-&lt;li&gt;Mitt svar til høringen: brukes av de som skal delta i høringen for å gi tilbakemelding på dokumentet.&lt;/li&gt;
-&lt;li&gt;Høringens status: brukes av den som er ansvarlig for godkjenning til å endre status på høringen.&lt;/li&gt;
-&lt;li&gt;Kommentar: Tekstfelt som kan brukes av alle med tilgang til høringen.&lt;/li&gt;
-&lt;li&gt;Mitt svar: Meny for å velge hvem som skal motta beskjeden skrevet i fletet Kommentar.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre: Lagrer endringer du har gjordt i bildet. Dersom du har skrevet en kommentar blir den sendt på den måten du har valgt i Mitt svar.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Lukker dette bildet og tar deg tilbake dit du var.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
-
-
- Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
-
-
- Hjelp: Åpner denne siden.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tabeller&#34;&gt;Tabeller&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Deltakere i høringen: Oversikt over de som skal besvare høringen, hva de har svart og når de sist endret svaret sitt.&lt;/li&gt;
-&lt;li&gt;Kommentarer til høringen: Alle kommentarer laget til høringen.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Besvar høring</title>
-      <link>https://docs3.qmplus.com/docs/document/tabs/hearing_info/</link>
+      <link>https://docs3.qmplus.com/docs/document/tabs/reply_to_hearing/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/tabs/hearing_info/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/tabs/reply_to_hearing/</guid>
       <description>
         
         
@@ -225,10 +137,10 @@
     
     <item>
       <title>Docs: Dokumenter undermeny</title>
-      <link>https://docs3.qmplus.com/docs/document/tabs/document_submenu/</link>
+      <link>https://docs3.qmplus.com/docs/document/tabs/documents_submenu/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/tabs/document_submenu/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/tabs/documents_submenu/</guid>
       <description>
         
         
@@ -421,35 +333,6 @@ Date.png: Gir informasjon om siste Lest og forstått aktivitet for dokumentet.&l
     </item>
     
     <item>
-      <title>Docs: Dokumenter undermeny meldingsskjema</title>
-      <link>https://docs3.qmplus.com/docs/document/tabs/document_submenu_form/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/document/tabs/document_submenu_form/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Denne siden brukes for å administrere dokumentene i meldingsskjemaet.
-Legg dokumenter til skjemaet&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dokumentarkfane: Valg av dokumentarkfane. Kun dokumenter tilhørende dokumentarkfanen valgt her vises i valgboksen under.&lt;/li&gt;
-&lt;li&gt;Dokument: Velg dokumentet du vil legge til meldingsskjemaet og trykk deretter på knappen 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Legg til. Hvis du vil fjerne et dokument fra meldingsskjemaet, trykk på det tilhørende slettikonet 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
-.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Dokumentgrupper</title>
       <link>https://docs3.qmplus.com/docs/document/tabs/document_groups/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
@@ -487,26 +370,6 @@ Legg dokumenter til skjemaet&lt;/p&gt;
 : Deaktiverer eller aktiverer dokumentgruppen avhengig av om man man står i Aktive dokumentgrupper eller Deaktiverte dokumentgrupper.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Favorittdokumenter</title>
-      <link>https://docs3.qmplus.com/docs/document/tabs/favorites/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/document/tabs/favorites/</guid>
-      <description>
-        
-        
-        &lt;p&gt;For å kunne se denne arkfanen må brukeren ha systemrollen &amp;ldquo;Info_Favorittdokumenter&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Denne siden inneholder en alfabetisk oversikt over alle dokumenter brukeren har merket som favoritter under Info. Når musepekeren holdes over et dokument vil ikonet &amp;ldquo;Ta vekk fra favoritter&amp;rdquo; 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Heart_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- vises. Ved å klikke på dette ikonet vil aktuelt dokument fjernes fra denne siden.&lt;/p&gt;
 
       </description>
     </item>
@@ -586,10 +449,10 @@ Legg dokumenter til skjemaet&lt;/p&gt;
     
     <item>
       <title>Docs: Revisjonsoversikt</title>
-      <link>https://docs3.qmplus.com/docs/document/tabs/revision_overview/</link>
+      <link>https://docs3.qmplus.com/docs/document/tabs/audit_overview/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/tabs/revision_overview/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/tabs/audit_overview/</guid>
       <description>
         
         
@@ -604,16 +467,21 @@ Legg dokumenter til skjemaet&lt;/p&gt;
 &lt;li&gt;Frist. Tidspunkt for frist for revisjonen.&lt;/li&gt;
 &lt;li&gt;Avsluttet. Tidspunkt for når revisjonen ble avsluttet. Ellers blank.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;versjonsoversikt&#34;&gt;Versjonsoversikt&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
 
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder_link.png&#34;  width=&#34;&#34; /&gt;
-
-
- Versjonsoversikt: Arkfane under endre data for dokumentet. Brukes til å gi en oversikt over alle versjoner av dokumentet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tabell-1&#34;&gt;Tabell&lt;/h3&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Versjonsoversikt</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/version_overview/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/version_overview/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å gi en oversikt over alle versjoner av dokumentet.&lt;/p&gt;
+&lt;h3 id=&#34;tabell&#34;&gt;Tabell&lt;/h3&gt;
 &lt;p&gt;Tabellen har en rad per Versjon (Hovedversjon) dokumentet har vært gjennom.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Navn: Navn på dokumentet for denne versjonen.&lt;/li&gt;
