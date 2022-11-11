@@ -15,6 +15,21 @@
     
     
     <item>
+      <title>Docs: Aktivitetsrapport</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/activity_report/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/functions/activity_report/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En aktivitetsrapport kan brukes til å skrive en sluttrapport for en aktivitet. Aktivitetsrapporten skrives ved å trykke på Rapportknappen i Kommentarer til aktiviteten. Hvilket meldingsskjema som blir benyttet i aktivitetsrapporten bestemmes i endre listeinformasjon.&lt;/p&gt;
+&lt;p&gt;Aktivitetsrapporter er ikke med i standardversjonen og må derfor bestilles spesielt.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Brukere som har svart på elementet</title>
       <link>https://docs3.qmplus.com/docs/activity/functions/users_that_have_answered_the_element/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>

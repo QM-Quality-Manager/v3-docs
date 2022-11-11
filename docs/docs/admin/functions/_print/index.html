@@ -159,7 +159,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>1: <a href="#pg-9a4d0479d3ff5b2140308ef07bd91088">Endre bruker</a></li>
+<li>1: <a href="#pg-1f01b978ae692592db7442a7365132ff">Endre kategori</a></li>
 
 
     
@@ -183,7 +183,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>4: <a href="#pg-5f024a4a26fb9fd62de46ec76baaacf7">Endre rolle</a></li>
+<li>4: <a href="#pg-966e176f4c3422521fbad4a13e43c31d">Endre rolle</a></li>
 
 
     
@@ -191,7 +191,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>5: <a href="#pg-0ad62ea1f547c2a50b4d599ae9cf0429">Endre rollegruppe</a></li>
+<li>5: <a href="#pg-7491c2e9fa893045b34571f1b34e415e">Endre rollegruppe</a></li>
 
 
     
@@ -199,7 +199,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>6: <a href="#pg-438e5a7ba396e5a4dd118c74bbcb0ea4">Rediger avdeling</a></li>
+<li>6: <a href="#pg-115bd192604bd68465ba013ff76aebee">Rediger avdeling</a></li>
 
 
     
@@ -231,107 +231,70 @@ This the multi-page printable view of this section.
 
 <div class="td-content" style="">
     
-	<h1 id="pg-9a4d0479d3ff5b2140308ef07bd91088">1 - Endre bruker</h1>
-    <div class="lead">Funksjon under brukere for å endre data om brukere.</div>
-	<h3 id="felter">Felter</h3>
+	<h1 id="pg-1f01b978ae692592db7442a7365132ff">1 - Endre kategori</h1>
+    <div class="lead">Endre kategori er en funksjon under Kategorier.</div>
+	<p>Her vedlikeholdes data om kategorier.</p>
+<h3 id="hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her">
+
+  <img src="https://docs3.qmplus.com/images/Info.png"  width="" />
+
+
+ Hva kan jeg gjøre her?</h3>
 <ul>
 <li>
-<p>Brukernavn: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver. Må være unik for hver kunde.</p>
+<p>Kategori-arkfanen gir meg muligheter for å legge inn nye eller gjøre forandringer i Kategorier. (Skal senere inn i et meldingsskjema.)</p>
+<ol>
+<li>Velg Kategorigruppe, deretter</li>
+<li>skriv navnet på den nye kategorien, eventuelt</li>
+<li>predefinere kostnad (som automatisk skal gis ved et klikk i denne).</li>
+<li>Du kan bestemme fra hvilken avdeling (navigatoren) den skal være synlig i meldingsskjemaet.</li>
+</ol>
 </li>
-<li>
-<p>Avdeling / Type. Dette feltet angir brukerens tilgang til systemet.
-Avdelingen brukeren tilhører.</p>
-<ul>
-<li>Dersom avdelingstilknyttingen er markert med Server connect.png, kan den ikke slettes. Det er lov å endre avdeling og brukertype. Bare aktuelt for kunder med AD / LDAP integrering.</li>
-<li>Type: Brukerens brukertype.</li>
-<li>Vikar: Vikarfunksjonen gir mulighet for en definert bruker til å logge inn med samme tilgangsrettigheter som tilgangen man er vikar for. Det kan settes en vikar for hver tilgang en bruker har. For hver tilgang en bruker har:
-<ul>
-<li>Dersom det er satt opp en vikar for tilgangen vises navnet på vikaren. Trykk på navnet for å endre eller ta bort vikaren.</li>
-<li>Dersom det ikke er definert en vikar, vises en knapp for å sette vikar.</li>
 </ul>
+<p>NB! Samme meldingsskjemaet kan ha ulikt innhold avhengig av hvilket sted i navigatoren du har valg! Ønsker du en pop-up for denne kategorien: Skriv denne i Informasjon-tekstfeltet.</p>
+<h3 id="felter">Felter</h3>
+<ul>
+<li>
+<p>Vis for språket: Brukes for å velge språket navnet på Kategorigruppen skal redigeres for. Vises bare for kunder som har flere aktive språk.</p>
 </li>
+<li>
+<p>Kategorigruppe: Kategoriens gruppe. Kategoriegryppens Kategorigruppetype bestemmer hvordan denne kategorien vil se ut i et meldingsskjema. En beskrivende tekst nederst i dette skjermbildet beskriver den valgte kategorigruppetypen</p>
+</li>
+<li>
+<p>Kategorinavn: Navnet som blir brukt til å representere kategorien. En kategori kan ha et navn per aktive språk i systemet.</p>
+</li>
+<li>
+<p>Prioritet: Lav, Middels, Høy. Den forhåndsdefinerte prioriteten til en kategori. Kan overstyres av den som fyller ut et meldingsskjema. En meldings prioritet blir den høyeste prioriteten til de avkryssede kategoriene med mindre den blir overstyrt av brukeren.</p>
+</li>
+<li>
+<p>Kostnad: Den forhåndsdefinerte kostnaden for en kategori. Kan overstyres av den som fyller ut et meldingsskjema. En meldings kostnad blir summen av kostnadene til de avkryssede kategoriene, med mindre den overstyres av brukeren. Kostnadsfunksjonaliteten kan fjernes for de som ønsker det.</p>
+</li>
+<li>
+<p>Fra avdeling: Kategorien er tilgjengelig fra og med den valgte avdelingen.</p>
+</li>
+<li>
+<p>Tilknyttet dokument: Et dokument som vil aktiveres dersom man trykker på kategorien i meldingsskjemaet</p>
+</li>
+<li>
+<p>Informasjon: Tekstfelt som blir synlig når man holder pekeren over kategorien i meldingsskjemaet</p>
+</li>
+<li>
+<p>Risikodata: Vises kun for kategorier som tilhører en kategorigruppe med Kategorigruppetypen risiko. Brukes for å sette ulike akseptansekriterier for ulike risikokategorier.</p>
+<ul>
+<li>Start gult risikoområde: Oversikter for denne kategorien vil gi gul risikoverdi fra og med denne risikoverdien.</li>
+<li>Start rødt risikoområde: Oversikter for denne kategorien vil gi rød risikoverdi fra og med denne risikoverdien.</li>
 </ul>
-</li>
-<li>
-<p>Passord: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver.</p>
-</li>
-<li>
-<p>Gjenta passord: Må være lik passordfeltet for å få lagret brukeren.</p>
-</li>
-<li>
-<p>Fornavn: Brukerens fornavn.</p>
-</li>
-<li>
-<p>Mellomnavn: Brukerens mellomnavn.</p>
-</li>
-<li>
-<p>Etternavn: Brukerens etternavn.</p>
-</li>
-<li>
-<p>E-postadresse: Brukerens e-postadresse. En del funksjonalitet i systemet er knyttet opp mot brukerens e-postadresse. Det er derfor en fordel at hver bruker har en unik e-postadresse.</p>
-</li>
-<li>
-<p>Språk: Valg av visningsspråk for brukeren. Tilgjenglige språk i systemet: norsk (bokmål), norsk (nynorsk), engelsk, svensk og dansk (ikke oversatt rammeverk for dansk). Språkene tilgjenglige for den enkelte kunde vil variere.</p>
-</li>
-<li>
-<p>Mobilnummer: Kan brukes for utsendelse av SMS dersom SMS er aktivert.</p>
-</li>
-<li>
-<p>Kommentar: Fritekstfelt for ytteligere informasjon om brukeren.</p>
 </li>
 </ul>
 <h3 id="knapper">Knapper</h3>
 <ul>
-<li>
-<p>Add.png Legg til avdeling: Legg en avdeling til brukeren. Det er mulig å tilordne flere avdelinger til hver bruker. For hver avdeling brukeren hører til, må brukeren ha en tilhørende brukertype. Brukere som tilhører flere avdelinger må velge hvilken avdeling de ønsker å logge seg på i innloggingssiden.</p>
-</li>
-<li>
-<p>
-
-  <img src="https://docs3.qmplus.com/images/Delete.png"  width="" />
-
-
- Slett avdeling: Sletter valgt avdeling fra brukeren. Vises kun for brukere som tilhører flere avdelinger.</p>
-</li>
-<li>
-<p>
-
-  <img src="https://docs3.qmplus.com/images/User_go.png"  width="" />
-
-
- Sett vikar: Åpner muligheten til å sette vikar for en brukertilgang.</p>
-</li>
-<li>
-<p>
-
-  <img src="https://docs3.qmplus.com/images/Accept.png"  width="" />
-
-
- Lagre</p>
-</li>
-<li>
-<p>
-
-  <img src="https://docs3.qmplus.com/images/Cancel.png"  width="" />
-
-
- Avbryt</p>
-</li>
-<li>
-<p>
-
-  <img src="https://docs3.qmplus.com/images/Delete.png"  width="" />
-
-
- Slette</p>
-</li>
 <li>
 <p>
 
   <img src="https://docs3.qmplus.com/images/Tick.png"  width="" />
 
 
- Lagre: Lagrer endringer gjordt i feltene.</p>
+ Lagre: Lagrer endringene utført i feltene.</p>
 </li>
 <li>
 <p>
@@ -341,42 +304,6 @@ Avdelingen brukeren tilhører.</p>
 
  Lukk: Tar deg tilbake til siden du kom fra.</p>
 </li>
-<li>
-<p>
-
-  <img src="https://docs3.qmplus.com/images/Cog_add.png"  width="" />
-
-
- Vis / 
-
-  <img src="https://docs3.qmplus.com/images/Cog_delete.png"  width="" />
-
-
- Fjern avanserte muligheter: De avanserte mulighetene vises eller skjules.</p>
-</li>
-</ul>
-<h3 id="avanserte-muligheter">Avanserte muligheter</h3>
-<p>Dette er ting som kommer opp når knappen Vis avanserte muligheter brukes. De avanserte mulighetene fjernes ved å bruke knappen Fjern avanserte muligheter.</p>
-<h4 id="felter-1">Felter</h4>
-<ul>
-<li>Brukerens roller: De rollene som er tilknyttet denne brukeren.</li>
-<li>Rollebank: De rollene som ikke er tilknyttet denne brukeren.</li>
-</ul>
-<h4 id="knapper-1">Knapper</h4>
-<ul>
-<li>&laquo; Legg til: Legger de valgte rollene i Rollebanken til brukerens roller.</li>
-<li>Fjern &raquo;: Fjerner de valgte rollene fra brukerens roller. De blir da synlige igjen i rollebanken.</li>
-<li>
-
-  <img src="https://docs3.qmplus.com/images/Cog_add.png"  width="" />
-
-
- Vis / 
-
-  <img src="https://docs3.qmplus.com/images/Cog_delete.png"  width="" />
-
-
- Fjern systemroller: Avgjør om Systemroller blir vist i listen over roller. Denne knappen vises kun dersom brukeren har rollen Systemroller.</li>
 </ul>
 
 </div>
@@ -538,7 +465,7 @@ Avdelingen brukeren tilhører.</p>
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-5f024a4a26fb9fd62de46ec76baaacf7">4 - Endre rolle</h1>
+	<h1 id="pg-966e176f4c3422521fbad4a13e43c31d">4 - Endre rolle</h1>
     <div class="lead">Funksjon under Roller.</div>
 	<p>Brukes til å administrere navn på roller og hvilke brukere som har tilordnet den valgte rollen. For å adminstrere alle rollene til en bestemt bruker er det enklest å benytte endre bruker.</p>
 <h3 id="felter">Felter</h3>
@@ -601,7 +528,7 @@ Avdelingen brukeren tilhører.</p>
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-0ad62ea1f547c2a50b4d599ae9cf0429">5 - Endre rollegruppe</h1>
+	<h1 id="pg-7491c2e9fa893045b34571f1b34e415e">5 - Endre rollegruppe</h1>
     <div class="lead">Funksjon under roller.</div>
 	<p>Brukes til å administrere navn på rollegrupper og hvilke roller som tilhører rollegruppen.</p>
 <h3 id="felter">Felter</h3>
@@ -633,7 +560,7 @@ Avdelingen brukeren tilhører.</p>
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-438e5a7ba396e5a4dd118c74bbcb0ea4">6 - Rediger avdeling</h1>
+	<h1 id="pg-115bd192604bd68465ba013ff76aebee">6 - Rediger avdeling</h1>
     <div class="lead">Funksjon under Organisasjon for endre data om avdelinger</div>
 	<h3 id="felter">Felter</h3>
 <ul>

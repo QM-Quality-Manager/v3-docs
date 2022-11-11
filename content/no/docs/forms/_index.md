@@ -1,10 +1,10 @@
 ---
-title: "Dokumentasjon for Skjemar"
-linkTitle: "Dokumentasjon for Skjemar"
+title: "Dokumentasjon for Skjemaer"
+linkTitle: "Dokumentasjon for Skjemaer"
 date: 2017-01-05
 description: >
-  Dokumentasjon for Skjemar.
+  Dokumentasjon for Skjemaer.
 ---
 
-Dette er landingsiden for dokumentasjon relatert til skjemar.
+Dette er landingsiden for dokumentasjon relatert til skjemaer.
 

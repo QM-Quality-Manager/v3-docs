@@ -241,7 +241,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>5.2: <a href="#pg-d4453378d39ab6e8b70ec1fc50ed25fc">Endre brukertype</a></li>
+<li>5.2: <a href="#pg-ecbfd8913725dce7c3fbdce71135ea8c">Endre brukertype</a></li>
 
 
     
@@ -670,22 +670,22 @@ This the multi-page printable view of this section.
 <div class="td-content" style="">
     
 	<h1 id="pg-30201967f0604de73761d18a171d6df8">5.1 - Endre bruker</h1>
-    <div class="lead">Funksjon under brukere for å endre data om brukere</div>
+    <div class="lead">Funksjon under brukere for å endre data om brukere.</div>
 	<h3 id="felter">Felter</h3>
 <ul>
-<li>Brukernavn: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver. Må være unik for hver kunde.</li>
-<li>Avdeling / Type. Dette feltet angir brukerens tilgang til systemet.
+<li>
+<p>Brukernavn: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver. Må være unik for hver kunde.</p>
+</li>
+<li>
+<p>Avdeling / Type. Dette feltet angir brukerens tilgang til systemet.</p>
 <ul>
-<li>Avdelingen brukeren tilhører.
-<ul>
+<li>Avdelingen brukeren tilhører.</li>
 <li>Dersom avdelingstilknyttingen er markert med 
 
   <img src="https://docs3.qmplus.com/images/Server_connect.png"  width="" />
 
 
 , kan den ikke slettes. Det er lov å endre avdeling og brukertype. Bare aktuelt for kunder med AD / LDAP integrering.</li>
-</ul>
-</li>
 <li>Type: Brukerens brukertype.</li>
 <li>Vikar: Vikarfunksjonen gir mulighet for en definert bruker til å logge inn med samme tilgangsrettigheter som tilgangen man er vikar for. Det kan settes en vikar for hver tilgang en bruker har. For hver tilgang en bruker har:
 <ul>
@@ -695,66 +695,120 @@ This the multi-page printable view of this section.
 </li>
 </ul>
 </li>
-<li>Passord: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver.</li>
-<li>Gjenta passord: Må være lik passordfeltet for å få lagret brukeren.</li>
-<li>Fornavn: Brukerens fornavn.</li>
-<li>Mellomnavn: Brukerens mellomnavn.</li>
-<li>Etternavn: Brukerens etternavn.</li>
-<li>E-postadresse: Brukerens e-postadresse. En del funksjonalitet i systemet er knyttet opp mot brukerens e-postadresse. Det er derfor en fordel at hver bruker har en unik e-postadresse.</li>
-<li>Språk: Valg av visningsspråk for brukeren. Tilgjenglige språk i systemet: norsk (bokmål), norsk (nynorsk), engelsk, svensk og dansk (ikke oversatt rammeverk for dansk). Språkene tilgjenglige for den enkelte kunde vil variere.</li>
-<li>Mobilnummer: Kan brukes for utsendelse av SMS dersom SMS er aktivert.</li>
-<li>Kommentar: Fritekstfelt for ytteligere informasjon om brukeren.</li>
+<li>
+<p>Passord: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver.</p>
+</li>
+<li>
+<p>Gjenta passord: Må være lik passordfeltet for å få lagret brukeren.</p>
+</li>
+<li>
+<p>Fornavn: Brukerens fornavn.</p>
+</li>
+<li>
+<p>Mellomnavn: Brukerens mellomnavn.</p>
+</li>
+<li>
+<p>Etternavn: Brukerens etternavn.</p>
+</li>
+<li>
+<p>E-postadresse: Brukerens e-postadresse. En del funksjonalitet i systemet er knyttet opp mot brukerens e-postadresse. Det er derfor en fordel at hver bruker har en unik e-postadresse.</p>
+</li>
+<li>
+<p>Språk: Valg av visningsspråk for brukeren. Tilgjenglige språk i systemet: norsk (bokmål), norsk (nynorsk), engelsk, svensk og dansk (ikke oversatt rammeverk for dansk). Språkene tilgjenglige for den enkelte kunde vil variere.</p>
+</li>
+<li>
+<p>Mobilnummer: Kan brukes for utsendelse av SMS dersom SMS er aktivert.</p>
+</li>
+<li>
+<p>Kommentar: Fritekstfelt for ytteligere informasjon om brukeren.</p>
+</li>
 </ul>
-<h4 id="knapper">Knapper</h4>
+<h3 id="knapper">Knapper</h3>
 <ul>
 <li>
-
-  <img src="https://docs3.qmplus.com/images/Add.png"  width="" />
-
-
- Legg til avdeling: Legg en avdeling til brukeren. Det er mulig å tilordne flere avdelinger til hver bruker. For hver avdeling brukeren hører til, må brukeren ha en tilhørende brukertype. Brukere som tilhører flere avdelinger må velge hvilken avdeling de ønsker å logge seg på i innloggingssiden.</li>
+<p>Add.png Legg til avdeling: Legg en avdeling til brukeren. Det er mulig å tilordne flere avdelinger til hver bruker. For hver avdeling brukeren hører til, må brukeren ha en tilhørende brukertype. Brukere som tilhører flere avdelinger må velge hvilken avdeling de ønsker å logge seg på i innloggingssiden.</p>
+</li>
 <li>
+<p>
 
   <img src="https://docs3.qmplus.com/images/Delete.png"  width="" />
 
 
- Slett avdeling: Sletter valgt avdeling fra brukeren. Vises kun for brukere som tilhører flere avdelinger.</li>
+ Slett avdeling: Sletter valgt avdeling fra brukeren. Vises kun for brukere som tilhører flere avdelinger.</p>
+</li>
 <li>
+<p>
 
   <img src="https://docs3.qmplus.com/images/User_go.png"  width="" />
 
 
- Sett vikar: Åpner muligheten til å sette vikar for en brukertilgang.</li>
+ Sett vikar: Åpner muligheten til å sette vikar for en brukertilgang.</p>
+</li>
 <li>
+<p>
 
   <img src="https://docs3.qmplus.com/images/Accept.png"  width="" />
 
 
- Lagre</li>
+ Lagre</p>
+</li>
 <li>
+<p>
 
   <img src="https://docs3.qmplus.com/images/Cancel.png"  width="" />
 
 
- Avbryt</li>
+ Avbryt</p>
+</li>
 <li>
+<p>
 
   <img src="https://docs3.qmplus.com/images/Delete.png"  width="" />
 
 
- Slette</li>
+ Slette</p>
+</li>
 <li>
+<p>
 
   <img src="https://docs3.qmplus.com/images/Tick.png"  width="" />
 
 
- Lagre: Lagrer endringer gjordt i feltene.</li>
+ Lagre: Lagrer endringer gjordt i feltene.</p>
+</li>
 <li>
+<p>
 
   <img src="https://docs3.qmplus.com/images/Cross.png"  width="" />
 
 
- Lukk: Tar deg tilbake til siden du kom fra.</li>
+ Lukk: Tar deg tilbake til siden du kom fra.</p>
+</li>
+<li>
+<p>
+
+  <img src="https://docs3.qmplus.com/images/Cog_add.png"  width="" />
+
+
+ Vis / 
+
+  <img src="https://docs3.qmplus.com/images/Cog_delete.png"  width="" />
+
+
+ Fjern avanserte muligheter: De avanserte mulighetene vises eller skjules.</p>
+</li>
+</ul>
+<h3 id="avanserte-muligheter">Avanserte muligheter</h3>
+<p>Dette er ting som kommer opp når knappen Vis avanserte muligheter brukes. De avanserte mulighetene fjernes ved å bruke knappen Fjern avanserte muligheter.</p>
+<h4 id="felter-1">Felter</h4>
+<ul>
+<li>Brukerens roller: De rollene som er tilknyttet denne brukeren.</li>
+<li>Rollebank: De rollene som ikke er tilknyttet denne brukeren.</li>
+</ul>
+<h4 id="knapper-1">Knapper</h4>
+<ul>
+<li>&laquo; Legg til: Legger de valgte rollene i Rollebanken til brukerens roller.</li>
+<li>Fjern &raquo;: Fjerner de valgte rollene fra brukerens roller. De blir da synlige igjen i rollebanken.</li>
 <li>
 
   <img src="https://docs3.qmplus.com/images/Cog_add.png"  width="" />
@@ -765,20 +819,7 @@ This the multi-page printable view of this section.
   <img src="https://docs3.qmplus.com/images/Cog_delete.png"  width="" />
 
 
- Fjern avanserte muligheter: De avanserte mulighetene vises eller skjules.</li>
-</ul>
-<h3 id="avanserte-muligheter">Avanserte muligheter</h3>
-<p>Dette er ting som kommer opp når knappen Vis avanserte muligheter brukes. De avanserte mulighetene fjernes ved å bruke knappen Fjern avanserte muligheter.
-Felter</p>
-<ul>
-<li>Brukerens roller: De rollene som er tilknyttet denne brukeren.</li>
-<li>Rollebank: De rollene som ikke er tilknyttet denne brukeren.</li>
-</ul>
-<h4 id="knapper-1">Knapper</h4>
-<ul>
-<li>&laquo; Legg til: Legger de valgte rollene i Rollebanken til brukerens roller.</li>
-<li>Fjern &raquo;: Fjerner de valgte rollene fra brukerens roller. De blir da synlige igjen i rollebanken.</li>
-<li>Cog add.png Vis / Cog delete.png Fjern systemroller: Avgjør om Systemroller blir vist i listen over roller. Denne knappen vises kun dersom brukeren har rollen Systemroller.</li>
+ Fjern systemroller: Avgjør om Systemroller blir vist i listen over roller. Denne knappen vises kun dersom brukeren har rollen Systemroller.</li>
 </ul>
 
 </div>
@@ -795,7 +836,7 @@ Felter</p>
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-d4453378d39ab6e8b70ec1fc50ed25fc">5.2 - Endre brukertype</h1>
+	<h1 id="pg-ecbfd8913725dce7c3fbdce71135ea8c">5.2 - Endre brukertype</h1>
     <div class="lead">Funksjon under brukertyper for å endre data om brukertyper.</div>
 	<p>Man må ha systemrollen systemrolleadministrator for å kunne gjøre endringer på siden.</p>
 <p>Obs. Vær spesielt oppmerksom om du gjør endringer på brukertypen du er logget på med. Det går an å fjerne tilgangen til å reverse endringer, for eksempel ved å ta vekk sin egen tilgang til Admin arkfanen.</p>

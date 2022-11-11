@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Aktive aktiviteter arkfane medarbeider</title>
-      <link>https://docs3.qmplus.com/docs/activity/tabs/active_activities_employees/</link>
+      <link>https://docs3.qmplus.com/docs/list/tabs/active_activities_tab_worker/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/activity/tabs/active_activities_employees/</guid>
+      <guid>https://docs3.qmplus.com/docs/list/tabs/active_activities_tab_worker/</guid>
       <description>
         
         
@@ -143,11 +143,77 @@
     </item>
     
     <item>
-      <title>Docs: Aktivitetsrapport</title>
-      <link>https://docs3.qmplus.com/docs/activity/activity_report/</link>
+      <title>Docs: Aktivitetsplan</title>
+      <link>https://docs3.qmplus.com/docs/main/tabs/activity_plan/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/activity/activity_report/</guid>
+      <guid>https://docs3.qmplus.com/docs/main/tabs/activity_plan/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;aktivitetsplan&#34;&gt;Aktivitetsplan&lt;/h1&gt;
+&lt;p&gt;Arkfane på Hovedsiden&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktivitetsplan brukes for å planlegge og følge opp aktiviteter. Oppfølging er forhåndsvalgt første gang man åpner denne siden.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Oppfølging&lt;/li&gt;
+&lt;li&gt;Årshjul&lt;/li&gt;
+&lt;li&gt;Utfylling og resultater&lt;/li&gt;
+&lt;li&gt;Svar per bruker&lt;/li&gt;
+&lt;li&gt;Listeresultater&lt;/li&gt;
+&lt;li&gt;Kalender&lt;/li&gt;
+&lt;li&gt;Delplaner&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s2-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Å opprette en ny aktivitet&lt;/li&gt;
+&lt;li&gt;Å legge til en liste&lt;/li&gt;
+&lt;li&gt;Å bruke de avanserte mulighetene&lt;/li&gt;
+&lt;li&gt;Å sette opp en periodisk aktivitet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/aktivitetsplan.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Film.png Video, Page white acrobat.png pdf&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Aktivitetsrapport</title>
+      <link>https://docs3.qmplus.com/docs/activity/functions/activity_report/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/functions/activity_report/</guid>
       <description>
         
         
@@ -2647,10 +2713,10 @@ Antall besvarelser før resultatet vises: Vises kun for anonyme aktiviteter: Lis
     
     <item>
       <title>Docs: Endre bruker</title>
-      <link>https://docs3.qmplus.com/docs/admin/functions/change_user/</link>
+      <link>https://docs3.qmplus.com/docs/user/functions/edit_user/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/admin/functions/change_user/</guid>
+      <guid>https://docs3.qmplus.com/docs/user/functions/edit_user/</guid>
       <description>
         
         
@@ -2660,10 +2726,15 @@ Antall besvarelser før resultatet vises: Vises kun for anonyme aktiviteter: Lis
 &lt;p&gt;Brukernavn: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver. Må være unik for hver kunde.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Avdeling / Type. Dette feltet angir brukerens tilgang til systemet.
-Avdelingen brukeren tilhører.&lt;/p&gt;
+&lt;p&gt;Avdeling / Type. Dette feltet angir brukerens tilgang til systemet.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Dersom avdelingstilknyttingen er markert med Server connect.png, kan den ikke slettes. Det er lov å endre avdeling og brukertype. Bare aktuelt for kunder med AD / LDAP integrering.&lt;/li&gt;
+&lt;li&gt;Avdelingen brukeren tilhører.&lt;/li&gt;
+&lt;li&gt;Dersom avdelingstilknyttingen er markert med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Server_connect.png&#34;  width=&#34;&#34; /&gt;
+
+
+, kan den ikke slettes. Det er lov å endre avdeling og brukertype. Bare aktuelt for kunder med AD / LDAP integrering.&lt;/li&gt;
 &lt;li&gt;Type: Brukerens brukertype.&lt;/li&gt;
 &lt;li&gt;Vikar: Vikarfunksjonen gir mulighet for en definert bruker til å logge inn med samme tilgangsrettigheter som tilgangen man er vikar for. Det kan settes en vikar for hver tilgang en bruker har. For hver tilgang en bruker har:
 &lt;ul&gt;
@@ -2804,133 +2875,11 @@ Avdelingen brukeren tilhører.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Docs: Endre bruker</title>
-      <link>https://docs3.qmplus.com/docs/user/functions/edit_user/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/user/functions/edit_user/</guid>
-      <description>
-        
-        
-        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Brukernavn: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver. Må være unik for hver kunde.&lt;/li&gt;
-&lt;li&gt;Avdeling / Type. Dette feltet angir brukerens tilgang til systemet.
-&lt;ul&gt;
-&lt;li&gt;Avdelingen brukeren tilhører.
-&lt;ul&gt;
-&lt;li&gt;Dersom avdelingstilknyttingen er markert med 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Server_connect.png&#34;  width=&#34;&#34; /&gt;
-
-
-, kan den ikke slettes. Det er lov å endre avdeling og brukertype. Bare aktuelt for kunder med AD / LDAP integrering.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Type: Brukerens brukertype.&lt;/li&gt;
-&lt;li&gt;Vikar: Vikarfunksjonen gir mulighet for en definert bruker til å logge inn med samme tilgangsrettigheter som tilgangen man er vikar for. Det kan settes en vikar for hver tilgang en bruker har. For hver tilgang en bruker har:
-&lt;ul&gt;
-&lt;li&gt;Dersom det er satt opp en vikar for tilgangen vises navnet på vikaren. Trykk på navnet for å endre eller ta bort vikaren.&lt;/li&gt;
-&lt;li&gt;Dersom det ikke er definert en vikar, vises en knapp for å sette vikar.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Passord: Brukes av brukeren for pålogging til systemet. Skiller mellom store og små bokstaver.&lt;/li&gt;
-&lt;li&gt;Gjenta passord: Må være lik passordfeltet for å få lagret brukeren.&lt;/li&gt;
-&lt;li&gt;Fornavn: Brukerens fornavn.&lt;/li&gt;
-&lt;li&gt;Mellomnavn: Brukerens mellomnavn.&lt;/li&gt;
-&lt;li&gt;Etternavn: Brukerens etternavn.&lt;/li&gt;
-&lt;li&gt;E-postadresse: Brukerens e-postadresse. En del funksjonalitet i systemet er knyttet opp mot brukerens e-postadresse. Det er derfor en fordel at hver bruker har en unik e-postadresse.&lt;/li&gt;
-&lt;li&gt;Språk: Valg av visningsspråk for brukeren. Tilgjenglige språk i systemet: norsk (bokmål), norsk (nynorsk), engelsk, svensk og dansk (ikke oversatt rammeverk for dansk). Språkene tilgjenglige for den enkelte kunde vil variere.&lt;/li&gt;
-&lt;li&gt;Mobilnummer: Kan brukes for utsendelse av SMS dersom SMS er aktivert.&lt;/li&gt;
-&lt;li&gt;Kommentar: Fritekstfelt for ytteligere informasjon om brukeren.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;knapper&#34;&gt;Knapper&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Legg til avdeling: Legg en avdeling til brukeren. Det er mulig å tilordne flere avdelinger til hver bruker. For hver avdeling brukeren hører til, må brukeren ha en tilhørende brukertype. Brukere som tilhører flere avdelinger må velge hvilken avdeling de ønsker å logge seg på i innloggingssiden.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Slett avdeling: Sletter valgt avdeling fra brukeren. Vises kun for brukere som tilhører flere avdelinger.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/User_go.png&#34;  width=&#34;&#34; /&gt;
-
-
- Sett vikar: Åpner muligheten til å sette vikar for en brukertilgang.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cancel.png&#34;  width=&#34;&#34; /&gt;
-
-
- Avbryt&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Slette&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre: Lagrer endringer gjordt i feltene.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Vis / 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Fjern avanserte muligheter: De avanserte mulighetene vises eller skjules.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;avanserte-muligheter&#34;&gt;Avanserte muligheter&lt;/h3&gt;
-&lt;p&gt;Dette er ting som kommer opp når knappen Vis avanserte muligheter brukes. De avanserte mulighetene fjernes ved å bruke knappen Fjern avanserte muligheter.
-Felter&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Brukerens roller: De rollene som er tilknyttet denne brukeren.&lt;/li&gt;
-&lt;li&gt;Rollebank: De rollene som ikke er tilknyttet denne brukeren.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;laquo; Legg til: Legger de valgte rollene i Rollebanken til brukerens roller.&lt;/li&gt;
-&lt;li&gt;Fjern &amp;raquo;: Fjerner de valgte rollene fra brukerens roller. De blir da synlige igjen i rollebanken.&lt;/li&gt;
-&lt;li&gt;Cog add.png Vis / Cog delete.png Fjern systemroller: Avgjør om Systemroller blir vist i listen over roller. Denne knappen vises kun dersom brukeren har rollen Systemroller.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Endre brukertype</title>
-      <link>https://docs3.qmplus.com/docs/user/functions/change_usertype/</link>
+      <link>https://docs3.qmplus.com/docs/user/functions/edit_user_type/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/user/functions/change_usertype/</guid>
+      <guid>https://docs3.qmplus.com/docs/user/functions/edit_user_type/</guid>
       <description>
         
         
@@ -3351,10 +3300,10 @@ Folder_link.png Versjonsoversikt: Viser oversikt over alle versjoner, med dokume
     
     <item>
       <title>Docs: Endre kategori</title>
-      <link>https://docs3.qmplus.com/docs/message/functions/change_category/</link>
+      <link>https://docs3.qmplus.com/docs/admin/functions/edit_category/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/message/functions/change_category/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/functions/edit_category/</guid>
       <description>
         
         
@@ -4028,10 +3977,10 @@ Page.png Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man
     
     <item>
       <title>Docs: Endre rolle</title>
-      <link>https://docs3.qmplus.com/docs/admin/functions/change_role/</link>
+      <link>https://docs3.qmplus.com/docs/admin/functions/edit_role/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/admin/functions/change_role/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/functions/edit_role/</guid>
       <description>
         
         
@@ -4087,10 +4036,10 @@ Page.png Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man
     
     <item>
       <title>Docs: Endre rollegruppe</title>
-      <link>https://docs3.qmplus.com/docs/admin/functions/change_role_groups/</link>
+      <link>https://docs3.qmplus.com/docs/admin/functions/edit_role_group/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/admin/functions/change_role_groups/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/functions/edit_role_group/</guid>
       <description>
         
         

@@ -1,6 +1,6 @@
 ---
-title: "Edit user information"
-linkTitle: "Edit user information"
+title: "Edit user"
+linkTitle: "Edit user"
 date: 2017-01-04
 description: >
   Function under Users for changing the data of users.

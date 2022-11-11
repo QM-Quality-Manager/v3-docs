@@ -15,6 +15,42 @@
     
     
     <item>
+      <title>Docs: Aktive aktiviteter arkfane medarbeider</title>
+      <link>https://docs3.qmplus.com/docs/list/tabs/active_activities_tab_worker/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/list/tabs/active_activities_tab_worker/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å fylle ut lister. Normalt fylles de ut ved at man trykker på en link i en epost man har fått tilsendt. Dersom det ikke blir sendt ut noen slik epost, eller man har slettet den, så kan listen fylles ut her. Du kan også gjøre endringer i allerede utfyllte lister intill fristen utløper.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabell&#34;&gt;Tabell&lt;/h3&gt;
+&lt;p&gt;Trykk på en linje i tabellen for å åpne listen som skal fylles.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktivitetens navn: Navnet som er satt på denne aktiviteten.&lt;/li&gt;
+&lt;li&gt;Gjennomføres før: Frist. listen blir borte fra denne siden når fristen utløper.&lt;/li&gt;
+&lt;li&gt;Gjennomført: - for ubesvarte aktiviteter ellers dato for første gang den ble besvart.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Sjekklister</title>
       <link>https://docs3.qmplus.com/docs/list/tabs/checklist/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
