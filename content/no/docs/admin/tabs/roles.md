@@ -1,13 +1,10 @@
 ---
-title: "Arkfaner"
-linkTitle: "Arkfaner"
+title: "Roller"
+linkTitle: "Roller"
 date: 2017-01-06
 description: >
-  Alle arkfaner for admin.
+  Roller er en Arkfane under admin.
 ---
-# Roller
-{{< onlystaticimg src="/images/Group.png" >}} Roller er en Arkfane under {{< onlystaticimg src="/images/Admin.png" >}} Admin
-
 Her administreres virksomhetens roller og rollegrupper.
 
 ### Knapper

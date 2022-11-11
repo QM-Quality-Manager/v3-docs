@@ -100,94 +100,11 @@
     </item>
     
     <item>
-      <title>Docs: Endre kategoriavhengighet</title>
-      <link>https://docs3.qmplus.com/docs/admin/functions/change_category_dependency/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/admin/functions/change_category_dependency/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Sidens overskrift forteller hvilken kategori man redigerer kategoriavhengigheter for og hvilken kategorigruppe den tilhører. En kategoriavhengighet gjelder kun for det aktuelle meldingsskjemaet den legges opp for. En kategori kan kun ha en avhengighet mot hver av de andre kategoriene i det aktuelle meldingsskjemaet.&lt;/p&gt;
-&lt;p&gt;En kategori oppfyller sine avhengigheter når den både:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Oppfyller alle &amp;ldquo;Og&amp;rdquo; avhengigheter. Har den ingen &amp;ldquo;Og&amp;rdquo; avhengighet er alle oppfyllt.&lt;/li&gt;
-&lt;li&gt;Oppfyller minst en &amp;ldquo;Eller&amp;rdquo; avhengighet eller ikke har noen &amp;ldquo;Eller&amp;rdquo; avhengighet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Merk at når man lukker denne siden må man laste 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
-
-
- Kategorier eller Endre meldingsskjema på nytt for at endringen skal være synlig i kategoritabellen. Dette gjør man enklest ved å trykke på 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
-
-
- Kategorier arkfanen over kategoritabellen.&lt;/p&gt;
-&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Eksisterende kategoriavhengigheter viser de avhengighetene den valgte kategorien allerede har. Her kan man:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Endre type avhengighet mellom &amp;ldquo;Og&amp;rdquo; og &amp;ldquo;Eller&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Slette en avhengighet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Ny kategoriavhengighet. Her kan man legge til en ny avhengighet.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Velg kategorigruppe den kategorien man skal lage en avhengighet mot tilhører i nedfallsmeny 1.&lt;/li&gt;
-&lt;li&gt;Velg så kategori fra nedfallsmeny 2. Merk at innholdet her avhenger av hva du valgte i nedfallsmeny 1.&lt;/li&gt;
-&lt;li&gt;Velg så type avhengighet. &amp;ldquo;Og&amp;rdquo; er standard.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
-
-
-: Sletter aktuell avhengighet.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre: Lagrer endringene gjordt i bildet. Dersom feltene i Ny kategoriavhengighet delen er satt, lages det en ny avhengighet.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre for gruppen: Lagrer endringene gjordt i bildet. Dersom feltene i Ny kategoriavhengighet delen er satt, lages det en ny avhengighet som legges til alle kategorier i den kategorigruppen som er navngitt i sidens overskrift.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Tar deg tilbake til siden du kom fra.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Endre kategorigruppe</title>
-      <link>https://docs3.qmplus.com/docs/admin/functions/change_category_group/</link>
+      <link>https://docs3.qmplus.com/docs/admin/functions/edit_category_group/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/admin/functions/change_category_group/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/functions/edit_category_group/</guid>
       <description>
         
         

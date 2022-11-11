@@ -194,7 +194,15 @@ This the multi-page printable view of this section.
     
     
 	
-<li>2: <a href="#pg-e83e214164dc39e2e9cd8d0bf142b842">Tabs</a></li>
+<li>2: <a href="#pg-f02d0b083c6f42f83c087a0035520a33">System roles</a></li>
+
+
+    
+  
+    
+    
+	
+<li>3: <a href="#pg-e83e214164dc39e2e9cd8d0bf142b842">Tabs</a></li>
 
 
     
@@ -209,7 +217,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>2.1: <a href="#pg-c868865b6b63eff3a806d9dc96046ae5">Actions tab worker</a></li>
+<li>3.1: <a href="#pg-c868865b6b63eff3a806d9dc96046ae5">Actions tab worker</a></li>
 
 
     
@@ -217,7 +225,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>2.2: <a href="#pg-af1df63511b2554df734f0653e340c4e">Messages tab worker</a></li>
+<li>3.2: <a href="#pg-af1df63511b2554df734f0653e340c4e">Messages tab worker</a></li>
 
 
     
@@ -225,7 +233,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>2.3: <a href="#pg-261812ec2fa8a20393a851a9e804fc89">Questionnaires tab worker</a></li>
+<li>3.3: <a href="#pg-261812ec2fa8a20393a851a9e804fc89">Questionnaires tab worker</a></li>
 
 
     
@@ -233,7 +241,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>2.4: <a href="#pg-0a3711134cbe7b94ee6a58d79224452a">User types</a></li>
+<li>3.4: <a href="#pg-0a3711134cbe7b94ee6a58d79224452a">User types</a></li>
 
 
     
@@ -491,7 +499,144 @@ This the multi-page printable view of this section.
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-e83e214164dc39e2e9cd8d0bf142b842">2 - Tabs</h1>
+	<h1 id="pg-f02d0b083c6f42f83c087a0035520a33">2 - System roles</h1>
+    <div class="lead">System roles are roles that provide specific additional rights defined in the system. New system roles can only be defined by QmPlus AS.</div>
+	<p>The roles are marked with (M, C, R, E) if in the standard version, the one set up from QmPlus AS, they are attached to the user types Manager, Case handler, Reviewer and Employee respectively. Note that from version 3.60 a user having the &ldquo;System role administrator&rdquo; role can change the name and the rights of user types.</p>
+<h3 id="roles-that-control-the-access-to-tabs">Roles that control the access to tabs</h3>
+<p>All these roles give to the user access to the tab with the same name.</p>
+<h4 id="roles-that-control-the-access-to-the-tabs-of-the-complete-interface">Roles that control the access to the tabs of the complete interface</h4>
+<ul>
+<li>Home:</li>
+<li>Info: (M, C, R)</li>
+<li>Reports: (M, C, R)</li>
+<li>Admin: (M)</li>
+<li>Preferences: (C, R)</li>
+<li>Activity plan: (M, C, R)</li>
+<li>Inbox:</li>
+<li>Risk: (M)</li>
+<li>Archive: (M, C, R)</li>
+<li>Help: (M, C, R)</li>
+</ul>
+<h4 id="roles-that-control-the-access-to-the-tabs-under-admin">Roles that control the access to the tabs under Admin</h4>
+<ul>
+<li>Admin_Organisation: (M)</li>
+<li>Admin_Users: (M)</li>
+<li>Admin_Categories: (M)</li>
+<li>Admin_Forms: (M)</li>
+<li>Admin_Documents: (M)</li>
+<li>Admin_Roles: (M)</li>
+<li>Admin_Rules: (M)</li>
+<li>Admin_Responsibilities:</li>
+</ul>
+<h4 id="roles-that-control-the-access-to-the-tabs-under-inbox">Roles that control the access to the tabs under Inbox</h4>
+<ul>
+<li>Inbox_Department cases: (M, C, R)</li>
+</ul>
+<h4 id="roles-that-control-the-access-to-the-tabs-under-archive-and-reports">Roles that control the access to the tabs under Archive and Reports</h4>
+<ul>
+<li>Archive_Non conformance: (M, C, R)</li>
+<li>Archive_Actions: (M), Only under Archive</li>
+<li>Archive_Comments:</li>
+<li>Archive_Log: (M, C, R)</li>
+<li>Archive_Closed cases only: Users with this role will only be able to see the Closed cases under Archive/Messages, Archive/Comments, Archive/Order and Archive/Logs. The other status tabs will be visible but the user will not be able to select them.</li>
+<li>Reports_User reports:</li>
+</ul>
+<h4 id="roles-that-control-the-access-to-the-tabs-under-info">Roles that control the access to the tabs under Info</h4>
+<ul>
+<li>Info_Favourite documents:</li>
+</ul>
+<h4 id="roles-that-control-the-access-to-the-tabs-of-the-simplified-interface">Roles that control the access to the tabs of the simplified interface</h4>
+<ul>
+<li>Info: (E)</li>
+<li>My cases: (E)</li>
+<li>Preferences: (E)</li>
+<li>Help: (E)</li>
+</ul>
+<h4 id="roles-that-control-the-access-to-the-tabs-under-my-cases">Roles that control the access to the tabs under My cases</h4>
+<ul>
+<li>My cases_Messages: (E)</li>
+<li>My cases_Actions: (E)</li>
+<li>My cases_Questionnaires: (E)</li>
+<li>My cases_Log: (E)</li>
+</ul>
+<h3 id="roles-that-define-access-rights-and-how-a-user-behaves">Roles that define access rights and how a user behaves</h3>
+<h4 id="documents">Documents</h4>
+<ul>
+<li>Hearing participator: (M, C) Can participate in hearings. Users with the simplified interface can also have this role even if this is not the standard.</li>
+<li>Approve document: (M, C) Can approve documents in hearings. Users with the simplified interface can also have this role even if this is not the standard.</li>
+<li>Audit document: (M) Can be set up as the recipient of document audit warnings, can create a new audit and perform audits.</li>
+<li>Publish document: (). Disabled as default. When activated, this role is required to publish a document.</li>
+</ul>
+<h4 id="messages--actions">Messages / Actions</h4>
+<ul>
+<li>Message originator (M, C, R, E): The name of the user will appear in the &ldquo;Registered on behalf of:&rdquo; drop-down menu when you register a new message.</li>
+<li>Create / Edit message (M, C, R, E): The user can create and edit his / her own messages.</li>
+<li>Create / Edit message, other department (M, C): The user can create / edit messages on all departments that are available in the Navigator.</li>
+<li>Action executor (M, C, R, E): The user can get the task to execute an action.</li>
+<li>Access to hidden text fields (M): The user can see the contents of the hidden text fields. If this role is attached to the user&rsquo;s user type, then the user will have access to the hidden text fields of the messages that (s)he is set to be the case handler for. If the role is attached to the user directly, then the user will be able to see the hidden text fields in the Edit message page of all the messages that (s)he has access to.</li>
+<li>See all messages: The user can see all messages in his / her organisation, as well as messages from message forms which have a role limitation of the type &ldquo;See messages&rdquo;, even if the user does not have that role.</li>
+<li>Process message (M, C): The user can process messages.</li>
+<li>Default message receiver (M):
+<ul>
+<li>New messages that have not been assigned to a specific case handler, will appear under Inbox / Cases I am responsible for at the department which is closest to the department where the message was registered on, where there is a user with this role. The role can be associated with the user or the user&rsquo;s User type. This corresponds to the previous feature &ldquo;Shows for the nearest line manager&rdquo;.</li>
+<li>If the option &ldquo;Early case handling&rdquo; is turned on, the selection of the case handler will be done in the &ldquo;Register new message&rdquo; page without having set an &ldquo;Early case handling&rdquo; rule. Then the user with this role will be included in the list of users from which you can choose the case handler.</li>
+</ul>
+</li>
+<li>Default possible information receiver (M, C, R, E): The user will appear under &ldquo;All&rdquo; and &ldquo;All in own organisation&rdquo; when someone selects the &ldquo;Inform more&rdquo; option in the Message process page.</li>
+<li>Default possible message receiver (M, C): The user will appear as a possible option when someone selects &ldquo;Choose case handler&rdquo; in the &ldquo;Choose action&rdquo; drop-down menu in the Message process page.</li>
+<li>Inform shortlist (M, C, R): The user will be a possible recipient when someone selects &ldquo;Case handler list&rdquo; after choosing &ldquo;Inform more&rdquo; in the Message process page.</li>
+<li>Limited to forms in case handler rules: Users with this role can only get their own messages / actions under Inbox and Archive unless the user is defined as either an &ldquo;Additional case handler&rdquo; or an &ldquo;Early case handler&rdquo; for specific message forms under Admin / Rules.</li>
+<li>User graph: Can see the graph of how many messages have been registered per user on a selected department under Reports (Overview by users checkbox).</li>
+<li>Facilit: Can transfer cases to Facilit if the integration module with Facilit is turned on.</li>
+<li>SMS responsible: Can send SMS from the page Admin / Users.</li>
+<li>Move message: May change department for messages the user has write access to. This role is not required if the user already has Content administrator.</li>
+</ul>
+<h4 id="graphs">Graphs</h4>
+<ul>
+<li>Cannot click on graphs: Users with this role will not be able to click on graphs under Reports or Home (dashboard). This is to allow users to see charts without direct further access to the actual cases. To prevent such access in general, other tab roles will also have to be unselected for that user or user type.</li>
+</ul>
+<h4 id="activity-plan">Activity plan</h4>
+<ul>
+<li>Activity participator (M, C, R, E): Will participate in activities. Users without this role will not be counted when the number of remaining answers is calculated. If a user has different user types on various departments and should only participate in the activity plan on some of them, be sure to select this role only for the user types who should participate.</li>
+<li>Fill out activity, other department (M, C): Can fill out activities for all departments that the user has in the Navigator.</li>
+<li>Environmental beacon:</li>
+</ul>
+<h4 id="administration-roles">Administration roles</h4>
+<ul>
+<li>Organisation administrator (M): Can create / edit departments.</li>
+<li>User administrator (M): Can create / edit users.</li>
+<li>Form administrator (M): Can create / edit lists, message forms and categories.</li>
+<li>Activity administrator (M): Can create / edit activities.</li>
+<li>Document administrator (M): Can create / edit documents.</li>
+<li>Role administrator (M) Can create / edit roles.</li>
+<li>Rule administrator: Can create / edit rules.</li>
+<li>Responsibility administrator: Can create / edit responsibilities.</li>
+</ul>
+<h3 id="roles-that-provide-extended-super-user-rights">Roles that provide extended super user rights</h3>
+<ul>
+<li>System role administrator: The user can manage System roles. Not given to anyone in the standard version. Only the super user should have this role.</li>
+<li>Content administrator: The user can edit locked forms, move filled out messages and open closed cases. Not given to anyone in the standard version. Only the super user should have this role.</li>
+</ul>
+<h3 id="roles-that-give-access-to-special-functionality-in-the-manager-interface">Roles that give access to special functionality in the manager interface</h3>
+<ul>
+<li>Competence module: Changes the functionality of the system to match with the competence module. Shows only if the Competence module is activated. (work in progress, not available at this time)</li>
+</ul>
+
+</div>
+
+
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-e83e214164dc39e2e9cd8d0bf142b842">3 - Tabs</h1>
     <div class="lead">All tabs associated with user.</div>
 	<p>All tabs associated with user.</p>
 
@@ -517,7 +662,7 @@ This the multi-page printable view of this section.
 
 <div class="td-content" style="">
     
-	<h1 id="pg-c868865b6b63eff3a806d9dc96046ae5">2.1 - Actions tab worker</h1>
+	<h1 id="pg-c868865b6b63eff3a806d9dc96046ae5">3.1 - Actions tab worker</h1>
     <div class="lead">Actions is a tab under My cases for users having the simplified interface.</div>
 	<p>Used to execute and follow up actions.</p>
 <h3 id="active-table">Active Table</h3>
@@ -546,7 +691,7 @@ This the multi-page printable view of this section.
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-af1df63511b2554df734f0653e340c4e">2.2 - Messages tab worker</h1>
+	<h1 id="pg-af1df63511b2554df734f0653e340c4e">3.2 - Messages tab worker</h1>
     <div class="lead">Messages is a tab under My cases for users having the simplified interface.</div>
 	<p>Here all the messages that the user has registered are shown and new messages can be registered.</p>
 <h3 id="table">Table</h3>
@@ -653,7 +798,7 @@ This the multi-page printable view of this section.
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-261812ec2fa8a20393a851a9e804fc89">2.3 - Questionnaires tab worker</h1>
+	<h1 id="pg-261812ec2fa8a20393a851a9e804fc89">3.3 - Questionnaires tab worker</h1>
     <div class="lead">Questionnaires is a tab under My cases for users having the simplified interface.</div>
 	<h3 id="buttons">Buttons</h3>
 <ul>
@@ -691,7 +836,7 @@ This the multi-page printable view of this section.
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-0a3711134cbe7b94ee6a58d79224452a">2.4 - User types</h1>
+	<h1 id="pg-0a3711134cbe7b94ee6a58d79224452a">3.4 - User types</h1>
     <div class="lead">User types is a tab under Users.</div>
 	<p>Here you can manage the company&rsquo;s user types. Only users with the system role System role administrator or User administrator can see this tab.</p>
 <p>You need to have the system role System role administrator in order to be able to make changes.</p>

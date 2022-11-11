@@ -3,7 +3,7 @@ title: "Kategorigrupper"
 linkTitle: "Kategorigrupper"
 date: 2017-01-06
 description: >
- Aktive kategorigrupper og Deaktiverte kategorigrupper er arkfaner under Note.png Kategorier.
+ Aktive kategorigrupper og Deaktiverte kategorigrupper er arkfaner under {{< onlystaticimg src="/images/Note.png" >}} Kategorier.
 ---
 Her administreres virksomhetens kategorigrupper.
 

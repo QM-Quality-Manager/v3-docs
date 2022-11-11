@@ -15,50 +15,6 @@
     
     
     <item>
-      <title>Docs: Eksporter til fellesbiblioteket</title>
-      <link>https://docs3.qmplus.com/docs/admin/export_to_shared_library/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/admin/export_to_shared_library/</guid>
-      <description>
-        
-        
-        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Listenavn: Navnet som blir vist i fellesbiblioteket. Det opprinnelige navnet på det som eksporteres settes inn som standardverdi.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Informasjon: Utvidet informasjonsfelt.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Velg beskrivende ord: Kryss av for de ordene som beskriver det du eksporterer eller bruksområder for det. Ta kontakt med &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; dersom du savner ord eller uttrykk her. Disse ordene kan man bruke til å søke etter ting i fellesbiblioteket.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_go.png&#34;  width=&#34;&#34; /&gt;
-
-
- Eksporter: Utfører eksporten til fellesbiblioteket og tar deg tilbake dit du kom fra.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Lukker bildet og tar deg tilbake dit du kom fra. Ingenting blir lagret.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Arkfaner</title>
       <link>https://docs3.qmplus.com/docs/admin/tabs/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>

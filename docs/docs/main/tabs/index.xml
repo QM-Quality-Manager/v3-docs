@@ -904,5 +904,96 @@ Individuell: Det vises en risikomatrise for den risikokategorien som er valgt i 
       </description>
     </item>
     
+    <item>
+      <title>Docs: Admin</title>
+      <link>https://docs3.qmplus.com/docs/main/tabs/admin/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/main/tabs/admin/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Admin brukes for å administrere systemet. I standardversjonen har alle ledere full tilgang til å redigere all informasjon som er lagt inn innenfor sitt eget organisasjonsnivå. Hos en del kunder er denne muligheten begrenset og enkelte vil derfor ikke få opp alle arkfanene slik det er beskrevet nedenfor. Ta kontakt med din lokale superbruker dersom du mener du har behov for yttligere rettigheter.&lt;/p&gt;
+&lt;p&gt;All informasjon som vises/legges inn via Admin vil relatere til valgt avdeling i navigatoren.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Som Superbruker har jeg tilgang til ADMIN-arkfanen. Denne åpner nye arkfaner hvor jeg kan gjøre endringer i organisasjon (navigator), legge inn brukere i avdelingene, endre kategorier som skal inn i meldingsskjemaer, lage skjemaer, legge opp nye styrende dokumenter, m.m.&lt;/li&gt;
+&lt;li&gt;Et klikk på en av arkfanene under ADMIN, gir tilgang til nye arkfaner.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_organisation.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Organisasjon&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Brukere&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kategorier&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skjemaer&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokumenter&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Roller&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Wrench.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Regler&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_suit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ansvarskoder&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

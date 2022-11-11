@@ -164,6 +164,39 @@
     </item>
     
     <item>
+      <title>Docs: Export to the common library</title>
+      <link>https://docs3.qmplus.com/en/docs/list/functions/export_to_common_library/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/list/functions/export_to_common_library/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;List name: The name that will appear in the common library. The original name of the exported form is set as default.
+Information: Additional information field.
+Select description tags: Check the words that describe what you are exporting or the general area for it. Contact drift@qmplus.com if the required word or phrase is missing. These words can be used to search for forms in the common library.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Export: Performs the export to the common library and takes you back to the page you came from.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Closes this screen and takes you back to the page you came from. Nothing will be saved.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Filling out a list form</title>
       <link>https://docs3.qmplus.com/en/docs/list/functions/filling_out_a_list_form/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>

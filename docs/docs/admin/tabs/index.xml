@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Ansvarskoder</title>
-      <link>https://docs3.qmplus.com/docs/admin/tabs/responsibility_codes/</link>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/responsibilities/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/admin/tabs/responsibility_codes/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/responsibilities/</guid>
       <description>
         
         
@@ -58,69 +58,6 @@
 &lt;ul&gt;
 &lt;li&gt;Aktive ansvarskoder: Aktive ansvarskoder vises i tabellen&lt;/li&gt;
 &lt;li&gt;Deaktiverte ansvarskoder: Dektiverte ansvarskoder vises i tabellen&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Arkfaner</title>
-      <link>https://docs3.qmplus.com/docs/admin/tabs/roles/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/admin/tabs/roles/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;roller&#34;&gt;Roller&lt;/h1&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Group.png&#34;  width=&#34;&#34; /&gt;
-
-
- Roller er en Arkfane under 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Admin.png&#34;  width=&#34;&#34; /&gt;
-
-
- Admin&lt;/p&gt;
-&lt;p&gt;Her administreres virksomhetens roller og rollegrupper.&lt;/p&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Ny rolle / 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Ny rollegruppe: Åpner endre rolle / endre rollegruppeskjermbildet for å lage en ny rolle / rollegruppe.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
-: Åpner endre rolle / endre rollegruppeskjermbildet for å endre en rolle / rollegruppe.&lt;/li&gt;
-&lt;li&gt;Turnarrow.gif: Deaktiverer eller aktiverer rollen / rollegruppen avhengig av om man man står i Aktive roller / rollegrupper eller Deaktiverte roller / rollegrupper.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
-: Sletter rollen / rollegruppen. Kun synlig for deaktiverte roller / rollegrupper.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Aktive roller: De aktive rollene vises i tabellen.&lt;/li&gt;
-&lt;li&gt;Deaktiverte roller: De deaktiverte rollene vises i tabellen.&lt;/li&gt;
-&lt;li&gt;Aktive rollegrupper: De aktive rollegruppene vises i tabellen.&lt;/li&gt;
-&lt;li&gt;Deaktiverte rollegrupper: De deaktiverte rollegruppene vises i tabellen.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -389,84 +326,6 @@
     </item>
     
     <item>
-      <title>Docs: Epostinnstillinger</title>
-      <link>https://docs3.qmplus.com/docs/admin/tabs/email_settings/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/admin/tabs/email_settings/</guid>
-      <description>
-        
-        
-        &lt;p&gt;I denne siden kan man endre tittelen for eposter sent på bakgrunn av Informeres ved ny melding regler. Tittelen blir satt til å være navnet på en avkrysset kategori i meldingen hvis kategorigruppe er lagt til i denne siden. Dersom man ikke setter noe i denne siden, vil standard tittel benyttes.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Innstillingen gjelder fra og med avdelingen satt som Fra avdeling for kategorigruppen.&lt;/li&gt;
-&lt;li&gt;Dersom flere kategorigrupper er satt i denne siden vil den kategorigruppen som har Fra avdeling med avdelingen nærmest der meldingen ble registrert benyttes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Legg til: Setter den valgte kategorigruppen fra den valgte avdelingen.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Slette: Sletter den aktuelle kategorigruppen fra oppsettet.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Fellesbiblioteket</title>
-      <link>https://docs3.qmplus.com/docs/admin/tabs/common_library/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/admin/tabs/common_library/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Her vises alle skjemaer lagt inn i Qm+kundenes fellesbibliotek for den skjematypen man står under. Brukes til å utveksle skjemaer. Dokumenter er planlagt i en senere versjon.&lt;/p&gt;
-&lt;h3 id=&#34;nedfallsmeny&#34;&gt;Nedfallsmeny&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Skjematype. Alle skjemaer som lastes opp i fellesbiblioteket kan markeres med ulike nøkkelord. Bruk denne nedfallsmenyen for å se på kun de skjemaene som er markert med valgt nøkkelord.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
-
-
- Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform og som liste av enkeltspørsmål slik den ser ut når den skal fylles ut.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_go.png&#34;  width=&#34;&#34; /&gt;
-
-
- Importerer aktuelt skjema inn i din Qm+database. Vær oppmerksom på a for meldingsskjemaer vil alle kategorigrupper og kategorier i skjemaet som ikke finnes i din database fra før, bli opprettet på den avdelingen du står på når du trykker på dette ikonet. Dette ikonet kan være deaktiver/grået ut. Det betyr at skjemaet allerede finnes i din database.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Sletter skjemaet som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp for den brukeren som lastet skjemaet opp i fellesbiblioteket.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Kategorier</title>
       <link>https://docs3.qmplus.com/docs/admin/tabs/categories/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
@@ -599,10 +458,10 @@
     
     <item>
       <title>Docs: Organisasjon</title>
-      <link>https://docs3.qmplus.com/docs/admin/tabs/organization/</link>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/organisation/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/admin/tabs/organization/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/organisation/</guid>
       <description>
         
         
@@ -960,11 +819,62 @@ Informeres ved lukking av melding&lt;/p&gt;
     </item>
     
     <item>
-      <title>Docs: Saksbehandlere</title>
-      <link>https://docs3.qmplus.com/docs/admin/tabs/case_handler/</link>
+      <title>Docs: Roller</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/roles/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/admin/tabs/case_handler/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/roles/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens roller og rollegrupper.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny rolle / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny rollegruppe: Åpner endre rolle / endre rollegruppeskjermbildet for å lage en ny rolle / rollegruppe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Åpner endre rolle / endre rollegruppeskjermbildet for å endre en rolle / rollegruppe.&lt;/li&gt;
+&lt;li&gt;Turnarrow.gif: Deaktiverer eller aktiverer rollen / rollegruppen avhengig av om man man står i Aktive roller / rollegrupper eller Deaktiverte roller / rollegrupper.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Sletter rollen / rollegruppen. Kun synlig for deaktiverte roller / rollegrupper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive roller: De aktive rollene vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Deaktiverte roller: De deaktiverte rollene vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Aktive rollegrupper: De aktive rollegruppene vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Deaktiverte rollegrupper: De deaktiverte rollegruppene vises i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Saksbehandlere</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/case_handler_/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/case_handler_/</guid>
       <description>
         
         
@@ -1005,10 +915,10 @@ Informeres ved lukking av melding&lt;/p&gt;
     
     <item>
       <title>Docs: Skjemaer</title>
-      <link>https://docs3.qmplus.com/docs/admin/tabs/form/</link>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/forms/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/admin/tabs/form/</guid>
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/forms/</guid>
       <description>
         
         
