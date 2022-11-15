@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Dokumenter undermeny meldingsskjema</title>
-      <link>https://docs3.qmplus.com/docs/forms/tabs/document_submenu_message_form/</link>
+      <link>https://docs3.qmplus.com/docs/forms/tabs/documents_submenu_message_form/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/forms/tabs/document_submenu_message_form/</guid>
+      <guid>https://docs3.qmplus.com/docs/forms/tabs/documents_submenu_message_form/</guid>
       <description>
         
         
@@ -165,10 +165,10 @@ Legg dokumenter til skjemaet&lt;/p&gt;
     
     <item>
       <title>Docs: Regler undermeny meldingsskjema</title>
-      <link>https://docs3.qmplus.com/docs/forms/tabs/rules_submenu_forms/</link>
+      <link>https://docs3.qmplus.com/docs/forms/tabs/rules_submenu_message_forms/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/forms/tabs/rules_submenu_forms/</guid>
+      <guid>https://docs3.qmplus.com/docs/forms/tabs/rules_submenu_message_forms/</guid>
       <description>
         
         
@@ -179,119 +179,11 @@ Legg dokumenter til skjemaet&lt;/p&gt;
     </item>
     
     <item>
-      <title>Docs: Risikoanalyser</title>
-      <link>https://docs3.qmplus.com/docs/forms/tabs/risk_analysis/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/forms/tabs/risk_analysis/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Her administreres virksomhetens risikoanalyser.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
-
-
- Hva kan jeg gjøre her?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;ADMIN-arkfanen gir meg muligheter for å gjøre forandringer i eksisterende Risikoanalyse-lister. Klikk på gul-blyant ikon i &amp;ldquo;Endre&amp;rdquo;, eller lage ny liste. Klikk &amp;ldquo;Ny liste&amp;rdquo; (nederst).&lt;/li&gt;
-&lt;li&gt;ANBEFALING:
-&lt;ul&gt;
-&lt;li&gt;A. Lag en liste med typiske oppgaver som utføres i den avdelingen du velger i navigatoren. Bruk en arbeidsgruppe for å redigere innholdet (hvilke oppgaver) som skal inn i listen. **B. Send listen ut til de som skal svare – dvs. vurdere oppgavens risiko: Klikk i ADMIN/Planlegging.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Ny liste: Oppretter en ny risikoanalyse og tar deg til Ny liste skjermbildet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_gear.png&#34;  width=&#34;&#34; /&gt;
-
-
- Tar deg til endre listeinformasjon skjermbildet for å endre informasjon om den risikoanalysen som linjen det ble trykket på tilhører.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
- Tar deg til endre listeinnhold skjermbildet for å endre spørsmålene i den risikoanalysen som linjen det ble trykket på tilhører.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
-
-
- Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
-
-
- Aktiverer/Deaktiverer, avhengig av valgt arkfane, risikoanalysen som linjen det ble trykket på tilhører.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_copy.png&#34;  width=&#34;&#34; /&gt;
-
-
- Kopier liste: Lager en kopi av den valgte risikoanalysen.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Sletter listen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom arkfanen Deaktiverte lister er valgt og risikoanalysen det gjelder ikke har vært benyttet i en aktivitet.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
-
-
- Åpner siden Eksporterer til fellesbiblioteket. Hvis dette ikonet er deaktivert/grået ut, ligger listen allerede i fellesbiblioteket.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Aktive lister: Viser de aktive listene som er tilgjengelige i den avdelingen som er valgt i navigatoren.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Deaktiverte lister: Viser de deaktiverte listene som er tilgjengelige i den avdelingen som er valgt i navigatoren.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Fellesbiblioteket: Åpner fellesbiblioteket for risikoanalyser.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Roller undermeny meldingsskjema</title>
-      <link>https://docs3.qmplus.com/docs/forms/tabs/roles_submenu_form/</link>
+      <link>https://docs3.qmplus.com/docs/forms/tabs/roles_submenu_message_form/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/forms/tabs/roles_submenu_form/</guid>
+      <guid>https://docs3.qmplus.com/docs/forms/tabs/roles_submenu_message_form/</guid>
       <description>
         
         
@@ -300,6 +192,37 @@ Legg dokumenter til skjemaet&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Ny melding. Skjuler knappen for å registrere nye meldinger med dette meldingsskjemaet.&lt;/li&gt;
 &lt;li&gt;Se meldinger og grafer. Skjuler meldinger registrert med dette meldingsskjemaet i Rapporter, Innboks og Arkiv.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Skjemadata</title>
+      <link>https://docs3.qmplus.com/docs/forms/tabs/form_data/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/forms/tabs/form_data/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden brukes for å administrere meldingsskjemadataene.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Tekstfeltene i et meldingsskjema som skjemanavn og tekst til knapp kan lagres en gang per språk som er aktivisert i systemet.&lt;/li&gt;
+&lt;li&gt;Skjemanavn: Identifiserer meldingsskjemaet i tabeller og oversikter.&lt;/li&gt;
+&lt;li&gt;Tekst til knapp: Identifiserer meldingsskjemaet på knappen eller i nedfallsmenyen i Innboks og Arkiv.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Meldingsskjemaet er tilgjengelig fra og med denne avdelingen.&lt;/li&gt;
+&lt;li&gt;Skjematype: Meldingsskjemaets type. Enten melding, log eller risiko. Vises kun dersom meldingstypene log eller risiko er aktivisert.&lt;/li&gt;
+&lt;li&gt;Anonym: Alle meldinger som blir registrert anonymt vil inneholde nn istedenfor navnet på brukeren som registrerte den. Et meldingsskjema kan være:
+&lt;ul&gt;
+&lt;li&gt;Ikke anonymt, standard (Anonym: Nei).&lt;/li&gt;
+&lt;li&gt;Anonymt (Anonym: Ja).&lt;/li&gt;
+&lt;li&gt;Ha avkryssningsboks for anonymitet som starter ikke avkrysset (Anonym: Brukervalgt, standard nei).&lt;/li&gt;
+&lt;li&gt;Ha avkryssningsboks for anonymitet som starter avkrysset (Anonym: Brukervalgt, standard ja).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Informasjon: Tekst som vises når pekeren holdes over knappen eller i nedfallsmenyen i Innboks og Arkiv. Denne teksten vises også øverst i meldingsskjemaet når meldingen registreres i endre meldingskjermbildet.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

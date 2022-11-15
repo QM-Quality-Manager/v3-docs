@@ -1,10 +1,10 @@
 ---
-title: "Dokumentasjon for Skjemaer"
-linkTitle: "Dokumentasjon for Skjemaer"
+title: "Dokumentasjon for Meldingskjemaer"
+linkTitle: "Dokumentasjon for Meldingskjemaer"
 date: 2017-01-05
 description: >
-  Dokumentasjon for Skjemaer.
+  Dokumentasjon for Meldingskjemaer.
 ---
 
-Dette er landingsiden for dokumentasjon relatert til skjemaer.
+Dette er landingsiden for dokumentasjon relatert til meldingsskjemaer.
 

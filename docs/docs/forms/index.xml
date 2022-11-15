@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quality Manager – Dokumentasjon for Skjemaer</title>
+    <title>Quality Manager – Dokumentasjon for Meldingskjemaer</title>
     <link>https://docs3.qmplus.com/docs/forms/</link>
-    <description>Recent content in Dokumentasjon for Skjemaer on Quality Manager</description>
+    <description>Recent content in Dokumentasjon for Meldingskjemaer on Quality Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
@@ -15,122 +15,6 @@
     
     
     <item>
-      <title>Docs: Endre kategoriavhengighet</title>
-      <link>https://docs3.qmplus.com/docs/forms/edit_category_dependency/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/forms/edit_category_dependency/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Sidens overskrift forteller hvilken kategori man redigerer kategoriavhengigheter for og hvilken kategorigruppe den tilhører. En kategoriavhengighet gjelder kun for det aktuelle meldingsskjemaet den legges opp for. En kategori kan kun ha en avhengighet mot hver av de andre kategoriene i det aktuelle meldingsskjemaet.&lt;/p&gt;
-&lt;p&gt;En kategori oppfyller sine avhengigheter når den både:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Oppfyller alle &amp;ldquo;Og&amp;rdquo; avhengigheter. Har den ingen &amp;ldquo;Og&amp;rdquo; avhengighet er alle oppfyllt.&lt;/li&gt;
-&lt;li&gt;Oppfyller minst en &amp;ldquo;Eller&amp;rdquo; avhengighet eller ikke har noen &amp;ldquo;Eller&amp;rdquo; avhengighet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Merk at når man lukker denne siden må man laste 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
-
-
- Kategorier eller Endre meldingsskjema på nytt for at endringen skal være synlig i kategoritabellen. Dette gjør man enklest ved å trykke på 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
-
-
- Kategorier arkfanen over kategoritabellen.&lt;/p&gt;
-&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Eksisterende kategoriavhengigheter viser de avhengighetene den valgte kategorien allerede har. Her kan man:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Endre type avhengighet mellom &amp;ldquo;Og&amp;rdquo; og &amp;ldquo;Eller&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Slette en avhengighet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Ny kategoriavhengighet. Her kan man legge til en ny avhengighet.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Velg kategorigruppe den kategorien man skal lage en avhengighet mot tilhører i nedfallsmeny 1.&lt;/li&gt;
-&lt;li&gt;Velg så kategori fra nedfallsmeny 2. Merk at innholdet her avhenger av hva du valgte i nedfallsmeny 1.&lt;/li&gt;
-&lt;li&gt;Velg så type avhengighet. &amp;ldquo;Og&amp;rdquo; er standard.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
-
-
-: Sletter aktuell avhengighet.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre: Lagrer endringene gjordt i bildet. Dersom feltene i Ny kategoriavhengighet delen er satt, lages det en ny avhengighet.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre for gruppen: Lagrer endringene gjordt i bildet. Dersom feltene i Ny kategoriavhengighet delen er satt, lages det en ny avhengighet som legges til alle kategorier i den kategorigruppen som er navngitt i sidens overskrift.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Tar deg tilbake til siden du kom fra.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Epostinnstillinger</title>
-      <link>https://docs3.qmplus.com/docs/forms/functions/email_settings/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/forms/functions/email_settings/</guid>
-      <description>
-        
-        
-        &lt;p&gt;I denne siden kan man endre tittelen for eposter sent på bakgrunn av Informeres ved ny melding regler. Tittelen blir satt til å være navnet på en avkrysset kategori i meldingen hvis kategorigruppe er lagt til i denne siden. Dersom man ikke setter noe i denne siden, vil standard tittel benyttes.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Innstillingen gjelder fra og med avdelingen satt som Fra avdeling for kategorigruppen.&lt;/li&gt;
-&lt;li&gt;Dersom flere kategorigrupper er satt i denne siden vil den kategorigruppen som har Fra avdeling med avdelingen nærmest der meldingen ble registrert benyttes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Legg til: Setter den valgte kategorigruppen fra den valgte avdelingen.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Slette: Sletter den aktuelle kategorigruppen fra oppsettet.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Arkfaner</title>
       <link>https://docs3.qmplus.com/docs/forms/tabs/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
@@ -139,7 +23,21 @@
       <description>
         
         
-        &lt;p&gt;Alle arkfaner for dokumenter.&lt;/p&gt;
+        &lt;p&gt;Alle arkfaner for meldingsskjemaer.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Funksjoner</title>
+      <link>https://docs3.qmplus.com/docs/forms/functions/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/forms/functions/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alle funksjoner for meldingsskjemaer.&lt;/p&gt;
 
       </description>
     </item>

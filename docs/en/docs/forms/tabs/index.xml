@@ -15,143 +15,69 @@
     
     
     <item>
-      <title>Docs: Alternative groups</title>
-      <link>https://docs3.qmplus.com/en/docs/forms/tabs/alternative_groups/</link>
+      <title>Docs: Categories submenu message form</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/tabs/categories_submenu_message_form/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/alternative_groups/</guid>
+      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/categories_submenu_message_form/</guid>
       <description>
         
         
-        &lt;p&gt;Here you can manage the company&amp;rsquo;s alternative groups and alternative groups overviews.&lt;/p&gt;
-&lt;h3 id=&#34;functions&#34;&gt;Functions&lt;/h3&gt;
-&lt;h4 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Selection of alternative groups overviews. The alternative groups that belong to the selected overview are displayed in the table below.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;buttons&#34;&gt;Buttons&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;New alternative groups overview: Takes you to the New alternative groups overview page to create a new alternative groups overview.&lt;/li&gt;
-&lt;li&gt;Edit alternative groups overview: Takes you to the Edit alternative groups overview page to edit the selected alternative groups overview.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- New alternative group: Creates a new alternative group and takes you to the Edit alternative group page.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;icons&#34;&gt;Icons&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Copy.gif&#34;  width=&#34;&#34; /&gt;
-
-
- Copies the selected alternative group so that you can continue working with the group that is in use. This icon comes up only if this alternative group is used in a survey form that has already been answered.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Endre.gif&#34;  width=&#34;&#34; /&gt;
-
-
- Takes you to the Edit alternative group screen to change the selected alternative group. This icon comes up only if this alternative group is not used in an survey form that has already been answered.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
-
-
- Activates / Deactivates the alternative group depending on whether you are under the Deactivated alternative groups tab or the Active alternative groups tab respectively. Deactivated alternative groups can not be selected in the Edit alternative answers screen, but do not affect the list that is in use.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Deletes the selected alternative group. This icon only comes up if this alternative group is not used in a survey form that has already been answered.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Active lists: Shows the active survey forms available in the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;Deactivated lists: Shows the deactivated survey forms available in the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;Active alternative groups: Shows the active alternative groups in the system.&lt;/li&gt;
-&lt;li&gt;Deactivated alternative groups: Shows the deactivated alternative groups in the system.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Checklists</title>
-      <link>https://docs3.qmplus.com/en/docs/forms/tabs/checklists/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/checklists/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Here you can manage the company&amp;rsquo;s checklists.&lt;/p&gt;
+        &lt;p&gt;Here you can manage the categories of the message form.&lt;/p&gt;
+&lt;h3 id=&#34;add-categories-to-the-message-form&#34;&gt;Add categories to the message form&lt;/h3&gt;
+&lt;p&gt;In this panel you can manage the categories of the message form.&lt;/p&gt;
+&lt;p&gt;The left panel shows the categories that are already in the message form, the right panel shows the categories that can be added. The panels are filtered by the category group which is selected in the category group drop-down menu above the left panel.&lt;/p&gt;
+&lt;p&gt;If a category in the left panel is marked with yellow, it will appear both when the message form is opened at the department where the category was added and at any subordinate department. Categories in white are only shown when opening the form at the same department where the category was added. This is set by the state of the &amp;ldquo;Show for subdepartments&amp;rdquo; checkbox (checked or not) when adding a category to the message form.&lt;/p&gt;
 &lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;p&gt;The entries marked with &amp;ldquo;Advanced option&amp;rdquo; are only shown when the Show advanced options button in the Edit message form page has been clicked.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Selection of list types: Select the list type you wish to see an overview for. The list type is only a way to organise lists.&lt;/li&gt;
+&lt;li&gt;Choose category group: The fields below this drop-down menu will only contain categories belonging to the selected category group. The category groups in this drop-down menu are grouped by category group type.&lt;/li&gt;
+&lt;li&gt;Order type (Advanced option): Shown above the category group drop-down menu at the panel Add categories to the message form.
+&lt;ul&gt;
+&lt;li&gt;Ordering by Type is the default and means that the category groups will be sorted by their category group type.&lt;/li&gt;
+&lt;li&gt;Ordering by Index means that you can assign a column (left, center or right) and an index to each category group in the message form. If the sorting is to be done by index, one should go through all the category groups and set the column and index. The Save button must be pressed after each change so that it will be put into effect.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Show as: Determines how the selected category group will appear in the message form (Checkbox / Drop-down menu).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that a category group needs to have either some of its own categories or some categories of a sub group attached to the message form for the following options to have any effect.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Display in the message form (Advanced option): Determines if and how the given category group should appear in the message form.&lt;/li&gt;
+&lt;li&gt;Display in the message process page (Advanced option): Determines if and how the given category group should appear in the message process page.&lt;/li&gt;
+&lt;li&gt;Display in the action process page (Advanced option): Determines if and how the given category group should appear in the action process page.&lt;/li&gt;
+&lt;li&gt;Display in Inbox (Advanced option): If set to Yes, then an extra column will appear under Inbox, where the checked categories that belong to this category group will be listed for messages.&lt;/li&gt;
+&lt;li&gt;Display in the mobile app (Advanced option): If set to No, this category group will not appear in the message form when displayed in the mobile application. This field is visible only if the mobile application is activated.&lt;/li&gt;
+&lt;li&gt;Mandatory: If set to Yes, the user will have to select a category in this group in order for a message created with this message form to be saved. Defining category groups are a special case and will always have Yes here. Note that if a message form has more than one defining category groups, the mandatory requirement will work so that only one of the categories in all the defining category groups will have to be checked before a message can be saved.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_add.png&#34;  width=&#34;&#34; /&gt;
 
 
-New list: Creates a new checklist and takes you to the New list screen.&lt;/li&gt;
+New category: Opens the New category screen with the Category group set to the same category group as the one selected in the drop-down menu.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+&amp;laquo; Add: Adds the selected categories in the right panel to this message form.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+Remove &amp;raquo;: Removes the selected categories in the left panel from this message form.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Edit category dependency for the selected category. Opens the page Edit category dependency.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_gear.png&#34;  width=&#34;&#34; /&gt;
-
-
-Takes you to the Edit list information screen to edit the information on the selected checklist.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
-Takes you to the Edit list content screen to edit the questions of the selected checklist.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
-
-
-Opens the preview window to see how the list looks in the printer friendly version. In this window you can also choose to see the list in list form or as a series of single questions which is how it will look when it will be filled out.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
-
-
-Activates / Deactivates the list depending on whether you are under the tab Deactivated lists or Active lists respectively.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_copy.png&#34;  width=&#34;&#34; /&gt;
-
-
-Copy list: Creates a copy of the selected checklist.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
-Deletes the selected list. This icon appears only if the tab Deactivated lists is selected and if the checklist has not been used in an activity.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
-
-
-Opens the page Export to the common library. If this icon is disabled / grayed out, the list is already in the common library.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Active lists: Shows the active lists that are available in the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;Deactivated lists: Shows the deactivated lists that are available in the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;Common library: Opens the common library for checklists.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&#34;categories-in-this-message-form&#34;&gt;Categories in this message form&lt;/h3&gt;
+&lt;p&gt;Displays a table for each category group with the categories associated with the message form. The table shows the name of the category and the department it was attached from. To delete a category from a message form, one must have selected the same department in the Navigator as the department where the category was attached from.&lt;/p&gt;
 
       </description>
     </item>
@@ -340,95 +266,6 @@ Opens the page Export to the common library. If this icon is disabled / grayed o
     </item>
     
     <item>
-      <title>Docs: Risk analysis lists</title>
-      <link>https://docs3.qmplus.com/en/docs/forms/tabs/risk_analysis_lists/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/risk_analysis_lists/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Here you can manage the company&amp;rsquo;s risk analysis lists.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-what-can-i-do-here&#34;&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
-
-
- What can I do here?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;The ADMIN tab gives me the possibility to make changes in existing Risk analysis lists. Click on the icon with the yellow pencil in the &amp;ldquo;Edit&amp;rdquo; column, or create a new list. Click on the button &amp;ldquo;New list&amp;rdquo; at the bottom of the page.&lt;/li&gt;
-&lt;li&gt;RECOMMENDATION:
-&lt;ul&gt;
-&lt;li&gt;A. Create a list with the typical tasks that are performed in the department which you selected in the Navigator. Use a work group to edit the content (the tasks) that will be included in the list.&lt;/li&gt;
-&lt;li&gt;B. Send the list to those who need to answer it, i.e. assess the risk for each task: Click on ADMIN / Planning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- New list: Creates a new risk analysis list and takes you to the New list screen.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_gear.png&#34;  width=&#34;&#34; /&gt;
-
-
- Takes you to the Edit list information screen to edit the information on the selected risk analysis list.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
- Takes you to the Edit list content screen to edit the questions of the selected risk analysis list.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
-
-
- Opens the preview window to see how the list looks in the printer friendly version. In this window you can also choose to see the list in list form.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
-
-
- Activates / Deactivates the form depending on whether you are under the tab Deactivated lists or Active lists respectively.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_copy.png&#34;  width=&#34;&#34; /&gt;
-
-
- Copy list: Creates a copy of the selected risk analysis list.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Deletes the selected list. This icon appears only if the tab Deactivated lists is selected and if the risk analysis list has not been used in an activity.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
-
-
- Opens the page Export to the common library. If this icon is disabled / grayed out, the list is already in the common library.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Active lists: Shows the active lists that are available in the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;Deactivated lists: Shows the deactivated lists that are available in the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;Common library: Opens the common library for risk analysis lists.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Roles submenu message form</title>
       <link>https://docs3.qmplus.com/en/docs/forms/tabs/roles_submenu_message_form/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
@@ -442,94 +279,6 @@ Opens the page Export to the common library. If this icon is disabled / grayed o
 &lt;ul&gt;
 &lt;li&gt;New message. Hides the button to register a new message with this message form.&lt;/li&gt;
 &lt;li&gt;See messages and charts. Hides messages registered with this message form in Reports, Inbox and Archive.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Survey forms</title>
-      <link>https://docs3.qmplus.com/en/docs/forms/tabs/survery_forms/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/survery_forms/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Here you can manage the company&amp;rsquo;s survey forms and alternative groups.&lt;/p&gt;
-&lt;p&gt;A survey form or questionnaire is a measuring instrument we use to measure the level differences between variables. Survey forms should be used only when we want to collect empirical data. That means surveys are based on a quantitative method. In order to make valid and reliable measurements it is required that we manage to construct a suervey form that creates a good communication process between the interviewer and the respondent. In a traditional survey it often pays to use the display type &amp;ldquo;show as single question&amp;rdquo;.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-what-can-i-do-here&#34;&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
-
-
- What can I do here?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;The ADMIN tab gives me the possibility to make changes in the organisation, the users, the forms, documents, roles and rules.&lt;/li&gt;
-&lt;li&gt;My selection in the second tab row enables new tabs. A click on one of these produces table views that display the contents. Everything can be changed in the tables.&lt;/li&gt;
-&lt;li&gt;The&amp;quot;Edit&amp;quot;-column on the right side of each table has two main functions: The black arrow deactivates, and the icons that have yellow in them give editing possibilities.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
-
-
- New list: Creates a new list and takes you to the New list page.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_gear.png&#34;  width=&#34;&#34; /&gt;
-
-
- Takes you to the Edit list information screen to change the information for the selected list.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
- Takes you to the Edit list content screen to change the content of the selected list. It is only possible to edit survey forms that were created on the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_key.png&#34;  width=&#34;&#34; /&gt;
-
-
- Takes you to the Edit alternative answers screen to edit the content of the selected list. It is only possible to edit alternative answers in survey forms that were created on the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
-
-
- Activates / Deactivates the selected survey form, depending on whether you are under Deactivated lists or Active lists respectively. It is only possible to change the status of survey forms that were created on the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_copy.png&#34;  width=&#34;&#34; /&gt;
-
-
- Copy list: Creates a copy of the selected survey form.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Delete list: Deletes the selected survey form. This icon only comes up if the tab Deactivated lists is selected and the specific survey form has not been answered. It is only possible to delete survey forms that were created on the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
-
-
- Opens the page Export to the common library. If this icon is disabled / grayed out, the list is already in the common library.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Active lists: Displays the active survey forms available in the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;Deactivated lists: Displays the deactivated survey forms available in the department which is selected in the Navigator.&lt;/li&gt;
-&lt;li&gt;Active alternative groups: Shows the active alternative groups in the system.&lt;/li&gt;
-&lt;li&gt;Deactivated alternative groups: Displays the deactivated alternative groups in the system.&lt;/li&gt;
-&lt;li&gt;Common library: Opens the common library for survey forms.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

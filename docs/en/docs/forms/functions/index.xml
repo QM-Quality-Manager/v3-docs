@@ -15,204 +15,73 @@
     
     
     <item>
-      <title>Docs: Edit alternative answers</title>
-      <link>https://docs3.qmplus.com/en/docs/forms/functions/edit_alternative_answers/</link>
+      <title>Docs: Edit category dependency</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/functions/edit_category_dependency/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/en/docs/forms/functions/edit_alternative_answers/</guid>
+      <guid>https://docs3.qmplus.com/en/docs/forms/functions/edit_category_dependency/</guid>
       <description>
         
         
-        &lt;p&gt;Edit alternative answers is used for setting alternative answers and display criteria for questions in survey forms.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-what-can-i-do-here&#34;&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
-
-
- What can I do here?&lt;/h3&gt;
+        &lt;p&gt;The headline of the page describes which category you edit the category dependencies for and which category group it belongs to. A category dependency is only used for the actual message form it was set up for. A category may only have one dependency against each of the other categories in that message form.&lt;/p&gt;
+&lt;p&gt;A category satisfies its dependencies when it both:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;I can add answer groups in the questionnaire. Click on the drop-down menu with the Alternative groups and select one.&lt;/li&gt;
-&lt;li&gt;If the alternative group you are looking for is not in the drop-down menu: Click on &amp;ldquo;New alternative group&amp;rdquo; at the bottom of the page. You will find your new group at the bottom.&lt;/li&gt;
-&lt;li&gt;I can select if the alternative answers will be Text, Multiple choice or Single choice. Click in Order / Answer type.&lt;/li&gt;
+&lt;li&gt;satisfies all &amp;ldquo;And&amp;rdquo; dependencies. If it has no &amp;ldquo;And&amp;rdquo; dependencies it is considered satisfied.&lt;/li&gt;
+&lt;li&gt;satisfies at least one &amp;ldquo;Or&amp;rdquo; dependency or it has no &amp;ldquo;Or&amp;rdquo; dependencies.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;drop-down-menu&#34;&gt;Drop-down menu&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Default alternative group for this list: Drop-down menu that sets the alternative group which will be used in this list. The corresponding Choose button updates the list below according to the choice made here. Note that all changes of alternative answers you have already done in this list will be overwritten when you do this.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;list-table&#34;&gt;List table&lt;/h3&gt;
-&lt;p&gt;The table shows all the questions in the list and is used for assigning alternative groups to each question. Display criteria can also be set for all questions.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
+&lt;p&gt;Note that when you close this page you have to reload the page 
 
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
 
 
- / 
+ Categories or Edit message form for the changes to be visible in the category table. The easiest way to do that is by clicking on the tab 
 
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Asterisk_orange.png&#34;  width=&#34;&#34; /&gt;
-
-
-: Opens the submenu to edit the display criteria for this question. 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
 
 
- means that the question does not have a display criterion and will always be shown. 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Asterisk_orange.png&#34;  width=&#34;&#34; /&gt;
-
-
- means that the question has a display criterion and that it will only be shown for the user who answers the list when the display criterion is fulfilled.&lt;/li&gt;
-&lt;li&gt;Group / Element name: Dark rows show groups, light rows show questions.&lt;/li&gt;
-&lt;li&gt;Order / Answer type: Sorting applies to all questions in a group, answer type applies to each question.&lt;/li&gt;
-&lt;li&gt;Alternative group: The alternative group that applies to the current question. If the alternative group is changed for a group and the Save button is used, all the questions in that group will be assigned to this alternative group.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;alternative-answers&#34;&gt;Alternative answers&lt;/h3&gt;
-&lt;p&gt;This is the same table that can be found under Alternative groups.
-Buttons&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_gear.png&#34;  width=&#34;&#34; /&gt;
-
-
- Edit list information. Takes you to the Edit list information screen to edit the information on the selected checklist.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
- Edit list content. Takes you to the Edit list content screen to edit the questions of the selected checklist.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
-
-
- Preview. Opens the preview window to see how the list looks in the printer friendly version. In this window you can also choose to see the list in list form or as a series of single questions which is how it will look when it will be filled out.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Close: Takes you back to the page you came from.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Edit alternative group</title>
-      <link>https://docs3.qmplus.com/en/docs/forms/functions/edit_alternative_group/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/en/docs/forms/functions/edit_alternative_group/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Used to edit alternative groups.&lt;/p&gt;
-&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Language: The alternative answers in an alternative group can be set once for each language that is enabled in the system.&lt;/li&gt;
-&lt;li&gt;Alternative groups overview: Every alternative group belongs to an alternative groups overview. Here you can choose which one.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
-
-
- Print: Prints the current screen.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
-
-
- Help: Opens this page.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- New alternative answer: Opens a text field where you can write the name of a new alternative answer.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Delete alternative answer: Appears only when you click on an alternative answer.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Save: Saves the changes you have made. Use this once you have entered a new or edited an existing alternative answer.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Close: Closes this page and sends you back to Alternative groups or Edit alternative answers depending on where you came from.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;table&#34;&gt;Table&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Click on the text of an alternative answer to select it. The row in the table will be highlighted in red. Now you can edit the text or use the button Delete alternative answer.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/SmallArrowUpFilled.gif&#34;  width=&#34;&#34; /&gt;
-
-
-: Move this alternative answer up in the alternative group.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/SmallArrowDownFilled.gif&#34;  width=&#34;&#34; /&gt;
-
-
-: Move this alternative answer down in the alternative group.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Edit alternative groups overview</title>
-      <link>https://docs3.qmplus.com/en/docs/forms/functions/edit_alternative_groups_overview/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/en/docs/forms/functions/edit_alternative_groups_overview/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Used for editing the name of an alternative groups overview.&lt;/p&gt;
+ Categories above the category table.&lt;/p&gt;
 &lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
-&lt;p&gt;Show for the language: Drop-down menu for the language. An alternative groups overview may have one name per language that is enabled in the system.
-Alternative groups overview name: Write the name of the alternative groups overview.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The table Existing category dependencies shows the dependencies that the selected category already has (appears only if it has any). Here you can:
+&lt;ul&gt;
+&lt;li&gt;Change the dependency type between &amp;ldquo;And&amp;rdquo; or &amp;ldquo;Or&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Delete a dependency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;New category dependency. Here you can add a new dependency.
+&lt;ul&gt;
+&lt;li&gt;First, select in the first drop-down menu the category group to which the category you want to set up a dependency on belongs.&lt;/li&gt;
+&lt;li&gt;Then, select the category from the second drop-down menu. Note that the content of this menu depends on what you selected in the first drop-down menu.&lt;/li&gt;
+&lt;li&gt;Finally, choose the dependency type. &amp;ldquo;And&amp;rdquo; is the default value.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
 
 
- Print: Prints the active window.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
-
-
- Help: Opens this page.&lt;/li&gt;
+: Deletes the selected dependency.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
 
 
- Save: Saves the changes that have been made.&lt;/li&gt;
+ Save: Saves the changes done in the page. If the fields in the New category dependency part have been set, a new dependency is created.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save for the group: Saves the changes done in the page. If the fields in the New category dependency part have been set, a new dependency is created and it is is added to all categories in the category group that appears in the headline of the page.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
 
 
- Close: Closes this screen and sends you back to the page you came from.&lt;/li&gt;
+ Close: Takes you back to the page where you came from.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
