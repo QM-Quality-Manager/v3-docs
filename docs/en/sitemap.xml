@@ -230,7 +230,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/list/tabs/alternative_groups/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/activity/tabs/annual_plan/</loc>
     <lastmod>2022-11-11T13:57:23+02:00</lastmod>
@@ -330,7 +330,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/forms/tabs/categories_submenu_message_form/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/admin/tabs/category_groups/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -359,7 +359,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/list/tabs/checklists/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/report/tabs/comment_reports/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -394,7 +394,7 @@
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/inbox/tabs/department_cases/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -543,13 +543,13 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/list/functions/edit_alternative_answers/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/list/functions/edit_alternative_group/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/list/functions/edit_alternative_groups_overview/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/admin/functions/edit_category/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -565,7 +565,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/forms/functions/edit_category_dependency/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -1112,7 +1112,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/forms/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -1373,7 +1373,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/list/tabs/risk_analysis_lists/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -1480,7 +1480,7 @@
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/list/tabs/survey_forms/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -1588,6 +1588,16 @@
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/inbox/tabs/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/inbox/tabs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/inbox/tabs/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/info/tabs/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>

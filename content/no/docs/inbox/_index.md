@@ -6,5 +6,5 @@ description: >
   Dokumentasjon for Innboks.
 ---
 
-Dette er landingsiden for dokumentasjon relatert til inboksen.
+Dette er landingsiden for dokumentasjon relatert til innboksen.
 
