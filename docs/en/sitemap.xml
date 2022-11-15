@@ -276,6 +276,16 @@
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/document/audit/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/document/audit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/document/audit/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/document/tabs/audit_overview/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -415,34 +425,34 @@
                 href="https://docs3.qmplus.com/en/docs/document/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/en/docs/document/document_content/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/en/docs/document/tabs/document_content/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://docs3.qmplus.com/docs/document/document_content/"
+                href="https://docs3.qmplus.com/docs/document/tabs/document_content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://docs3.qmplus.com/en/docs/document/document_content/"
+                href="https://docs3.qmplus.com/en/docs/document/tabs/document_content/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/en/docs/document/document_data/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/en/docs/document/tabs/document_data/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://docs3.qmplus.com/docs/document/document_data/"
+                href="https://docs3.qmplus.com/docs/document/tabs/document_data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://docs3.qmplus.com/en/docs/document/document_data/"
+                href="https://docs3.qmplus.com/en/docs/document/tabs/document_data/"
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/document/tabs/document_groups/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-11T15:46:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -587,7 +597,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/document/functions/edit_document_data/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-11T15:46:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -913,7 +923,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/document/tabs/hearing_approval/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-11T15:46:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -1084,7 +1094,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/message/tabs/message_process/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-11T15:46:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -1129,7 +1139,7 @@
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/archive/tabs/messages/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-11T15:46:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -1218,14 +1228,34 @@
                 href="https://docs3.qmplus.com/en/docs/other/probability/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/en/docs/document/process_chart_setup/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/en/docs/document/tabs/process_chart_setup/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/document/tabs/process_chart_setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/document/tabs/process_chart_setup/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/user/tabs/questionnaires_tab_worker/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/document/tabs/read_and_understood/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/document/tabs/read_and_understood/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/document/tabs/read_and_understood/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/en/docs/document/tabs/reference_overview/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>

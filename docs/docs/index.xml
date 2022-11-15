@@ -325,55 +325,6 @@
 
  Hjelp: Åpner denne siden.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;besvar-høring&#34;&gt;Besvar høring&lt;/h1&gt;
-&lt;p&gt;Besvar høring er en arkfane som vises under Table multiple.png Info når en høring skal besvares. Denne siden kan åpnes fra Innboks for de som skal utføre den og fra endre data for dokumentet under Admin/Dokumenter for brukere med tilgang dit.&lt;/p&gt;
-&lt;p&gt;Denne siden brukes til å besvare en høring. Brukere som gar fått ansvar for å delta i høringen kan besvare den og gi sine kommentarer. Høringens status kan endres av den som har fått tildelt ansvaret for å godkjenne den.&lt;/p&gt;
-&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Dokument: Lenke som åpner selve dokumentet. Nummer og versjon for dokumentet høringen er tilknyttet.&lt;/li&gt;
-&lt;li&gt;Ansvarlig for godkjenning av dokumentet: Den som skal godkjenne høringen og kan endre status på den.&lt;/li&gt;
-&lt;li&gt;Status: Status. Kan ha verdiene Ute på høring, Til godkjenning og godkjent.&lt;/li&gt;
-&lt;li&gt;Høringsnummer: Løpenummer for alle høringer i systemet.&lt;/li&gt;
-&lt;li&gt;Opprettet: Opprettelsestidspunkt.&lt;/li&gt;
-&lt;li&gt;Ansvarlig for høringen: Den som har opprettet høringen.&lt;/li&gt;
-&lt;li&gt;Høringsfrist.&lt;/li&gt;
-&lt;li&gt;Mitt svar til høringen: brukes av de som skal delta i høringen for å gi tilbakemelding på dokumentet.&lt;/li&gt;
-&lt;li&gt;Høringens status: brukes av den som er ansvarlig for godkjenning til å endre status på høringen.&lt;/li&gt;
-&lt;li&gt;Kommentar: Tekstfelt som kan brukes av alle med tilgang til høringen.&lt;/li&gt;
-&lt;li&gt;Mitt svar: Meny for å velge hvem som skal motta beskjeden skrevet i fletet Kommentar.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper-1&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lagre: Lagrer endringer du har gjordt i bildet. Dersom du har skrevet en kommentar blir den sendt på den måten du har valgt i Mitt svar.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
-
-
- Lukk: Lukker dette bildet og tar deg tilbake dit du var.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
-
-
- Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
-
-
- Hjelp: Åpner denne siden.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tabeller&#34;&gt;Tabeller&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Deltakere i høringen: Oversikt over de som skal besvare høringen, hva de har svart og når de sist endret svaret sitt.&lt;/li&gt;
-&lt;li&gt;Kommentarer til høringen: Alle kommentarer laget til høringen.&lt;/li&gt;
-&lt;/ul&gt;
 
       </description>
     </item>
@@ -1734,23 +1685,7 @@ g. Trykk på
       <description>
         
         
-        &lt;p&gt;&lt;strong&gt;Admin&lt;/strong&gt; brukes for å administrere systemet. I standardversjonen har alle ledere full tilgang til å redigere all informasjon som er lagt inn innenfor sitt eget organisasjonsnivå. Hos en del kunder er denne muligheten begrenset og enkelte vil derfor ikke få opp alle arkfanene slik det er beskrevet nedenfor. Ta kontakt med din lokale superbruker dersom du mener du har behov for yttligere rettigheter.&lt;/p&gt;
-&lt;p&gt;All informasjon som vises/legges inn via Admin vil relatere til valgt avdeling i navigatoren.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
-
-
- Hva kan jeg gjøre her?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Som Superbruker har jeg tilgang til ADMIN-arkfanen. Denne åpner nye arkfaner hvor jeg kan gjøre endringer i organisasjon (navigator), legge inn brukere i avdelingene, endre kategorier som skal inn i meldingsskjemaer, lage skjemaer, legge opp nye styrende dokumenter, m.m.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Et klikk på en av arkfanene under ADMIN, gir tilgang til nye arkfaner.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+        &lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
 &lt;p&gt;Vedlikeholdes i endre data for dokumentet. En enkel versjonskontroll vises også på denne siden under Vis avanserte muligheter.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1925,10 +1860,10 @@ g. Trykk på
     
     <item>
       <title>Docs: Dokumentdata</title>
-      <link>https://docs3.qmplus.com/docs/document/document_data/</link>
+      <link>https://docs3.qmplus.com/docs/document/tabs/document_data/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/document_data/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/tabs/document_data/</guid>
       <description>
         
         
@@ -2375,10 +2310,10 @@ Legg dokumenter til skjemaet&lt;/p&gt;
     
     <item>
       <title>Docs: Dokumentinnhold</title>
-      <link>https://docs3.qmplus.com/docs/document/document_content/</link>
+      <link>https://docs3.qmplus.com/docs/document/tabs/document_content/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/document/document_content/</guid>
+      <guid>https://docs3.qmplus.com/docs/document/tabs/document_content/</guid>
       <description>
         
         

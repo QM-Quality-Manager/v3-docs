@@ -3,7 +3,7 @@ title: "Document content"
 linkTitle: "Document content"
 date: 2017-01-04
 description: >
-  Document content: Used for editing the contents of a document of the type "Write a document
+  Document content: Used for editing the contents of a document of the type "Write a document"
 ---
 These are documents that are written directly into Qm+ using its document editing tool. Opens from the page Edit document data.
 
