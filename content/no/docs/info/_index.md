@@ -3,7 +3,7 @@ title: "Info"
 linkTitle: "Info"
 date: 2017-01-05
 description: >
-  Info
+  Dokumentasjon for Info
 ---
 
 Dette er landingsiden for dokumentasjonen til info siden.

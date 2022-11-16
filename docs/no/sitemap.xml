@@ -102,9 +102,6 @@
                 href="https://docs3.qmplus.com/docs/admin/tabs/responsibilities/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/action/tabs/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
-  </url><url>
     <loc>https://docs3.qmplus.com/docs/main/tabs/archive/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
     <xhtml:link
@@ -567,8 +564,18 @@
                 href="https://docs3.qmplus.com/docs/list/tabs/common_library/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/message/tabs/field_under_form/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/forms/tabs/fields_submenu_message_form/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/forms/tabs/fields_submenu_message_form/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/forms/tabs/fields_submenu_message_form/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/functions/fill_in_single_answer/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -650,8 +657,18 @@
                 href="https://docs3.qmplus.com/docs/document/tabs/hearing_approval/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/info/info/</loc>
-    <lastmod>2022-11-10T10:46:37+02:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/main/tabs/info/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/main/tabs/info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/main/tabs/info/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/main/tabs/inbox/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -695,8 +712,18 @@
                 href="https://docs3.qmplus.com/docs/admin/tabs/categories/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/message/tabs/category_sub_menu_form/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/forms/tabs/categories_submenu_message_form/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/forms/tabs/categories_submenu_message_form/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/forms/tabs/categories_submenu_message_form/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/admin/tabs/category_groups/</loc>
     <lastmod>2022-11-11T14:59:18+02:00</lastmod>
@@ -1198,8 +1225,18 @@
     <loc>https://docs3.qmplus.com/docs/list/tabs/questionnaire_employee/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/info/tabs/controlling_documents/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/info/tabs/managing_documents/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/info/tabs/managing_documents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/info/tabs/managing_documents/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/activity/tabs/user_participation/</loc>
     <lastmod>2022-11-10T15:32:46+02:00</lastmod>
@@ -1455,7 +1492,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/inbox/</loc>
-    <lastmod>2021-11-13T12:43:40+01:00</lastmod>
+    <lastmod>2022-11-15T17:12:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1611,7 +1648,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/inbox/tabs/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T17:12:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -491,37 +491,6 @@ Knapper&lt;/p&gt;
     </item>
     
     <item>
-      <title>Docs: Arkfaner</title>
-      <link>https://docs3.qmplus.com/docs/action/tabs/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/action/tabs/</guid>
-      <description>
-        
-        
-        &lt;h1 id=&#34;tiltak-søk-resultat&#34;&gt;Tiltak søk resultat&lt;/h1&gt;
-&lt;p&gt;Søk er en Arkfane under Tiltak.&lt;/p&gt;
-&lt;p&gt;Denne siden brukes til å vise resultatet fra søk etter tiltak og når noen har trykket på en tiltaksgraf under Rapporter.&lt;/p&gt;
-&lt;h3 id=&#34;søkekriterier&#34;&gt;Søkekriterier&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Lister opp alle parametere som er i bruk for å lage søkeresultatet. Nedfallsmenyen for avdelinger kan brukes til å endre hvilke avdelinger tiltakene skal hentes fra.&lt;/li&gt;
-&lt;li&gt;Navigatoren kan brukes til å endre hvilken avdeling eller fra og med avdelinger, avhengig av nedfallsmenyen for avdelinger over, tiltakene skal hentes fra.&lt;/li&gt;
-&lt;li&gt;Nytt søk knappen fjerner alle andre parametere enn valgt avdeling i navigatoren og åpner søkesiden for tiltak.&lt;/li&gt;
-&lt;li&gt;Utvid søk knappen åpner søkesiden for tiltak med alle parametere listet opp i søkekriterierlisten satt. Denne knappen bruker du hvis du skal jobbe videre med det nåværende søket.&lt;/li&gt;
-&lt;li&gt;Grafer: 2 nedfallsmenyer som kan brukes til å endre innhold eller fokus for søket og vise resultatet under Rapporter.
-&lt;ul&gt;
-&lt;li&gt;Rapporter: Brukes til å velge grafrapporttype.&lt;/li&gt;
-&lt;li&gt;Kategorigrupper: Avhengig av valgt grafrapporttype. For Per avdeling / per kategori og Per kategori/gruppe viser grafen en oversikt for kategorier tilhørende den valgte kategorigruppen. For de andre grafrapporttypene blir kun tiltak med tilkoblede meldinger med avkryssede kategorier av den valgte kategorigruppen tatt med i grafen.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Søk: Denne knappen åpner Rapporter med de parametere som er satt i dette bildet.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Bruk av tabellen er forklart i Tiltak.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Docs: Arkiv</title>
       <link>https://docs3.qmplus.com/docs/main/tabs/archive/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
@@ -4049,6 +4018,52 @@ Page.png Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man
 
 
 : Flytt dette svaralternativet nedover i svaralternativgruppen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre svaralternativgruppeoversikt</title>
+      <link>https://docs3.qmplus.com/docs/list/functions/change_answer_group_overview/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/list/functions/change_answer_group_overview/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å redigere navnet på svaralternativgruppeoversikter.&lt;/p&gt;
+&lt;h4 id=&#34;felter&#34;&gt;Felter&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Nedfallsmeny for språk. En svaralternativgruppeoversikt kan ha et navn per språk som er aktivert i systemet.&lt;/li&gt;
+&lt;li&gt;Svaralternativgruppeoversiktsnavn: Skriv navnet på svaralternativgruppeoversikten.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringen som er gjordt.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker dette skjermbildet og sender brukeren til det skjermbildet han kom fra.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
