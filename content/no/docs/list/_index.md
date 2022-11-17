@@ -1,9 +1,9 @@
 ---
-title: "Spørreskjemar"
-linkTitle: "Spørreskjemar"
+title: "Lister"
+linkTitle: "Lister"
 date: 2017-01-05
 description: >
-  Spørreskjemar.
+  Lister.
 ---
 
-Dette er landingsiden for dokumentasjon relatert til Spørreskjemar.
+Dette er landingsiden for dokumentasjon relatert til Spørreskjemar og sjekklister.

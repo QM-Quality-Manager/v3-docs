@@ -1,12 +1,10 @@
 ---
-title: "Tabs"
-linkTitle: "Tabs"
+title: "Common library"
+linkTitle: "Common library"
 date: 2017-01-04
 description: >
-  All tabs for lists.
+  The Common library is a tab under Checklists, Risk analysis lists, Message forms and Survey forms.
 ---
-# Common library
-The Common library is a tab under Checklists, Risk analysis lists, Message forms and Survey forms.
 
 Here you can see all the forms that have been added to the common library of the customers of Qm+, for the form type you are under. Used for exchanging forms. Documents are planned for a later version.
 

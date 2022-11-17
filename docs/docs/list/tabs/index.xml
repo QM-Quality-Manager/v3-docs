@@ -205,10 +205,10 @@
     
     <item>
       <title>Docs: Sjekklister</title>
-      <link>https://docs3.qmplus.com/docs/list/tabs/checklist/</link>
+      <link>https://docs3.qmplus.com/docs/list/tabs/checklists/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/list/tabs/checklist/</guid>
+      <guid>https://docs3.qmplus.com/docs/list/tabs/checklists/</guid>
       <description>
         
         
@@ -541,6 +541,70 @@
  Sletter svaralternativgruppen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom svaralternativgruppen det gjelder ikke er brukt i et besvart spørreskjema.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;arkfaner-1&#34;&gt;Arkfaner&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive lister: Viser de aktive spørreskjemaene tilgjenglig i den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Deaktiverte lister: Viser de deaktiverte spørreskjemaene tilgjenglig i den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Aktive svaralternativgrupper: Viser de aktive svaralternativgruppene i systemet.&lt;/li&gt;
+&lt;li&gt;Deaktiverte svaralternativgrupper: Viser de deaktiverte svaralternativgruppene i systemet.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Svaralternativgrupper</title>
+      <link>https://docs3.qmplus.com/docs/list/tabs/alternative_groups/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/list/tabs/alternative_groups/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens svaralternativgrupper og svaralternativgruppeoversikter.&lt;/p&gt;
+&lt;h3 id=&#34;funksjoner&#34;&gt;Funksjoner&lt;/h3&gt;
+&lt;h4 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Velg svaralternativgruppeoversikt. Svaralternativgruppene i den valgte oversikten blir da vist i tabellen under.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;knapper&#34;&gt;Knapper&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ny svaralternativgruppeoversikt: Tar deg til Ny svaralternativgruppeoversikt skjermbildet for å lage en ny svaralternativgruppeoversikt.&lt;/li&gt;
+&lt;li&gt;Endre svaralternativgruppeoversikt: Tar deg til endre svaralternativgruppeoversikt skjermbildet for å endre den valgte svaralternativgruppeoversikten.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny svaralternativgruppe: Oppretter en ny svaralternativgruppe og tar deg til endre svaralternativgruppe skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Copy.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Kopierer den valgte svaralternativgruppen slik at man kan jobbe videre med grupper som er i bruk. Dette ikonet kommer kun opp dersom svaralternativgruppen det gjelder er brukt i et besvart spørreskjema.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Endre.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre svaralternativgruppe skjermbildet for å endre svaralternativgruppen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom svaralternativgruppen det gjelder ikke er brukt i et besvart spørreskjema.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktiverer/Deaktiverer - avhengig av valgt arkfane svaralternativgruppen som linjen det ble trykket på tilhører. Deaktiverte svaralternativgrupper kan ikke velges i endre svaralternativer skjermbildet men påvirker ikke lister som er i bruk.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Key_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter svaralternativgruppen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom svaralternativgruppen det gjelder ikke er brukt i et besvart spørreskjema.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Aktive lister: Viser de aktive spørreskjemaene tilgjenglig i den avdelingen som er valgt i navigatoren.&lt;/li&gt;
 &lt;li&gt;Deaktiverte lister: Viser de deaktiverte spørreskjemaene tilgjenglig i den avdelingen som er valgt i navigatoren.&lt;/li&gt;

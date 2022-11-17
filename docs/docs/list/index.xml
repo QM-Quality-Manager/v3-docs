@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quality Manager – Spørreskjemar</title>
+    <title>Quality Manager – Lister</title>
     <link>https://docs3.qmplus.com/docs/list/</link>
-    <description>Recent content in Spørreskjemar on Quality Manager</description>
+    <description>Recent content in Lister on Quality Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
@@ -102,7 +102,7 @@
       <description>
         
         
-        &lt;p&gt;Alle arkfaner for dokumenter.&lt;/p&gt;
+        &lt;p&gt;Alle arkfaner for lister.&lt;/p&gt;
 
       </description>
     </item>
@@ -116,7 +116,7 @@
       <description>
         
         
-        &lt;p&gt;Alle funksjoner for dokumenter.&lt;/p&gt;
+        &lt;p&gt;Alle funksjoner for lister.&lt;/p&gt;
 
       </description>
     </item>

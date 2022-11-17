@@ -7,9 +7,11 @@ description: >
 ---
 ### Fields
 
-    List name: The name that will appear in the common library. The original name of the exported form is set as default.
-    Information: Additional information field.
-    Select description tags: Check the words that describe what you are exporting or the general area for it. Contact drift@qmplus.com if the required word or phrase is missing. These words can be used to search for forms in the common library.
+- List name: The name that will appear in the common library. The original name of the exported form is set as default.
+
+- Information: Additional information field.
+
+- Select description tags: Check the words that describe what you are exporting or the general area for it. Contact drift@qmplus.com if the required word or phrase is missing. These words can be used to search for forms in the common library.
 
 ### Buttons
 

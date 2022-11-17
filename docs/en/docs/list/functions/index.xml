@@ -377,10 +377,17 @@ Alternative groups overview name: Write the name of the alternative groups overv
         
         
         &lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;List name: The name that will appear in the common library. The original name of the exported form is set as default.
-Information: Additional information field.
-Select description tags: Check the words that describe what you are exporting or the general area for it. Contact drift@qmplus.com if the required word or phrase is missing. These words can be used to search for forms in the common library.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;List name: The name that will appear in the common library. The original name of the exported form is set as default.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Information: Additional information field.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Select description tags: Check the words that describe what you are exporting or the general area for it. Contact &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; if the required word or phrase is missing. These words can be used to search for forms in the common library.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -471,6 +478,103 @@ Select description tags: Check the words that describe what you are exporting or
 &lt;li&gt;Save: Saves the answer.&lt;/li&gt;
 &lt;li&gt;Close: Closes this question without saving anything.&lt;/li&gt;
 &lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tabs</title>
+      <link>https://docs3.qmplus.com/en/docs/list/functions/edit_list_information/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/list/functions/edit_list_information/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;edit-list-information&#34;&gt;Edit list information&lt;/h1&gt;
+&lt;p&gt;Function used by all lists for changing the information about them.&lt;/p&gt;
+&lt;p&gt;Available from Checklists, Risk analysis lists and Survey forms.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for the language: The name of a list can be registered once for every language that is activated in the system.&lt;/li&gt;
+&lt;li&gt;List name: Identifies the list in tables and overviews.&lt;/li&gt;
+&lt;li&gt;List type: Grouping for the list. Appears only for checklists.&lt;/li&gt;
+&lt;li&gt;Registered by department: The list is available from this department and from its subordinate departments. Changes can only be made in the list from this department.&lt;/li&gt;
+&lt;li&gt;Attached message form: The message form which will be used as the comment form when this list is used. If &amp;ldquo;No comment&amp;rdquo; is selected (only for individual groups and questions of survey forms), it will not be possible to comment on the questions of this list.&lt;/li&gt;
+&lt;li&gt;Attached category: This category will be preselected for the comment form. If &amp;ldquo;All categories&amp;rdquo; is selected, then no category will be preselected. This prevents the display type single question view from being used.&lt;/li&gt;
+&lt;li&gt;Attached report form: The message form that will be used as the report form when this list is used. Not enabled in the standard version.&lt;/li&gt;
+&lt;li&gt;Attached report category: This category will be preselected for the report form. Not enabled in the standard version.&lt;/li&gt;
+&lt;li&gt;List comment: Free text field for additional information about the list. It will be shown at the top of the list when it is answered.&lt;/li&gt;
+&lt;li&gt;Risk alternative: Appears only for Risk analysis lists.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit list content. Takes you to the Edit list content screen to edit the questions of the selected checklist.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_key.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit alternative answers. Takes you to the Edit alternative answers screen to edit the content of the selected list. It is only possible to edit alternative answers in survey forms that were created on the department which is selected in the Navigator.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Preview. Opens the preview window to see how the list looks in the printer friendly version. In this window you can also choose to see the list in list form or as a series of single questions which is how it will look when it will be filled out.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the changes made in the fields.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Takes you back to the page you came from.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cog_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hide advanced options. Shows and hides the advanced options.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;advanced-options&#34;&gt;Advanced options&lt;/h3&gt;
+&lt;p&gt;These are things that come up when the button Show advanced options is pressed. The advanced options are hidden when you press the button Hide advanced options.&lt;/p&gt;
+&lt;h4 id=&#34;fields-1&#34;&gt;Fields&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;The list&amp;rsquo;s documents: The documents that are attached to this list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;buttons-1&#34;&gt;Buttons&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Add: Adds the selected document to this list. Please note that if you add a document that has subdocuments, all its subdocuments will also be added to the list.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white%20delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Delete: Removes the selected document from this list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;only-for-survey-forms&#34;&gt;Only for survey forms&lt;/h3&gt;
+&lt;p&gt;The fields of the attached message form and the attached category are repeated in a table for all topics and questions in the list. This can be used to adjust the associations for the whole list so that some questions get different comment forms or checked category.&lt;/p&gt;
+&lt;p&gt;If you want to change all the associations for all the questions under a topic, make the change in the topic line and press Save. Then automatically all the questions under this topic will get the same association that was selected for the topic. Similarly, if the attachment is changed for the list and the Save button is pressed, all questions will also be changed.&lt;/p&gt;
 
       </description>
     </item>

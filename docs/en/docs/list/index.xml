@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quality Manager – Checklists</title>
+    <title>Quality Manager – Lists</title>
     <link>https://docs3.qmplus.com/en/docs/list/</link>
-    <description>Recent content in Checklists on Quality Manager</description>
+    <description>Recent content in Lists on Quality Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
     
@@ -13,6 +13,19 @@
         
       
     
+    
+    <item>
+      <title>Docs: List type</title>
+      <link>https://docs3.qmplus.com/en/docs/list/list_type/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/list/list_type/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
     
     <item>
       <title>Docs: Functions</title>
@@ -37,7 +50,7 @@
       <description>
         
         
-        &lt;p&gt;All tabs associated with list.&lt;/p&gt;
+        &lt;p&gt;All tabs associated with lists.&lt;/p&gt;
 
       </description>
     </item>
