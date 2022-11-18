@@ -3,7 +3,7 @@ title: "Fields submenu message form"
 linkTitle: "Fields submenu message form"
 date: 2017-01-04
 description: >
-  Page white edit.png Fields submenu message form is a tab under Edit message form.
+  {{< onlystaticimg src="/images/Page_white_edit.png" >}} Fields submenu message form is a tab under Edit message form.
 ---
 This page is used to manage the text- and cost fields in the message form.
 

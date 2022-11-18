@@ -339,8 +339,18 @@ Show results in&lt;/p&gt;
 &lt;p&gt;A table showing messages attached to this action. There must always be at least one message connected to an action.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Hold the cursor over the + symbol in the first column to get more information about a message.&lt;/li&gt;
-&lt;li&gt;Click on the Show message icon Application form magnify.png in the last column in order to look at or edit a message.&lt;/li&gt;
-&lt;li&gt;Click on the Detach message icon Application form delete.png to detach the selected message from the action.&lt;/li&gt;
+&lt;li&gt;Click on the Show message icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_magnify.png&#34;  width=&#34;&#34; /&gt;
+
+
+ in the last column in order to look at or edit a message.&lt;/li&gt;
+&lt;li&gt;Click on the Detach message icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ to detach the selected message from the action.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;messages-that-are-not-closed&#34;&gt;Messages that are not closed&lt;/h3&gt;
 &lt;p&gt;A table showing the open messages that are not attached to this action. Above the table are some search options, so that not all the open messages are shown at the same time.&lt;/p&gt;
@@ -362,8 +372,18 @@ Show results in&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;Search: Click on this when you have made the selection in the fields above to update the table below.&lt;/li&gt;
 &lt;li&gt;Hold the cursor over the + symbol in the first column to get more information about a message.&lt;/li&gt;
-&lt;li&gt;Click on the Show message icon Application form magnify.png in the last column in order to look at or edit a message.&lt;/li&gt;
-&lt;li&gt;Click on the Attach message icon Application form add.png to attach the selected message to the action.&lt;/li&gt;
+&lt;li&gt;Click on the Show message icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_magnify.png&#34;  width=&#34;&#34; /&gt;
+
+
+ in the last column in order to look at or edit a message.&lt;/li&gt;
+&lt;li&gt;Click on the Attach message icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ to attach the selected message to the action.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;delete-action&#34;&gt;Delete action&lt;/h3&gt;
 &lt;p&gt;Button that appears only for users with the system role content administrator. Detaches all messages from this action and deletes the action. Messages attached to other open actions get the status Action process. Messages only attached to other closed actions get the status Closed. Messages not attached to other actions get the status New.&lt;/p&gt;

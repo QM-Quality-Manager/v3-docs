@@ -59,7 +59,12 @@
 &lt;p&gt;Antall besvarelser før resultatet vises: Vises kun når det er krysset av for anonymitet. Tallet gitt her styrer hvor mange besvarelser en enkelt avdeling må ha før det blir vist en graf for denne avdelingen. Ved for få svar må sumgraf fra overliggende avdeling benyttes for å få et resultat.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Vis som liste/Vis som serie av enkeltspørsmål (kun påminnelseslink)/Vis som kontrolliste: Avgjør visningsformen for listen. Trykk på Page.png ikonet for å se hvordan den valgte listen ser ut i denne visningsformen. Kun spørreskjemaer bør benytte Vis som serie av enkeltspørsmål. &amp;ldquo;Kun påminnelseslink&amp;rdquo; betyr at denne visningsformen kun benyttes når den som skal svare har kommet til listen ved å trykke på linken i den e-posten som er sendt ut som varsel for aktiviteten. Merk at for kontrolliste lages et avkryssningsfelt per dag per spørsmål. Den ser helt bort fra valgte svaralternativer.&lt;/p&gt;
+&lt;p&gt;Vis som liste/Vis som serie av enkeltspørsmål (kun påminnelseslink)/Vis som kontrolliste: Avgjør visningsformen for listen. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ ikonet for å se hvordan den valgte listen ser ut i denne visningsformen. Kun spørreskjemaer bør benytte Vis som serie av enkeltspørsmål. &amp;ldquo;Kun påminnelseslink&amp;rdquo; betyr at denne visningsformen kun benyttes når den som skal svare har kommet til listen ved å trykke på linken i den e-posten som er sendt ut som varsel for aktiviteten. Merk at for kontrolliste lages et avkryssningsfelt per dag per spørsmål. Den ser helt bort fra valgte svaralternativer.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Aktivitetens distribusjon: Normal eller Revisjon. Revisjon gjør at aktiviteten kan besvares 1 gang per avdeling deltagerne har tilgang til. Benyttes som regel hvis man går en kontrollrunde eller revisjon som skal utføres av samme bruker flere steder. Dette valget er ikke med i standardversjonen. Dersom dere vil ha denne muligheten aktivert, ta kontakt med &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt;.&lt;/p&gt;

@@ -10,7 +10,7 @@ Et meldingsskjema har avkryssningsfelter eller nedfallsmenyer og tekstfelter spe
 Når en melding lagres blir den registrert på den avdelingen som har navnet sitt i øverst i den midterste spalten i meldingsskjemaet. Meldingen vil øyeblikkelig dukke opp i Innboksbildet til den/de som er definert som leder på den valgte avdelingen med mindre tidlig saksbehandling er aktivert, se nedenfor. Meldingen vil også øyeblikkelig være med i Rapporter og rapporter laget fra samme eller en overliggende avdeling.
 
 ### Utfylling
-- Husk å krysse av i alle felt med oransjeaktig bakgrunnsfarge. Det vil som regel ligge ett slikt felt øverst til venstre i bildet. Du vil få en feilmelding om du forsøker å lagre en melding uten at alle slike obligatoriske felter er fyllt ut. Merk at dersom flere felter er markert med Tag blue.png, så vil du kun få fyllt ut ett av dem.
+- Husk å krysse av i alle felt med oransjeaktig bakgrunnsfarge. Det vil som regel ligge ett slikt felt øverst til venstre i bildet. Du vil få en feilmelding om du forsøker å lagre en melding uten at alle slike obligatoriske felter er fyllt ut. Merk at dersom flere felter er markert med {{< onlystaticimg src="/images/Tag_blue.png" >}}, så vil du kun få fyllt ut ett av dem.
 
 - Avkryssningsfelt:
   - Enkeltvalg: Felt som har en rund boks foran hvert alternativ. Det betyr at du kan sette ett kryss i denne gruppen. Har du først satt ett kryss i et felt som er enkeltvalg, så kan du ikke ta det bort igjen.

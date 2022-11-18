@@ -3,7 +3,7 @@ title: "Endre data for dokumentet"
 linkTitle: "Endre data for dokumentet"
 date: 2017-01-06
 description: >
-  Funksjon under Link.png Dokumenter for å vedlikeholde data om dokumenter. 
+  Funksjon under {{< onlystaticimg src="/images/Link.png" >}} Dokumenter for å vedlikeholde data om dokumenter. 
 ---
 ### {{< onlystaticimg src="/images/Info.png" >}} Hva kan jeg gjøre her?
 

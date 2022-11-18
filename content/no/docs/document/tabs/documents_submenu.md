@@ -55,6 +55,6 @@ Ikoner brukt til å symbolisere ulike dokumenttyper
 - {{< onlystaticimg src="/images/Page_white_medal.png" >}}: Godkjent.
 - {{< onlystaticimg src="/images/Tag_blue_edit.png" >}}: Ute på høring.
 - {{< onlystaticimg src="/images/Tick.png" >}}: Ok.
-- {{< onlystaticimg src="/images/Error.png" >}}Error.png: Indekseringsfeil. Dette kan skyldes at dokumentet ikke er tilgjenglig eller er på et format som vår indekseringsmotor ikke har klart å tyde. Det kan skje at også normale formater som pdf og word feiler. Dersom lenken åpner dokumentet korekt, betyr dette kun at dokumentet ikke vil gi treff utover dokumenttittelen, dersom man gjør fritekstsøk under Info. Lenker til intranettsider eller andre sider søkemotoren ikke når frem til, vil alltid få indekseringsfeil.
-- {{< onlystaticimg src="/images/Exclamation.png" >}}Exclamation.png: Dokumentet har nyere upublisert / eksisterende publisert versjon.
-- {{< onlystaticimg src="/images/Date.png" >}}Date.png: Gir informasjon om siste Lest og forstått aktivitet for dokumentet.
+- {{< onlystaticimg src="/images/Error.png" >}}: Indekseringsfeil. Dette kan skyldes at dokumentet ikke er tilgjenglig eller er på et format som vår indekseringsmotor ikke har klart å tyde. Det kan skje at også normale formater som pdf og word feiler. Dersom lenken åpner dokumentet korekt, betyr dette kun at dokumentet ikke vil gi treff utover dokumenttittelen, dersom man gjør fritekstsøk under Info. Lenker til intranettsider eller andre sider søkemotoren ikke når frem til, vil alltid få indekseringsfeil.
+- {{< onlystaticimg src="/images/Exclamation.png" >}}: Dokumentet har nyere upublisert / eksisterende publisert versjon.
+- {{< onlystaticimg src="/images/Date.png" >}}: Gir informasjon om siste Lest og forstått aktivitet for dokumentet.

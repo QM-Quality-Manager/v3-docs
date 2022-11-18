@@ -75,7 +75,17 @@
 &lt;/a&gt;
 
 &lt;/p&gt;
-&lt;p&gt;Film.png Video, Page white acrobat.png pdf&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Film.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Video, 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ pdf&lt;/p&gt;
 
       </description>
     </item>
@@ -539,7 +549,12 @@
 
 &lt;span class=&#34;fa fa-plus&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
 
- Glyphicon-plus.png Vises kun etter at komponenten er minimert. Vis komponenten i normal størrelse igjen.&lt;/p&gt;
+ 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Glyphicon-plus.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vises kun etter at komponenten er minimert. Vis komponenten i normal størrelse igjen.&lt;/p&gt;
 &lt;p&gt;
 
 &lt;span class=&#34;fa fa-times&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
@@ -549,7 +564,12 @@
 
 &lt;span class=&#34;fa fa-cog&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
 
- Glyphicon-cog.png Åpner egenskapene til komponenten.&lt;/p&gt;
+ 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Glyphicon-cog.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Åpner egenskapene til komponenten.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Bestemme plassering.&lt;/li&gt;
 &lt;li&gt;For tabellkomponenter, sett hvor mange rader som maksimalt vises i komponenten.&lt;/li&gt;
@@ -567,9 +587,19 @@
       <description>
         
         
-        &lt;p&gt;Brukes for å se på dokumentoversikten i systemet. Dokumentene er organisert i ulike felter i skjermbildet. De kan også være delt på flere arkfaner. Organiseringen bestemmes av virksomhetens lokale superbruker. Collapse.png og Expand.png brukes til å brette ut og brette sammen dokumentets underdokumenter. Det er også en søkefunskjon her som gjør fritekstsøk i alle dokumenter som vises i denne siden.&lt;/p&gt;
+        &lt;p&gt;Brukes for å se på dokumentoversikten i systemet. Dokumentene er organisert i ulike felter i skjermbildet. De kan også være delt på flere arkfaner. Organiseringen bestemmes av virksomhetens lokale superbruker. 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Collapse.png&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Expand.png&#34;  width=&#34;&#34; /&gt;
+
+
+ brukes til å brette ut og brette sammen dokumentets underdokumenter. Det er også en søkefunskjon her som gjør fritekstsøk i alle dokumenter som vises i denne siden.&lt;/p&gt;
 &lt;p&gt;Det kan bestilles at dokumenter vises direkte i siden under enkelte arkfaner i steden for at navnet på dokumentet vises som en link. Ta kontakt med &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; om dere ønsker en slik løsning.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s2-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 

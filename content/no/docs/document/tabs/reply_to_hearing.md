@@ -3,7 +3,7 @@ title: "Besvar høring"
 linkTitle: "Besvar høring"
 date: 2017-01-06
 description: >
-  Besvar høring er en arkfane som vises under Table multiple.png Info når en høring skal besvares.
+  Besvar høring er en arkfane som vises under {{< onlystaticimg src="/images/Table_multiple.png" >}} Info når en høring skal besvares.
 ---
 Denne siden kan åpnes fra Innboks for de som skal utføre den og fra endre data for dokumentet under Admin/Dokumenter for brukere med tilgang dit.
 

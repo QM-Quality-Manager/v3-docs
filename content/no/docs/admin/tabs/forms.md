@@ -48,4 +48,4 @@ Denne siden brukes for å administrere dokumentene i meldingsskjemaet.
 #### Legg dokumenter til skjemaet
 
 - Dokumentarkfane: Valg av dokumentarkfane. Kun dokumenter tilhørende dokumentarkfanen valgt her vises i valgboksen under.
-- Dokument: Velg dokumentet du vil legge til meldingsskjemaet og trykk deretter på knappen Link add.png Legg til. Hvis du vil fjerne et dokument fra meldingsskjemaet, trykk på det tilhørende slettikonet {{< onlystaticimg src="/images/Page_white_delete.png" >}}.
+- Dokument: Velg dokumentet du vil legge til meldingsskjemaet og trykk deretter på knappen {{< onlystaticimg src="/images/Link_add.png" >}} Legg til. Hvis du vil fjerne et dokument fra meldingsskjemaet, trykk på det tilhørende slettikonet {{< onlystaticimg src="/images/Page_white_delete.png" >}}.

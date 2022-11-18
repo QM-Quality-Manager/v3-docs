@@ -7,7 +7,7 @@ description: >
 ---
 Årshjul brukes til å administrere aktiviteter. 
 
-### Monitor.png Interaktiv opplæring
+### {{< onlystaticimg src="/images/Monitor.png" >}} Interaktiv opplæring
 
 Her kan du lære:
 

@@ -31,7 +31,17 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Show for the language: Appears only when you have pressed Layout add.png New activity group or Folder.png Edit activity group. The text fields of an activity group can be registered in any language that is activated in the system.&lt;/li&gt;
+&lt;li&gt;Show for the language: Appears only when you have pressed 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New activity group or 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit activity group. The text fields of an activity group can be registered in any language that is activated in the system.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
 &lt;ul&gt;
@@ -180,7 +190,12 @@
 &lt;li&gt;From department: The department from which this activity will be answered.&lt;/li&gt;
 &lt;li&gt;Roles that will perform the activity: Roles attached to this activity (if any).&lt;/li&gt;
 &lt;li&gt;Status: For common activities, it shows the number of users who answered / the number of users who will participate in the activity. For repetitive activities, it shows the number of users who answered / number users who can participate / the total number of answers. The participation in the activity is also shown in a small bar chart. Completed activities are marked with &amp;ldquo;(Finished)&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Comments: The number of comments to the activity. Folder.png Opens the page Comments to the activity.&lt;/li&gt;
+&lt;li&gt;Comments: The number of comments to the activity. 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Opens the page Comments to the activity.&lt;/li&gt;
 &lt;li&gt;Edit: Lists all available-icons for each activity, see below.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
@@ -516,7 +531,12 @@ Print: Prints the current page. The option Print background colours and images m
 &lt;/ul&gt;
 &lt;h3 id=&#34;date-selection&#34;&gt;Date selection&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Show activities for the period: Calendar icon.png opens a calendar for date selection.
+&lt;li&gt;Show activities for the period: 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ opens a calendar for date selection.
 &lt;ul&gt;
 &lt;li&gt;From: From (inclusive).&lt;/li&gt;
 &lt;li&gt;To: To (inclusive).&lt;/li&gt;
@@ -533,10 +553,10 @@ Print: Prints the current page. The option Print background colours and images m
  Search: Updates the content of the list drop-down menu based on the user&amp;rsquo;s choices.&lt;/li&gt;
 &lt;li&gt;
 
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+  &lt;img src=&#34;https://docs3.qmplus.com/images/add.png&#34;  width=&#34;&#34; /&gt;
 
 
- add.png Choose all: Checks all the activities in the table.&lt;/li&gt;
+ Choose all: Checks all the activities in the table.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;

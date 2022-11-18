@@ -12,8 +12,8 @@ Several messages can be attached to or detached from the action. Approved action
 A table showing messages attached to this action. There must always be at least one message connected to an action.
 
 - Hold the cursor over the + symbol in the first column to get more information about a message.
-- Click on the Show message icon Application form magnify.png in the last column in order to look at or edit a message.
-- Click on the Detach message icon Application form delete.png to detach the selected message from the action.
+- Click on the Show message icon {{< onlystaticimg src="/images/Application_form_magnify.png" >}} in the last column in order to look at or edit a message.
+- Click on the Detach message icon {{< onlystaticimg src="/images/Application_form_delete.png" >}} to detach the selected message from the action.
 
 ### Messages that are not closed
 
@@ -30,8 +30,8 @@ A table showing the open messages that are not attached to this action. Above th
   - No: Only messages from this department will be included in the table.
 - Search: Click on this when you have made the selection in the fields above to update the table below.
 - Hold the cursor over the + symbol in the first column to get more information about a message.
-- Click on the Show message icon Application form magnify.png in the last column in order to look at or edit a message.
-- Click on the Attach message icon Application form add.png to attach the selected message to the action.
+- Click on the Show message icon {{< onlystaticimg src="/images/Application_form_magnify.png" >}} in the last column in order to look at or edit a message.
+- Click on the Attach message icon {{< onlystaticimg src="/images/Application_form_add.png" >}} to attach the selected message to the action.
 
 ### Delete action
 

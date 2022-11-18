@@ -98,7 +98,17 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Vis for Språk: Vises kun når man har trykket Layout add.png Ny delplan eller Folder.png Endre delplan. Tekstfeltene til en delplan kan registreres på alle språk som er aktivisert i systemet.&lt;/li&gt;
+&lt;li&gt;Vis for Språk: Vises kun når man har trykket 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny delplan eller 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Endre delplan. Tekstfeltene til en delplan kan registreres på alle språk som er aktivisert i systemet.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
 &lt;ul&gt;
@@ -446,7 +456,12 @@
         
         
         &lt;p&gt;Årshjul brukes til å administrere aktiviteter.&lt;/p&gt;
-&lt;h3 id=&#34;monitorpng-interaktiv-opplæring&#34;&gt;Monitor.png Interaktiv opplæring&lt;/h3&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
 &lt;p&gt;Her kan du lære:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Å opprette en ny aktivitet&lt;/li&gt;

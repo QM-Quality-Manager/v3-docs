@@ -30,7 +30,7 @@ Sendt til saksbehandler viser alle meldinger som er overført til en ansvarlig p
 
 #### Knapper
 
-- {{< onlystaticimg src="/images/Page.png" >}} Utvidet visning / {{< onlystaticimg src="/images/Page_white_acrobat.png" >}}Table.png Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingene.
+- {{< onlystaticimg src="/images/Page.png" >}} Utvidet visning / {{< onlystaticimg src="/images/Table.png" >}} Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingene.
 - {{< onlystaticimg src="/images/Page_white_acrobat.png" >}} Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument. Denne er beregnet på utskrift til papir.
 - Sideskift: Pilene {{< onlystaticimg src="/images/LeftArrow.gif" >}} og {{< onlystaticimg src="/images/RightArrow.gif" >}} brukes til å skifte side når det er mer enn 20 meldinger som kan vises i tabellen.
 - Sortering: Tabellen er sortert etter kolonnen med {{< onlystaticimg src="/images/Arrowopen.gif" >}}. Trykk på {{< onlystaticimg src="/images/Arrowclosed.gif" >}} for å sortere på en annen kolonne.

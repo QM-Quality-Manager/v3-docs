@@ -94,7 +94,12 @@
 &lt;p&gt;Antall besvarelser før resultatet vises: Vises kun når det er krysset av for anonymitet. Tallet gitt her styrer hvor mange besvarelser en enkelt avdeling må ha før det blir vist en graf for denne avdelingen. Ved for få svar må sumgraf fra overliggende avdeling benyttes for å få et resultat.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Vis som liste/Vis som serie av enkeltspørsmål (kun påminnelseslink)/Vis som kontrolliste: Avgjør visningsformen for listen. Trykk på Page.png ikonet for å se hvordan den valgte listen ser ut i denne visningsformen. Kun spørreskjemaer bør benytte Vis som serie av enkeltspørsmål. &amp;ldquo;Kun påminnelseslink&amp;rdquo; betyr at denne visningsformen kun benyttes når den som skal svare har kommet til listen ved å trykke på linken i den e-posten som er sendt ut som varsel for aktiviteten. Merk at for kontrolliste lages et avkryssningsfelt per dag per spørsmål. Den ser helt bort fra valgte svaralternativer.&lt;/p&gt;
+&lt;p&gt;Vis som liste/Vis som serie av enkeltspørsmål (kun påminnelseslink)/Vis som kontrolliste: Avgjør visningsformen for listen. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ ikonet for å se hvordan den valgte listen ser ut i denne visningsformen. Kun spørreskjemaer bør benytte Vis som serie av enkeltspørsmål. &amp;ldquo;Kun påminnelseslink&amp;rdquo; betyr at denne visningsformen kun benyttes når den som skal svare har kommet til listen ved å trykke på linken i den e-posten som er sendt ut som varsel for aktiviteten. Merk at for kontrolliste lages et avkryssningsfelt per dag per spørsmål. Den ser helt bort fra valgte svaralternativer.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Aktivitetens distribusjon: Normal eller Revisjon. Revisjon gjør at aktiviteten kan besvares 1 gang per avdeling deltagerne har tilgang til. Benyttes som regel hvis man går en kontrollrunde eller revisjon som skal utføres av samme bruker flere steder. Dette valget er ikke med i standardversjonen. Dersom dere vil ha denne muligheten aktivert, ta kontakt med &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt;.&lt;/p&gt;
@@ -203,7 +208,17 @@
 &lt;/a&gt;
 
 &lt;/p&gt;
-&lt;p&gt;Film.png Video, Page white acrobat.png pdf&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Film.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Video, 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ pdf&lt;/p&gt;
 
       </description>
     </item>
@@ -1577,7 +1592,17 @@ g. Trykk på
 &lt;/ul&gt;
 &lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Vis for Språk: Vises kun når man har trykket Layout add.png Ny delplan eller Folder.png Endre delplan. Tekstfeltene til en delplan kan registreres på alle språk som er aktivisert i systemet.&lt;/li&gt;
+&lt;li&gt;Vis for Språk: Vises kun når man har trykket 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny delplan eller 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Endre delplan. Tekstfeltene til en delplan kan registreres på alle språk som er aktivisert i systemet.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
 &lt;ul&gt;
@@ -2188,19 +2213,19 @@ g. Trykk på
   &lt;img src=&#34;https://docs3.qmplus.com/images/Error.png&#34;  width=&#34;&#34; /&gt;
 
 
-Error.png: Indekseringsfeil. Dette kan skyldes at dokumentet ikke er tilgjenglig eller er på et format som vår indekseringsmotor ikke har klart å tyde. Det kan skje at også normale formater som pdf og word feiler. Dersom lenken åpner dokumentet korekt, betyr dette kun at dokumentet ikke vil gi treff utover dokumenttittelen, dersom man gjør fritekstsøk under Info. Lenker til intranettsider eller andre sider søkemotoren ikke når frem til, vil alltid få indekseringsfeil.&lt;/li&gt;
+: Indekseringsfeil. Dette kan skyldes at dokumentet ikke er tilgjenglig eller er på et format som vår indekseringsmotor ikke har klart å tyde. Det kan skje at også normale formater som pdf og word feiler. Dersom lenken åpner dokumentet korekt, betyr dette kun at dokumentet ikke vil gi treff utover dokumenttittelen, dersom man gjør fritekstsøk under Info. Lenker til intranettsider eller andre sider søkemotoren ikke når frem til, vil alltid få indekseringsfeil.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Exclamation.png&#34;  width=&#34;&#34; /&gt;
 
 
-Exclamation.png: Dokumentet har nyere upublisert / eksisterende publisert versjon.&lt;/li&gt;
+: Dokumentet har nyere upublisert / eksisterende publisert versjon.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Date.png&#34;  width=&#34;&#34; /&gt;
 
 
-Date.png: Gir informasjon om siste Lest og forstått aktivitet for dokumentet.&lt;/li&gt;
+: Gir informasjon om siste Lest og forstått aktivitet for dokumentet.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -3464,7 +3489,12 @@ Fjern avanserte muligheter. Viser og fjerner de avanserte mulighetene.&lt;/li&gt
 &lt;h3 id=&#34;utfylling&#34;&gt;Utfylling&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Husk å krysse av i alle felt med oransjeaktig bakgrunnsfarge. Det vil som regel ligge ett slikt felt øverst til venstre i bildet. Du vil få en feilmelding om du forsøker å lagre en melding uten at alle slike obligatoriske felter er fyllt ut. Merk at dersom flere felter er markert med Tag blue.png, så vil du kun få fyllt ut ett av dem.&lt;/p&gt;
+&lt;p&gt;Husk å krysse av i alle felt med oransjeaktig bakgrunnsfarge. Det vil som regel ligge ett slikt felt øverst til venstre i bildet. Du vil få en feilmelding om du forsøker å lagre en melding uten at alle slike obligatoriske felter er fyllt ut. Merk at dersom flere felter er markert med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tag_blue.png&#34;  width=&#34;&#34; /&gt;
+
+
+, så vil du kun få fyllt ut ett av dem.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Avkryssningsfelt:&lt;/p&gt;
@@ -3610,7 +3640,7 @@ Fjern avanserte muligheter. Viser og fjerner de avanserte mulighetene.&lt;/li&gt
   &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
 
 
-Page.png Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man enkelt kan se effekten av de endringene man har gjordt.&lt;/li&gt;
+ Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man enkelt kan se effekten av de endringene man har gjordt.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Cog.png&#34;  width=&#34;&#34; /&gt;
@@ -3864,7 +3894,12 @@ Page.png Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man
         
         
         &lt;p&gt;Endre svaralternativer brukes til å sette svaralternativer og visningskriterier for spørsmålene i et spørreskjemaer.&lt;/p&gt;
-&lt;h3 id=&#34;infopng-hva-kan-jeg-gjøre-her&#34;&gt;Info.png Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Jeg kan legge inn svarkategorier i spørreskjemaet. Klikk i nedfallsmenyen Svaralternativer og velg et alternativ.&lt;/p&gt;

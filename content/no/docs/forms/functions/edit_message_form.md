@@ -9,7 +9,7 @@ Tilgjengelig fra meldingsskjemaer.
 
 ### Knapper
 
-- {{< onlystaticimg src="/images/Page.png" >}}Page.png Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man enkelt kan se effekten av de endringene man har gjordt.
+- {{< onlystaticimg src="/images/Page.png" >}} Vis skjema: Åpner papirversjonen av dette meldingsskjemaet slik at man enkelt kan se effekten av de endringene man har gjordt.
 - {{< onlystaticimg src="/images/Cog.png" >}} Vis / {{< onlystaticimg src="/images/Cog_delete.png" >}}: Fjern avanserte muligheter. Vises bare når Kategorier er valgt.
 - {{< onlystaticimg src="/images/Page_lightning.png" >}} Oppdater meldinger: Oppdater alle åpne meldinger til å bruke nyeste versjon av dette meldingsskjemaet. Advarsel: Dersom kategorier eller andre felter er fjernet fra skjemaet, kan dette medføre tap av registrerte data. Vises kun for brukere med systemrollen innholdsadministrator.
 - {{< onlystaticimg src="/images/Tick.png" >}} Lagre: Lagrer endringene utført i feltene.

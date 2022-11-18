@@ -84,10 +84,10 @@ Det vises 5 rader som standard i hver tabellkomponent. En bruker må ha tilgang 
 
 {{< icon name="fa-minus" size="large" >}} Minimer komponenten.
 
-{{< icon name="fa-plus" size="large" >}} Glyphicon-plus.png Vises kun etter at komponenten er minimert. Vis komponenten i normal størrelse igjen.
+{{< icon name="fa-plus" size="large" >}} {{< onlystaticimg src="/images/Glyphicon-plus.png" >}} Vises kun etter at komponenten er minimert. Vis komponenten i normal størrelse igjen.
 
 {{< icon name="fa-times" size="large" >}}  Tar komponenten bort fra dashbordet. Bruk Tilpass dashbord for å få den tilbake igjen.
 
-{{< icon name="fa-cog" size="large" >}} Glyphicon-cog.png Åpner egenskapene til komponenten.
+{{< icon name="fa-cog" size="large" >}} {{< onlystaticimg src="/images/Glyphicon-cog.png" >}} Åpner egenskapene til komponenten.
   - Bestemme plassering.
   - For tabellkomponenter, sett hvor mange rader som maksimalt vises i komponenten.

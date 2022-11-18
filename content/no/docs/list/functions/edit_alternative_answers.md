@@ -7,7 +7,7 @@ description: >
 ---
 Endre svaralternativer brukes til å sette svaralternativer og visningskriterier for spørsmålene i et spørreskjemaer.
 
-### Info.png Hva kan jeg gjøre her?
+### {{< onlystaticimg src="/images/Info.png" >}} Hva kan jeg gjøre her?
 - Jeg kan legge inn svarkategorier i spørreskjemaet. Klikk i nedfallsmenyen Svaralternativer og velg et alternativ.
 
 - Hvis svaralternativet du ønsker ikke er i nedfallsmenyen: Klikk på "Ny svaralternativgruppe". Ditt nye forslag finner du nederst i gruppen.

@@ -14,7 +14,7 @@ The Activity groups page is used for managing activity groups. It is important t
 
 ### Drop-down menus
 
-- Show for the language: Appears only when you have pressed Layout add.png New activity group or Folder.png Edit activity group. The text fields of an activity group can be registered in any language that is activated in the system.
+- Show for the language: Appears only when you have pressed {{< onlystaticimg src="/images/Layout_add.png" >}} New activity group or {{< onlystaticimg src="/images/Folder.png" >}} Edit activity group. The text fields of an activity group can be registered in any language that is activated in the system.
 
 ### Icons
 

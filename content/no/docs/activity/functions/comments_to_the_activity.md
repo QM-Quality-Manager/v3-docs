@@ -27,7 +27,7 @@ description: >
 #### Knapper
 - {{< onlystaticimg src="/images/Page_white_acrobat.png" >}} Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument for de aktuelle kommentarmeldingene. Denne er beregnet på utskrift til papir.
 
-- {{< onlystaticimg src="/images/Page.png" >}} Utvidet visning/Table.png Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingene.
+- {{< onlystaticimg src="/images/Page.png" >}} Utvidet visning/{{< onlystaticimg src="/images/Table.png" >}} Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingene.
 
 - {{< onlystaticimg src="/images/Printer.png" >}} Skriv ut: Skriver ut det aktive skjermbildet.
 

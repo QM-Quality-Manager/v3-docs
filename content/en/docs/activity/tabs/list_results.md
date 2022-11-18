@@ -22,14 +22,14 @@ The selected options in the drop-down menus and the date fields are used here to
 
 ### Date selection
 
-- Show activities for the period: Calendar icon.png opens a calendar for date selection.
+- Show activities for the period: {{< onlystaticimg src="/images/Calendar_icon.png" >}} opens a calendar for date selection.
   - From: From (inclusive).
   - To: To (inclusive).
 
 ### Buttons
 
 - {{< onlystaticimg src="/images/Find.png" >}} Search: Updates the content of the list drop-down menu based on the user's choices.
-- {{< onlystaticimg src="/images/Page.png" >}} add.png Choose all: Checks all the activities in the table.
+- {{< onlystaticimg src="/images/add.png" >}} Choose all: Checks all the activities in the table.
 - {{< onlystaticimg src="/images/Chart_bar.png" >}} Show graph for selected activities: Opens the graph of the selected activities.
 - {{< onlystaticimg src="/images/Printer.png" >}} Print: Prints the current page.
 - {{< onlystaticimg src="/images/Help.png" >}} Help: Opens this page.

@@ -24,7 +24,7 @@ description: >
 - From department: The department from which this activity will be answered.
 - Roles that will perform the activity: Roles attached to this activity (if any).
 - Status: For common activities, it shows the number of users who answered / the number of users who will participate in the activity. For repetitive activities, it shows the number of users who answered / number users who can participate / the total number of answers. The participation in the activity is also shown in a small bar chart. Completed activities are marked with "(Finished)".
-- Comments: The number of comments to the activity. Folder.png Opens the page Comments to the activity.
+- Comments: The number of comments to the activity. {{< onlystaticimg src="/images/Folder.png" >}} Opens the page Comments to the activity.
 - Edit: Lists all available-icons for each activity, see below.
 
 ### Icons

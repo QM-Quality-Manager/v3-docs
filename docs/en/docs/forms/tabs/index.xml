@@ -95,7 +95,17 @@ Remove &amp;raquo;: Removes the selected categories in the left panel from this 
 &lt;h3 id=&#34;administration-of-documents&#34;&gt;Administration of documents&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Document tab. Only documents that belong to the document tab which is selected here are displayed in the drop-down menu below.&lt;/li&gt;
-&lt;li&gt;Document: Select the document that you want to assign to the message form and then click on the button Link add.png Add. Please note that if you add a document that has subdocuments, all its subdocuments will also be added to the message form. If you want to remove a document from the message form, click on the respective Delete icon Page white delete.png.&lt;/li&gt;
+&lt;li&gt;Document: Select the document that you want to assign to the message form and then click on the button 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Add. Please note that if you add a document that has subdocuments, all its subdocuments will also be added to the message form. If you want to remove a document from the message form, click on the respective Delete icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

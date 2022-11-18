@@ -14,7 +14,7 @@ Delplaner brukes til å administrere delplaner. Det er viktig at det finnes mins
 
 ### Nedfallsmenyer
 
-- Vis for Språk: Vises kun når man har trykket Layout add.png Ny delplan eller Folder.png Endre delplan. Tekstfeltene til en delplan kan registreres på alle språk som er aktivisert i systemet.
+- Vis for Språk: Vises kun når man har trykket {{< onlystaticimg src="/images/Layout_add.png" >}} Ny delplan eller {{< onlystaticimg src="/images/Folder.png" >}} Endre delplan. Tekstfeltene til en delplan kan registreres på alle språk som er aktivisert i systemet.
 
 ### Ikoner
 

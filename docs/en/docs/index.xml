@@ -715,7 +715,12 @@ Show results in&lt;/p&gt;
 &lt;li&gt;Do you want an email reminder before the activity is due?: Sends an email to the person who created the activity at a certain number of days before it ends. The email contains the expected participation and a link to the Follow up page.&lt;/li&gt;
 &lt;li&gt;This activity is answered anonymously: Checkbox that makes the activity anonymous. Comments on anonymous activities will be anonymous.&lt;/li&gt;
 &lt;li&gt;Number of answers before the result is viewable: Appears only when the anonymity box is checked. The number given here controls how many answers a single department must have before a graph is shown for this department. If too few answers have been given, the sum graph for the department above this in the hierarchy must be used to get a result.&lt;/li&gt;
-&lt;li&gt;Display as list / Display as series of single questions (reminder link only) / Display as control list: Determines the display type of the list. Click on the Page.png icon to see how the selected list looks like in this display type. Only survey forms should use the option &amp;ldquo;Display as series of single questions&amp;rdquo;. &amp;ldquo;Reminder link only&amp;rdquo; means that this display type will only be used when the person who will answer the list has come to it by clicking on the link in the email that is sent out as a reminder for the activity. In the control list display view, there is one checkbox per day per question and the alternative answers do not appear at all.&lt;/li&gt;
+&lt;li&gt;Display as list / Display as series of single questions (reminder link only) / Display as control list: Determines the display type of the list. Click on the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ icon to see how the selected list looks like in this display type. Only survey forms should use the option &amp;ldquo;Display as series of single questions&amp;rdquo;. &amp;ldquo;Reminder link only&amp;rdquo; means that this display type will only be used when the person who will answer the list has come to it by clicking on the link in the email that is sent out as a reminder for the activity. In the control list display view, there is one checkbox per day per question and the alternative answers do not appear at all.&lt;/li&gt;
 &lt;li&gt;Activity distribution: Normal or Audit. &amp;ldquo;Audit&amp;rdquo; allows the activity to be answered once for each department the participants have access to. Used as a rule, if you go an inspection round or audit that will be performed by the same user in several places. This option is not included in the standard version. If you want this option enabled, contact &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Roles that will perform the activity: When you associate roles to an activity, only users that have at least one of these roles can participate in it. Only these will be included in the activity&amp;rsquo;s participation.&lt;/li&gt;
 &lt;li&gt;Add documents to the activity: Documents attached to the activity will be shown at the top of the list below the heading.&lt;/li&gt;
@@ -773,7 +778,17 @@ Show results in&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Show for the language: Appears only when you have pressed Layout add.png New activity group or Folder.png Edit activity group. The text fields of an activity group can be registered in any language that is activated in the system.&lt;/li&gt;
+&lt;li&gt;Show for the language: Appears only when you have pressed 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New activity group or 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit activity group. The text fields of an activity group can be registered in any language that is activated in the system.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
 &lt;ul&gt;
@@ -1113,7 +1128,12 @@ Show results in&lt;/p&gt;
 &lt;li&gt;From department: The department from which this activity will be answered.&lt;/li&gt;
 &lt;li&gt;Roles that will perform the activity: Roles attached to this activity (if any).&lt;/li&gt;
 &lt;li&gt;Status: For common activities, it shows the number of users who answered / the number of users who will participate in the activity. For repetitive activities, it shows the number of users who answered / number users who can participate / the total number of answers. The participation in the activity is also shown in a small bar chart. Completed activities are marked with &amp;ldquo;(Finished)&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Comments: The number of comments to the activity. Folder.png Opens the page Comments to the activity.&lt;/li&gt;
+&lt;li&gt;Comments: The number of comments to the activity. 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Opens the page Comments to the activity.&lt;/li&gt;
 &lt;li&gt;Edit: Lists all available-icons for each activity, see below.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
@@ -1316,8 +1336,18 @@ Show results in&lt;/p&gt;
 &lt;p&gt;A table showing messages attached to this action. There must always be at least one message connected to an action.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Hold the cursor over the + symbol in the first column to get more information about a message.&lt;/li&gt;
-&lt;li&gt;Click on the Show message icon Application form magnify.png in the last column in order to look at or edit a message.&lt;/li&gt;
-&lt;li&gt;Click on the Detach message icon Application form delete.png to detach the selected message from the action.&lt;/li&gt;
+&lt;li&gt;Click on the Show message icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_magnify.png&#34;  width=&#34;&#34; /&gt;
+
+
+ in the last column in order to look at or edit a message.&lt;/li&gt;
+&lt;li&gt;Click on the Detach message icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ to detach the selected message from the action.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;messages-that-are-not-closed&#34;&gt;Messages that are not closed&lt;/h3&gt;
 &lt;p&gt;A table showing the open messages that are not attached to this action. Above the table are some search options, so that not all the open messages are shown at the same time.&lt;/p&gt;
@@ -1339,8 +1369,18 @@ Show results in&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;Search: Click on this when you have made the selection in the fields above to update the table below.&lt;/li&gt;
 &lt;li&gt;Hold the cursor over the + symbol in the first column to get more information about a message.&lt;/li&gt;
-&lt;li&gt;Click on the Show message icon Application form magnify.png in the last column in order to look at or edit a message.&lt;/li&gt;
-&lt;li&gt;Click on the Attach message icon Application form add.png to attach the selected message to the action.&lt;/li&gt;
+&lt;li&gt;Click on the Show message icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_magnify.png&#34;  width=&#34;&#34; /&gt;
+
+
+ in the last column in order to look at or edit a message.&lt;/li&gt;
+&lt;li&gt;Click on the Attach message icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ to attach the selected message to the action.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;delete-action&#34;&gt;Delete action&lt;/h3&gt;
 &lt;p&gt;Button that appears only for users with the system role content administrator. Detaches all messages from this action and deletes the action. Messages attached to other open actions get the status Action process. Messages only attached to other closed actions get the status Closed. Messages not attached to other actions get the status New.&lt;/p&gt;
@@ -3421,7 +3461,17 @@ Deactivated document groups do not appear under Info and no document can be assi
 &lt;h3 id=&#34;administration-of-documents&#34;&gt;Administration of documents&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Document tab. Only documents that belong to the document tab which is selected here are displayed in the drop-down menu below.&lt;/li&gt;
-&lt;li&gt;Document: Select the document that you want to assign to the message form and then click on the button Link add.png Add. Please note that if you add a document that has subdocuments, all its subdocuments will also be added to the message form. If you want to remove a document from the message form, click on the respective Delete icon Page white delete.png.&lt;/li&gt;
+&lt;li&gt;Document: Select the document that you want to assign to the message form and then click on the button 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Add. Please note that if you add a document that has subdocuments, all its subdocuments will also be added to the message form. If you want to remove a document from the message form, click on the respective Delete icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

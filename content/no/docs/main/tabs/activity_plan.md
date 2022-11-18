@@ -37,4 +37,4 @@ Her kan du lære:
 {{< onlystaticimg src="/images/Page_white_acrobat.png" >}} 
 {{< assetlink src="/assets/aktivitetsplan.pdf" title="pdf" >}}
 
-Film.png Video, Page white acrobat.png pdf 
+{{< onlystaticimg src="/images/Film.png" >}} Video, {{< onlystaticimg src="/images/Page_white_acrobat.png" >}} pdf 

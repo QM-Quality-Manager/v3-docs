@@ -3,7 +3,7 @@ title: "Dokumenter"
 linkTitle: "Dokumenter"
 date: 2017-01-06
 description: >
- Dokumenter er en arkfane under Admin.png Admin
+ Dokumenter er en arkfane under {{< onlystaticimg src="/images/Admin.png" >}} Admin
 ---
 Her administreres virksomhetens dokumenter, dokumentgrupper og dokumentarkfaner.
 
