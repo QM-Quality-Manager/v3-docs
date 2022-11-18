@@ -3,7 +3,7 @@ title: "Endre saksbehandler"
 linkTitle: "Endre saksbehandler"
 date: 2017-01-06
 description: >
-  Endre saksbehandler er en funksjon under Wrench.png Saksbehandlere for å administrere saksbehandlerrettigheter. 
+  Endre saksbehandler er en funksjon under {{< onlystaticimg src="/images/Wrench.png" >}} Saksbehandlere for å administrere saksbehandlerrettigheter. 
 ---
 ### Felter
 

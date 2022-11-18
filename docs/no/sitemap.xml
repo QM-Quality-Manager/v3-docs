@@ -83,11 +83,31 @@
                 href="https://docs3.qmplus.com/docs/document/option_page_for_documents/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/report/altertnative_process_reports/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/report/option_page_process_reports/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/report/option_page_process_reports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/report/option_page_process_reports/"
+                />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/report/report_alternatives/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/report/option_page_reports/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/report/option_page_reports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/report/option_page_reports/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/admin/tabs/responsibilities/</loc>
     <lastmod>2022-11-11T14:59:18+02:00</lastmod>
@@ -183,8 +203,18 @@
                 href="https://docs3.qmplus.com/docs/activity/functions/users_that_have_answered_the_element/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/user/tabs/user_report/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/report/tabs/user_reports/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/report/tabs/user_reports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/report/tabs/user_reports/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/user/user_type/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -466,7 +496,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/functions/edit_list_information/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -479,7 +509,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/functions/edit_list_content/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -491,8 +521,18 @@
                 href="https://docs3.qmplus.com/docs/list/functions/edit_list_content/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/message/tabs/change_message/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/message/tabs/edit_message/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/message/tabs/edit_message/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/message/tabs/edit_message/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/forms/functions/edit_message_form/</loc>
     <lastmod>2022-11-15T15:45:22+02:00</lastmod>
@@ -537,7 +577,7 @@
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/functions/edit_alternative_answers/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -550,7 +590,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/functions/edit_alternative_group/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -563,7 +603,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/functions/edit_alternative_groups_overview/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -628,7 +668,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/functions/filling_out_a_list_in_single_question_view/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -660,7 +700,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/functions/do_you_have_comments/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -753,8 +793,18 @@
                 href="https://docs3.qmplus.com/docs/main/tabs/inbox/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/main/tabs/settings/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/main/tabs/preferences/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/main/tabs/preferences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/main/tabs/preferences/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/activity/tabs/calendar/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -907,6 +957,16 @@
   </url><url>
     <loc>https://docs3.qmplus.com/docs/main/tabs/logout/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/main/tabs/logout/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/main/tabs/logout/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/message/message/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -947,8 +1007,18 @@
                 href="https://docs3.qmplus.com/docs/message/tabs/message_search_result/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/message/tabs/message_tab_employee/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/inbox/tabs/messages_tab_worker/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/inbox/tabs/messages_tab_worker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/inbox/tabs/messages_tab_worker/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/archive/tabs/messages/</loc>
     <lastmod>2022-11-11T15:46:22+02:00</lastmod>
@@ -979,8 +1049,18 @@
     <loc>https://docs3.qmplus.com/docs/message/message_status/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/main/tabs/my_cases_employee_tab/</loc>
-    <lastmod>2022-11-15T15:45:22+02:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/main/tabs/my_cases_tab_worker/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/main/tabs/my_cases_tab_worker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/main/tabs/my_cases_tab_worker/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/info/tabs/goals/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -1259,9 +1339,19 @@
   </url><url>
     <loc>https://docs3.qmplus.com/docs/message/tabs/sent_to_casehandler/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/message/tabs/sent_to_casehandler/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/message/tabs/sent_to_casehandler/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/tabs/checklists/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1342,7 +1432,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/tabs/alternative_groups/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1356,6 +1446,16 @@
   </url><url>
     <loc>https://docs3.qmplus.com/docs/other/system_settings/</loc>
     <lastmod>2022-11-09T15:04:30+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/other/system_settings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/other/system_settings/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/user/system_roles/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -1383,8 +1483,18 @@
                 href="https://docs3.qmplus.com/docs/report/tabs/search_graph/"
                 />
   </url><url>
-    <loc>https://docs3.qmplus.com/docs/other/connected_messages/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <loc>https://docs3.qmplus.com/docs/action/tabs/attached_messages/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs3.qmplus.com/en/docs/action/tabs/attached_messages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://docs3.qmplus.com/docs/action/tabs/attached_messages/"
+                />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/action/tabs/actions/</loc>
     <lastmod>2021-11-30T19:28:38+01:00</lastmod>
@@ -1608,7 +1718,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/</loc>
-    <lastmod>2021-11-13T12:43:40+01:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1777,7 +1887,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/tabs/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1894,7 +2004,7 @@
                 />
   </url><url>
     <loc>https://docs3.qmplus.com/docs/list/functions/</loc>
-    <lastmod>2021-11-30T19:28:38+01:00</lastmod>
+    <lastmod>2022-11-17T15:42:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

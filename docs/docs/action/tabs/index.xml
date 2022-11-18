@@ -15,6 +15,93 @@
     
     
     <item>
+      <title>Docs: Tilknyttede meldinger</title>
+      <link>https://docs3.qmplus.com/docs/action/tabs/attached_messages/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/action/tabs/attached_messages/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Tilknyttede meldinger er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Innboks og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Book.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Arkiv.&lt;/p&gt;
+&lt;p&gt;Denne siden brukes til å få oversikt over de meldingene som er tilknytett dette tiltaket. Flere meldinger kan kobles til eller kobles fra tiltaket. Godkjente tiltak kan ikke kobles til flere meldinger eller kobles fra meldinger.&lt;/p&gt;
+&lt;h3 id=&#34;meldinger-tilknyttet-dette-tiltaket&#34;&gt;Meldinger tilknyttet dette tiltaket&lt;/h3&gt;
+&lt;p&gt;Tabell som vise meldinger tilknyttet dette tiltaket. Det må alltid være minst en melding tilkoblet et tiltak.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en melding.&lt;/li&gt;
+&lt;li&gt;Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_magnify.png&#34;  width=&#34;&#34; /&gt;
+
+
+ i siste kolonne for å åpne en melding.&lt;/li&gt;
+&lt;li&gt;Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å koble en melding fra tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;meldinger-som-ikke-er-lukket&#34;&gt;Meldinger som ikke er lukket&lt;/h3&gt;
+&lt;p&gt;Tabell som vise åpne meldinger som ikke er tilknyttet dette tiltaket. Over tabellen er det litt søkefunksjonalitet slik at ikke alle åpne meldinger vises samtidig.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Valg av kategorigruppe: Her velges hvilket kriterie som skal være likt meldinger allerede tilkoblet tiltaket for å bli vist i tabellen under.
+&lt;ul&gt;
+&lt;li&gt;Definerende kategori: Meldingen må ha krysset av for samme definerende kategori.&lt;/li&gt;
+&lt;li&gt;&amp;lt;Navn på kategorigruppe&amp;gt;: Meldingen må ha krysset av for samme kategori i den valgte kategorigruppen.&lt;/li&gt;
+&lt;li&gt;En eller annen kategori: Meldingen må ha krysset av for samme kategori i minst en kategorigruppe.&lt;/li&gt;
+&lt;li&gt;Aktivitet: Meldingen må være kommentarmelding til samme aktivitet.&lt;/li&gt;
+&lt;li&gt;Listeelement: Meldingen må være kommentarmelding til samme spørsmål.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ta med meldinger fra denne og underliggende avdelinger
+&lt;ul&gt;
+&lt;li&gt;Ja: Meldinger fra fra denne og underliggende avdelinger blir med.&lt;/li&gt;
+&lt;li&gt;Nei: Kun meldinger fra fra denne avdelingen blir med.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Utfør søk: Trykk på denne når du har gjordt valgene i feltene over for å oppdatere tabellen under.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en melding.&lt;/li&gt;
+&lt;li&gt;Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_magnify.png&#34;  width=&#34;&#34; /&gt;
+
+
+ i siste kolonne for å åpne en melding.&lt;/li&gt;
+&lt;li&gt;Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å koble en melding til tiltaket.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiltaksbehandling: Åpner Tiltaksbehandling&lt;/li&gt;
+&lt;li&gt;Slett tiltak&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Knapp som kun synes for brukere med systemrollen innholdsadministrator. Kobler alle meldinger fra dette tiltaket og sletter tiltaket. Meldinger koblet til andre åpne tiltak får status tiltaksprosess. Meldinger kun koblet til andre godkjente tiltak får status lukket. Meldinger ikke koblet til andre tiltak får status Ny.&lt;/p&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Endre melding: Åpner Endre melding&lt;/li&gt;
+&lt;li&gt;Meldingsbehandling: Åpner Meldingsbehandling&lt;/li&gt;
+&lt;li&gt;Tiltaksbehandling: Laster dette skjermbildet på nytt.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Tiltak</title>
       <link>https://docs3.qmplus.com/docs/action/tabs/actions/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>

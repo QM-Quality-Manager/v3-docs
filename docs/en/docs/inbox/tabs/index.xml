@@ -15,6 +15,31 @@
     
     
     <item>
+      <title>Docs: Actions tab worker</title>
+      <link>https://docs3.qmplus.com/en/docs/inbox/tabs/actions_tab_worker/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/inbox/tabs/actions_tab_worker/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Used to execute and follow up actions.&lt;/p&gt;
+&lt;h3 id=&#34;active-table&#34;&gt;Active Table&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;By clicking on a row in the main table the action opens.&lt;/li&gt;
+&lt;li&gt;Hold the cursor over the + symbol in the first column to get more information about an action, including its history.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Actions I need to complete: Displays the non-executed actions.&lt;/li&gt;
+&lt;li&gt;Actions for approval: Displays an overview of the performed actions that are pending approval.&lt;/li&gt;
+&lt;li&gt;Approved actions: Displays an overview of the performed actions that have been approved.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Cases I am responsible for</title>
       <link>https://docs3.qmplus.com/en/docs/inbox/tabs/cases_i_am_responsible_for/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
@@ -300,6 +325,143 @@ Register new message must be pressed first. This opens a list of all active mess
 &lt;li&gt;Hearings that are for approval which a user of the department will approve.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please note that messages other users have registered which were made with message forms that have a role with the &amp;ldquo;See messages&amp;rdquo; limitation, will not be shown here unless the logged in user has the same role or the system role See all messages attached to him / her or to the user type the user is logged in with. Messages which the user himself / herself has registered will be shown.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Messages tab worker</title>
+      <link>https://docs3.qmplus.com/en/docs/inbox/tabs/messages_tab_worker/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/inbox/tabs/messages_tab_worker/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here all the messages that the user has registered are shown and new messages can be registered.&lt;/p&gt;
+&lt;h3 id=&#34;table&#34;&gt;Table&lt;/h3&gt;
+&lt;p&gt;By clicking on a line in the main table, the message will open.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;+ Extra Information: Hold the cursor over the + symbol in the first column to get more information about a case, including its history.&lt;/li&gt;
+&lt;li&gt;Registered: The date when the message was registered.&lt;/li&gt;
+&lt;li&gt;Description: Text taken from the first text field of the message.&lt;/li&gt;
+&lt;li&gt;Priority: 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_green.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_yellow.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_red.png&#34;  width=&#34;&#34; /&gt;
+
+
+ symbolize low, medium and high priority respectively.&lt;/li&gt;
+&lt;li&gt;Status: Message status. Possible values are: New messages, Sent to case handler, Action rocess, Closed cases and Rejected.&lt;/li&gt;
+&lt;li&gt;Current case handler: The name of the user who is responsible for handling the message. If the field is blank, the message is with the nearest manager, but nothing has been done about it yet.&lt;/li&gt;
+&lt;li&gt;Operative department: The department where the message is being handled or was last handled. See the History for more details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Register-message_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Register a new message: Choose a button with the name of a message form to register a new message. The message forms are displayed as individual buttons if there are up to 4 different forms. If there are more, the button 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Register-message_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Register new message must be pressed first. It opens a list of all active message forms.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Change page: The arrows are used to change the page when there are more than 20 cases that can be displayed in the table.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sorting: The table is sorted by the column with the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+. Click on 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ to sort on another column.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+.png Print: Prints the current page.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+.png Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Non conformance / Proposals: The table shows the normal messages.&lt;/li&gt;
+&lt;li&gt;Log: The table shows the log messages. Not included in the standard version.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Questionnaires tab worker</title>
+      <link>https://docs3.qmplus.com/en/docs/inbox/tabs/questionnaires_tab_worker/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/inbox/tabs/questionnaires_tab_worker/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
+&lt;p&gt;In the standard version only the lists that need to be filled out appear. This is why no tabs appear there.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Active activities: The activities that need to be executed. Usually, this means filling out a list.&lt;/li&gt;
+&lt;li&gt;Activity report: Overview of the executed activities. Not included in the standard version.&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>

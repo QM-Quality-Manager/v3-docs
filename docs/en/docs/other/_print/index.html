@@ -175,7 +175,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>3: <a href="#pg-e3bb3bb9c66d09667cd764177575f2b4">Attached messages</a></li>
+<li>3: <a href="#pg-b1f0a98e020a32d4993d2c474546ea70">Definitions</a></li>
 
 
     
@@ -199,7 +199,7 @@ This the multi-page printable view of this section.
     
     
 	
-<li>6: <a href="#pg-5a35f735d680f90948063bdda2f8a7e4">System settings</a></li>
+<li>6: <a href="#pg-1883a377abc5624c7a29ba74c103a25e">System settings</a></li>
 
 
     
@@ -357,45 +357,499 @@ Verify = check if it is true, from the Latin &ldquo;Verus&rdquo; = true, &ldquo;
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-e3bb3bb9c66d09667cd764177575f2b4">3 - Attached messages</h1>
-    <div class="lead">This page is used for getting an overview of the messages which are attached to this action.</div>
-	<p>Several messages can be attached to or detached from the action. Approved actions can not be attached to several messages or detached from messages.</p>
-<h3 id="messages-attached-to-this-action">Messages attached to this action</h3>
-<p>A table showing messages attached to this action. There must always be at least one message connected to an action.</p>
+	<h1 id="pg-b1f0a98e020a32d4993d2c474546ea70">3 - Definitions</h1>
+    <div class="lead">All definitions specified.</div>
+	<h1 id="alternative-group">Alternative group</h1>
+<p>A collection of alternative answers that can be connected to questions in a survey form. Managed in the alternative groups.</p>
+<p>An alternative group belongs to a specific alternative groups overview. This is used only to distinguish between alternative groups under Edit alternative answers and under Alternative groups.</p>
+<h1 id="category-group">Category group</h1>
+<p>A category group is used for grouping categories within the same topic and for setting properties for categories. In a message form, a category group is displayed as a headline over its corresponding categories. How it is displayed and how it works depends on the category group type. Each category group that is created, creates automatically a new report under Reports.</p>
+<p>Category groups can also be used to identify groups of specific messages and actions via the search page for messages and the search page for actions.</p>
+<p>Managed under Edit category group.</p>
+<h3 id="data">Data</h3>
 <ul>
-<li>Hold the cursor over the + symbol in the first column to get more information about a message.</li>
-<li>Click on the Show message icon Application form magnify.png in the last column in order to look at or edit a message.</li>
-<li>Click on the Detach message icon Application form delete.png to detach the selected message from the action.</li>
+<li>Show for the language: The name of a category group can be set once for every language that is activated in the system. Appears only for customers who have multiple active languages.</li>
+<li>Category group type: The type of the category group.</li>
+<li>Category group name: The name used to represent the category group. A category group can have one name for each active language in the system.</li>
+<li>From department: From which level in the hierarchy the category group will be available.</li>
+<li>Information: Text that appears when you hold the cursor over the category group name in a message form.</li>
 </ul>
-<h3 id="messages-that-are-not-closed">Messages that are not closed</h3>
-<p>A table showing the open messages that are not attached to this action. Above the table are some search options, so that not all the open messages are shown at the same time.</p>
+<h3 id="advanced-options">Advanced options</h3>
 <ul>
-<li>Select a category group: Here you can select criteria so that the messages shown in the table below will be similar to the ones that are already attached to this action.
+<li>Class: Default or Tasks. Categories of groups that are classified as Tasks represent a department&rsquo;s main tasks and are shown in the Edit department page. This will later be expanded with positions and competence.</li>
+<li>Subgroup of: If the category group is a subgroup of another category group.</li>
+<li>Shown for subdepartments?: Yes / No. If the category group will be visible also to all the subordinate departments of the selected department or only for the selected department.</li>
+</ul>
+<h1 id="defining-category">Defining category</h1>
+<p>A defining category is the category that describes what a message is about. It is mandatory to select a defining category for a message form to be saved. A defining category is defined by the fact that it belongs to a category group with a defined category group type. On a message form, defining categories are marked with the icon 
+
+  <img src="https://docs3.qmplus.com/images/Tag_blue.png"  width="" />
+
+
+ and you can only select one of them.</p>
+<h1 id="display-type">Display type</h1>
+<p>Controls how the list is displayed.</p>
+<p>Possible display types: Printer friendly, List version (or List form), Single question view.</p>
+<h1 id="document-group">Document group</h1>
+<p>A document group is a grouping of documents used to control which group of documents will appear under Info. Each document group is shown in a coloured box with the document group&rsquo;s name as the heading. A document group must contain at least one document belonging to the selected document tab for it to appear under the relative tab under Info. If a document group has documents that belong to various document tabs, then the document group will appear in each of these document tabs.</p>
+<p>Managed under Edit document group.</p>
+<p>Documents can be assigned to document groups under Edit document data.</p>
+<h3 id="fields">Fields</h3>
 <ul>
-<li>Defining category: The message must have have the same defining category checked.</li>
-<li><Category group name>: The message must have the same category of the selected category group checked.</li>
-<li>Any category: The message must have the same category checked in at least one category group.</li>
-<li>Activity: The message must be a comment message to the same activity.</li>
-<li>List element: The message must be a comment message to the same question.</li>
+<li>Show for the language: The name of a document group can be registered once for every language that is activated in the system.</li>
+<li>Name: Used to identify the document group in tables and overviews. A document group can have one name for each language that is activated in the system.</li>
+<li>Position: The position of the document group under Info. In the standard version two document groups are displayed side by side. The next two will appear below these again until all the document groups are displayed.</li>
+<li>From department: The document group will appear under Info from the selected department and from its subordinate departments.</li>
+<li>Shown for subdepartments: If no, the document group will only appear under Info when the department selected under &ldquo;From department&rdquo; is selected in the Navigator.</li>
+<li>Background colour: If you want a special background colour for the document group, you can select it here.</li>
+</ul>
+<h1 id="hearing">Hearing</h1>
+<p>A hearing is used when a group of users should be able to comment on the contents of a document. The hearing is connected to a version of a document, so that there can be several hearing rounds on the same document.</p>
+<p>A hearing goes through the following phases:</p>
+<ul>
+<li>On hearing</li>
+<li>For approval</li>
+<li>Approved</li>
+</ul>
+<p>A hearing is created under Edit document data, under the tab Hearing / Approval. It can be answered under Reply to a hearing that appears under Info, when opening the received hearing notification. A user receives a notification that (s)he has to participate in a hearing or that (s)he has to approve it under Cases I am responsible for and possibly by e-mail.</p>
+<h1 id="log-reports">Log reports</h1>
+<p>Log is a tab under Reports.</p>
+<p>The graphs for the log messages are shown here.</p>
+<p>This tab appears only if the log messages are enabled.</p>
+<h1 id="manager">Manager</h1>
+<p>One of the preconfigured user types in the system delivered with the standard version. Name and roles for all user types may be altered by the System administrator. The capabilities of the user type are defined by the system roles assigned to it.</p>
+<h1 id="message-status">Message status</h1>
+<p>Messages in Qm+ have a status that represents where they are in the handling process. The status of a message changes under Message process, the status of an action changes under Action process.</p>
+<ul>
+<li>New: The message is only registered.</li>
+<li>Sent to case handler: The message has been assigned to a responsible person with a deadline.</li>
+<li>Action in progress: Only under Archive. The message is connected to an action that has not yet been approved.</li>
+<li>Closed:
+<ul>
+<li>Under Reports: The message has been connected to an action.</li>
+<li>Under Archive: The action that the message is connected to has been approved.</li>
 </ul>
 </li>
-<li>Show messages from this and subordinate departments
+<li>Rejected: The message has been rejected.</li>
+</ul>
+<p>When a message is connected to an action or rejected, it will be locked and it will no longer be possible to edit or process it, except from users with the system role content administrator.</p>
+<p>Messages that are handled immediately, will be closed directly.</p>
+<h1 id="print">Print</h1>
+<p>Opens the print dialog of your browser in order to print the current page.</p>
+<p>If you do not want to print the entire image or the print command does not print the part of the screen you want, try clicking the right button of the mouse in the field you want printed. Then choose Print from the menu that appears.</p>
+<p>For users with high screen resolution the print out can be larger than the printer paper size. Trick to fix it:</p>
 <ul>
-<li>Yes: Messages from this and the subordinate departments will be included in the table.</li>
-<li>No: Only messages from this department will be included in the table.</li>
+<li>Choose reduced size for the printing. How this is done varies between different browsers and printers. Look for Scale, Reduce / Enlarge or a percentage (%) field. These can usually be found under the advanced options.</li>
+<li>Reduce the size of your browser window so that it looks more like the paper in the printer.</li>
+<li>Lower the resolution of your screen.</li>
+<li>Copy the part of the page you want to print out and paste it into an external program such as Word or a photo program, and print it from there. You can do this by pressing Prt Scr (Print Screen) on your keyboard and then pasting it by Ctrl + v at the desired application (for Windows PCs).</li>
+</ul>
+<p>If you want to save the page as a PDF file instead of printing it on a printer, you can download and install the program PDFCreator. Next time you select Print or press Ctrl + P in your browser, you will be able to select PDFCreator as the printer.</p>
+<h1 id="question">Question</h1>
+<p>A list consists of topics and questions. A question may have an extra information field to provide additional information on the question. For survey forms, each question is also associated with an alternative group.</p>
+<p>Questions are managed from Edit list content.</p>
+<h1 id="reference">Reference</h1>
+<p>A reference is a document that is associated with an activity or a list and has also been marked as a reference. References are shown in tables and overviews along with the name of the corresponding activity. Activities inherit the reference affiliation from the list to which they are associated.</p>
+<p>Reference functionality is an option that is not included in the standard version.</p>
+<h1 id="reviewer">Reviewer</h1>
+<p>Reviewer is a user type in the standard version of Qm+ that has the same access rights as the user type manager. That means full access to read all cases within their remit, as well as reports via Reports and Activity plan. Reviewers have no access to Admin. Reviewers can register new messages on their own department and can edit only their own cases.</p>
+<h1 id="role-group">Role group</h1>
+<p>Role groups are used to sort roles. They are intended to be used by those customers who need to assign many different roles to multiple users. Instead of picking out roles one by one, one can instead simply assign all those roles in a role group for the various users.</p>
+<p>All roles belong to one or more role groups. The roles that have not been assigned to a role group belong to no role group.</p>
+<p>Role groups are managed under Edit role group.</p>
+<h1 id="search-criteria">Search criteria</h1>
+<p>Search criteria are the selected options when performing a search. They define what we search for.</p>
+<p>They are shown in a table above the search results whenever a search is performed. A search may be started from Reports, from Search message, from Search action or by clicking on the risk matrix under Risk. All search results are shown in table form under Archive or as charts under Reports, under their respective tab.</p>
+<ul>
+<li>All criteria shown in drop-down menus can be changed. Such changes update the search results.</li>
+<li>Criteria followed by the 
+
+  <img src="https://docs3.qmplus.com/images/Delete.png"  width="" />
+
+
+ icon can be removed from the search criteria. This also updates the search results.</li>
+</ul>
+<h1 id="single-question-view">Single question view</h1>
+<p>Display type for lists. Used primarily for survey forms. Shows one question at a time with its own comment field if it should be possible to comment on the question. The answer is saved only when the Save button at the last question is pressed.</p>
+<h1 id="subgroup">Subgroup</h1>
+<p>Subgroups are used to create grouped drop-down menus of categories in a message form.</p>
+<p>The name of the category group to which the other groups are subgroups will be the title above the drop-down menu. Any categories in this group will then be listed at the top of the drop-down menu. Under these, there will be a heading in the drop-down menu for each subgroup. All the categories in the subgroup will be listed under this heading.</p>
+<p>It is possible to select only one of the categories in such a drop-down menu.</p>
+<p>This is a special functionality that one can usually discuss with QmPlus AS before using it.</p>
+<h1 id="topic">Topic</h1>
+<p>A topic in a list is a headline over a set of questions. A topic can have an extra information field that appears under the heading when the list is answered. All questions in a list must belong to a topic.</p>
+<p>Maintained under Edit list content.</p>
+<h1 id="answer-type">Answer type</h1>
+<p>Every question in a list can have an answer type.</p>
+<h3 id="answer-types">Answer types:</h3>
+<ul>
+<li>Single choice: One answer to each question. Even if one answer for a question is already selected, you should still answer the question. This is the default answer which will be used unless a change is made.</li>
+<li>Multiple choice: You can select as many alternative answers to each question as you wish, from none to all.</li>
+<li>Text: There will not be any check boxes for this question, only a comment field. Does not apply to the list version.</li>
+<li>Free text number: A number can be entered in response to this question. The graph will show the sum of all the numbers written as a reply to such a question.</li>
+</ul>
+<p>Tip: Use the answer type Multi choice for questions with only one alternative answer, as in a checklist. Otherwise it will not be possible for users to remove the check mark if they change their mind.</p>
+<h1 id="case">Case</h1>
+<p>A case in Qm+ is either a message, an action, a hearing or an audit.</p>
+<h1 id="category">Category</h1>
+<p>A category is in most cases a checkbox in a message form. All categories belong to a category group. The category group type of the category group determines how the category will appear in the message form. All information that is entered in relation to a category in a message form can be extracted as a report via Reports. The categories can also be used to identify groups of specific messages via the search page for messages and the search page for actions.</p>
+<p>Managed under Edit category.</p>
+<h3 id="data-1">Data</h3>
+<ul>
+<li>Show for the language: The name of a category can be set once for every language that is activated in the system. Appears only for customers who have multiple active languages.</li>
+<li>Category group: The category&rsquo;s group. The category group type of the category group determines how this category will look like in a message form. A text at the bottom of this screen describes the type of the selected group.</li>
+<li>Category name: The name used to represent the category. A category can have one name for every language that is activated in the system.</li>
+<li>Priority: Low, Medium, High. The predefined priority of a category. Can be overridden by the person who fills out the message form. The priority of a message is the highest priority of the checked categories unless it is overridden by the user.</li>
+<li>Cost: The predefined cost of a category. Can be overridden by the person who fills out the message form. The cost of a message is the sum of the costs of the checked categories, unless it is overridden by the user. Cost functionality can be removed for those who wish it.</li>
+<li>From department: The category is available from the selected department and its subordinate departments.</li>
+<li>Attached document: The document that will be activated if you click on the category in the message form.</li>
+<li>Information: Text field that is visible when you hold the cursor over the category in the message form.</li>
+<li>Risk data: Appear only for the categories belonging to a category group with the category group type Risk. Used to set different acceptance criteria for various risk categories.
+<ul>
+<li>Start yellow risk area: Overviews of this category will give a yellow risk value from (and including) this risk value.</li>
+<li>Start red risk area: Overviews of this category will give a red risk value from (and including) this risk value.</li>
 </ul>
 </li>
-<li>Search: Click on this when you have made the selection in the fields above to update the table below.</li>
-<li>Hold the cursor over the + symbol in the first column to get more information about a message.</li>
-<li>Click on the Show message icon Application form magnify.png in the last column in order to look at or edit a message.</li>
-<li>Click on the Attach message icon Application form add.png to attach the selected message to the action.</li>
 </ul>
-<h3 id="delete-action">Delete action</h3>
-<p>Button that appears only for users with the system role content administrator. Detaches all messages from this action and deletes the action. Messages attached to other open actions get the status Action process. Messages only attached to other closed actions get the status Closed. Messages not attached to other actions get the status New.</p>
-<h3 id="tabs">Tabs</h3>
+<h1 id="category-group-type">Category group type</h1>
+<p>The category group type of a category group determines how the categories in the group will be displayed and answered in a message form.</p>
+<h3 id="types">Types</h3>
+<h4 id="defining-category-1">Defining category</h4>
+<p>Intended to describe what is the topic of a message. Single choice for the whole message form. If there are several defining groups in a message form, it will only be possible to check one category in one of the groups. A message form can only be saved if a category which belongs to a defining category group is checked. Defining categories are obligatory to fill out in a a message form. Defining categories usually appear at the upper part of the screen to the left with an orange background colour and are marked with the icon Tag blue.png.</p>
+<h4 id="single-choice">Single choice</h4>
+<p>Used to provide additional information in a message form. One choice per group. Shown to the left under the defining categories.</p>
+<h4 id="multi-choice">Multi Choice</h4>
+<p>Used to provide additional information in a message form. Any number can be checked. Shown on the right.</p>
+<h4 id="action">Action</h4>
+<p>Used to provide detailed information on what kind of action should be used to deal with the conditions that the message is about. Any number can be checked. The categories in this group are taken further in the action, if one is created for a message. Shown in the center below the text fields in the message form.</p>
+<h4 id="number">Number</h4>
+<p>Provides a text field where any number can be entered. Selecting a group of this type in the Reports would cause the cost graph to be replaced with a graph showing the sum of the values in these fields. Shown to the right in the message form.</p>
+<h4 id="risk">Risk</h4>
+<p>Each category of this type has two drop-down menus, where a value from 1 to 5 can be selected. The first symbolizes the probability that the event will happen, the second symbolizes the consequence. These values are automatically multiplied to produce a risk value. The risk value gets a colour based on limits set for the category. Messages with values &gt; 0 for a risk category will appear in the risk report under Reports. Shown in the center of the message form under the Action categories.</p>
+<h1 id="comment-form">Comment form</h1>
+<p>A message form that is associated with a question in a list is called a comment form. This message form is used for registering the comments given when replying to a list. If the display type single question view is used, the text above the comment field will be the name of the first text field in the comment form.</p>
+<p>This link between the list and the message form means that all comments on an activity can be handled and given feedback to as if they were ordinary messages.</p>
+<p>The comment form for a list can be selected under Edit list information.</p>
+<h1 id="filling-out">Filling out</h1>
+<p>The function of filling out a list. Its appearance is determined by the list type and the selected display type for the activity.</p>
+<p>See &ldquo;Filling out a list form&rdquo; and &ldquo;Filling out a list in single question view&rdquo;.</p>
+<h1 id="graph-report-types">Graph report types</h1>
+<p>Graph report types can be selected under Reports, Message search and Action search to determine which kind of reports will be displayed.</p>
+<h3 id="graph-report-types-1">Graph report types</h3>
 <ul>
-<li>Action process: Opens the Action process page.</li>
-<li>Attached messages: Reloads this screen.</li>
+<li>
+<p>Per department: Shows one graph per department for the department which is selected in the Navigator and one for each directly subordinate department to that one.</p>
+</li>
+<li>
+<p>Per department / Per category: If all the category groups are selected in the category group drop-down menu, then one graph per category group will be shown. If a particular category group is selected in the category group drop-down menu, then one graph per department for the department which is selected in the Navigator and one for each directly subordinate department to that one will be shown . This graph is colour coded so that each category in the selected category group will be marked with a different colour. This report has one graph for numbers and one for percentages.</p>
+</li>
+<li>
+<p>Per category / category group: If all the category groups are selected in the category group drop-down menu, then one graph per category group is displayed. If a particular category group is selected in the category group drop-down menu, then one graph per each category that belongs to the selected category group is displayed. When there are many reported messages in a category group, then this is the report that provides the best overview.</p>
+</li>
+<li>
+<p>Status: Provides a graph bar per message status.</p>
+</li>
+<li>
+<p>Priority: Provides a graph bar per priority.</p>
+</li>
+<li>
+<p>Distribution over time: Provides a graph bar per unit of time. Which unit is chosen depends on the selected time period.</p>
+</li>
+<li>
+<p>Risk report: Provides a risk matrix.</p>
+</li>
+<li>
+<p>List: Lists all the categories in the report grouped by category group.</p>
+</li>
+</ul>
+<h1 id="list-type">List type</h1>
+<p>The List type controls how a list will be displayed to the user. The different list types are: Checklists, Risk analysis lists and Survey forms.</p>
+<h1 id="log-message">Log message</h1>
+<p>Log messages are messages that normally do not need to be handled, just registered and saved in the archive. Examples of such use can be minutes and documentation of legal execution. Log messages do not therefore appear under the Inbox unless you use Message process to activate them. The message type log message is not enabled in the standard version.</p>
+<p>Log messages are in all other ways identical to the regular messages.</p>
+<h1 id="message-type">Message type</h1>
+<p>All messages have a message type. A message gets the same message type as the message form it was registered with.</p>
+<h3 id="the-different-message-types">The different message types</h3>
+<ul>
+<li>Message: Common messages.</li>
+<li>Log message: Registered in the Log under Archive. Not included in the standard version.</li>
+<li>Risk message: Registered in the Risk under Archive. Not included in the standard version.</li>
+</ul>
+<p>If neither log messages or risk messages are enabled in your system, the term message type will not be used.</p>
+<h1 id="mobile-version">Mobile version</h1>
+<p>The mobile version of Qm+ is a separate interface adapted for display on mobile devices. The customization is done by sending over only the most important information and displays everything as short texts. It is possible to register messages, checklists and survey forms in this version. All information registered is visible in the normal Qm+ version in the same way as everything else.</p>
+<p>The homepage for the mobile version is wap.qmplus.net. Logging in is done using the same company, username and password as for the normal login.</p>
+<p>The mobile version is an additional module that must be ordered separately.</p>
+<h1 id="printer-friendly">Printer friendly</h1>
+<p>A printer friendly version is a message form or an action that is adapted in order to print well on paper.</p>
+<h1 id="risk-matrix">Risk matrix</h1>
+<p>A risk matrix shows an overview of Probability and Consequence in a 5 x 5 matrix. The fields are coloured green, yellow and red to symbolise the different acceptance levels for the risk value.</p>
+<p>Qm+ has a risk matrix under Reports for each message type. The matrix under Message Reports refers to real events, while the matrix under Risk Reports shows an overview of potential incidents. The matrix of potential incidents appears also under Archive / Risk.</p>
+<h1 id="risk-value">Risk value</h1>
+<p>Risk value (R) is the result of the multiplication of probability (P) and consequence (C).</p>
+<blockquote>
+<p>P * C = R.</p>
+</blockquote>
+<p>The risk value is often visualised in a risk matrix.</p>
+<p>At a risk assessment, one wishes to reduce the risk value. This is done by showing the probability- and consequence-reducing measures.</p>
+<h1 id="role-overview">Role overview</h1>
+<ul>
+<li>
+<p>
+
+  <img src="https://docs3.qmplus.com/images/Group.png"  width="" />
+
+
+ Role overview: Used for assigning roles to a document. Opens from Edit document data.</p>
+</li>
+<li>
+<p>A document without roles:</p>
+<ul>
+<li>is available to all users from the department where the document was created and from its subordinate departments.</li>
+</ul>
+</li>
+<li>
+<p>A document with associated roles appears under Info only for:</p>
+<ul>
+<li>users assigned to one or more of the same roles.</li>
+<li>users who have chosen a department associated with one or more of the same roles of the document.</li>
+</ul>
+</li>
+</ul>
+<p>Roles do not limit the access to documents under Admin / Documents.</p>
+<h1 id="standard-version">Standard version</h1>
+<p>The standard version of Qm+ is the one with the system settings that is given to new customers if they do not ask for any changes.</p>
+<p>The customer&rsquo;s contact person with QmPlus AS may order changes from the standard version. Most changes to system settings are done free of charge. Contact <a href="mailto:drift@qmplus.com">drift@qmplus.com</a> if you have questions or change requests.</p>
+<p>See system roles for the set up of user types in the standard version.</p>
+<h1 id="super-user">Super user</h1>
+<p>The super user is a user who has taken the super user course of Qm+. The super user has the highest access to Qm+ within the company. The super user will assist the other users in the company and will act as local support for Qm+.</p>
+<p>All super users are entitled to free telephone support from Qm+ and can take advantage of this if they receive a question from their company users that they need help to answer. As a rule, one or more of the company&rsquo;s super users also function as contact persons between the company and QmPlus AS.</p>
+<p>All requests for changing some functionality in the system must be communicated via the customer&rsquo;s contact person, so that we know that this is a request of the entire company.</p>
+<h1 id="system-role">System role</h1>
+<p>System roles are roles that are preset in the system and provide specific rights for using Qm+. System roles are defined by QmPlus AS but can be given from certain super users to users or user types. This is advanced functionality and is usually not turned on for new customers at the beginning. Contact <a href="mailto:drift@qmplus.com">drift@qmplus.com</a> if you need this right or if you have questions.</p>
+<p>You can find a list of the available system roles here.</p>
+<h1 id="tab">Tab</h1>
+<p>The navigation structure of Qm+ is made up of tabs. They have a name that describes the location of the system you can go to if you click on them. Most also have a descriptive text that appears when you hover the mouse pointer over them.</p>
+<p>Tabs also describe where you are in the system. The tabs that are darker than the others are selected.</p>
+<p>Example :</p>
+
+
+  <img src="https://docs3.qmplus.com/images/Arkfanebeskrivelse.png"  width="" />
+
+
+
+<h1 id="user">User</h1>
+<p>A user is a set of information that identifies a real person who will be using Qm+.</p>
+<p>Managed under Admin / Users / Edit user information by users having access to that tab or under Preferences for others.</p>
+<h3 id="data-2">Data</h3>
+<ul>
+<li>User name: Used by the user for logging into the system. Distinguishes between uppercase and lowercase letters. Must be unique for each customer.</li>
+<li>Department: The department to which the user belongs.</li>
+<li>Type: The user&rsquo;s user type.</li>
+<li>Password: Used by the user for logging into the system. Distinguishes between uppercase and lowercase letters.</li>
+<li>Repeat password: Must be identical with the password field in order for the user&rsquo;s data to be saved.</li>
+<li>First name: The user&rsquo;s first name.</li>
+<li>Middle name: The user&rsquo;s middle name.</li>
+<li>Surname: The user&rsquo;s last name.</li>
+<li>Email address: The user&rsquo;s email address. Some functionality of the system is linked to the user&rsquo;s email address. It is therefore preferred that each user has a unique email address.</li>
+<li>Language: Selection of the display language for the user. Available languages in the system are: Norwegian (bokmål), Norwegian (nynorsk), English, Swedish and Danish (not translated framework for Danish). The available languages for each customer will vary.</li>
+<li>Mobile number: Can be used for receiving SMS from the system, if this functionality is activated.</li>
+<li>Comment: Free text field for additional information about the user.</li>
+</ul>
+<h1 id="user-type">User type</h1>
+<p>Name and roles for all user types may be altered by the System administrator. User types may also be added and removed. The capabilities of a user type are defined by the system roles assigned to it. A user must have one user type for each department the user is attached to. For a logged in user with multiple user types, only the roles attached to the user type of the department the user is currently logged in at, will be active. In the Standard version four user types are preconfigured: Manager, Case handler and Reviewer have the complete interface, while Worker has the Simplified interface.</p>
+<h3 id="manager-1">Manager</h3>
+<p>They have full access to the system in the standard version. Can have limited or increased access with the help of system roles.</p>
+<h3 id="case-handler">Case handler</h3>
+<p>Same access rights as the Manager, but the access to Admin is replaced by Preferences.</p>
+<p>Managers and Case handlers appear automatically as possible recipients (case handlers) for messages under Messages/NC / Message process within their department. If it must be possible to send messages across the organisation, for example from the Health Department to the Technical department, at least one user of the user type Manager or Case handler in that department must be set under the tab Admin / Rules, Rule type &ldquo;Additional case handlers&rdquo;.</p>
+<h3 id="reviewer-1">Reviewer</h3>
+<p>They have the same read access as Managers. They can only edit their own information, but may comment on all cases they can read. They appear automatically as possible recipients of the messages under Inform in the Messages/NC / Message process on their department. Reviewers may only register new messages on the department they are registered on, even though they have the navigator. They have the tab Preferences instead of Admin.</p>
+<h3 id="worker">Worker</h3>
+<p>They have their own simple interface that only allows access to their own information.</p>
+<h1 id="worker-1">Worker</h1>
+<p>User type that in the standard version gives the users a simple interface, from which they can access only their own cases.</p>
+<h1 id="action-status">Action status</h1>
+<p>An action in Qm+ has an status that shows where it is in the handling process. The status of an action changes under Action process.</p>
+<ul>
+<li>Under planning: The action is being planned. Text fields must be filled out, categorisation and cost must be set and one or more users must be made responsible for executing the action.</li>
+<li>Under execution: The action has been sent to the person(s) who will execute it. When all the persons responsible for executing the action have checked out the field &ldquo;Executed&quot;and have written their comments, it can be sent for approval.</li>
+<li>Under approval: The action is waiting for approval from the person who created it.</li>
+<li>Approved: The action has been approved and can no longer be changed. Super users with the system role content administrator can still make changes.</li>
+</ul>
+<p>An action under execution or under approval may be sent backwards in the process by using the &laquo; buttons in the status field of the Action process.</p>
+<h1 id="activity-group">Activity group</h1>
+<p>Activities are organised in activity groups. This organisation has no influence on the system beyond the fact that it makes it easier to identify activities when there are many of them. In the Calendar under the Activity plan, activities are shown per activity group.</p>
+<h1 id="activity-report">Activity report</h1>
+<p>An activity report can be used to write a final report for an activity. The activity report can be written by pressing the Report button under Comments to the activity.</p>
+<p>Which message form will be used in the activity report is determined under Edit list information.</p>
+<p>Activity reports are not included in the standard version and must be ordered specifically.</p>
+<h1 id="alternative-answer">Alternative answer</h1>
+<p>An alternative answer is an answer you can choose to a question in a survey form. All the alternative answers you can choose from for one question are called an alternative group. Managed under Edit alternative answers.</p>
+<h3 id="data-3">Data</h3>
+<ul>
+<li>Number: Determines the sorting of the alternative answers in the alternative group.</li>
+<li>Text: The displayed text for that alternative answer. Each alternative answer may have one text for each enabled language.</li>
+</ul>
+<h1 id="alternative-groups-overview">Alternative groups overview</h1>
+<p>All the alternative groups belong to an alternative groups overview. This is used only to distinguish between alternative groups when editing alternative answers and under the tab Alternative groups. Managed from the tab Alternative groups.</p>
+<h1 id="case-handler-1">Case handler</h1>
+<p>The Case handler is a user type in the standard version in Qm+ that has approximately the same rights as the user type manager. That means full access to read and modify all cases within his/her remit, as well as reports via Reports and the Activity plan. A case handler does not have access to Admin.</p>
+<h1 id="category-dependency">Category dependency</h1>
+<p>A category dependency is used for controlling when a category is shown in a message form. Only categories without dependencies and categories that have all their dependencies satisfied are shown in the message form.</p>
+<p>A category dependency is only used for the actual message form it is set up for. A category may only have one dependency against each of the other categories in that message form.</p>
+<p>A category satisfies its dependencies when it both:</p>
+<ul>
+<li>satisfies all &ldquo;And&rdquo; dependencies. If it has no &ldquo;And&rdquo; dependencies it is considered as satisfied.</li>
+<li>satisfies at least one &ldquo;Or&rdquo; dependency or it has no &ldquo;Or&rdquo; dependencies.</li>
+</ul>
+<p>Managed under Edit category dependency.</p>
+<h1 id="checklist">Checklist</h1>
+<p>A checklist is a list that is displayed with checkboxes in front of the question. To be able to edit alternative answers, the list type survey form must be used. A checklist is intended to be used as a &ldquo;find the error list&rdquo;. That lists a series of common errors within the area to be examined. The users then check the point in the list if they know of the error. See list for explanation of data fields.</p>
+<h1 id="comment-message">Comment message</h1>
+<p>A comment message is an additional text response to a question in a list. Comment messages are registered in a normal message form. Only the first text field in the message form that is connected to the list will show as a comment field inside the list.</p>
+<p>Comment messages can be handled in the same way as the other messages. In the standard version, comment messages do not appear under Inbox unless someone has transferred them to a case handler, set a deadline or created an action for them.</p>
+<p>Show comment list in Activity plan is used to get an overview of the comment messages for an activity.</p>
+<p>You can get an overview of all comment messages from the tab Comment reports under Reports or from the Comments tab under Archive.</p>
+<h1 id="default-case-handler">Default case handler</h1>
+<p>If a message form has a default case handler, the messages registered with this message form will appear on the Cases I am responsible for page of the default case handler instead of the Manager of the department where the message was registered. The message will still be registered on the department it was registered and will appear under Reports and Search.</p>
+<p>If the same message form is set up with multiple default case handlers with overlapping departments, the user registering the message will be able to choose between them from a drop-down menu during registration. In the registration screen, there is also a checkbox for whether to send an email to the selected case handler when the message is registered.</p>
+<h1 id="department">Department</h1>
+<p>A department is a set of information that identifies a physical location or an organisational unit that will be used as the reporting unit in Qm+. Active departments can be selected in the Navigator. Managed under Admin / Organisation / Edit department. If a department is moved within the organisational structure, all associated data and records will automatically follow.</p>
+<p>Function under Organisation.</p>
+<h3 id="fields-1">Fields</h3>
+<ul>
+<li>Department name: The name used for the department in the system. Will appear in the Navigator.</li>
+<li>Subdepartment of: The department under which this department appears in the Navigator. This department will inherit the lists, the message forms, the documents and the activities from the department above it.</li>
+</ul>
+<h4 id="advanced-options-1">Advanced options</h4>
+<ul>
+<li>The department&rsquo;s roles: The roles associated with this department.
+<ul>
+<li>Roles associated with a department apply to all users of the active department. That means all employees of that department and all other users who have selected that department in the navigator.</li>
+<li>Roles associated with a department are used to control the accessibility of documents, forms and activities.</li>
+</ul>
+</li>
+<li>The department&rsquo;s main tasks: Departments may be related to categories in a category group classified as Tasks. This is meant to visualize the department&rsquo;s main tasks, and has currently no system effect beyond that.</li>
+</ul>
+<h1 id="display-criterion">Display criterion</h1>
+<p>A display criterion is a criterion that can be set on a question or a group of questions in a survey form. The most common use is to set up a question to show only if a particular alternative answer is selected on a previous question.</p>
+<p>Display criteria are set for each survey form under Edit alternative answers.</p>
+<h3 id="behaviour">Behaviour</h3>
+<ul>
+<li>Specific group, Element = None, Alternative = None: A checkbox appears before the group name with the text &ldquo;Show&rdquo; when the list is filled out. This box must be checked, in order for the questions in this group to show.</li>
+<li>Specific group, specific Element, Alternative = None: The question shows only if the particular question is not answered.</li>
+<li>Specific group, specific Element, specific Alternative: The question shows only if the particular question is answered with the specific alternative answer.</li>
+</ul>
+<p>Display criteria work for the list version and the single question view.</p>
+<h1 id="document">Document</h1>
+<p>A document is a text written in Qm+, a reference to a file, a reference to a web page or a folder. Shown in the table under info for all users who have access to them, according to the document&rsquo;s department and roles.</p>
+<p>Managed under Edit document data. A simple version control also exists on that page.</p>
+<h3 id="data-4">Data</h3>
+<ul>
+<li>Name: Used to identify the document in tables and overviews.</li>
+<li>Document type:
+<ul>
+<li>Written document: The document is written and maintained in the internal text editor of Qm+. When the document is opened, it will automatically get a meta-table that contains data about the document. The table shows who has created the document, when it was changed, the customer&rsquo;s logo and possibly the hearing status it has. The table can be customized on a per customer level.</li>
+<li>Link: The document is a link to a page on the Internet, a document written in Qm+ or a file uploaded to Qm+.</li>
+<li>File: The document is a file that was uploaded to Qm+ and stored on the server of QmPlus AS.</li>
+<li>Folder: The document is only a folder that contains other documents under Info.</li>
+<li>Process chart: The document is written and maintained in the Process chart setup page of Qm+ and can be displayed in two modes, Process chart and Responsibility matrix. When the document is opened, it will automatically get a meta-table that contains data about the document, identical to the one added to documents of type Written document. After a process chart is saved, it is not possible to change the type of the document again.</li>
+</ul>
+</li>
+<li>Document group: The document&rsquo;s group. Determines in which box the document will appear under Info.</li>
+<li>Document tab: Determines under which tab the document will appear under Info. Appears only if this functionality is turned on. In the standard version, all documents are shown under the tab Managing documents under Info.</li>
+<li>Subdocument of: A subdocument will be shown only when the document above it is extended by holding the cursor over the Arrowclosed.gif icon. Make sure to choose something in this menu after you have selected the Document group and the Document tab.</li>
+<li>Address: Where is the document. If it is a file that was uploaded, the address field will be set automatically. Do not make changes to it afterwards.</li>
+<li>From department: The document will be available from the selected department and its subordinate departments.</li>
+<li>Shown for subdepartments?: If no, the document will only appear under Info when the selected department in the &ldquo;From department&rdquo; is selected in the Navigator.</li>
+<li>Created by: The name of the user who has created this document.</li>
+<li>Version: Version number. Shows how many times there were changes made on the document. It will not be updated if the change is done outside Qm+.</li>
+<li>Roles: An unlimited number of roles can be associated with the document. A user must have at least one of these in order to be able to see the document under the Info page. Does not affect the availability of the document in the message forms or lists to which the document is attached.</li>
+<li>Last modified: Date when the document was last modified.</li>
+</ul>
+<h1 id="filling-out-pdf-forms">Filling out PDF forms</h1>
+<h3 id="purpose">Purpose</h3>
+<p>It has been requested that the details of a message which will be reported with the help of a PDF form, should be automatically filled in. If a form has been linked to a PDF, the user will have a new opportunity to select a message form for filling data into the PDF. After the PDF document is opened, the data are already copied in the correct fields and the user can fill in the rest of the form.</p>
+<h3 id="layout">Layout</h3>
+<p>In order for the data of a form to be able to be exported to a PDF form, the fields must be manually connected to the fields of the PDF. Unfortunately, for the moment, this can only be done directly in the database, ie, the users must ask Qm+ to do it for them.</p>
+<p>In order to connect a form to a PDF, we need the PDF and the message it will be connected to. In addition we need an accurate description of which fields in the PDF will be connected to which fields in the message.</p>
+<h1 id="gps-coordinates">GPS coordinates</h1>
+<p>
+
+  <img src="https://docs3.qmplus.com/images/Map.png"  width="" />
+
+
+ GPS coordinates is a tab under Edit message form.</p>
+<p>Messages registered through the mobile application send the GPS coordinates of the location of the mobile device at the time of registration. Use this page to decide if these coordinates will appear in the Message process page and in the pdf reports. More options will appear in this page soon.</p>
+<h1 id="list">List</h1>
+<p>A list is a form used to collect information. Lists are managed under Admin / Forms and are sent out from the Activity plan. The appearance of a list is determined by the selected list type.</p>
+<h3 id="data-5">Data</h3>
+<ul>
+<li>Show for the language: The name of a list can be set once for every language that is activated in the system. Appears only for customers who have multiple active languages.</li>
+<li>List name: Used to identify the list in tables and menus.</li>
+<li>List type: Used to organise the lists in various overviews under Admin. Has no practical significance.</li>
+<li>Registered by department: The department where the list was created. A list can be used from the department where it was created and from its subordinate departments.</li>
+<li>Attached message form: The message form that is used to store comments on the list.</li>
+<li>Attached category: The category which will be selected in the attached message form when the comment is written.</li>
+<li>Attached report form: The message form that will be used to save reports to an activity where the list has been used.</li>
+<li>Attached report category: The category which will be selected in the attached message form when the report is written.
+<ul>
+<li>The report form and the report categories are not included in the standard version but can be activated for all customers who want them. In this case, contact <a href="mailto:drift@qmplus.com">drift@qmplus.com</a>.</li>
+</ul>
+</li>
+<li>List comment: A textual comment that will appear at the top of list when it is filled out.</li>
+<li>Attached documents: A link above the list that opens the selected document.</li>
+</ul>
+<h1 id="list-version">List version</h1>
+<p>Display type for lists. Used mainly for checklists and risk analysis lists. Shows all the questions in a list. Opportunity to comment comes up on page two after Save is pressed.</p>
+<p>All lists that appear when you log in to Qm+ in the normal way (not when logging in via a link in an e-mail that takes you directly to the list), are using the list version.</p>
+<h1 id="periodic-activity">Periodic activity</h1>
+<p>A periodic activity is used when you want to schedule a periodic execution of an activity forward in time. The period is how frequently the activity will be carried out, for example, daily, weekly, annually.</p>
+<p>The period and the individual dates can be managed under Periodic activity setup, and the other activity data under Edit activity. Individual dates for a periodic activity can be deleted under Activities.</p>
+<h1 id="priority">Priority</h1>
+<p>Messages in Qm+ may have different priorities.</p>
+<ul>
+<li>Low: Highlighted in green.</li>
+<li>Medium: Highlighted in yellow.</li>
+<li>High: highlighted in red.</li>
+</ul>
+<p>An action gets the same priority as the message attached to it with the highest priority.</p>
+<h1 id="repetitive-activity">Repetitive activity</h1>
+<p>A repetitive activity is an activity that can be filled out an unlimited number of times by each participant. Can also be used for registration of anonymous external surveys where all responses are registered on the same user.</p>
+<h1 id="risk-analysis-list">Risk analysis list</h1>
+<p>A risk analysis list is a list that is displayed with a drop-down menu for the probability and a drop-down menu for the consequence of each question. See list for explanation of data fields.</p>
+<h1 id="risk-message">Risk message</h1>
+<p>Risk messages are messages used to create a risk overview for your company. It is up to the company whether the risk messages should be handled or if they should only be registered and stored in the archive. Our recommendation is that they are not handled, only updated annually. Risk messages can only be closed by QmPlus AS (as an exception), as they should not normally be handled. Messages registered here do not appear in the Inbox unless you use Message process to activate them. The message type risk message is not enabled in the standard version.</p>
+<h1 id="role">Role</h1>
+<p>A role can be assigned to users, user types, departments, activities, message forms and documents. They provide rights and restrictions. Generally one can say that a user or a user&rsquo;s department must have the same role as an activity, a message form or a document in order to have access to it. Common roles can be set by the customer&rsquo;s super user.</p>
+<p>Roles are sorted in role groups and managed under Edit role.</p>
+<p>A special type of roles called system roles give extended rights for use of Qm+. System roles are set by QmPlus AS and they can be assigned to some super users. This is an advanced functionality and is usually not given to new customers. Contact <a href="mailto:drift@qmplus.com">drift@qmplus.com</a> if you need this right or if you have questions.</p>
+<h3 id="data-6">Data</h3>
+<ul>
+<li>Name: A role can have one name for each language that is activated in the system.</li>
+</ul>
+<h1 id="rules-submenu-message-form">Rules submenu message form</h1>
+<p>
+
+  <img src="https://docs3.qmplus.com/images/Wrench.png"  width="" />
+
+
+ Rules submenu message form is a tab under Edit message form.</p>
+<p>Use this page to get an overview of the rules which are associated with the message form. See Rules for a more detailed description of the table contents and functionality.</p>
+<p>Please note that a message registered with a message form without case handlers follows the normal procedure and appears in the Inbox / My current cases of the nearest manager. In most cases this is the best solution.</p>
+<h1 id="sub-activity">Sub-activity</h1>
+<p>An activity can have sub-activities. They have no effect other than the fact that they are visually grouped together under Activities and Calendar.</p>
+<h1 id="survey-form">Survey form</h1>
+<p>A type of list. Provides full flexibility to change the answers and comments for all questions. When used as a traditional survey, it is often worth using the display type &ldquo;single question view&rdquo;.</p>
+<h1 id="the-action-process">The action process</h1>
+<p>The action process is the process from when an action is created until it is approved and closed.</p>
+<p>Followed up through the Action process page.</p>
+<ul>
+<li>Under planning: All actions start with this status. In this phase, the action is being planned. First give a name to the action so that it becomes easy to identify it later, and enter the budget if you use this field. The text fields Corrective action and How to prevent repetition must be filled out so that those who will execute the action will know what to do. The action categories may also be selected now. The last thing you have to do is to select those who should execute the action and give them a deadline. This is done in the mandatory panel Persons responsible. Click on Send to execution &raquo; or the &raquo; button in the Status panel to save the action and change its status to Under execution.</li>
+<li>Under execution: In this phase, the work described in the action will be executed. If the time registration fields are enabled, the executors can log the hours they have spent carrying out the action per day. Then those who carried out the action must tick the Executed box. They can also write a comment in the Comment field and fill in the Actual cost if they know it. When all the changes have been done, use the button Send to approval &raquo; or the &raquo; button in the Status panel. This saves the action and change its status to Under approval.</li>
+<li>Under approval: Here the person who created the action will make sure everything is in order before (s)he approves the action.</li>
+<li>Approved: An approved action is closed and locked and can not be changed except by users with the system role content administrator. Comments can still be sent out to all involved users.</li>
 </ul>
 
 </div>
@@ -611,7 +1065,7 @@ Verify = check if it is true, from the Latin &ldquo;Verus&rdquo; = true, &ldquo;
 
 <div class="td-content" style="page-break-before: always">
     
-	<h1 id="pg-5a35f735d680f90948063bdda2f8a7e4">6 - System settings</h1>
+	<h1 id="pg-1883a377abc5624c7a29ba74c103a25e">6 - System settings</h1>
     <div class="lead">System settings are adjustable elements used for making individual adjustments per customer. Changes from the standard version can be ordered by the customer&rsquo;s contact person with QmPlus AS.</div>
 	<h1 id="report">REPORT</h1>
 <ul>

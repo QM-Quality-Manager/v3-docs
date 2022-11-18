@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Alternativer for prosessrapporter</title>
-      <link>https://docs3.qmplus.com/docs/report/altertnative_process_reports/</link>
+      <link>https://docs3.qmplus.com/docs/report/option_page_process_reports/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/report/altertnative_process_reports/</guid>
+      <guid>https://docs3.qmplus.com/docs/report/option_page_process_reports/</guid>
       <description>
         
         
@@ -68,10 +68,10 @@
     
     <item>
       <title>Docs: Alternativer for rapporter</title>
-      <link>https://docs3.qmplus.com/docs/report/report_alternatives/</link>
+      <link>https://docs3.qmplus.com/docs/report/option_page_reports/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docs3.qmplus.com/docs/report/report_alternatives/</guid>
+      <guid>https://docs3.qmplus.com/docs/report/option_page_reports/</guid>
       <description>
         
         
@@ -135,7 +135,7 @@ Knapper&lt;/p&gt;
       <description>
         
         
-        &lt;p&gt;Alle arkfaner for dokumenter.&lt;/p&gt;
+        &lt;p&gt;Alle arkfaner for rapporter&lt;/p&gt;
 
       </description>
     </item>

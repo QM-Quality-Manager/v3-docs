@@ -195,6 +195,171 @@ g. Trykk på
     </item>
     
     <item>
+      <title>Docs: Meldinger arkfane medarbeider</title>
+      <link>https://docs3.qmplus.com/docs/inbox/tabs/messages_tab_worker/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/inbox/tabs/messages_tab_worker/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her vises alle meldinger brukeren har registrert og nye meldinger kan registreres.&lt;/p&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;p&gt;Ved å trykke på en linje i hovedtabellen vil meldingen åpnes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;+ Utfyllende data: Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om en sak.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Registrert: Dato for når meldingen ble registrert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beskrivelse: Tekst hentet fra det første tekstfeltet i meldingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prioritet: 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_green.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_yellow.png&#34;  width=&#34;&#34; /&gt;
+
+
+,
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Flag_red.png&#34;  width=&#34;&#34; /&gt;
+
+
+ symboliserer lav, middels og høy prioritet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Status: Meldingsstatus. Mulige verdier er: Nye saker, Sendt til saksbehandler, Tiltaksprosess, Lukket og Avvist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Saken ligger nå hos: Navnet på brukeren som er ansvarlig for å behandle meldingen. Hvis feltet er blankt er meldingen hos nærmeste leder, uten at denne har gjort noe med den enda.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aktuell avdeling: Avdelingen der meldingen ligger til behandling eller sist ble behandlet. Se Historikken for mer detaljer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Register-message_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Registrer ny melding: Velg et knappen med navnet på et meldingsskjema for å registrere en ny melding. Meldingskjemaene vises om individuelle knapper dersom det er 4 eller færre skjemaer. Er det fler, må først knappen Register-message 16px.png Registrer ny melding trykkes på. Den åpner en liste over alle aktive meldingsskjemaer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med Arrowopen.gif. Trykk på Arrowclosed.gif for å sortere på en annen kolonne.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut den aktive siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Avvik og forslag: Tabellen viser vanlige meldinger.&lt;/li&gt;
+&lt;li&gt;Log: Tabellen viser loggmeldinger. Ikke med i standardversjonen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s10-hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Her kan du lære&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Forskjellen på fargene på meldingene&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Obligatoriske kategorier&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Følge opp saker jeg har vært involvert i&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tilføye informasjon og endringer på saker jeg har vært engasjert i&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;sjekke hva som er blitt gjort med saker jeg har vært engasjert i&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hvem kan se saker jeg har meldt inn&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tilltaksbehandling&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Godkjenne tiltak og utføre tiltak&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fylle ut spørreskjema og legge til kommentarer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Finne frem til lover, prossedyrer, rapporter m.m.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dine innstillinger: Endre brukernavn, passord m.m.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ 
+&lt;a href=&#34;https://docs3.qmplus.com/assets/basiskunnskaper_medarbeider.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Saker jeg er ansvarlig for</title>
       <link>https://docs3.qmplus.com/docs/inbox/tabs/cases_im_responsible_for/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
