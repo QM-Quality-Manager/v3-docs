@@ -85,7 +85,12 @@
 &lt;p&gt;Dokumentarkfane: Styrer hvilken arkfane under Info dokumentet blir vist. Vises bare dersom denne funksjonaliteten er skrudd på. I standardversjonen vises alle dokumenter under arkfanen Styrende dokumenter under Info.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Underdokument av: Et underdokument vises kun dersom dokumentet den er et underdokument av er brettet ut ved å holde pekeren over dennes Arrowclosed.gif symbol. Pass på å velge i denne kolonnen etter at du har gjordt eventuelle valg av dokumentgruppe og dokumentarkfane.&lt;/p&gt;
+&lt;p&gt;Underdokument av: Et underdokument vises kun dersom dokumentet den er et underdokument av er brettet ut ved å holde pekeren over dennes 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ symbol. Pass på å velge i denne kolonnen etter at du har gjordt eventuelle valg av dokumentgruppe og dokumentarkfane.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Adresse: Hva dokumentet pekker på. Dersom det er en fil som er lastet opp blir adressefeltet satt automatisk. Ikke gjør endringer i det etterpå.&lt;/p&gt;

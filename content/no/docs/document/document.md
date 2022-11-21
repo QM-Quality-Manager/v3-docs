@@ -25,7 +25,7 @@ Vedlikeholdes i endre data for dokumentet. En enkel versjonskontroll vises også
     
 - Dokumentarkfane: Styrer hvilken arkfane under Info dokumentet blir vist. Vises bare dersom denne funksjonaliteten er skrudd på. I standardversjonen vises alle dokumenter under arkfanen Styrende dokumenter under Info.
     
-- Underdokument av: Et underdokument vises kun dersom dokumentet den er et underdokument av er brettet ut ved å holde pekeren over dennes Arrowclosed.gif symbol. Pass på å velge i denne kolonnen etter at du har gjordt eventuelle valg av dokumentgruppe og dokumentarkfane.
+- Underdokument av: Et underdokument vises kun dersom dokumentet den er et underdokument av er brettet ut ved å holde pekeren over dennes {{< onlystaticimg src="/images/Arrowclosed.gif" >}} symbol. Pass på å velge i denne kolonnen etter at du har gjordt eventuelle valg av dokumentgruppe og dokumentarkfane.
     
 - Adresse: Hva dokumentet pekker på. Dersom det er en fil som er lastet opp blir adressefeltet satt automatisk. Ikke gjør endringer i det etterpå.
     

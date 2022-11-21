@@ -1490,7 +1490,17 @@ Show results in&lt;/p&gt;
 &lt;h3 id=&#34;headings-in-the-table&#34;&gt;Headings in the table&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Activity name: The name of the activities that are active in the selected period. The blue activity names can be clicked on and open the Fill out and results for the selected activity.&lt;/li&gt;
-&lt;li&gt;Time period: The selected time period. Use ArrowclosedLeft.gif and Arrowclosed.gif to change the time period (year).&lt;/li&gt;
+&lt;li&gt;Time period: The selected time period. Use 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/ArrowclosedLeft.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ to change the time period (year).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
 &lt;ul&gt;
@@ -2008,7 +2018,7 @@ Opens the page Export to the common library. If this icon is disabled / grayed o
   &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.png&#34;  width=&#34;&#34; /&gt;
 
 
-.gif and 
+ and 
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
 
@@ -2643,7 +2653,12 @@ Deletes the current form. This icon appears only to the user who uploaded the fo
 &lt;/li&gt;
 &lt;li&gt;Document group: The document&amp;rsquo;s group. Determines in which box the document will appear under Info.&lt;/li&gt;
 &lt;li&gt;Document tab: Determines under which tab the document will appear under Info. Appears only if this functionality is turned on. In the standard version, all documents are shown under the tab Managing documents under Info.&lt;/li&gt;
-&lt;li&gt;Subdocument of: A subdocument will be shown only when the document above it is extended by holding the cursor over the Arrowclosed.gif icon. Make sure to choose something in this menu after you have selected the Document group and the Document tab.&lt;/li&gt;
+&lt;li&gt;Subdocument of: A subdocument will be shown only when the document above it is extended by holding the cursor over the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ icon. Make sure to choose something in this menu after you have selected the Document group and the Document tab.&lt;/li&gt;
 &lt;li&gt;Address: Where is the document. If it is a file that was uploaded, the address field will be set automatically. Do not make changes to it afterwards.&lt;/li&gt;
 &lt;li&gt;From department: The document will be available from the selected department and its subordinate departments.&lt;/li&gt;
 &lt;li&gt;Shown for subdepartments?: If no, the document will only appear under Info when the selected department in the &amp;ldquo;From department&amp;rdquo; is selected in the Navigator.&lt;/li&gt;
@@ -2767,7 +2782,17 @@ Register new message must be pressed first. This opens a list of all active mess
 &lt;/ul&gt;
 &lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;LeftArrow.gif and RightArrow.gif Change page: The arrows are used to change the page when there are more than 20 cases that can be displayed in the table.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Change page: The arrows are used to change the page when there are more than 20 cases that can be displayed in the table.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Sort_down.png&#34;  width=&#34;&#34; /&gt;
@@ -3051,7 +3076,12 @@ Register new message must be pressed first. This opens a list of all active mess
 &lt;/li&gt;
 &lt;li&gt;Document tab: Determines under which tab the document will appear under Info. Mandatory field.&lt;/li&gt;
 &lt;li&gt;Document group: The document&amp;rsquo;s group. Determines in which box the document will appear under Info. Mandatory field.&lt;/li&gt;
-&lt;li&gt;Subdocument of: A subdocument will not be shown under Info, until the document above it is expanded by holding the cursor over the Arrowclosed.gif icon.&lt;/li&gt;
+&lt;li&gt;Subdocument of: A subdocument will not be shown under Info, until the document above it is expanded by holding the cursor over the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ icon.&lt;/li&gt;
 &lt;li&gt;Public document: If this is checked, the document will be available to everyone and no authentication will be required to open it. Applies only to documents of type &amp;ldquo;Write a document&amp;rdquo;, &amp;ldquo;Link&amp;rdquo; and &amp;ldquo;File&amp;rdquo;.&lt;/li&gt;
 &lt;li&gt;Position: Used only if the alphabetical sorting is turned off. Normally you can ignore this.&lt;/li&gt;
 &lt;/ul&gt;
@@ -3391,7 +3421,12 @@ Deactivated document groups do not appear under Info and no document can be assi
 
 
 : Create read and understood activity. This opens the New activity page under Activity plan and automatically sets the Activity group, the Activity name, the Attached list, the time period (From - To), the Activity distribution and the attached document. It is possible to use other lists than the default one for Read and understood. If someone wants to use another list as default, they will have to contact QmPlus AS. If you click the Create read and understood activity button of a document that has subdocuments, the subdocuments will also be added to the activity automatically.&lt;/li&gt;
-&lt;li&gt;Turnarrow.gif: Deactivate / Activate document. Deactivates or activates the document depending on whether you are under Documents or Deactivated documents respectively.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deactivate / Activate document. Deactivates or activates the document depending on whether you are under Documents or Deactivated documents respectively.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Link_delete.png&#34;  width=&#34;&#34; /&gt;

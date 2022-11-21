@@ -18,7 +18,7 @@ Provides an overview of the logins and the document usage in the system in a giv
   - Report for document usage. Shows data for documents that have been opened, regardless of the page they were opened from (Info, Admin, Register new message or external use).
 - Report type
   - When "Report for logins" is selected in the first drop-down:
-    - Login overview: Shows all the logins in a given period. The table can be sorted by Name (default) or Time, by clicking on the Arrowclosed.gif icon.
+    - Login overview: Shows all the logins in a given period. The table can be sorted by Name (default) or Time, by clicking on the {{< onlystaticimg src="/images/Arrowclosed.gif" >}} icon.
     - Login overview distributed over time: Shows the number of logins per user per period. The table is sorted by name.
     - Login data distributed over time: Shows the number of logins per period.
     - Average values for the period: Shows the average number of logins per period.

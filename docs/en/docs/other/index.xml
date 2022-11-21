@@ -541,7 +541,12 @@ Verify = check if it is true, from the Latin &amp;ldquo;Verus&amp;rdquo; = true,
 &lt;/li&gt;
 &lt;li&gt;Document group: The document&amp;rsquo;s group. Determines in which box the document will appear under Info.&lt;/li&gt;
 &lt;li&gt;Document tab: Determines under which tab the document will appear under Info. Appears only if this functionality is turned on. In the standard version, all documents are shown under the tab Managing documents under Info.&lt;/li&gt;
-&lt;li&gt;Subdocument of: A subdocument will be shown only when the document above it is extended by holding the cursor over the Arrowclosed.gif icon. Make sure to choose something in this menu after you have selected the Document group and the Document tab.&lt;/li&gt;
+&lt;li&gt;Subdocument of: A subdocument will be shown only when the document above it is extended by holding the cursor over the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ icon. Make sure to choose something in this menu after you have selected the Document group and the Document tab.&lt;/li&gt;
 &lt;li&gt;Address: Where is the document. If it is a file that was uploaded, the address field will be set automatically. Do not make changes to it afterwards.&lt;/li&gt;
 &lt;li&gt;From department: The document will be available from the selected department and its subordinate departments.&lt;/li&gt;
 &lt;li&gt;Shown for subdepartments?: If no, the document will only appear under Info when the selected department in the &amp;ldquo;From department&amp;rdquo; is selected in the Navigator.&lt;/li&gt;

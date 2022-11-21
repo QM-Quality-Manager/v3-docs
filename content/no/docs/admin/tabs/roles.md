@@ -14,7 +14,7 @@ Her administreres virksomhetens roller og rollegrupper.
 ### Ikoner
 
 - {{< onlystaticimg src="/images/Group_edit.png" >}}: Åpner endre rolle / endre rollegruppeskjermbildet for å endre en rolle / rollegruppe.
-- Turnarrow.gif: Deaktiverer eller aktiverer rollen / rollegruppen avhengig av om man man står i Aktive roller / rollegrupper eller Deaktiverte roller / rollegrupper.
+- {{< onlystaticimg src="/images/Turnarrow.gif" >}}: Deaktiverer eller aktiverer rollen / rollegruppen avhengig av om man man står i Aktive roller / rollegrupper eller Deaktiverte roller / rollegrupper.
 - {{< onlystaticimg src="/images/Group_delete.png" >}}: Sletter rollen / rollegruppen. Kun synlig for deaktiverte roller / rollegrupper.
 
 ### Arkfaner

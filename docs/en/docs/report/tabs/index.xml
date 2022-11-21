@@ -142,7 +142,12 @@
 &lt;ul&gt;
 &lt;li&gt;When &amp;ldquo;Report for logins&amp;rdquo; is selected in the first drop-down:
 &lt;ul&gt;
-&lt;li&gt;Login overview: Shows all the logins in a given period. The table can be sorted by Name (default) or Time, by clicking on the Arrowclosed.gif icon.&lt;/li&gt;
+&lt;li&gt;Login overview: Shows all the logins in a given period. The table can be sorted by Name (default) or Time, by clicking on the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ icon.&lt;/li&gt;
 &lt;li&gt;Login overview distributed over time: Shows the number of logins per user per period. The table is sorted by name.&lt;/li&gt;
 &lt;li&gt;Login data distributed over time: Shows the number of logins per period.&lt;/li&gt;
 &lt;li&gt;Average values for the period: Shows the average number of logins per period.&lt;/li&gt;

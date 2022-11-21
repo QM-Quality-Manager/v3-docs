@@ -10,7 +10,7 @@ The Calendar screen shows an annual time chart of when the activities of the com
 ### Headings in the table
 
 - Activity name: The name of the activities that are active in the selected period. The blue activity names can be clicked on and open the Fill out and results for the selected activity.
-- Time period: The selected time period. Use ArrowclosedLeft.gif and Arrowclosed.gif to change the time period (year).
+- Time period: The selected time period. Use {{< onlystaticimg src="/images/ArrowclosedLeft.gif" >}} and {{< onlystaticimg src="/images/Arrowclosed.gif" >}} to change the time period (year).
 
 ### Buttons
 

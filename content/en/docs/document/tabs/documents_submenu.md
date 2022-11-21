@@ -49,7 +49,7 @@ Icons are used to symbolize different types of documents:
 
 - {{< onlystaticimg src="/images/Link_edit.png" >}}: Edit document data. Opens the Edit document data screen to edit an existing document.
 - {{< onlystaticimg src="/images/Date_add.png" >}}: Create read and understood activity. This opens the New activity page under Activity plan and automatically sets the Activity group, the Activity name, the Attached list, the time period (From - To), the Activity distribution and the attached document. It is possible to use other lists than the default one for Read and understood. If someone wants to use another list as default, they will have to contact QmPlus AS. If you click the Create read and understood activity button of a document that has subdocuments, the subdocuments will also be added to the activity automatically.
-- Turnarrow.gif: Deactivate / Activate document. Deactivates or activates the document depending on whether you are under Documents or Deactivated documents respectively.
+- {{< onlystaticimg src="/images/Turnarrow.gif" >}}: Deactivate / Activate document. Deactivates or activates the document depending on whether you are under Documents or Deactivated documents respectively.
 - {{< onlystaticimg src="/images/Link_delete.png" >}}: Delete document. Deletes the document. Only visible for deactivated documents that are not attached to other elements in the system.
 
 #### Status

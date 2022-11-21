@@ -13,7 +13,7 @@ The table contains one row per version (Major version) that the document has bee
 
 - Name: Name of the document for this version.
 - Version: "Version number.Edit number". Create a new version when you have made ​​major changes to the document. Must be done manually. The edit number changes whenever you save a change in the document.
-  - Click RightArrow.gif to show the minor versions.
+  - Click {{< onlystaticimg src="/images/RightArrow.gif" >}} to show the minor versions.
   - The version that is published and displayed under Info is marked with a {{< onlystaticimg src="/images/Tick.png" >}}.
   - {{< onlystaticimg src="/images/Page_white_put.png" >}} Copy and set as latest version. Click on this to copy the version of this row as a new version. Copies all content and document data, including the name. Shows only for documents of type Written document ("Write a file").
 - Address: The address of the document. Click on it to open the selected version of the document.

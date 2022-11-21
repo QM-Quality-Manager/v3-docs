@@ -43,7 +43,7 @@ Her kan du lære:
 
 ### Ikoner
 
-- {{< onlystaticimg src="/images/Folder.png" >}} Endre data for denne aktiviteten: Åpner siden endre aktivitet. For periodiske aktiviteter åpner den endre dato isteden om man er på en av periodene som vises når man har trykket på RightArrow.gif ikonet i Fullføres før feltet.
+- {{< onlystaticimg src="/images/Folder.png" >}} Endre data for denne aktiviteten: Åpner siden endre aktivitet. For periodiske aktiviteter åpner den endre dato isteden om man er på en av periodene som vises når man har trykket på {{< onlystaticimg src="/images/RightArrow.gif" >}} ikonet i Fullføres før feltet.
 - {{< onlystaticimg src="/images/Chart_bar.png" >}} Vis grafisk oversikt for resultatet fra sjekklisten: Åpner siden grafer for listen.
 - {{< onlystaticimg src="/images/Page.png" >}} Vis papirversjon: Vises kun for aktiviteter som har en liste tilkoblet. Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform og som liste av enkeltspørsmål slik den ser ut når den skal fylles ut.
 - {{< onlystaticimg src="/images/Date_edit.png" >}} Endre dato:

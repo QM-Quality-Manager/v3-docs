@@ -29,7 +29,7 @@ Inneholder alle kommentarmeldinger i systemet. Kommentarmeldinger er meldinger s
 - {{< onlystaticimg src="/images/Page.png" >}} Utvidet visning/Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av meldingene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele meldingen beregnet til bruk når man vil se en oversikt over hele innholdet i meldingene.
 - {{< onlystaticimg src="/images/Page_white_acrobat.png" >}} Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument. Denne er beregnet på utskrift til papir.
 - {{< onlystaticimg src="/images/LeftArrow.gif" >}} og {{< onlystaticimg src="/images/RightArrow.gif" >}} Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.
-- {{< onlystaticimg src="/images/Arrowopen.gif" >}} .gif og {{< onlystaticimg src="/images/Arrowclosed.gif" >}} Sortering: Tabellen er sortert etter kolonnen med {{< onlystaticimg src="/images/Arrowopen.gif" >}}. Trykk på {{< onlystaticimg src="/images/Arrowclosed.gif" >}}.gif for å sortere på en annen kolonne.
+- {{< onlystaticimg src="/images/Arrowopen.gif" >}} og {{< onlystaticimg src="/images/Arrowclosed.gif" >}} Sortering: Tabellen er sortert etter kolonnen med {{< onlystaticimg src="/images/Arrowopen.gif" >}}. Trykk på {{< onlystaticimg src="/images/Arrowclosed.gif" >}} for å sortere på en annen kolonne.
 - {{< onlystaticimg src="/images/Printer.png" >}} Skriv ut: Skriver ut det skjermbildet som vises på skjermen.
 - {{< onlystaticimg src="/images/Help.png" >}} Hjelp: Åpner denne siden.
 

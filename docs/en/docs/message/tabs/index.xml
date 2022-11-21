@@ -166,7 +166,12 @@ Early case process means that the message can be assigned to a responsible perso
 &lt;li&gt;I can also edit the message contents: Click on the tab &amp;ldquo;Edit message&amp;rdquo;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;message-details&#34;&gt;Message details&lt;/h3&gt;
-&lt;p&gt;This table provides a brief description of the content and status of the message that will be processed in this page. Click on Arrowclosed.gif to see the rest of the checked categories.&lt;/p&gt;
+&lt;p&gt;This table provides a brief description of the content and status of the message that will be processed in this page. Click on 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ to see the rest of the checked categories.&lt;/p&gt;
 &lt;h3 id=&#34;choose-action&#34;&gt;Choose action&lt;/h3&gt;
 &lt;p&gt;Drop-down menu with a coloured background that means that this is where you need to do something if you come to this page. Whatever choice you make in this drop-down menu, you will be able to check off the &amp;ldquo;Send a note about the case&amp;rdquo; that makes the dialog boxes appear and gives you the possibility to send an email to those involved in the case.&lt;/p&gt;
 &lt;p&gt;Possible actions: Click Save / Send after you have selected an action in order for it to happen.&lt;/p&gt;

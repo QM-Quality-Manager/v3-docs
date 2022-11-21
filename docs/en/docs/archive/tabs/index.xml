@@ -86,7 +86,7 @@
   &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.png&#34;  width=&#34;&#34; /&gt;
 
 
-.gif and 
+ and 
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
 
@@ -208,7 +208,17 @@
 
 
  Show as pdf: Opens the Option page for reports, from which you can create a report with the related log messages. This is intended for paper printing.&lt;/li&gt;
-&lt;li&gt;LeftArrow.gif and RightArrow.gif Change page: The arrows are used to change pages when there are more than 20 cases that can be shown in the table.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Change page: The arrows are used to change pages when there are more than 20 cases that can be shown in the table.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;

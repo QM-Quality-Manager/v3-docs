@@ -16,7 +16,7 @@ Pink cases are messages, yellow cases are actions and blue-gray cases are hearin
 
 ### Icons
 
-- LeftArrow.gif and RightArrow.gif Change page: The arrows are used to change the page when there are more than 20 cases that can be displayed in the table.
+- {{< onlystaticimg src="/images/LeftArrow.gif" >}} and {{< onlystaticimg src="/images/RightArrow.gif" >}} Change page: The arrows are used to change the page when there are more than 20 cases that can be displayed in the table.
 - {{< onlystaticimg src="/images/Sort_down.png" >}} and {{< onlystaticimg src="/images/No_sort.png" >}} Sorting: The table is sorted by the column with the {{< onlystaticimg src="/images/Sort_down.png" >}}. Click on {{< onlystaticimg src="/images/No_sort.png" >}} to sort on another column.
 - {{< onlystaticimg src="/images/Flag_green.png" >}}, {{< onlystaticimg src="/images/Flag_yellow.png" >}}, {{< onlystaticimg src="/images/Flag_red.png" >}} Priority: Symbolize low, medium and high priority respectively.
 

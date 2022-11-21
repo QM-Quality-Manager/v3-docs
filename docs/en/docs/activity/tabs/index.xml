@@ -275,7 +275,17 @@
 &lt;h3 id=&#34;headings-in-the-table&#34;&gt;Headings in the table&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Activity name: The name of the activities that are active in the selected period. The blue activity names can be clicked on and open the Fill out and results for the selected activity.&lt;/li&gt;
-&lt;li&gt;Time period: The selected time period. Use ArrowclosedLeft.gif and Arrowclosed.gif to change the time period (year).&lt;/li&gt;
+&lt;li&gt;Time period: The selected time period. Use 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/ArrowclosedLeft.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ to change the time period (year).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
 &lt;ul&gt;

@@ -28,7 +28,7 @@ Ved å trykke på en linje i hovedtabellen vil meldingen åpnes.
 
 - {{< onlystaticimg src="/images/LeftArrow.gif" >}} og {{< onlystaticimg src="/images/RightArrow.gif" >}} Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.
 
-- {{< onlystaticimg src="/images/Arrowopen.gif" >}} og {{< onlystaticimg src="/images/Arrowclosed.gif" >}} Sortering: Tabellen er sortert etter kolonnen med Arrowopen.gif. Trykk på Arrowclosed.gif for å sortere på en annen kolonne.
+- {{< onlystaticimg src="/images/Arrowopen.gif" >}} og {{< onlystaticimg src="/images/Arrowclosed.gif" >}} Sortering: Tabellen er sortert etter kolonnen med {{< onlystaticimg src="/images/Arrowopen.gif" >}}. Trykk på {{< onlystaticimg src="/images/Arrowclosed.gif" >}} for å sortere på en annen kolonne.
 
 - {{< onlystaticimg src="/images/Printer.png" >}} Skriv ut: Skriver ut den aktive siden.
 

@@ -54,8 +54,8 @@ Not included in the simplified interface.
 - {{< onlystaticimg src="/images/Find.png" >}} Search: Update the table of messages based on the selected dates.
 - {{< onlystaticimg src="/images/Page.png" >}} Expanded view / {{< onlystaticimg src="/images/Table.png" >}} Table: Switch between the expanded and the table view. The table gives a compact description of messages intended for use when working with them. The expanded view gives a more complete description of the whole message, similar to the printer friendly (.pdf) version.
 - {{< onlystaticimg src="/images/Page_white_acrobat.png" >}} Show as pdf: Opens the Option page for reports, from which you can create a report with the related risk messages. This is intended for paper printing.
-- LeftArrow.gif and RightArrow.gif Change page: The arrows are used to change pages when there are more than 20 cases that can be shown in the table.
-- Arrowopen.gif and Arrowclosed.gif Sorting: The table is sorted by the column with the Arrowopen.gif. Click on the Arrowclosed.gif to sort by another column.
+- {{< onlystaticimg src="/images/LeftArrow.gif" >}} and {{< onlystaticimg src="/images/RightArrow.gif" >}} Change page: The arrows are used to change pages when there are more than 20 cases that can be shown in the table.
+- {{< onlystaticimg src="/images/Arrowopen.gif" >}} and {{< onlystaticimg src="/images/Arrowclosed.gif" >}} Sorting: The table is sorted by the column with the {{< onlystaticimg src="/images/Arrowopen.gif" >}}. Click on the {{< onlystaticimg src="/images/Arrowclosed.gif" >}} to sort by another column.
 - {{< onlystaticimg src="/images/Printer.png" >}} Print: Prints the current page.
 - {{< onlystaticimg src="/images/Help.png" >}} Help: Opens this page.
 

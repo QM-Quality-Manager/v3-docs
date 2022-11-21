@@ -191,7 +191,12 @@
 &lt;p&gt;Dokumentgruppe: Dokumentets gruppe. Bestemmer hvilken boks dokumentet vises i under Info. Obligatorisk.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Underdokument av: Et underdokument blir ikke vist under Info før dokumentet det ligger under er utvidet ved å holde pekeren over Arrowclosed.gif symbolet.&lt;/p&gt;
+&lt;p&gt;Underdokument av: Et underdokument blir ikke vist under Info før dokumentet det ligger under er utvidet ved å holde pekeren over 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ symbolet.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Offentlig dokument: Hvis krysset av, dokumentet vil være tilgjengelig for alle, ingen autentisering kreves. Vises kun for dokumenter av type &amp;ldquo;Skriv et dokument&amp;rdquo;, &amp;ldquo;Link&amp;rdquo; og &amp;ldquo;Fil&amp;rdquo;.&lt;/p&gt;

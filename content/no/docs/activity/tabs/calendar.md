@@ -10,7 +10,7 @@ Kalender brukes til å få et tidsdiagram over når aktivitetene i virksomheten 
 ### Overskrifter i tabellen
 - Aktivitetens navn: Navn på de aktivitetene som er aktive i den valgte perioden. De blå aktivitetsnavnene kan trykkes på og åpner utfylling og resultater for den valgte aktiviteten.
 
-- Tidsrom: Det valgte tidsrommet. Bruk ArrowclosedLeft.gif og Arrowclosed.gif for å endre tidsperiode.
+- Tidsrom: Det valgte tidsrommet. Bruk {{< onlystaticimg src="/images/ArrowclosedLeft.gif" >}} og {{< onlystaticimg src="/images/Arrowclosed.gif" >}} for å endre tidsperiode.
 
 ### Knapper
 - {{< onlystaticimg src="/images/Printer.png" >}} Skriv ut: Skriver ut den aktive siden. Skriv ut bakgrunnsfarger og bildre må være avkrysset i din nettleser, finnes under Avansert i Alternativer for Internett for Internet Explorer, for at tidstabellen skal bli skrevet ut rett.

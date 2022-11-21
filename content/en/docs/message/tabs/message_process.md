@@ -15,7 +15,7 @@ Used for processing messages. Notice the message status. It can be seen both in 
 
 ### Message details
 
-This table provides a brief description of the content and status of the message that will be processed in this page. Click on Arrowclosed.gif to see the rest of the checked categories.
+This table provides a brief description of the content and status of the message that will be processed in this page. Click on {{< onlystaticimg src="/images/Arrowclosed.gif" >}} to see the rest of the checked categories.
 
 ### Choose action
 

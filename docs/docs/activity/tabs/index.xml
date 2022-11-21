@@ -166,7 +166,17 @@
 &lt;p&gt;Aktivitetens navn: Navn på de aktivitetene som er aktive i den valgte perioden. De blå aktivitetsnavnene kan trykkes på og åpner utfylling og resultater for den valgte aktiviteten.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Tidsrom: Det valgte tidsrommet. Bruk ArrowclosedLeft.gif og Arrowclosed.gif for å endre tidsperiode.&lt;/p&gt;
+&lt;p&gt;Tidsrom: Det valgte tidsrommet. Bruk 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/ArrowclosedLeft.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ for å endre tidsperiode.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
@@ -516,7 +526,12 @@
   &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
 
 
- Endre data for denne aktiviteten: Åpner siden endre aktivitet. For periodiske aktiviteter åpner den endre dato isteden om man er på en av periodene som vises når man har trykket på RightArrow.gif ikonet i Fullføres før feltet.&lt;/li&gt;
+ Endre data for denne aktiviteten: Åpner siden endre aktivitet. For periodiske aktiviteter åpner den endre dato isteden om man er på en av periodene som vises når man har trykket på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ ikonet i Fullføres før feltet.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
@@ -833,7 +848,12 @@
   &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
 
 
- Endre data for denne aktiviteten: Åpner siden endre aktivitet. For periodiske aktiviteter åpner den endre dato isteden om man er på en av periodene som vises når man har trykket på RightArrow.gif ikonet i Fullføres før feltet.&lt;/li&gt;
+ Endre data for denne aktiviteten: Åpner siden endre aktivitet. For periodiske aktiviteter åpner den endre dato isteden om man er på en av periodene som vises når man har trykket på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ ikonet i Fullføres før feltet.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;

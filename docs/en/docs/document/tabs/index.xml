@@ -149,7 +149,12 @@
 &lt;/li&gt;
 &lt;li&gt;Document tab: Determines under which tab the document will appear under Info. Mandatory field.&lt;/li&gt;
 &lt;li&gt;Document group: The document&amp;rsquo;s group. Determines in which box the document will appear under Info. Mandatory field.&lt;/li&gt;
-&lt;li&gt;Subdocument of: A subdocument will not be shown under Info, until the document above it is expanded by holding the cursor over the Arrowclosed.gif icon.&lt;/li&gt;
+&lt;li&gt;Subdocument of: A subdocument will not be shown under Info, until the document above it is expanded by holding the cursor over the 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ icon.&lt;/li&gt;
 &lt;li&gt;Public document: If this is checked, the document will be available to everyone and no authentication will be required to open it. Applies only to documents of type &amp;ldquo;Write a document&amp;rdquo;, &amp;ldquo;Link&amp;rdquo; and &amp;ldquo;File&amp;rdquo;.&lt;/li&gt;
 &lt;li&gt;Position: Used only if the alphabetical sorting is turned off. Normally you can ignore this.&lt;/li&gt;
 &lt;/ul&gt;
@@ -416,7 +421,12 @@ Deactivated document groups do not appear under Info and no document can be assi
 
 
 : Create read and understood activity. This opens the New activity page under Activity plan and automatically sets the Activity group, the Activity name, the Attached list, the time period (From - To), the Activity distribution and the attached document. It is possible to use other lists than the default one for Read and understood. If someone wants to use another list as default, they will have to contact QmPlus AS. If you click the Create read and understood activity button of a document that has subdocuments, the subdocuments will also be added to the activity automatically.&lt;/li&gt;
-&lt;li&gt;Turnarrow.gif: Deactivate / Activate document. Deactivates or activates the document depending on whether you are under Documents or Deactivated documents respectively.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deactivate / Activate document. Deactivates or activates the document depending on whether you are under Documents or Deactivated documents respectively.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Link_delete.png&#34;  width=&#34;&#34; /&gt;
@@ -967,7 +977,12 @@ Deactivated document groups do not appear under Info and no document can be assi
 &lt;li&gt;Name: Name of the document for this version.&lt;/li&gt;
 &lt;li&gt;Version: &amp;ldquo;Version number.Edit number&amp;rdquo;. Create a new version when you have made ​​major changes to the document. Must be done manually. The edit number changes whenever you save a change in the document.
 &lt;ul&gt;
-&lt;li&gt;Click RightArrow.gif to show the minor versions.&lt;/li&gt;
+&lt;li&gt;Click 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ to show the minor versions.&lt;/li&gt;
 &lt;li&gt;The version that is published and displayed under Info is marked with a 
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;

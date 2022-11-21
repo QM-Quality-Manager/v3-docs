@@ -31,7 +31,7 @@ description: >
     
 - Dokumentgruppe: Dokumentets gruppe. Bestemmer hvilken boks dokumentet vises i under Info. Obligatorisk.
     
-- Underdokument av: Et underdokument blir ikke vist under Info før dokumentet det ligger under er utvidet ved å holde pekeren over Arrowclosed.gif symbolet.
+- Underdokument av: Et underdokument blir ikke vist under Info før dokumentet det ligger under er utvidet ved å holde pekeren over {{< onlystaticimg src="/images/Arrowclosed.gif" >}} symbolet.
     
 - Offentlig dokument: Hvis krysset av, dokumentet vil være tilgjengelig for alle, ingen autentisering kreves. Vises kun for dokumenter av type "Skriv et dokument", "Link" og "Fil".
     

@@ -25,7 +25,7 @@ Her skal vi gå nærmere inn på oppfølging og behandling av meldinger og saker
 {{< assetlink src="/assets/saksbehandling.pdf" title="pdf" >}}
 
 ### Meldingsdetaljer
-Dette feltet gir en kort beskrivelse av innholdet og statusen til meldingen som blir behandlet i dette bildet. Trykk på Arrowclosed.gif for å se resten av de avkryssede kategoriene.
+Dette feltet gir en kort beskrivelse av innholdet og statusen til meldingen som blir behandlet i dette bildet. Trykk på {{< onlystaticimg src="/images/Arrowclosed.gif" >}} for å se resten av de avkryssede kategoriene.
 
 ### Velg handling
 Nedfallsmeny med farget bakgrunn som betyr at det er her du må gjøre noe hvis du skal komme videre i denne siden. Uansett hvilket valg du gjør i denne nedfallsmenyen vil du kunne krysse av for Send en beskjed om saken for at dialogboksene blir vist og gi deg mulighet til å sende e-post til de som er involvert i saken.

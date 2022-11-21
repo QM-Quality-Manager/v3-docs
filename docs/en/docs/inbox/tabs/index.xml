@@ -216,7 +216,17 @@ Register new message must be pressed first. This opens a list of all active mess
 &lt;/ul&gt;
 &lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;LeftArrow.gif and RightArrow.gif Change page: The arrows are used to change the page when there are more than 20 cases that can be displayed in the table.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Change page: The arrows are used to change the page when there are more than 20 cases that can be displayed in the table.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Sort_down.png&#34;  width=&#34;&#34; /&gt;

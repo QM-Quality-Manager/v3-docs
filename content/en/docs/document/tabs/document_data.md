@@ -25,7 +25,7 @@ description: >
   - Delete. Only active if the document is associated with more than one department. Click on the Delete department icon {{< onlystaticimg src="/images/Delete.png" >}} to delete the association with the specific department.
 - Document tab: Determines under which tab the document will appear under Info. Mandatory field.
 - Document group: The document's group. Determines in which box the document will appear under Info. Mandatory field.
-- Subdocument of: A subdocument will not be shown under Info, until the document above it is expanded by holding the cursor over the Arrowclosed.gif icon.
+- Subdocument of: A subdocument will not be shown under Info, until the document above it is expanded by holding the cursor over the {{< onlystaticimg src="/images/Arrowclosed.gif" >}} icon.
 - Public document: If this is checked, the document will be available to everyone and no authentication will be required to open it. Applies only to documents of type "Write a document", "Link" and "File".
 - Position: Used only if the alphabetical sorting is turned off. Normally you can ignore this.
 
