@@ -795,7 +795,7 @@ Send til saksbehandler dialogen aktivert av denne opsjonen tar med all brukere m
 
 MYPAGE
 
-- SHOWBUTTONS : Bestemmer om det skal være nedfallsmeny eller knapper for å regsitrere ny melding.
+- SHOWBUTTONS : Bestemmer om det skal være nedfallsmeny eller knapper for å registrere ny melding.
   - 0 - Nedfallsmeny
   - 1 - Knapper
 

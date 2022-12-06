@@ -2000,11 +2000,15 @@ Verify = check if it is true, from the Latin &amp;ldquo;Verus&amp;rdquo; = true,
 &lt;ul&gt;
 &lt;li&gt;MESSAGESPRPAGE: number of messages per page&lt;/li&gt;
 &lt;/ul&gt;
+&lt;blockquote&gt;
 &lt;p&gt;Default value 20&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;AUTOMATICPROCESSDELAY: Number of days available for the automatic deadline for processing a case&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;default-value-7&#34;&gt;Default value 7&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 7&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;EARLYCASEPROCESS&lt;/li&gt;
 &lt;/ul&gt;

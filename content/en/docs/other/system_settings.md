@@ -665,12 +665,12 @@ Settings the simplified interface.
 
 - MESSAGESPRPAGE: number of messages per page
 
- Default value 20 
+> Default value 20 
 
 - AUTOMATICPROCESSDELAY: Number of days available for the automatic deadline for processing a case
 
- Default value 7
-  -   
+> Default value 7
+     
 
 - EARLYCASEPROCESS
 

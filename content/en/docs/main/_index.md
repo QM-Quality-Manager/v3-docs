@@ -5,13 +5,6 @@ date: 2017-01-04
 description: >
   A collection of information about main page.
 ---
-# Introduction
-
-Welcome to the documentation for Qm+. All functionality in Qm+ will be documented here. You may either use the links below to go to a specific page, use the Search in the left column or press the Help button in a page in Qm+ when you are uncertain of something.
-
-You can find general information about the system on our homepage: http://www.qmplus.com.
-
-If you have any questions or suggestions, contact us at drift@qmplus.com.
 
 ### Documentation for Managers / Case handlers / Reviewers
 - Navigator

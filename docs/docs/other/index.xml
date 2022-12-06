@@ -1810,7 +1810,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;MYPAGE&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;SHOWBUTTONS : Bestemmer om det skal være nedfallsmeny eller knapper for å regsitrere ny melding.
+&lt;li&gt;SHOWBUTTONS : Bestemmer om det skal være nedfallsmeny eller knapper for å registrere ny melding.
 &lt;ul&gt;
 &lt;li&gt;0 - Nedfallsmeny&lt;/li&gt;
 &lt;li&gt;1 - Knapper&lt;/li&gt;
