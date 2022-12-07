@@ -8,7 +8,7 @@ description: >
 REPORT
 
 - LISTLENGTH: How many lines are shown in the four most common / most expensive tables.
-  - - 1 gives all. -1 turns off the four parts of the heading (four most common / most expensive).
+  - -1 gives all. -1 turns off the four parts of the heading (four most common / most expensive).
 
 > Standardverdi 4
 

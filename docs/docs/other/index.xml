@@ -432,11 +432,7 @@
 &lt;ul&gt;
 &lt;li&gt;LISTLENGTH: How many lines are shown in the four most common / most expensive tables.
 &lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;1 gives all. -1 turns off the four parts of the heading (four most common / most expensive).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;-1 gives all. -1 turns off the four parts of the heading (four most common / most expensive).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
