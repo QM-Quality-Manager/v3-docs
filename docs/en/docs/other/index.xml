@@ -1065,11 +1065,8 @@ Verify = check if it is true, from the Latin &amp;ldquo;Verus&amp;rdquo; = true,
 &lt;p&gt;Default value 1&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;SHOWPRDEPCAT&lt;/li&gt;
+&lt;li&gt;SHOWPRDEPCAT (not in use)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Default value 1&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;h1 id=&#34;faultcaseprocess&#34;&gt;FAULTCASEPROCESS&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;SENDEMAIL (NOT IN USE, replaced by ACTIONCASEPROCESS_SENDEMAIL)

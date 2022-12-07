@@ -5,7 +5,7 @@ date: 2017-01-06
 description: >
   Systeminnstillinger er justerbare elementer som brukes til å gjøre individuelle tilpassninger per kunde. Endringer fra standardversjonen bestilles av kundens kontaktperson mot QmPlus AS. 
 ---
-REPORT
+# REPORT
 
 - LISTLENGTH: How many lines are shown in the four most common / most expensive tables.
   - -1 gives all. -1 turns off the four parts of the heading (four most common / most expensive).
@@ -131,9 +131,7 @@ REPORT
 
 - SHOWPRDEPCAT (Ikke i bruk)
 
-> Standardverdi 1
-
-FAULTCASEPROCESS
+# FAULTCASEPROCESS
 
   - SENDEMAIL (NOT IN USE, replaced by ACTIONCASEPROCESS_SENDEMAIL)
     - 0 - Send epost til saksbehandler ved send avvik til saksbehandler er Standardverdi ikke avvkrysset.
@@ -251,7 +249,7 @@ Standardverdi null (Bruk øverste tilgjenglige avdeling for den aktive brukeren)
 
 > Standardverdi 0.
 
-ACTIONCASEPROCESS
+# ACTIONCASEPROCESS
 
   - SENDEMAIL
     - 0 - Send epost til ansvarlig for utførelse ved tiltakstildeling er Standardverdi ikke avkrysset.
@@ -297,7 +295,7 @@ ACTIONCASEPROCESS
 
  > Standardverdi 0
 
-LOGON
+# LOGON
 
   - TOPSELECTABLELOGONDEPNR
     - -1 - Bruk PRESETLOGONDEPNR.
@@ -349,7 +347,7 @@ LOGON
 
  Default value 0
 
-SETUP
+# SETUP
 
   - GOAL : Folderkontrol
     - 0 - Skjul
@@ -565,7 +563,7 @@ SETUP
 
 > Standardverdi 0
 
-WORKERSETUP
+# WORKERSETUP
 
 Innstillinger for brukertypen medarbeider.
 
@@ -629,7 +627,7 @@ Innstillinger for brukertypen medarbeider.
 
 > Standardverdi 0
 
-FAULT
+# FAULT
 
 - COST: Vis kostnad i meldingssystemet
   - 0 - Skjul
@@ -793,7 +791,7 @@ Send til saksbehandler dialogen aktivert av denne opsjonen tar med all brukere m
 
 > Standardverdi 0
 
-MYPAGE
+# MYPAGE
 
 - SHOWBUTTONS : Bestemmer om det skal være nedfallsmeny eller knapper for å registrere ny melding.
   - 0 - Nedfallsmeny
@@ -817,7 +815,7 @@ MYPAGE
 
 > Standardverdi 0
 
-ACTION
+# ACTION
 
 - MESSAGESPRPAGE: antall meldinger pr side
 
@@ -842,7 +840,7 @@ ACTION
 
 > Standardverdi 0
 
-INFO
+# INFO
 
 - ORDER:
   - 0 - Sorter alfabetisk
@@ -946,7 +944,7 @@ Standardverdi 2
 
 > Standardverdi 0
 
-RISK
+# RISK
 
 - LEVEL1: Laveste risikotall med gul advarsel
 
@@ -956,7 +954,7 @@ RISK
 
 > Standardverdi 15
 
-LIST
+# LIST
 
 - ANONYMOUSPARTICIPATIONLIMIT : Antall svar som må være registrert før en graf for en anonym aktivitet kan vises
     - 0 - Grafen vises uansett antall svar
@@ -1009,7 +1007,7 @@ Standardverdi for span 2
 
 > Standardverdi 1
 
-CALENDAR
+# CALENDAR
 
 - ADDCHILDACTIVITY : Ha muligheten til å lage underaktiviteter til aktiviteter i Aktivitetsplan. Underaktiviteter fungerer som vanlige aktiviteter, men de sorterer under hovedaktiviteten.
   - 0 - Deaktivert
@@ -1042,7 +1040,7 @@ CALENDAR_EXCHANGE_INTEGRATION : Styrer om feltene som indikerer mulig Exchange i
 
 > Standardverdi 0
 
-WARNING
+# WARNING
 
 - CASEPROCESSORWARNING: Send epost til bruker som har meldinger eller tiltak der tidsfristen er gått ut. Det sendes 1 epost per bruker. Denne epostmeldingen inneholder lenker til alle meldingene, tiltakene og varsler for dokumenter som skal revideres brukeren er ansvarlig for, hvor fristen er gått ut.
   - 0 - Deaktivert
@@ -1069,7 +1067,7 @@ WARNING
 
 > Standardverdi 0
 
-MAIL
+# MAIL
 
 - INCLUDEAPPDATA : Styrer om applikasjonsdata feltet i epost er med eller ikke. Bør bare være på for kunder med epostservere som ikke støtter "In-Reply-to" feltet i epost hodet.
   - 0 - Av
@@ -1095,7 +1093,7 @@ Standardverdi  0
 
 > Standardverdi 1
 
-DOCUMENTS
+# DOCUMENTS
 
 - CUSTOMHEADING : Styrer om virksomheten bruker egendefinert dokumenthode.
   - 0 - Av
@@ -1176,7 +1174,13 @@ Span feltet kan brukes til å gi et avdelingsnummer der begrensningen starter.
 > Standardverdi 10 MB
 
 
-LDAP
+# FACILIT
+
+- ACTIONMODE
+
+- DEMANDROLE
+
+# LDAP
 
 - LDAPINTEGRATION_ACTIVE : Determines if the night job runs LDAP synchronisation for this customer
   - 0 - Off

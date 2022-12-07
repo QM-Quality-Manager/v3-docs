@@ -428,7 +428,7 @@
       <description>
         
         
-        &lt;p&gt;REPORT&lt;/p&gt;
+        &lt;h1 id=&#34;report&#34;&gt;REPORT&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;LISTLENGTH: How many lines are shown in the four most common / most expensive tables.
 &lt;ul&gt;
@@ -653,10 +653,7 @@
 &lt;ul&gt;
 &lt;li&gt;SHOWPRDEPCAT (Ikke i bruk)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Standardverdi 1&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;FAULTCASEPROCESS&lt;/p&gt;
+&lt;h1 id=&#34;faultcaseprocess&#34;&gt;FAULTCASEPROCESS&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;SENDEMAIL (NOT IN USE, replaced by ACTIONCASEPROCESS_SENDEMAIL)
 &lt;ul&gt;
@@ -863,7 +860,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;ACTIONCASEPROCESS&lt;/p&gt;
+&lt;h1 id=&#34;actioncaseprocess&#34;&gt;ACTIONCASEPROCESS&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;SENDEMAIL
 &lt;ul&gt;
@@ -939,7 +936,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;LOGON&lt;/p&gt;
+&lt;h1 id=&#34;logon&#34;&gt;LOGON&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;TOPSELECTABLELOGONDEPNR
 &lt;ul&gt;
@@ -1015,7 +1012,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Default value 0&lt;/p&gt;
-&lt;p&gt;SETUP&lt;/p&gt;
+&lt;h1 id=&#34;setup&#34;&gt;SETUP&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;GOAL : Folderkontrol
 &lt;ul&gt;
@@ -1402,7 +1399,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;WORKERSETUP&lt;/p&gt;
+&lt;h1 id=&#34;workersetup&#34;&gt;WORKERSETUP&lt;/h1&gt;
 &lt;p&gt;Innstillinger for brukertypen medarbeider.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;GOAL: Folderkontrol
@@ -1514,7 +1511,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;FAULT&lt;/p&gt;
+&lt;h1 id=&#34;fault&#34;&gt;FAULT&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;COST: Vis kostnad i meldingssystemet
 &lt;ul&gt;
@@ -1804,7 +1801,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;MYPAGE&lt;/p&gt;
+&lt;h1 id=&#34;mypage&#34;&gt;MYPAGE&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;SHOWBUTTONS : Bestemmer om det skal være nedfallsmeny eller knapper for å registrere ny melding.
 &lt;ul&gt;
@@ -1844,7 +1841,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;ACTION&lt;/p&gt;
+&lt;h1 id=&#34;action&#34;&gt;ACTION&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;MESSAGESPRPAGE: antall meldinger pr side&lt;/li&gt;
 &lt;/ul&gt;
@@ -1883,7 +1880,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;INFO&lt;/p&gt;
+&lt;h1 id=&#34;info&#34;&gt;INFO&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;ORDER:
 &lt;ul&gt;
@@ -2069,7 +2066,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;RISK&lt;/p&gt;
+&lt;h1 id=&#34;risk&#34;&gt;RISK&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;LEVEL1: Laveste risikotall med gul advarsel&lt;/li&gt;
 &lt;/ul&gt;
@@ -2080,7 +2077,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 15&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;LIST&lt;/p&gt;
+&lt;h1 id=&#34;list&#34;&gt;LIST&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;ANONYMOUSPARTICIPATIONLIMIT : Antall svar som må være registrert før en graf for en anonym aktivitet kan vises
 &lt;ul&gt;
@@ -2167,7 +2164,7 @@ Standardverdi for span 2&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 1&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;CALENDAR&lt;/p&gt;
+&lt;h1 id=&#34;calendar&#34;&gt;CALENDAR&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;ADDCHILDACTIVITY : Ha muligheten til å lage underaktiviteter til aktiviteter i Aktivitetsplan. Underaktiviteter fungerer som vanlige aktiviteter, men de sorterer under hovedaktiviteten.
 &lt;ul&gt;
@@ -2220,7 +2217,7 @@ Standardverdi for span 2&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;WARNING&lt;/p&gt;
+&lt;h1 id=&#34;warning&#34;&gt;WARNING&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;CASEPROCESSORWARNING: Send epost til bruker som har meldinger eller tiltak der tidsfristen er gått ut. Det sendes 1 epost per bruker. Denne epostmeldingen inneholder lenker til alle meldingene, tiltakene og varsler for dokumenter som skal revideres brukeren er ansvarlig for, hvor fristen er gått ut.
 &lt;ul&gt;
@@ -2261,7 +2258,7 @@ Standardverdi for span 2&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;MAIL&lt;/p&gt;
+&lt;h1 id=&#34;mail&#34;&gt;MAIL&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;INCLUDEAPPDATA : Styrer om applikasjonsdata feltet i epost er med eller ikke. Bør bare være på for kunder med epostservere som ikke støtter &amp;ldquo;In-Reply-to&amp;rdquo; feltet i epost hodet.
 &lt;ul&gt;
@@ -2304,7 +2301,7 @@ Standardverdi for span 2&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 1&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;DOCUMENTS&lt;/p&gt;
+&lt;h1 id=&#34;documents&#34;&gt;DOCUMENTS&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;CUSTOMHEADING : Styrer om virksomheten bruker egendefinert dokumenthode.
 &lt;ul&gt;
@@ -2444,7 +2441,16 @@ Standardverdi for span 2&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Standardverdi 10 MB&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;LDAP&lt;/p&gt;
+&lt;h1 id=&#34;facilit&#34;&gt;FACILIT&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ACTIONMODE&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DEMANDROLE&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ldap&#34;&gt;LDAP&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;LDAPINTEGRATION_ACTIVE : Determines if the night job runs LDAP synchronisation for this customer
 &lt;ul&gt;

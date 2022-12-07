@@ -128,9 +128,8 @@ description: >
 
  > Default value 1
 
-- SHOWPRDEPCAT
+- SHOWPRDEPCAT (not in use)
 
- > Default value 1
 
 # FAULTCASEPROCESS
 
