@@ -21,4 +21,4 @@ Tabellen har en rad per Versjon (Hovedversjon) dokumentet har vært gjennom.
 - Opprettet: Tidspunktet den aktuelle versjonen ble opprettet.
 - Sist endret av: Brukeren som sist endret dokumentet.
 - Sist endret: Når ble siste endring utført.
-- Sammenlign:
+- Sammenlign: Du kan velge hvilke som helst 2 versjoner fra tabellen. Når du deretter klikker på Sammenlign versjoner-knappen, vil du kunne se teksten eller HTML-forskjellene mellom de to versjonene. Bruk knappen Sammenlign som HTML / Sammenlign som tekst for å bytte modus for sammenligningsvisning. Elementer som er lagt til er uthevet med grønt, mens fjernede elementer er uthevet med rødt og en gjennomstreket linje. Funksjonen fungerer kun for dokumenter skrevet i Qm+-editoren.

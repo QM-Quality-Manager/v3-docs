@@ -1077,7 +1077,7 @@ Endre en fase&lt;/p&gt;
 &lt;li&gt;Opprettet: Tidspunktet den aktuelle versjonen ble opprettet.&lt;/li&gt;
 &lt;li&gt;Sist endret av: Brukeren som sist endret dokumentet.&lt;/li&gt;
 &lt;li&gt;Sist endret: Når ble siste endring utført.&lt;/li&gt;
-&lt;li&gt;Sammenlign:&lt;/li&gt;
+&lt;li&gt;Sammenlign: Du kan velge hvilke som helst 2 versjoner fra tabellen. Når du deretter klikker på Sammenlign versjoner-knappen, vil du kunne se teksten eller HTML-forskjellene mellom de to versjonene. Bruk knappen Sammenlign som HTML / Sammenlign som tekst for å bytte modus for sammenligningsvisning. Elementer som er lagt til er uthevet med grønt, mens fjernede elementer er uthevet med rødt og en gjennomstreket linje. Funksjonen fungerer kun for dokumenter skrevet i Qm+-editoren.&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
