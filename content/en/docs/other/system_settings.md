@@ -1104,6 +1104,12 @@ CALENDAR_EXCHANGE_INTEGRATION : Controls if the fields that indicate the possibl
 
 > Default value 0
 
+- CUSTOMHEADINGFIELDS : Controls the function for customer specific document heading fields. The fields must additionally be coded into the customer database for this function to work.
+  - 0 - Off
+  - 1 - On
+
+> Default value 0
+
 - AUTO_PUBLISH : Controls if documents need to be published before they can appear under Info.
   - 0 - Off
   - 1 - On
@@ -1117,12 +1123,6 @@ CALENDAR_EXCHANGE_INTEGRATION : Controls if the fields that indicate the possibl
 > Default value 0
 
 - DOCUMENTS_EDITOR_MANUAL_STYLE_OPTIONS : Controls if the user has the options in the editor to adjust font and font size.
-  - 0 - Off
-  - 1 - On
-
-> Default value 0
-
-- CUSTOMHEADINGFIELDS : Controls the function for customer specific document heading fields. The fields must additionally be coded into the customer database for this function to work.
   - 0 - Off
   - 1 - On
 

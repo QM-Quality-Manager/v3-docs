@@ -1101,6 +1101,12 @@ Standardverdi  0
 
 > Standardverdi 0
 
+- CUSTOMHEADINGFIELDS : Styrer funksjonen for kundespesifike dokumenthodefelt. Feltene må i tillegg kodes inn i kundens database for at dennefunksjonen skal virke.
+  - 0 - Av
+  - 1 - På
+
+> Standardverdi 0
+
 - AUTO_PUBLISH : Styrer om virksomhetens dokumenter trenger publisering før de er synlige under Info.
   - 0 - Av
   - 1 - På
@@ -1114,12 +1120,6 @@ Standardverdi  0
 > Standardverdi 0
 
 - DOCUMENTS_EDITOR_MANUAL_STYLE_OPTIONS : Styrer om brukeren har opsjonene for å justere font og font størrelse manuelt aktivert.
-  - 0 - Av
-  - 1 - På
-
-> Standardverdi 0
-
-- CUSTOMHEADINGFIELDS : Styrer funksjonen for kundespesifike dokumenthodefelt. Feltene må i tillegg kodes inn i kundens database for at dennefunksjonen skal virke.
   - 0 - Av
   - 1 - På
 

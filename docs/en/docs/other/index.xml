@@ -2718,6 +2718,17 @@ Default value span 2&lt;/p&gt;
 &lt;p&gt;Default value 0&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
+&lt;li&gt;CUSTOMHEADINGFIELDS : Controls the function for customer specific document heading fields. The fields must additionally be coded into the customer database for this function to work.
+&lt;ul&gt;
+&lt;li&gt;0 - Off&lt;/li&gt;
+&lt;li&gt;1 - On&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Default value 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
 &lt;li&gt;AUTO_PUBLISH : Controls if documents need to be published before they can appear under Info.
 &lt;ul&gt;
 &lt;li&gt;0 - Off&lt;/li&gt;
@@ -2741,17 +2752,6 @@ Default value span 2&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;DOCUMENTS_EDITOR_MANUAL_STYLE_OPTIONS : Controls if the user has the options in the editor to adjust font and font size.
-&lt;ul&gt;
-&lt;li&gt;0 - Off&lt;/li&gt;
-&lt;li&gt;1 - On&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Default value 0&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;CUSTOMHEADINGFIELDS : Controls the function for customer specific document heading fields. The fields must additionally be coded into the customer database for this function to work.
 &lt;ul&gt;
 &lt;li&gt;0 - Off&lt;/li&gt;
 &lt;li&gt;1 - On&lt;/li&gt;

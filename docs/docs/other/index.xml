@@ -2314,6 +2314,17 @@ Standardverdi for span 2&lt;/p&gt;
 &lt;p&gt;Standardverdi 0&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
+&lt;li&gt;CUSTOMHEADINGFIELDS : Styrer funksjonen for kundespesifike dokumenthodefelt. Feltene må i tillegg kodes inn i kundens database for at dennefunksjonen skal virke.
+&lt;ul&gt;
+&lt;li&gt;0 - Av&lt;/li&gt;
+&lt;li&gt;1 - På&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Standardverdi 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
 &lt;li&gt;AUTO_PUBLISH : Styrer om virksomhetens dokumenter trenger publisering før de er synlige under Info.
 &lt;ul&gt;
 &lt;li&gt;0 - Av&lt;/li&gt;
@@ -2337,17 +2348,6 @@ Standardverdi for span 2&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;DOCUMENTS_EDITOR_MANUAL_STYLE_OPTIONS : Styrer om brukeren har opsjonene for å justere font og font størrelse manuelt aktivert.
-&lt;ul&gt;
-&lt;li&gt;0 - Av&lt;/li&gt;
-&lt;li&gt;1 - På&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Standardverdi 0&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;CUSTOMHEADINGFIELDS : Styrer funksjonen for kundespesifike dokumenthodefelt. Feltene må i tillegg kodes inn i kundens database for at dennefunksjonen skal virke.
 &lt;ul&gt;
 &lt;li&gt;0 - Av&lt;/li&gt;
 &lt;li&gt;1 - På&lt;/li&gt;
