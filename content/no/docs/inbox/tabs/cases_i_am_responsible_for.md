@@ -3,7 +3,7 @@ title: "Saker jeg er ansvarlig for"
 linkTitle: "Saker jeg er ansvarlig for"
 date: 2017-01-06
 description: >
-  Saker jeg er ansvarlig for er en arkfane under {{< onlystaticimg src="/images/Table_edit.png" >}} Innboks
+  Saker jeg er ansvarlig for er en arkfane under Innboks
 ---
 Saker jeg er ansvarlig for viser saker den påloggede brukeren skal jobbe med, uavhengig av avdeling valgt i navigatoren. Arkfanen vises ikke dersom brukeren hverken kan behandle meldinger, utføre tiltak, delta i høringer eller gjennomføre revisjoner.
 
