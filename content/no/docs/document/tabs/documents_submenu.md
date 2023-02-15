@@ -56,5 +56,6 @@ Ikoner brukt til å symbolisere ulike dokumenttyper
 - {{< onlystaticimg src="/images/Tag_blue_edit.png" >}}: Ute på høring.
 - {{< onlystaticimg src="/images/Tick.png" >}}: Ok.
 - {{< onlystaticimg src="/images/Error.png" >}}: Indekseringsfeil. Dette kan skyldes at dokumentet ikke er tilgjenglig eller er på et format som vår indekseringsmotor ikke har klart å tyde. Det kan skje at også normale formater som pdf og word feiler. Dersom lenken åpner dokumentet korekt, betyr dette kun at dokumentet ikke vil gi treff utover dokumenttittelen, dersom man gjør fritekstsøk under Info. Lenker til intranettsider eller andre sider søkemotoren ikke når frem til, vil alltid få indekseringsfeil.
+Merk: Symbolet § i en lenke gjenkjennes ofte ikke av søkemotoren, noe som fører til en indekseringsfeil. Vi foreslår at du erstatter den med den tilsvarende HTML-koden, som er %C2%A7.
 - {{< onlystaticimg src="/images/Exclamation.png" >}}: Dokumentet har nyere upublisert / eksisterende publisert versjon.
 - {{< onlystaticimg src="/images/Date.png" >}}: Gir informasjon om siste Lest og forstått aktivitet for dokumentet.

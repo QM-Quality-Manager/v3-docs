@@ -59,5 +59,6 @@ Icons are used to symbolize different types of documents:
 - {{< onlystaticimg src="/images/Tag_blue_edit.png" >}}: On hearing.
 - {{< onlystaticimg src="/images/Tick.png" >}}: Ok.
 - {{< onlystaticimg src="/images/Error.png" >}}: Indexing error. This may mean that the document is not available or is in a format that our indexing engine has not been able to decipher. It may happen that even normal formats like .pdf and .doc fail. If the link opens the document correctly, the error only means that the document will not appear in any search results if you do a free text search under Info. Links to intranet pages or other sites that the search engine has no access to, will always give indexing errors.
+Note: The symbol § in a link is often not recognised by the search engine, which leads to an indexing error. We suggest replacing it with its equivalent HTML code, which is %C2%A7. 
 - {{< onlystaticimg src="/images/Exclamation.png" >}}: The document has a newer unpublished / existing published version.
 - {{< onlystaticimg src="/images/Date.png" >}}: The document is part of a Read and understood activity. If you leave the cursor over the icon, you will see a popup with information about the last Read and understood activity for the document.
