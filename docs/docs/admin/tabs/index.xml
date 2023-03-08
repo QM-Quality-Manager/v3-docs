@@ -602,6 +602,7 @@
 &lt;li&gt;Eksempel 2: Brukerne Bård Kjekk og Anne Tøff varsles med e-post hver gang det registreres en melding med skjema HMS-Skjema og kategori Brannsikring fra og med avdeling Oppvekst og omsorg.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I gjeldende versjon, kan regler bare lages og endres av brukere som har systemrollen Innholdsadministrator eller Regeladministrator.&lt;/p&gt;
+&lt;p&gt;Vær oppmerksom på at deaktiverte brukere, avdelinger, skjemaer eller kategorier er merket med &amp;ldquo;DEAKTIVERT&amp;rdquo;. Disse reglene vil åpenbart ikke være gyldige. De slettes imidlertid ikke automatisk i tilfelle de deaktiverte brukerne eller avdelingene må erstattes med en annen. Brukerne som er ansvarlige for å lage regler bør gå gjennom dem av og til for å rydde opp.&lt;/p&gt;
 &lt;h3 id=&#34;regeltyper&#34;&gt;Regeltyper&lt;/h3&gt;
 &lt;p&gt;Det er i gjeldende versjon 8 ulike regeltyper:&lt;/p&gt;
 &lt;h4 id=&#34;ekstra-saksbehandlere&#34;&gt;Ekstra saksbehandlere&lt;/h4&gt;

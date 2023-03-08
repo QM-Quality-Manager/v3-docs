@@ -419,6 +419,7 @@ The &amp;ldquo;Edit&amp;rdquo;-column on the right side of the table has two mai
 &lt;li&gt;Example 2: Users B and C will receive an email whenever a message is registered using the HES-form, has the category Fire safety selected and has been registered on the Technical department.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In the current version, rules can only be created or modified by users with a user type that has the system role content administrator or rule administrator.&lt;/p&gt;
+&lt;p&gt;Please note that deactivated users, departments, forms or categories are marked with &amp;ldquo;DEAKTIVATED&amp;rdquo;. These rules will obviously not be valid. They are not automatically deleted though, in case the deactivated users or departments need to be replaced with another. The users responsible for creating rules should go through them occasionally for some clean-up.&lt;/p&gt;
 &lt;h3 id=&#34;rule-types-reactions&#34;&gt;Rule types (Reactions)&lt;/h3&gt;
 &lt;p&gt;In the current version, there are 8 different predefined Rule types:&lt;/p&gt;
 &lt;h4 id=&#34;additional-case-handlers&#34;&gt;Additional case handlers&lt;/h4&gt;

@@ -14,6 +14,8 @@ I gjeldende versjon, kan brukere, skjemaer, kategorier, avdelinger og i noen til
 
 I gjeldende versjon, kan regler bare lages og endres av brukere som har systemrollen Innholdsadministrator eller Regeladministrator. 
 
+Vær oppmerksom på at deaktiverte brukere, avdelinger, skjemaer eller kategorier er merket med "DEAKTIVERT". Disse reglene vil åpenbart ikke være gyldige. De slettes imidlertid ikke automatisk i tilfelle de deaktiverte brukerne eller avdelingene må erstattes med en annen. Brukerne som er ansvarlige for å lage regler bør gå gjennom dem av og til for å rydde opp.
+
 ### Regeltyper
 
 Det er i gjeldende versjon 8 ulike regeltyper:

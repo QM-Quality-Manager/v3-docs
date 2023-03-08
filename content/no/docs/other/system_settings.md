@@ -210,7 +210,7 @@ description: >
     - X - Kun avdelinger under dette avdelingsnummeret kan brukes
   - Alle andre verdier, "Alle" valget tilgjengelig. Bruk verdien som avdelingsnummer, f.eks 1 for at alle skal kunne velge alle.
 
-Standardverdi null (Bruk øverste tilgjenglige avdeling for den aktive brukeren).
+Standardverdi null (Bruk øverste tilgjengelige avdeling for den aktive brukeren).
 
 
 - INFOROLESETUP : Justerer øverste avdeling å hente brukere fra for rollevalgene i Informer flere
@@ -663,7 +663,7 @@ Innstillinger for brukertypen medarbeider.
 
 > Standardverdi 20 
 
-- AUTOMATICPROCESSDELAY: Antall dager tilgjenglig ved automatisk frist for saksbehandling
+- AUTOMATICPROCESSDELAY: Antall dager tilgjengelig ved automatisk frist for saksbehandling
 
 > Standardverdi 7
     -   

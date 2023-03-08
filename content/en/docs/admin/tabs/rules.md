@@ -14,6 +14,8 @@ At the moment, such criteria can be specific users, forms, categories, departmen
 
 In the current version, rules can only be created or modified by users with a user type that has the system role content administrator or rule administrator.
 
+Please note that deactivated users, departments, forms or categories are marked with "DEAKTIVATED". These rules will obviously not be valid. They are not automatically deleted though, in case the deactivated users or departments need to be replaced with another. The users responsible for creating rules should go through them occasionally for some clean-up.
+
 ### Rule types (Reactions)
 
 In the current version, there are 8 different predefined Rule types:

@@ -795,7 +795,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Standardverdi null (Bruk øverste tilgjenglige avdeling for den aktive brukeren).&lt;/p&gt;
+&lt;p&gt;Standardverdi null (Bruk øverste tilgjengelige avdeling for den aktive brukeren).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;INFOROLESETUP : Justerer øverste avdeling å hente brukere fra for rollevalgene i Informer flere
 &lt;ul&gt;
@@ -1574,7 +1574,7 @@
 &lt;p&gt;Standardverdi 20&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;AUTOMATICPROCESSDELAY: Antall dager tilgjenglig ved automatisk frist for saksbehandling&lt;/li&gt;
+&lt;li&gt;AUTOMATICPROCESSDELAY: Antall dager tilgjengelig ved automatisk frist for saksbehandling&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;table&gt;
