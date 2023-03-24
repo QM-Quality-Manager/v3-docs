@@ -711,8 +711,9 @@ The Send to case handler dialogue that is enabled by this option includes all us
 > Default value 0
 
 - SEARCHDATE : Sets what will be the default "From" date on the search page
-  - 0 - One year
+  - 0 - One year ago
   - 1 - 01.01.00
+  - 2 - 01.01.[current year]
 
 > Default value 0
 

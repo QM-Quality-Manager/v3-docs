@@ -708,8 +708,9 @@ Send til saksbehandler dialogen aktivert av denne opsjonen tar med all brukere m
 > Standardverdi 0
 
 - SEARCHDATE : Setter hva som skal være standard fra dato på søkesiden
-  - 0 - Et år
+  - 0 - Et år siden
   - 1 - 01.01.00
+  - 2 - 01.01.[inneværende år]
 
 > Standardverdi 0
 

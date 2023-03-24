@@ -2068,8 +2068,9 @@ Verify = check if it is true, from the Latin &amp;ldquo;Verus&amp;rdquo; = true,
 &lt;ul&gt;
 &lt;li&gt;SEARCHDATE : Sets what will be the default &amp;ldquo;From&amp;rdquo; date on the search page
 &lt;ul&gt;
-&lt;li&gt;0 - One year&lt;/li&gt;
+&lt;li&gt;0 - One year ago&lt;/li&gt;
 &lt;li&gt;1 - 01.01.00&lt;/li&gt;
+&lt;li&gt;2 - 01.01.[current year]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

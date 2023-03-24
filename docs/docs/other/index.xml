@@ -1651,8 +1651,9 @@
 &lt;ul&gt;
 &lt;li&gt;SEARCHDATE : Setter hva som skal være standard fra dato på søkesiden
 &lt;ul&gt;
-&lt;li&gt;0 - Et år&lt;/li&gt;
+&lt;li&gt;0 - Et år siden&lt;/li&gt;
 &lt;li&gt;1 - 01.01.00&lt;/li&gt;
+&lt;li&gt;2 - 01.01.[inneværende år]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
