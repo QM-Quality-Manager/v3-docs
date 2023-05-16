@@ -298,7 +298,7 @@
 
  ikonet til høyre for dokumentnavnet.&lt;/p&gt;
 &lt;p&gt;Deaktiverte dokumenter vises ikke i Info og kan ikke tilordnes lister, meldingsskjemaer eller aktiviteter. Allerede tilordnede dokumenter vil fremdeles bli vist der selv om de er deaktivert. Tilordnede dokumenter kan ikke slettes. Upubliserte dokumenter vises heller ikke under Info. Dersom et dokument har en publisert versjon og en nyere upublisert versjon, vil den publiserte versjonen være synlig under Info.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s2-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes2hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 
@@ -805,7 +805,7 @@ Merk: Symbolet § i en lenke gjenkjennes ofte ikke av søkemotoren, noe som før
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-interaktiv-opplæring&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-interaktiv-opplæring&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
 
@@ -841,7 +841,7 @@ Merk: Symbolet § i en lenke gjenkjennes ofte ikke av søkemotoren, noe som før
 
  Språkinnstillinger&lt;/p&gt;
 &lt;p&gt;Her vises språkene som er tilgjengelig i din virksomhet. Kryss av for de språkene du ønsker prosesskartet skal være tilgjenglig i og gi det navn i alle språkene. Språkene du velger her vil gjelde for hele prosesskartet.&lt;/p&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s4-hbhb-velg-ansvarskoder-for-prosessen&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes4hbhb-velg-ansvarskoder-for-prosessen&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Group_gear.png&#34;  width=&#34;&#34; /&gt;
 
@@ -856,7 +856,7 @@ Merk: Symbolet § i en lenke gjenkjennes ofte ikke av søkemotoren, noe som før
 &lt;h4 id=&#34;sett-standard-attributt-type&#34;&gt;Sett standard attributt type&lt;/h4&gt;
 &lt;p&gt;Her får du en liste med de tilgjengelige attributtypene. Det du velger her vil være forhåndsvalgt hver gang du legger til en ansvarlig eller et attributt av typen Objekt til en fase. Om du ikke velger noe her, vil typen øverst i listen være forhåndsvalgt. Denne operasjonen er kun ment for å spare arbeid senere og har ingen effekt utover dette.
 Endre en fase&lt;/p&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s6-hbhb-legg-til-steg&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes6hbhb-legg-til-steg&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Stepimage.png&#34;  width=&#34;&#34; /&gt;
 
@@ -864,14 +864,14 @@ Endre en fase&lt;/p&gt;
  Legg til steg&lt;/h4&gt;
 &lt;p&gt;Her kan du legge inn navnet på steget i alle språkene du valgte i Språkinnstillinger tidligere. Du kan også legge inn posisjon, som viser hvor i rekkefølgen dette steget kommer. Denne knappen er kun synlig om det ikke er laget noen faser av typen oppgave på dette nivået.&lt;/p&gt;
 &lt;p&gt;Merk: Som standard settes prosessen opp med 4 hovedsteg. Du kan lage flere av dem om du bruker denne knappen når prosessnavnet er valgt i treet, eller du høyreklikker på denne. Hvis prosessen din skal bestå av oppgaver istedet for steg, så må du slette de eksisterende stegene. Det gjør du ved å høyreklikke på et steg i treet og velge Slett. Når alle stegene er slette, vil muligheten for å legge til oppgaver bli synlig.&lt;/p&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s7-hbhb-legg-til-oppgave&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes7hbhb-legg-til-oppgave&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Taskimage.png&#34;  width=&#34;&#34; /&gt;
 
 
  Legg til oppgave&lt;/h4&gt;
 &lt;p&gt;Her kan du legge inn navnet på steget i alle språkene du valgte i Språkinnstillinger tidligere. Du kan også velge posisjon, som kun vil påvirke hvor oppgaven vil vises i trestrukturen under den overliggende fasen. Denne knappen er kun synlig om det ikke er laget noen faser av typen steg på dette nivået.&lt;/p&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s8-hbhb-importer-prosesskart&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes8hbhb-importer-prosesskart&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
 

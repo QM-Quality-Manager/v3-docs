@@ -1060,7 +1060,7 @@ CALENDAR_EXCHANGE_INTEGRATION : Controls if the fields that indicate the possibl
 - ESCALATION_DAYS : Determines whether cases are escalated after exceeding deadlines. The value of the option determines how many days over the period allowed before the case is escalated. The escalation is performed by the night job. When a message is escalated, the message's case handler changes to be the first user the routine meets in a search for users with the System Role Default message receiver in the parent department. If there is no match in the first parent department, its parent is tried until eventually the top of the organization is reached. So, in detail: Upon escalation, it is checked whether the current case handler has the role Default message receiver (the user type Manager is the only one that has it in the standard version). If the current case handler does not have this role, the message is sent to the first user the system finds in the same department (normally the user's manager) who has it. If the current case handler has this role, the message is sent to the first user the system finds in the department above which satisfies the requirement (the manager's manager).
 
   - 0 - Deactivated
-  - 1 -> Number of days before the escalation happens. Span field can be used to define the days allowed to the new case handler, by moving the due date of the case this number of days ahead.
+  - 1 -> Number of days before the escalation happens. Span field can be used to define the days allowed to the new case handler, by moving the due date of the case ahead by this number of days.
 
 > Default value 0
 

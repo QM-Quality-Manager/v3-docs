@@ -1056,9 +1056,9 @@ CALENDAR_EXCHANGE_INTEGRATION : Styrer om feltene som indikerer mulig Exchange i
 
 > Standardverdi 0
 
-- ESCALATION_DAYS : Bestemmer om saker eskaleres etter å ha gått over frist. Verdien av opsjonen bestemmer hvor mange dager over fristen som må til før saken eskaleres. Eskaleringen utføres av nattjobben. Når en melding eskaleres, endres meldingens saksbehandler til å være første bruker rutinen møter på i et søk etter brukere med Systemrollen Standard meldingsmottaker i overliggende avdeling. Er det ikke treff i første overliggende avdeling, forsøkes neste nivå, inntil eventuelt toppen av organisasjonen nås. Span field can be used to define the days allowed to the new case handler, by moving the due date of the case ahead by this number of days.
+- ESCALATION_DAYS : Bestemmer om saker eskaleres etter å ha gått over frist. Verdien av opsjonen bestemmer hvor mange dager over fristen som må til før saken eskaleres. Eskaleringen utføres av nattjobben. Når en melding eskaleres, endres meldingens saksbehandler til å være første bruker rutinen møter på i et søk etter brukere med Systemrollen Standard meldingsmottaker i overliggende avdeling. Er det ikke treff i første overliggende avdeling, forsøkes neste nivå, inntil eventuelt toppen av organisasjonen nås.
   - 0 - Deaktivert
-  - 1 -> Antall dager før eskalering inntreffer. Span field can be used to define the days allowed to the new case handler, by moving the due date of the case this number of days ahead.
+  - 1 -> Antall dager før eskalering inntreffer. Span field can be used to define the days allowed to the new case handler, by moving the due date of the case ahead by this number of days.
 
 > Standardverdi 0
 

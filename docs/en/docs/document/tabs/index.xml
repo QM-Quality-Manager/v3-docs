@@ -311,7 +311,7 @@ Deactivated document groups do not appear under Info and no document can be assi
 
  icon on the right of the document name.&lt;/p&gt;
 &lt;p&gt;Deactivated documents do not appear under Info and cannot be attached to lists, message forms or activities. Already attached documents will still be shown there even if they are deactivated. Attached documents can not be deleted. Unpublished documents are not shown under Info either. If a document has both a published and a newer unpublished version, the published version will be displayed under Info.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s1-hbhb-what-can-i-do-here&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes1hbhb-what-can-i-do-here&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 
@@ -594,14 +594,14 @@ Note: The symbol § in a link is often not recognised by the search engine, whic
 &lt;h3 id=&#34;how-to-set-up-a-process-chart&#34;&gt;How to set up a process chart&lt;/h3&gt;
 &lt;p&gt;After you have created a new document of type Process chart and filled in the related data in the Document data tab, you should click Save. That makes the Process chart setup tab appear. When you first click on the Process chart setup tab, the system automatically creates a process with the same name as the newly created document and 4 main steps. You can see that in the left part of the page in a Tree structure. Every time you click on a phase in the Tree, the page on the right is updated with the options related to the phase you selected in the Tree. You can also right click on a phase in the tree to get the same or (sometimes) additional options.&lt;/p&gt;
 &lt;h3 id=&#34;editing-the-main-process&#34;&gt;Editing the main process&lt;/h3&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s0-hbhb-language-settings&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes0hbhb-language-settings&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Keyboard.png&#34;  width=&#34;&#34; /&gt;
 
 
  Language settings&lt;/h4&gt;
 &lt;p&gt;Here you can see a list with the available languages for your company. You should select in which of those the process chart will be available, and give the process name in all of them. The languages you select here will apply to the whole process chart. By default, the default language of the company and the current user&amp;rsquo;s language will be preselected.&lt;/p&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s1-hbhb-configure-responsibilities&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes1hbhb-configure-responsibilities&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Group_gear.png&#34;  width=&#34;&#34; /&gt;
 
@@ -635,7 +635,7 @@ Note: The symbol § in a link is often not recognised by the search engine, whic
 
  icon respectively.&lt;/p&gt;
 &lt;h3 id=&#34;editing-a-phase&#34;&gt;Editing a phase&lt;/h3&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s6-hbhb-add-step&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes6hbhb-add-step&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Stepimage.png&#34;  width=&#34;&#34; /&gt;
 
@@ -643,35 +643,35 @@ Note: The symbol § in a link is often not recognised by the search engine, whic
  Add step&lt;/h4&gt;
 &lt;p&gt;Here you are required to write the name of the step in all the languages you selected in the Language settings window earlier. You can also select the position, which is the order in which this step needs to be done within its parent phase. This button appears when the selected phase has no children of type task.&lt;/p&gt;
 &lt;p&gt;Please note: By default, the main process has 4 main steps to which you can add more if you wish by clicking on this button. If your process is to be comprised of tasks instead of steps, you will need to delete the default steps one by one by right clicking on their names on the tree and selecting Delete from the available options. Then the Add task button will also appear.&lt;/p&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s7-hbhb-add-task&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes7hbhb-add-task&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Taskimage.png&#34;  width=&#34;&#34; /&gt;
 
 
  Add task&lt;/h4&gt;
 &lt;p&gt;This button appears when the selected phase has no children of type step. Here you are required to write the name of the task in all the languages you selected in the Language settings window earlier. You can also select the position, which will only affect where this task will be shown in the tree structure underneath its parent phase.&lt;/p&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s8-hbhb-convert-to-step&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes8hbhb-convert-to-step&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Stepimage.png&#34;  width=&#34;&#34; /&gt;
 
 
  Convert to step&lt;/h4&gt;
 &lt;p&gt;This button appears only for tasks. It gives you the possibility to change this task and all other tasks in the same level to steps.&lt;/p&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s9-hbhb-convert-to-task&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes9hbhb-convert-to-task&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Taskimage.png&#34;  width=&#34;&#34; /&gt;
 
 
  Convert to task&lt;/h4&gt;
 &lt;p&gt;This button appears only for steps. It gives you the possibility to change this step and all other steps in the same level to tasks.&lt;/p&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s10-hbhb-import-process-chart&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes10hbhb-import-process-chart&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
 
 
  Import process chart&lt;/h4&gt;
 &lt;p&gt;This button appears when the selected phase has no children. Here you have the option to select another process chart from the system and import it under the selected phase. This will copy that process inside the current document, which you will be able to see immediately in the tree structure on the left. Any changes done to the original chart after the import will not affect the current process chart. You will also get the option to &amp;ldquo;Replace name with imported process name&amp;rdquo;. If you select this, the name of the selected phase will be replaced by the name of the top level process in the imported chart.&lt;/p&gt;
-&lt;h4 id=&#34;hahahugoshortcode-s11-hbhb-link-to-process-chart&#34;&gt;
+&lt;h4 id=&#34;hahahugoshortcodes11hbhb-link-to-process-chart&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
 

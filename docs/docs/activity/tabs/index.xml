@@ -82,6 +82,143 @@
     </item>
     
     <item>
+      <title>Docs: Årshjul</title>
+      <link>https://docs3.qmplus.com/docs/activity/tabs/annual_plan/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/activity/tabs/annual_plan/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Årshjul brukes til å administrere aktiviteter.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Å opprette en ny aktivitet&lt;/li&gt;
+&lt;li&gt;Å legge til en liste&lt;/li&gt;
+&lt;li&gt;Å bruke de avanserte mulighetene&lt;/li&gt;
+&lt;li&gt;Å sette opp en periodisk aktivitet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/aktivitetsplan.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;År:&lt;/li&gt;
+&lt;li&gt;Delplan:
+&lt;ul&gt;
+&lt;li&gt;Vis alle aktiviteter. Alle aktiviteter uavhengig av delplan vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Liste over alle delplaner. Velges en delplan, vises kun aktiviteter i den delplanen i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Avdelingsvalg:
+&lt;ul&gt;
+&lt;li&gt;Fylles ut på denne avdelingen: Kun aktiviteter i den valgte avdelingen i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Opprettet på underliggende avdelinger: Kun aktiviteter i underliggende avdelinger til den valgte avdelingen i navigatoren vises.&lt;/li&gt;
+&lt;li&gt;Opprettet på denne og underliggende avdelinger: Alle aktiviteter fra og med den valgte avdelingen i navigatoren vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;overskrifter-i-aktivitetstabellen&#34;&gt;Overskrifter i aktivitetstabellen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tittel: Navn på aktiviteten.&lt;/li&gt;
+&lt;li&gt;Referanse:&lt;/li&gt;
+&lt;li&gt;Periode:&lt;/li&gt;
+&lt;li&gt;Fra avdeling:&lt;/li&gt;
+&lt;li&gt;Roller som skal utføre aktiviteten:&lt;/li&gt;
+&lt;li&gt;Status: For vanlige aktiviteter vises antall brukere som har svart / antall brukere som skal delta i aktiviteten. For repeterende aktiviteter vises antall brukere som har svart / antall brukere som kan delta / antall svar totalt. Oppsluttningen om aktiviteten vises også i en liten graffigur.&lt;/li&gt;
+&lt;li&gt;Kommentarer: Antall kommentarer til aktiviteten. 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Åpner siden kommentarer til aktiviteten.&lt;/li&gt;
+&lt;li&gt;Endre: Lister opp alle tigjengelige ikoner for hver aktivitet, se under.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Endre data for denne aktiviteten: Åpner siden endre aktivitet. For periodiske aktiviteter åpner den endre dato isteden om man er på en av periodene som vises når man har trykket på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ ikonet i Fullføres før feltet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis grafisk oversikt for resultatet fra sjekklisten: Åpner siden grafer for listen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis papirversjon: Vises kun for aktiviteter som har en liste tilkoblet. Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform og som liste av enkeltspørsmål slik den ser ut når den skal fylles ut.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Endre dato:&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Send påminnelse for: Åpner send varsel i et eget vindu.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slett aktivitet: Sletter den valgte aktiviteten. Ikonet er bare synlig hvis:
+&lt;ul&gt;
+&lt;li&gt;valgt avdeling i Navigatoren er den samme som aktiviteten ble opprettet i, og&lt;/li&gt;
+&lt;li&gt;aktiviteten er ikke besvart (ved periodisk aktivitet må det ikke være svart på noen av datoene), og&lt;/li&gt;
+&lt;li&gt;aktiviteten har ikke passert sluttdato for besvarelse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny aktivitet: Åpner endre aktivitet for å lage en ny aktivitet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Skriver ut den aktive siden som .pdf fil.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Delplan</title>
       <link>https://docs3.qmplus.com/docs/activity/tabs/activity_group/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
@@ -322,7 +459,7 @@
         
         &lt;p&gt;Oppfølging brukes til å følge opp aktiviteter det skal jobbes med.&lt;/p&gt;
 &lt;p&gt;Siden er delt opp i 2 tabeller, aktuelle aktiviteter øverst og avsluttede aktiviteter nederst. En aktivitet vises i aktuelle aktiviteter fra og med 1 uke før den starter til fristen er gått ut. Etter dette vises den i avsluttede aktiviteter.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 
@@ -332,7 +469,7 @@
 &lt;li&gt;Som leder kan se resultatene av gjennomførte aktiviteter: Klikk på Resultat helt til høyre i tabellen (Graf-ikon)&lt;/li&gt;
 &lt;li&gt;Jeg kan legge opp én eller flere aktiviteter: Klikk på arkfanen Planlegging og velg &amp;ldquo;Ny aktivitet&amp;rdquo;-knappen nederst i bildet.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s1-hbhb-interaktiv-opplæring&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes1hbhb-interaktiv-opplæring&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
 
@@ -466,7 +603,7 @@
         
         
         &lt;p&gt;Årshjul brukes til å administrere aktiviteter.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-interaktiv-opplæring&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-interaktiv-opplæring&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Monitor.png&#34;  width=&#34;&#34; /&gt;
 
@@ -614,7 +751,7 @@
 &lt;li&gt;Utfylling og resultater&lt;/li&gt;
 &lt;li&gt;Svar per bruker&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s1-hbhb-interaktiv-opplæring&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes1hbhb-interaktiv-opplæring&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Monitor.png&#34;  width=&#34;&#34; /&gt;
 
@@ -762,143 +899,6 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
-
-
- Vis som pdf: Skriver ut den aktive siden som .pdf fil.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Årshjul</title>
-      <link>https://docs3.qmplus.com/docs/activity/tabs/annual_plan/</link>
-      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs3.qmplus.com/docs/activity/tabs/annual_plan/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Årshjul brukes til å administrere aktiviteter.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-interaktiv-opplæring&#34;&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
-
-
- Interaktiv opplæring&lt;/h3&gt;
-&lt;p&gt;Her kan du lære:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Å opprette en ny aktivitet&lt;/li&gt;
-&lt;li&gt;Å legge til en liste&lt;/li&gt;
-&lt;li&gt;Å bruke de avanserte mulighetene&lt;/li&gt;
-&lt;li&gt;Å sette opp en periodisk aktivitet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
-
-
-
-
-&lt;a href=&#34;https://docs3.qmplus.com/assets/aktivitetsplan.pdf&#34; &gt;
-  pdf
-&lt;/a&gt;
-
-&lt;/p&gt;
-&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;År:&lt;/li&gt;
-&lt;li&gt;Delplan:
-&lt;ul&gt;
-&lt;li&gt;Vis alle aktiviteter. Alle aktiviteter uavhengig av delplan vises i tabellen.&lt;/li&gt;
-&lt;li&gt;Liste over alle delplaner. Velges en delplan, vises kun aktiviteter i den delplanen i tabellen.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Avdelingsvalg:
-&lt;ul&gt;
-&lt;li&gt;Fylles ut på denne avdelingen: Kun aktiviteter i den valgte avdelingen i navigatoren vises.&lt;/li&gt;
-&lt;li&gt;Opprettet på underliggende avdelinger: Kun aktiviteter i underliggende avdelinger til den valgte avdelingen i navigatoren vises.&lt;/li&gt;
-&lt;li&gt;Opprettet på denne og underliggende avdelinger: Alle aktiviteter fra og med den valgte avdelingen i navigatoren vises.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;overskrifter-i-aktivitetstabellen&#34;&gt;Overskrifter i aktivitetstabellen&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Tittel: Navn på aktiviteten.&lt;/li&gt;
-&lt;li&gt;Referanse:&lt;/li&gt;
-&lt;li&gt;Periode:&lt;/li&gt;
-&lt;li&gt;Fra avdeling:&lt;/li&gt;
-&lt;li&gt;Roller som skal utføre aktiviteten:&lt;/li&gt;
-&lt;li&gt;Status: For vanlige aktiviteter vises antall brukere som har svart / antall brukere som skal delta i aktiviteten. For repeterende aktiviteter vises antall brukere som har svart / antall brukere som kan delta / antall svar totalt. Oppsluttningen om aktiviteten vises også i en liten graffigur.&lt;/li&gt;
-&lt;li&gt;Kommentarer: Antall kommentarer til aktiviteten. 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
-
-
- Åpner siden kommentarer til aktiviteten.&lt;/li&gt;
-&lt;li&gt;Endre: Lister opp alle tigjengelige ikoner for hver aktivitet, se under.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
-
-
- Endre data for denne aktiviteten: Åpner siden endre aktivitet. For periodiske aktiviteter åpner den endre dato isteden om man er på en av periodene som vises når man har trykket på 
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
-
-
- ikonet i Fullføres før feltet.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
-
-
- Vis grafisk oversikt for resultatet fra sjekklisten: Åpner siden grafer for listen.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
-
-
- Vis papirversjon: Vises kun for aktiviteter som har en liste tilkoblet. Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform og som liste av enkeltspørsmål slik den ser ut når den skal fylles ut.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Date_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
- Endre dato:&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
-
-
- Send påminnelse for: Åpner send varsel i et eget vindu.&lt;/li&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
-
-
- Slett aktivitet: Sletter den valgte aktiviteten. Ikonet er bare synlig hvis:
-&lt;ul&gt;
-&lt;li&gt;valgt avdeling i Navigatoren er den samme som aktiviteten ble opprettet i, og&lt;/li&gt;
-&lt;li&gt;aktiviteten er ikke besvart (ved periodisk aktivitet må det ikke være svart på noen av datoene), og&lt;/li&gt;
-&lt;li&gt;aktiviteten har ikke passert sluttdato for besvarelse.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
-
-
- Ny aktivitet: Åpner endre aktivitet for å lage en ny aktivitet.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;

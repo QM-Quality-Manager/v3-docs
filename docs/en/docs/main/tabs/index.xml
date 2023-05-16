@@ -61,7 +61,7 @@
         
         &lt;p&gt;Admin is used for managing the system. The access is controlled by the system role Admin. In the standard version, all the managers have full access to edit all information within their own organisation. For some customers this option is limited and therefore they will not get all the tabs that are described below. Contact your local super user if you feel that you need additional rights.&lt;/p&gt;
 &lt;p&gt;All information displayed / posted via Admin will relate to the selected department in the Navigator.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-what-can-i-do-here&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-what-can-i-do-here&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 
@@ -574,7 +574,7 @@
 &lt;/ul&gt;
 &lt;p&gt;Pink cases are messages, yellow cases are actions, blue-gray cases are hearings.&lt;/p&gt;
 &lt;p&gt;This page remembers the page number and sorting column when you visit another page and then return to it. The state is remembered for one hour or until the user presses the Log out button on the top row. It is also forgotten if the user opens another page that has a similar table.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s3-hbhb-what-can-i-do-here&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes3hbhb-what-can-i-do-here&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 
@@ -717,7 +717,7 @@
 
  icon. The option for exporting to .docx is not included in the standard version. If you want this option enabled, contact &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt;. Please note that the .pdf version is the most suitable for printing. At this point, we cannot guarantee that the .docx produced file will look the same in all editors or that it will open correctly in all versions of Microsoft Office or OpenOffice. This export format should only be used when there is a need for manually updating the report. This functionality is still in test mode.&lt;/p&gt;
 &lt;p&gt;Documents can appear directly in this page under separate tabs instead of having the name of the document appear as a link. This functionality has to be ordered separately. Contact &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; if you want such a solution.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s6-hbhb-what-can-i-do-here&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes6hbhb-what-can-i-do-here&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 
@@ -995,7 +995,7 @@
         
         
         &lt;p&gt;Used to get a graphical overview of the activity in the system. Drop-down menus and various search criteria control what kind of graph you will get. By clicking on any of the graphs, the underlying report opens.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-what-can-i-do-here&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-what-can-i-do-here&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 

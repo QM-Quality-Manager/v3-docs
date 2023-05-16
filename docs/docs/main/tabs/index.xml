@@ -50,7 +50,7 @@
 &lt;li&gt;Kalender&lt;/li&gt;
 &lt;li&gt;Delplaner&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s2-hbhb-interaktiv-opplæring&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes2hbhb-interaktiv-opplæring&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
 
@@ -270,7 +270,7 @@
       <description>
         
         
-        &lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hjem-er-en-arkfane-på-hovedsiden-dette-er-standard-startside-for-medarbeider&#34;&gt;
+        &lt;h3 id=&#34;hahahugoshortcodes0hbhb-hjem-er-en-arkfane-på-hovedsiden-dette-er-standard-startside-for-medarbeider&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/House.png&#34;  width=&#34;&#34; /&gt;
 
@@ -321,7 +321,7 @@
 
  Hjelp: Dokumentasjon om systemet. Manualer, veiledere og lenke til endringsloggen for Qm+.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s8-hbhb-interaktiv-opplæring&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes8hbhb-interaktiv-opplæring&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
 
@@ -550,10 +550,10 @@
 &lt;span class=&#34;fa fa-plus&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
 
  
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Glyphicon-plus.png&#34;  width=&#34;&#34; /&gt;
-
-
+ 
+   &lt;img src=&#34;https://docs3.qmplus.com/images/Glyphicon-plus.png&#34;  width=&#34;&#34; /&gt;
+ 
+ 
  Vises kun etter at komponenten er minimert. Vis komponenten i normal størrelse igjen.&lt;/p&gt;
 &lt;p&gt;
 
@@ -565,10 +565,10 @@
 &lt;span class=&#34;fa fa-cog&#34;  style=&#34;font-size:large&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
 
  
-
-  &lt;img src=&#34;https://docs3.qmplus.com/images/Glyphicon-cog.png&#34;  width=&#34;&#34; /&gt;
-
-
+ 
+   &lt;img src=&#34;https://docs3.qmplus.com/images/Glyphicon-cog.png&#34;  width=&#34;&#34; /&gt;
+ 
+ 
  Åpner egenskapene til komponenten.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Bestemme plassering.&lt;/li&gt;
@@ -599,7 +599,7 @@
 
  brukes til å brette ut og brette sammen dokumentets underdokumenter. Det er også en søkefunskjon her som gjør fritekstsøk i alle dokumenter som vises i denne siden.&lt;/p&gt;
 &lt;p&gt;Det kan bestilles at dokumenter vises direkte i siden under enkelte arkfaner i steden for at navnet på dokumentet vises som en link. Ta kontakt med &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; om dere ønsker en slik løsning.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s2-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes2hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 
@@ -774,7 +774,7 @@
 &lt;/ul&gt;
 &lt;p&gt;Rosa saker er meldinger, gule saker er tiltak, blågrå saker dreier seg om dokumenter og er høringer eller revisjoner.&lt;/p&gt;
 &lt;p&gt;Valgt sortering og side nullstilles hver gang man åpner denne siden.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s3-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes3hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 
@@ -1014,7 +1014,7 @@
 &lt;li&gt;Tiltak til godkjennelse: Viser oversikt over utførte tiltak som venter på godkjennelse.&lt;/li&gt;
 &lt;li&gt;Tiltak som er godkjent: Viser oversikt over utførte tiltak som er godkjent.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s7-hbhb-interaktiv-opplæring&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes7hbhb-interaktiv-opplæring&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png.png&#34;  width=&#34;&#34; /&gt;
 
@@ -1060,7 +1060,7 @@
         
         
         &lt;p&gt;Brukes for å få grafisk oversikter over aktiviteten i systemet. Nedfallsmenyene og eventuelle søkekriterier styrer hva slags graf du får. Alle grafer kan trykkes på for å åpne den underliggende rapporten.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 
@@ -1073,7 +1073,7 @@
 &lt;li&gt;eller jeg kan klikke på en farge i grafen og få denne ut som en tabelloversikt,&lt;/li&gt;
 &lt;li&gt;eller jeg kan klikke på &amp;ldquo;Pr. avdeling oversiktstabell&amp;rdquo; for å hente ut sammenligninger mellom tidsperioder. Denne kan kopieres inn i et Excell-ark.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s1-hbhb-interaktiv-opplæring&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes1hbhb-interaktiv-opplæring&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
 
@@ -1406,7 +1406,7 @@ Individuell: Det vises en risikomatrise for den risikokategorien som er valgt i 
         
         &lt;p&gt;Admin brukes for å administrere systemet. I standardversjonen har alle ledere full tilgang til å redigere all informasjon som er lagt inn innenfor sitt eget organisasjonsnivå. Hos en del kunder er denne muligheten begrenset og enkelte vil derfor ikke få opp alle arkfanene slik det er beskrevet nedenfor. Ta kontakt med din lokale superbruker dersom du mener du har behov for yttligere rettigheter.&lt;/p&gt;
 &lt;p&gt;All informasjon som vises/legges inn via Admin vil relatere til valgt avdeling i navigatoren.&lt;/p&gt;
-&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
 
