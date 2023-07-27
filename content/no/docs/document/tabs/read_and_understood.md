@@ -26,7 +26,7 @@ Her kan man se en oversikt med status for alle Lest og forstått aktiviteter dok
 - Resultat: Her får man resultatet fra aktiviteten. Åpner siden grafer for listen.
 
 ### Knapper
-- {{< onlystaticimg src="/images/Date_add.png" >}} Lag lest og forstått aktivitet: Dette åpner siden Ny aktivitet i Aktivitetsplan og setter tittel, periode, liste, type og tilknyttet dokument automatisk. Det er mulig å bruke andre lister enn standardlisten for Lest og forstått. Dersom noen ønsker at en annen liste skal brukes som standard, må de ta kontakt med QmPlus AS. Dersom man trykker på Lag lest og forstått aktivitet for et dokument med underdokumenter, blir også underdokumentene automatisk lagt til aktiviteten.
+- {{< onlystaticimg src="/images/Date_add.png" >}} Lag lest og forstått aktivitet: Vises bare for aktive publiserte dokumenter. Dette åpner siden Ny aktivitet i Aktivitetsplan og setter tittel, periode, liste, type og tilknyttet dokument automatisk. Det er mulig å bruke andre lister enn standardlisten for Lest og forstått. Dersom noen ønsker at en annen liste skal brukes som standard, må de ta kontakt med QmPlus AS. Dersom man trykker på Lag lest og forstått aktivitet for et dokument med underdokumenter, blir også underdokumentene automatisk lagt til aktiviteten.
 
 - {{< onlystaticimg src="/images/Disc_multiple.png" >}} Opprett ny versjon: Lager en ny versjon for dokumentet.
   - Eksempel: Et dokument i versjon 3.14 vil ved å bruke denne knappen få versjon 4.1.

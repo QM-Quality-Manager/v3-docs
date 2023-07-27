@@ -23,7 +23,7 @@ Here you can see an overview of the status of all Read and understood activities
 
 ### Buttons
 
-- {{< onlystaticimg src="/images/Date_add.png" >}} Create read and understood activity: This opens the New activity page under Activity plan and automatically sets the Activity group, the Activity name, the Attached list, the time period (From - To), the Activity distribution and the attached document. It is possible to use other lists than the default one for Read and understood. If someone wants to use another list as default, they will have to contact QmPlus AS. If you click the Create read and understood activity button of a document that has subdocuments, the subdocuments will also be added to the activity automatically.
+- {{< onlystaticimg src="/images/Date_add.png" >}} Create read and understood activity:  Appears only for active published documents. This opens the New activity page under Activity plan and automatically sets the Activity group, the Activity name, the Attached list, the time period (From - To), the Activity distribution and the attached document. It is possible to use other lists than the default one for Read and understood. If someone wants to use another list as default, they will have to contact QmPlus AS. If you click the Create read and understood activity button of a document that has subdocuments, the subdocuments will also be added to the activity automatically.
 - {{< onlystaticimg src="/images/Disc_multiple.png" >}} Create new version: Creates a new version of the document.
   - Example: If a document is in version 3.14 and you click on this button, it will change version to 4.1.
   - Should be used before making major changes to the document.

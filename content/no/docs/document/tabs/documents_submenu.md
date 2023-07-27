@@ -46,7 +46,7 @@ Ikoner brukt til å symbolisere ulike dokumenttyper
 
 ### Endre
 - {{< onlystaticimg src="/images/Link_edit.png" >}}: Endre data for dokumentet. Åpner endre data for dokumentet skjermbildet for å endre en eksisterende dokument.
-- {{< onlystaticimg src="/images/Date_add.png" >}}: Lag lest og forstått aktivitet. Dette åpner siden Ny aktivitet i Aktivitetsplan og setter tittel, periode, liste, type og tilknyttet dokument automatisk. Det er mulig å bruke andre lister enn standardlisten for Lest og forstått. Dersom noen ønsker at en annen liste skal brukes som standard, må de ta kontakt med QmPlus AS. Dersom man trykker på Lag lest og forstått aktivitet for et dokument med underdokumenter, blir også underdokumentene automatisk lagt til aktiviteten.
+- {{< onlystaticimg src="/images/Date_add.png" >}}: Lag lest og forstått aktivitet. Vises bare for aktive publiserte dokumenter. Dette åpner siden Ny aktivitet i Aktivitetsplan og setter tittel, periode, liste, type og tilknyttet dokument automatisk. Det er mulig å bruke andre lister enn standardlisten for Lest og forstått. Dersom noen ønsker at en annen liste skal brukes som standard, må de ta kontakt med QmPlus AS. Dersom man trykker på Lag lest og forstått aktivitet for et dokument med underdokumenter, blir også underdokumentene automatisk lagt til aktiviteten.
 - {{< onlystaticimg src="/images/Turnarrow.gif" >}}: Deaktiver / Aktiver documentet. Deaktiverer eller aktiverer dokumentet avhengig av om man man står i Aktive dokumenter eller Deaktiverte dokumenter.
 - {{< onlystaticimg src="/images/Link_delete.png" >}}: Slett dokument. Slett dokumentet. Kun synlig for deaktiverte dokumenter som ikke er tilordnet andre elementer i systemet.
 
