@@ -49,7 +49,7 @@ Dersom du trenger hjelp til å forbedre spørreskjemaet ditt, fortvil ikke. Vi h
     
 - {{< onlystaticimg src="/images/Page_copy.png" >}} Kopier liste: Lager en kopi av det valgte spørreskjemaet.
     
-- {{< onlystaticimg src="/images/Page_delete.png" >}} Sletter spørreskjemaet som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom arkfanen Deaktiverte spørreskjemaer er valgt og spørreskjemaet det gjelder ikke er besvart. Det er kun mulig å slette spørreskjemaer som er lagt opp på den avdelingen som er valgt i navigatoren.
+- {{< onlystaticimg src="/images/Page_delete.png" >}} Sletter spørreskjemaet som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom arkfanen Deaktiverte spørreskjemaer er valgt og spørreskjemaet det gjelder ikke er knyttet til en aktivitet. Det er kun mulig å slette spørreskjemaer som er lagt opp på den avdelingen som er valgt i navigatoren.
     
 - {{< onlystaticimg src="/images/Page_save.png" >}} Åpner siden Eksporterer til fellesbiblioteket. Hvis dette ikonet er deaktivert/grået ut, ligger listen allerede i fellesbiblioteket.
 

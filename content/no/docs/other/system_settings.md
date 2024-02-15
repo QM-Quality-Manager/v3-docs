@@ -670,7 +670,7 @@ Innstillinger for brukertypen medarbeider.
 
 - EARLYCASEPROCESS
 
-Send til saksbehandler dialogen aktivert av denne opsjonen tar med all brukere med systemrollen Standard meldingsmottaker (standard, brukertypen Leder), samt alle brukere som er definert i ekstra saksbehandler regler i forhold til valgt avdeling i navigatoren. For skjemaer med Tidlig saksbehandlingsregler definert,vil egendefinerte regler med tidlig saksbehandlere overstyre de automatiske - også når denne opsjonen er satt til 0.
+Send til saksbehandler dialogen aktivert av denne opsjonen tar med all brukere med systemrollen Standard meldingsmottaker (standard, brukertypen Leder), samt alle brukere som er definert i ekstra saksbehandler regler i forhold til valgt avdeling i navigatoren. For skjemaer med Tidlig saksbehandlingsregler definert, vil egendefinerte regler med tidlig saksbehandlere overstyre de automatiske - også når denne opsjonen er satt til 0.
 
   - 0 - Viser ikke send til saksbehandler i meldingsskjemaet
   - 1 - Viser send til saksbehandler i meldingsskjemaet

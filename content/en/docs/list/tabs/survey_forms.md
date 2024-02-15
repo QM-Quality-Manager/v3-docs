@@ -26,7 +26,7 @@ A survey form or questionnaire is a measuring instrument we use to measure the l
 - {{< onlystaticimg src="/images/Page_key.png" >}} Takes you to the Edit alternative answers screen to edit the content of the selected list. It is only possible to edit alternative answers in survey forms that were created on the department which is selected in the Navigator.
 - {{< onlystaticimg src="/images/Turnarrow.gif" >}} Activates / Deactivates the selected survey form, depending on whether you are under Deactivated lists or Active lists respectively. It is only possible to change the status of survey forms that were created on the department which is selected in the Navigator.
 - {{< onlystaticimg src="/images/Page_copy.png" >}} Copy list: Creates a copy of the selected survey form.
-- {{< onlystaticimg src="/images/Page_delete.png" >}} Delete list: Deletes the selected survey form. This icon only comes up if the tab Deactivated lists is selected and the specific survey form has not been answered. It is only possible to delete survey forms that were created on the department which is selected in the Navigator.
+- {{< onlystaticimg src="/images/Page_delete.png" >}} Delete list: Deletes the selected survey form. This icon only comes up if the tab Deactivated lists is selected and the specific survey form is not attached to an activity. It is only possible to delete survey forms that were created on the department which is selected in the Navigator.
 - {{< onlystaticimg src="/images/Page_save.png" >}} Opens the page Export to the common library. If this icon is disabled / grayed out, the list is already in the common library.
 
 ### Tabs
