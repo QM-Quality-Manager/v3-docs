@@ -1,5 +1,0 @@
-<!-- image -->
-{{ with .Get "link"}}<a href="{{.}}">{{ end }}
-  <img src="{{ .Site.BaseURL }}{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} width="{{ .Get "width" }}" />
-{{ if .Get "link"}}</a>{{ end }}
-<!-- image -->
