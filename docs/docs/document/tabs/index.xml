@@ -1,0 +1,1088 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/document/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/document/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Besvar høring</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/reply_to_hearing/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/reply_to_hearing/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden kan åpnes fra Innboks for de som skal utføre den og fra endre data for dokumentet under Admin/Dokumenter for brukere med tilgang dit.&lt;/p&gt;
+&lt;p&gt;Denne siden brukes til å besvare en høring. Brukere som gar fått ansvar for å delta i høringen kan besvare den og gi sine kommentarer. Høringens status kan endres av den som har fått tildelt ansvaret for å godkjenne den.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokument: Lenke som åpner selve dokumentet. Nummer og versjon for dokumentet høringen er tilknyttet.&lt;/li&gt;
+&lt;li&gt;Ansvarlig for godkjenning av dokumentet: Den som skal godkjenne høringen og kan endre status på den.&lt;/li&gt;
+&lt;li&gt;Status: Status. Kan ha verdiene Ute på høring, Til godkjenning og godkjent.&lt;/li&gt;
+&lt;li&gt;Høringsnummer: Løpenummer for alle høringer i systemet.&lt;/li&gt;
+&lt;li&gt;Opprettet: Opprettelsestidspunkt.&lt;/li&gt;
+&lt;li&gt;Ansvarlig for høringen: Den som har opprettet høringen.&lt;/li&gt;
+&lt;li&gt;Høringsfrist.&lt;/li&gt;
+&lt;li&gt;Mitt svar til høringen: brukes av de som skal delta i høringen for å gi tilbakemelding på dokumentet.&lt;/li&gt;
+&lt;li&gt;Høringens status: brukes av den som er ansvarlig for godkjenning til å endre status på høringen.&lt;/li&gt;
+&lt;li&gt;Kommentar: Tekstfelt som kan brukes av alle med tilgang til høringen.&lt;/li&gt;
+&lt;li&gt;Mitt svar: Meny for å velge hvem som skal motta beskjeden skrevet i fletet Kommentar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringer du har gjordt i bildet. Dersom du har skrevet en kommentar blir den sendt på den måten du har valgt i Mitt svar.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker dette bildet og tar deg tilbake dit du var.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabeller&#34;&gt;Tabeller&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deltakere i høringen: Oversikt over de som skal besvare høringen, hva de har svart og når de sist endret svaret sitt.&lt;/li&gt;
+&lt;li&gt;Kommentarer til høringen: Alle kommentarer laget til høringen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dokumentarkfaner</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/document_tabs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/document_tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens dokumentarkfaner.&lt;/p&gt;
+&lt;p&gt;Deaktiverte dokumentarkfaner vises ikke i Info og kan ikke tilordnes dokumenter. Dokumenter tilhørende deaktiverte dokumentarkfaner vises ikke under Info.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ny dokumentarkfane: Åpner Endre dokumentarkfane skjermbildet for å lage en ny dokumentarkfane.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Åpner Endre dokumentarkfane skjermbildet for å endre en eksisterende dokumentarkfane.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deaktiverer eller aktiverer dokumentarkfanen avhengig av om man man står i Aktive dokumentarkfaner eller Deaktiverte dokumentarkfaner.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/View.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Brukes for å åpne en dokumentarkfane man ikke har endringsrettigheter til. Man har endringsrettigheter til de dokumentarkfanene som er laget på avdelingen valgt i navigatoren og underliggende avdelinger av denne.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hver dokumentarkfane gir en arkfane under Info.&lt;/p&gt;
+&lt;p&gt;Vedlikeholdes i Endre dokumentarkfane.&lt;/p&gt;
+&lt;p&gt;Dokumenter tilordnes til dokumentarkfaner i endre data for dokumentet.&lt;/p&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Navnet på en dokumentarkfane kan registreres en gang per språk som er aktivisert i systemet.&lt;/li&gt;
+&lt;li&gt;Navn: Brukes til å identifisere dokumentarkfanen i tabeller og oversikter. En dokumentarkfane kan ha et navn for hvert språk som er aktivisert.&lt;/li&gt;
+&lt;li&gt;Posisjon: Dokumentarkfanes posisjon i Info.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Dokumentarkfanen vil vises i Info fra og med den valgte avdelingen.&lt;/li&gt;
+&lt;li&gt;Vises for underavdelinger: Hvis nei, vil Dokumentarkfanen kun vises i Info når avdelingen valgt i fra avdeling er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Arkfane under: Brukes dersom denne arkfanen skal være en underarkfane, danne et nytt nivå arkfaner, under arkfanen som velges her. Arkfaner med underliggende arkfaner bør ikke selv ha egne dokumenter.&lt;/li&gt;
+&lt;li&gt;Informasjon: Tekst som vises når man holder pekeren over arkfanen.&lt;/li&gt;
+&lt;li&gt;Roller: En dokumentarkfane med roller vil kun vises dersom brukeren som åpner Info eller avdelingen som er valgt har minst en av rollene arkfanen har.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dokumentdata</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/document_data/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/document_data/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;h4 id=&#34;dokumentnavn-og-type&#34;&gt;Dokumentnavn og type&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Navn: Navn på dokumentet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Informasjon: Beskrivelse av dokumentet (maks 500 tegn). Teksten vises når brukeren holder pekeren over navnet på dokumentet i Info, meldingsskjemaer og lister.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dokumenttype:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skriv et dokument: Brukes dersom man ønsker å skrive et dokument rett inn i Qm+. Dokumentet blir lagret som et htmldokument og har en del formateringsmuligheter. Tekstredigeringsfeltet benytter TinyMCE.&lt;/li&gt;
+&lt;li&gt;Link: Brukes hvis man ønsker å linke til en resurs på internett eller til et dokument på en lokal filserver. Dokumenter det ikke er tilgang til fra internett vil ikke bli indeksert i vår søkemotor og vil vises med Linkfeil i dokumenter. Pass på at adressen som skrives inn er en gyldig http eller https adresse.&lt;/li&gt;
+&lt;li&gt;Fil: Brukes om man ønsker å laste opp en fil fra sin lokale datamaskin til Qm+serveren. Dette lager en kopi av filen på serveren. For å gjøre endringer i filen, må den redigeres lokalt og så lastes opp på nytt igjen.&lt;/li&gt;
+&lt;li&gt;Mappe: Brukes for å lage en mappestruktur under Info. Kan ikke åpnes som et dokument.&lt;/li&gt;
+&lt;li&gt;Prosesskart: Brukes når man ønsker å lage et prosesskart i Qm+. Når du lagrer et dokument med denne typen, blir arkfanen Prosesskartoppsett tilgjengelig. Dette låser også typen til dokumentet slik at den ikke kan endres.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;velg-hvor-dokumentet-skal-vises-under-info&#34;&gt;Velg hvor dokumentet skal vises under INFO&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Dokumentets avdelinger. Tabell som viser hvilke avdelinger dokumentet er tilknyttet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fra avdeling. Dokumentet vil være synlig under Info og Admin/Dokumenter på de avdelingene som legges inn. Bruk knappen &amp;ldquo;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til avdeling&amp;rdquo; for å få en ny valgboks i tabellen.&lt;/li&gt;
+&lt;li&gt;Vises for underavdelinger. Hvis krysset av, vil dokumentet også være synlig i Info i underavdelinger av avdelingen valgt i &amp;ldquo;Fra avdeling&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Slette. Kun aktiv om dokumentet er tilknyttet mer enn 1 avdeling. Trykk på sletteikonet 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ for å slette tilknyttingen til den aktuelle avdelingen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dokumentarkfane: Bestemmer hvilken arkfane dokumentet vises i under Info. Obligatorisk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dokumentgruppe: Dokumentets gruppe. Bestemmer hvilken boks dokumentet vises i under Info. Obligatorisk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Underdokument av: Et underdokument blir ikke vist under Info før dokumentet det ligger under er utvidet ved å holde pekeren over 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ symbolet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Offentlig dokument: Hvis krysset av, dokumentet vil være tilgjengelig for alle, ingen autentisering kreves. Vises kun for dokumenter av type &amp;ldquo;Skriv et dokument&amp;rdquo;, &amp;ldquo;Link&amp;rdquo; og &amp;ldquo;Fil&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Posisjon: Brukes kun dersom alfabetisk sortering er skrudd av. Normalt kan man se bort fra denne.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;kundespesifiserte-dokumenthodefelt&#34;&gt;Kundespesifiserte dokumenthodefelt&lt;/h4&gt;
+&lt;p&gt;Felt som må bestilles spesielt. Brukes til å legge inn ekstra informasjon som skal inn i dokumenthodet. Mulige felttyper:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fritekst.&lt;/li&gt;
+&lt;li&gt;Dato.&lt;/li&gt;
+&lt;li&gt;Valg av avdeling. Gir nedfallsmeny som viser alle avdelinger. Denne kan ha rollefiltrering, dvs at kun avdelinger med gitt rolle vises.&lt;/li&gt;
+&lt;li&gt;Valg av bruker. Gir nedfallsmeny som viser alle brukere. Denne kan ha rollefiltrering, dvs at kun brukere med gitt rolle vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;status&#34;&gt;Status&lt;/h4&gt;
+&lt;p&gt;Denne delen vises kun for dokumenter som er lagret minst en gang.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Versjon: Dokumentets versjon. Vises som x.y, der x er hovedversjonsnummer og y er endringsnummer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hovedversjonsnummeret øker med en 1 hver gang knappen &amp;ldquo;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc_multiple.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Opprett ny versjon&amp;rdquo; brukes.&lt;/li&gt;
+&lt;li&gt;Endringsnummeret økes med 1 hver gang denne siden lagres og enten navnet, dokumentets innhold - dersom dette er et dokument som er skrevet inn i Qm+, lenkens adresse er endret eller det er lastet opp et nytt dokument.&lt;/li&gt;
+&lt;li&gt;Endringsnummeret starter på 1 for hver ny versjon som lagres. Endringsnummeret ble i tidligere versjoner av Qm+ omtalt som revisjonsnummer.&lt;/li&gt;
+&lt;li&gt;Versjonsnummeret er vist som en lenke som kan trykkes på. Det åpner dokumentet i den aktuelle versjonen.&lt;/li&gt;
+&lt;li&gt;Dersom versjonen som er vist i bildet er nyere enn den versjonen av dokumentet som er publisert, eller dokumentet aldri har vært publisert, vises knappen 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_lightning.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Publiser. Den lagrer eventuelle endringer i dokumentet og setter den aktuelle versjonen til å være publisert.&lt;/li&gt;
+&lt;li&gt;Dersom man er inne i en versjon av et dokument som har en nyere versjon, blir det varslet ved 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Exclamation.png&#34;  width=&#34;&#34; /&gt;
+
+
+ og teksten &amp;ldquo;Dette dokumentet har en nyere versjon&amp;rdquo;. Denne teksten er en lenke som åpen den aktuelle nyere versjonen.&lt;/li&gt;
+&lt;li&gt;Dokumenter som har en nyere versjon kan endres, men man kan ikke lage nye versjoner av de.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Publisert versjon. Hvis den versjonen av dokumentet som er vist i bildet er den aktuelle publiserte versjonen, den som vises under Info, vises teksten &amp;ldquo;Dette er den publiserte versjonen&amp;rdquo;. Hvis ikke, vises versjonsnummeret til den aktuelle publiserte versjonen av dokumentet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lagt inn av: Navn på brukeren som har lagt inn dette dokumentet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sist endret av: Den brukeren som siste endret dokumentet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Høringsstatus for denne versjonen: Vises kun dersom den valgte versjonen er tilknyttet en høring. Viser status for høringen og lenker til besvar høring.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adressen til dokumentet: Vises for lagrede dokumenter. Hvis du ønsker at et annet dokument i Qm+ skal refere til dette dokumentet, så kan du bruke denne adressen som lenke. Denne adressen kan nå også brukes utenfor Qm+ og vil alltid for dokumenter lagret i (Fil) eller skrevet i (Skriv et dokument) Qm+ gi nyeste publiserte versjon. Dersom man ikke allerede er pålogget Qm+ vil man bli bedt om brukernavn og passord for å få se dokumentet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;revisjon&#34;&gt;Revisjon&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktiver regelmessig revisjon. Brukes når man ønsker at en bruker regelmessig skal bli varslet om at dokumentet skal revideres. Resten av alternativene vises når dette feltet er krysset av.&lt;/li&gt;
+&lt;li&gt;Varslingsdato for revisjon. Dato når brukeren skal varsles om revisjonen.&lt;/li&gt;
+&lt;li&gt;Revisjonsintervall. Perioden mellom hvert varsel. Når et dokument som har passert revisjonsfristen er tilknyttet en revisjon som blir avsluttet, blir varslingsdatoen økt med verdien i dette feltet. Blir dokumentet revidert før varslingsfristen, blir ikke varslingsdatoen automatisk oppdatert. Ønsker man oppdatering i slike tilfeller, må det gjøres manuelt.&lt;/li&gt;
+&lt;li&gt;Revisjonsansvarlig. Bruker som får varsel om dokumentrevisjon i sin innboks. Kun brukere med Systemrollen Revidere dokument tilknyttet sin bruker eller brukertype kan velges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ekstra-attributter&#34;&gt;Ekstra attributter&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokumentet er et maldokument. Ja/Nei. Standard Nei. Kun aktuelt for dokumenter av typen &amp;ldquo;Skriv et dokument&amp;rdquo;. Et maldokument er en skisse eller starten på et dokument, eksempelvis et sett av faste overskrifter. Maldokumenter som er lagret og publisert kan lastes av alle brukere inn i, fortrinnsvis nye, dokumenter fra Dokumentinnhold. Maldokumenter vises ikke under Info.&lt;/li&gt;
+&lt;li&gt;Dokumenthodetype. Vises kun for de som har opsjonen om valgbare dokumenthodetype satt. Kun aktuelt for dokumenter av typen &amp;ldquo;Skriv et dokument&amp;rdquo;. Bestemmer hvilken av de mulige dokumenthodetypene som vil bli brukt for dette dokumentet.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dokumenter undermeny</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/documents_submenu/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/documents_submenu/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ dokumenter&lt;/p&gt;
+&lt;p&gt;Her administreres virksomhetens dokumenter.&lt;/p&gt;
+&lt;p&gt;Dokumentnavnene fungerer som lenker. Trykk på et dokumentnavn for å åpne dokumentet. For dokumenter laget i Qm+: Du kan enten se på HTML versjonen ved å klikke dokumentnavnet, eller du kan få en PDF versjon av dokumentet ved å trykke på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ ikonet til høyre for dokumentnavnet.&lt;/p&gt;
+&lt;p&gt;Deaktiverte dokumenter vises ikke i Info og kan ikke tilordnes lister, meldingsskjemaer eller aktiviteter. Allerede tilordnede dokumenter vil fremdeles bli vist der selv om de er deaktivert. Tilordnede dokumenter kan ikke slettes. Upubliserte dokumenter vises heller ikke under Info. Dersom et dokument har en publisert versjon og en nyere upublisert versjon, vil den publiserte versjonen være synlig under Info.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcodes2hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lage nytt dokument klikk på grå knapp &amp;ldquo;Nytt dokument&amp;rdquo; nederst i skjermbildet.&lt;/li&gt;
+&lt;li&gt;Revidere et dokument / sende på høring: Klikk på gult &amp;ldquo;Endre&amp;rdquo;-ikon til høyre i tabellen.&lt;/li&gt;
+&lt;li&gt;I neste skjermbilde velger du mellom arkfanene Versjonsoversikt, Høringsoversikt, Revisjonsoversikt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Avdelingsvalg: Tabellen viser enten alle dokumenter lagt inn i avdelingen som er valgt i navigatoren eller dokumenter lagt inn i avdelinger fra og med avdelingen som er valgt i navigatoren.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dokumentgruppevalg: Tabellen viser kun dokumenter som tilhører den valgte dokumentgruppen. Dersom valget &amp;ldquo;Vis alle dokumentgrupper&amp;rdquo; er valgt, vises alle dokumenter uavhengig av hvilken dokumentgruppe de tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visningsmodus for dokumentoversikten:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokumentinformasjon. Standard, viser som før oversikt over hvor i strukturen dokumentet tilhører.&lt;/li&gt;
+&lt;li&gt;Revisjonsinformasjon. Viser når dokumentene har varslingsdato for revisjon og informasjon om forrige / pågående revisjon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Nytt dokument: Åpner endre data for dokumentet skjermbildet for å lage et nytt dokument.&lt;/p&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;p&gt;Ikoner brukt til å symbolisere ulike dokumenttyper&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_world.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lenke til dokument på nettet&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Lovdata_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lenke til side hos Lovdata&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_word.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Worddokument&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Pdfdokument&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_excel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Exceldokument&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_powerpoint.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Powerpointdokument&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_text.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokument laget i Qm+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokument av type prosesskart, laget i Qm+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ukjent eller tomt dokument&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder_page_white.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Mappe. Kan ikke åpnes, brukes kun for å lage en dokumentstruktur.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;endre&#34;&gt;Endre&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Endre data for dokumentet. Åpner endre data for dokumentet skjermbildet for å endre en eksisterende dokument.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Lag lest og forstått aktivitet. Vises bare for aktive publiserte dokumenter. Dette åpner siden Ny aktivitet i Aktivitetsplan og setter tittel, periode, liste, type og tilknyttet dokument automatisk. Det er mulig å bruke andre lister enn standardlisten for Lest og forstått. Dersom noen ønsker at en annen liste skal brukes som standard, må de ta kontakt med QmPlus AS. Dersom man trykker på Lag lest og forstått aktivitet for et dokument med underdokumenter, blir også underdokumentene automatisk lagt til aktiviteten.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deaktiver / Aktiver documentet. Deaktiverer eller aktiverer dokumentet avhengig av om man man står i Aktive dokumenter eller Deaktiverte dokumenter.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Slett dokument. Slett dokumentet. Kun synlig for deaktiverte dokumenter som ikke er tilordnet andre elementer i systemet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_error.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Ikke indeksert.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_medal.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Godkjent.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tag_blue_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Ute på høring.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Ok.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Error.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Indekseringsfeil. Dette kan skyldes at dokumentet ikke er tilgjenglig eller er på et format som vår indekseringsmotor ikke har klart å tyde. Det kan skje at også normale formater som pdf og word feiler. Dersom lenken åpner dokumentet korekt, betyr dette kun at dokumentet ikke vil gi treff utover dokumenttittelen, dersom man gjør fritekstsøk under Info. Lenker til intranettsider eller andre sider søkemotoren ikke når frem til, vil alltid få indekseringsfeil.
+Merk: Symbolet § i en lenke gjenkjennes ofte ikke av søkemotoren, noe som fører til en indekseringsfeil. Vi foreslår at du erstatter den med den tilsvarende HTML-koden, som er %C2%A7.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Exclamation.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Dokumentet har nyere upublisert / eksisterende publisert versjon.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Gir informasjon om siste Lest og forstått aktivitet for dokumentet.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dokumentgrupper</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/document_groups/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/document_groups/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens dokumentgrupper.&lt;/p&gt;
+&lt;p&gt;Deaktiverte dokumentgrupper vises ikke i Info og kan ikke tilordnes dokumenter. Dokumenter tilhørende deaktiverte dokumentgrupper vises ikke under Info.&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Avdelingsvalg: Tabellen viser enten alle dokumentgrupper lagt inn i avdelingen som er valgt i navigatoren eller dokumentgrupper lagt inn i avdelinger fra og med avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ny dokumentgruppe: Åpner endre dokumentgruppe skjermbildet for å lage en ny dokumentgruppe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Åpner endre dokumentgruppe skjermbildet for å endre en eksisterende dokumentgruppe.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deaktiverer eller aktiverer dokumentgruppen avhengig av om man man står i Aktive dokumentgrupper eller Deaktiverte dokumentgrupper.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dokumentinnhold</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/document_content/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/document_content/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;stavekontroll&#34;&gt;Stavekontroll&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dersom din nettleser har aktivert stavekontroll, vil ord den finner å være feilstavet bli markert.&lt;/li&gt;
+&lt;li&gt;Hold Ctrl tasten nede samtidig som du trykker høyre museknapp på det markerte ordet for å få forslag til retting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;redigeringsfelt&#34;&gt;Redigeringsfelt&lt;/h3&gt;
+&lt;p&gt;Funksjonene i dette feltet fungerer på lignende vis som i andre dokumentredigeringsverktøy. Merk spesielt:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Bullist.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Punktliste: Marker tekst og trykk på denne for å gjøre teksten omm til en usortert liste. Trykk på pilen til høyre for ikonet for å velge punkttype.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Numlist.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Nummerliste: Marker tekst og trykk på denne for å gjøre teksten omm til en nummerert liste. Trykk på pilen til høyre for ikonet for å velge nummereringstype.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Outdent.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Reduser innrykk: Brukes til å ta bort et &lt;tab&gt; tegn eller slå sammen en underliste med resten av listen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Indent.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Øk innrykk: Brukes til å legge til et &lt;tab&gt; tegn eller til å lage en underliste av punkter i en liste. For en underliste starter nummereringen på nytt. Man kan ha ulik nummereringstype på listen og underlisten. Det kan settes ved å bruke pilikonet til høyre for Punktliste eller Nummerliste ikonene.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sett inn / endre lenke: Marker tekst og trykk på denne for å gjøre teksten omm til en lenke. Du får da opp en dialogboks hvor lenkens adresse kan skrives inn.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Unlink.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern lenke: Marker en eksisterende lenke og trykk på denne for å gjøre lenken om til vanlig tekst.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Html.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Redigere HTML-koden: Åpner et eget vindu der dokumentets HTML-kode kan redigeres direkte. Dette bør kun gjøres dersom du kan HTML. Husk å trykke på oppdaterknappen når du er ferdig med å redigere HTML-koden. For forklaring på de ulike HTML-kodene se her Oversikt over HTML&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Høring / Godkjenning</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/hearing_approval/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/hearing_approval/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden brukes til å opprette en høring, sette deltakere og godkjenner.&lt;/p&gt;
+&lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Høringsnummer: Løpenummer for alle høringer i systemet.&lt;/li&gt;
+&lt;li&gt;Status: Status. Kan ha verdiene Ute på høring, Til godkjenning og godkjent.&lt;/li&gt;
+&lt;li&gt;Høringen gjelder dokumentnummer X i versjon Y: Forklarer hvilket dokument i hvilken versjon den valgte høringen gjelder for.&lt;/li&gt;
+&lt;li&gt;Dokument: Link som åpner selve dokumentet.&lt;/li&gt;
+&lt;li&gt;Ansvarlig for høringen: Den som har opprettet høringen.&lt;/li&gt;
+&lt;li&gt;Opprettet: Opprettelsestidspunkt.&lt;/li&gt;
+&lt;li&gt;Høringsfrist: Frist for å besvare høringen.&lt;/li&gt;
+&lt;li&gt;Ansvarlig for godkjenning av dokumentet: Den som skal godkjenne høringen og kan endre status på den.&lt;/li&gt;
+&lt;li&gt;Deltakere: Kontroll for å bestemme hvem som skal delta i høringen. De som skal delta ligger i det venstre feltet med overskriften Deltakere. De det kan velges fra ligger i det høyre feltet med overskriften Velg deltakere.&lt;/li&gt;
+&lt;li&gt;E-postmelding til deltakerne i høringen skriver du her: Her kan en kommentar skrives inn. Når man trykker på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre, vil den bli sent som e-post til alle som ligger i feltet Deltakere.&lt;/li&gt;
+&lt;li&gt;Kommentarer til høringen: Viser alle kommentarer som er kommet til denne høringen. Kommentarene kan være sent fra denne siden eller fra siden Besvar høring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;laquo;: Legg til deltager.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ &amp;raquo;: Fjern deltager.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Telephone_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny høring: Oppretter en ny høring for valgt versjon.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringer du har gjordt i bildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker dette bildet og tar deg tilbake dit du var.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Lest og forstått</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/read_and_understood/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/read_and_understood/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her kan man se en oversikt med status for alle Lest og forstått aktiviteter dokumentet har hatt.&lt;/p&gt;
+&lt;h3 id=&#34;overskrifter-i-aktivitetstabellen&#34;&gt;Overskrifter i aktivitetstabellen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Periode: Viser i hvilket tidsrom aktiviteten ble avholdt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Navn: Navn på aktiviteten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Laget av: Navnet på brukeren som laget aktiviteten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Referanse: Dersom aktiviteten er satt opp med en referanse så vises linken til referansen her.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Antall svar: Oppsluttningen om aktiviteten vises i en liten graffigur som antall svar / antall mulige deltakere.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For vanlige aktiviteter viser tallene bak grafen antall brukere som har svart / antall brukere som skal delta i aktiviteten.&lt;/li&gt;
+&lt;li&gt;For repeterende aktiviteter viser tallene bak grafen antall brukere som har svart / antall brukere som kan delta / antall svar totalt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kommentarer: Antall kommentarer til aktiviteten. Åpner siden kommentarer til aktiviteten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;E-postvarsel: Her kan du sende ut aktiviteten på e-post til de som skal utføre aktiviteten. send varsel benyttes også når man vil purre på brukere som ikke har fylt ut aktiviteten. Åpner send varsel i et eget vindu.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fyll ut: Vises bare for aktuelle aktiviteter som er igang. Her kan du fylle ut aktiviteten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Resultat: Her får man resultatet fra aktiviteten. Åpner siden grafer for listen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lag lest og forstått aktivitet: Vises bare for aktive publiserte dokumenter. Dette åpner siden Ny aktivitet i Aktivitetsplan og setter tittel, periode, liste, type og tilknyttet dokument automatisk. Det er mulig å bruke andre lister enn standardlisten for Lest og forstått. Dersom noen ønsker at en annen liste skal brukes som standard, må de ta kontakt med QmPlus AS. Dersom man trykker på Lag lest og forstått aktivitet for et dokument med underdokumenter, blir også underdokumentene automatisk lagt til aktiviteten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc_multiple.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Opprett ny versjon: Lager en ny versjon for dokumentet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eksempel: Et dokument i versjon 3.14 vil ved å bruke denne knappen få versjon 4.1.&lt;/li&gt;
+&lt;li&gt;Er ment brukt før det skal gjøres større endringer i dokumentet.&lt;/li&gt;
+&lt;li&gt;Vises kun for dokumenter som er lagret minst en gang.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringer du har gjordt i bildet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker dette bildet og tar deg tilbake dit du var.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Prosesskartoppsett</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/process_chart_setup/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/process_chart_setup/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Prosesser laget i denne siden kan vises på to måter. Som prosesskart eller som ansvarsmatrise. Når dokumentet åpnes, vil det først vises som prosesskart. Derfra vil du kunne endre visning til ansvarsmatrise om minst en av fasene i prosessen er tilordnet en ansvarlig. Dokumentet vil også automatisk få et dokumenthode med informasjon om dokumentet, tilsvarende det tekstdokumenter skrevet i har Qm+.&lt;/p&gt;
+&lt;p&gt;Denne siden er delt i to deler. Den venstre siden viser en trestruktur for prosessen, mens den gøyre viser detaljer for den delen av treet som er valgt i den venstre siden.&lt;/p&gt;
+&lt;h3 id=&#34;generelt&#34;&gt;Generelt&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Når du oppretter en ny prosess, så får den samme navn som dokumentet den er laget i. Dette kan du endre.&lt;/li&gt;
+&lt;li&gt;Et prosesskart kan lages for alle språk tilgjenglig i systemet.&lt;/li&gt;
+&lt;li&gt;En prosess kan inneholde steg (noe som skal utføres i en rekkefølge) eller oppgaver (kan utføres i vilkårlig rekkefølge). Du kan ikke ha både steg og oppgaver på samme nivå. En ny prosess inneholder som standard 4 steg. Disse kan du så endre og tilpasse. Når man ser på prosesskartet, vises steg i gult og oppgaver i blått. Vi bruker fase som fellesbetegnelse for steg og oppgaver.&lt;/li&gt;
+&lt;li&gt;Hver fase kan ha en eller flere ansvarlige. Det må tilordnes ansvarlige til minst en fase om prosessen skal kunne vises som ansvarsmatrise. Ansvarlige kan være av typene:
+&lt;ul&gt;
+&lt;li&gt;Objekt: bruker, rolle, brukertype, avdeling.&lt;/li&gt;
+&lt;li&gt;Tekst: tekstfelt med begrenset størrelse (50 bokstaver).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hver fase kan ha attributter (selv om det er en prosess med underprosesser). Attributtene kan være av type:
+&lt;ul&gt;
+&lt;li&gt;Objekt: bruker,rolle, brukertype, meldingsskjema, dokument eller avdeling.&lt;/li&gt;
+&lt;li&gt;Tekst: begrenset lengde, vises inne i samme boks som navnet på steget/oppgaven (50 bokstaver).&lt;/li&gt;
+&lt;li&gt;Notat: lenger tekstfelt som vises i egen tabell under prosesskartet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Opprette prosesskart&lt;/li&gt;
+&lt;li&gt;Ansvarskoder&lt;/li&gt;
+&lt;li&gt;Steg&lt;/li&gt;
+&lt;li&gt;Attributt&lt;/li&gt;
+&lt;li&gt;Oppgaver&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/prosesskart.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h3 id=&#34;hvordan-lage-et-prosesskart&#34;&gt;Hvordan lage et prosesskart&lt;/h3&gt;
+&lt;p&gt;Etter at du har laget et nytt dokument av typen prosesskart og fyllt inn de vanlige dokumentrelaterte opplysningene, så trykker du Lagre. Dette gjør arkfanen Prosesskartoppsett vises. Når du trykker på den første gangen, lager systemet automatisk en prosess med samme navn som dokumentet som inneholder 4 hovedsteg. Om du ser på treestrukturen til ventre i bildet, så ser du disse 4 stegene. Hver gang du trykker på en fase i treet, så viser den høyre delen av bildet informasjon om den aktuelle fasen. Fasene i treet kan klikkes på med høyre musetast for en hurtigmeny for å utføre operasjoner på den aktuelle fasen. Dette er som regel mye raskere enn å bruke tilsvarende knapper i det høyre hovedbildet.&lt;/p&gt;
+&lt;h4 id=&#34;endre-prosessen&#34;&gt;Endre prosessen&lt;/h4&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Keyboard.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Språkinnstillinger&lt;/p&gt;
+&lt;p&gt;Her vises språkene som er tilgjengelig i din virksomhet. Kryss av for de språkene du ønsker prosesskartet skal være tilgjenglig i og gi det navn i alle språkene. Språkene du velger her vil gjelde for hele prosesskartet.&lt;/p&gt;
+&lt;h4 id=&#34;hahahugoshortcodes4hbhb-velg-ansvarskoder-for-prosessen&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_gear.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Velg ansvarskoder for prosessen&lt;/h4&gt;
+&lt;p&gt;Her kan du velge hvilke av de tilgjenglige ansvarskodene som skal brukes i dette prosesskartet. Velg de du ønsker fra listen til høyre og trykk på Legg til knappen. Ansvarskodene du velger her vil senere kunne brukes når du legger til ansvarlige for de ulike fasene. Dersom du trenger å lage en ny ansvarskode, så kan du lukke dette vinduet og trykke på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny ansvarskode knappen. Det vil ta deg til ansvarskode arkfanen hvor du kan lage den nye ansvarskoden. Når du trykker Lagre og Lukk der, vil du komme tilbake til denne siden. Det må tilordnes ansvarskoder til prosessen om den skal kunne vises som ansvarsmatrise.&lt;/p&gt;
+&lt;h4 id=&#34;sett-standard-attributt-type&#34;&gt;Sett standard attributt type&lt;/h4&gt;
+&lt;p&gt;Her får du en liste med de tilgjengelige attributtypene. Det du velger her vil være forhåndsvalgt hver gang du legger til en ansvarlig eller et attributt av typen Objekt til en fase. Om du ikke velger noe her, vil typen øverst i listen være forhåndsvalgt. Denne operasjonen er kun ment for å spare arbeid senere og har ingen effekt utover dette.
+Endre en fase&lt;/p&gt;
+&lt;h4 id=&#34;hahahugoshortcodes6hbhb-legg-til-steg&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Stepimage.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til steg&lt;/h4&gt;
+&lt;p&gt;Her kan du legge inn navnet på steget i alle språkene du valgte i Språkinnstillinger tidligere. Du kan også legge inn posisjon, som viser hvor i rekkefølgen dette steget kommer. Denne knappen er kun synlig om det ikke er laget noen faser av typen oppgave på dette nivået.&lt;/p&gt;
+&lt;p&gt;Merk: Som standard settes prosessen opp med 4 hovedsteg. Du kan lage flere av dem om du bruker denne knappen når prosessnavnet er valgt i treet, eller du høyreklikker på denne. Hvis prosessen din skal bestå av oppgaver istedet for steg, så må du slette de eksisterende stegene. Det gjør du ved å høyreklikke på et steg i treet og velge Slett. Når alle stegene er slette, vil muligheten for å legge til oppgaver bli synlig.&lt;/p&gt;
+&lt;h4 id=&#34;hahahugoshortcodes7hbhb-legg-til-oppgave&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Taskimage.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til oppgave&lt;/h4&gt;
+&lt;p&gt;Her kan du legge inn navnet på steget i alle språkene du valgte i Språkinnstillinger tidligere. Du kan også velge posisjon, som kun vil påvirke hvor oppgaven vil vises i trestrukturen under den overliggende fasen. Denne knappen er kun synlig om det ikke er laget noen faser av typen steg på dette nivået.&lt;/p&gt;
+&lt;h4 id=&#34;hahahugoshortcodes8hbhb-importer-prosesskart&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Importer prosesskart&lt;/h4&gt;
+&lt;p&gt;Med denne knappen kan du importere et eksisterende prosesskart inn i dette prosesskartet. Endringer utført på orginalen etter importen vil ikke påvirke dette prosesskartet. Du kan også fritt endre enhver av de importerte fasene uten at det påvirker prosesskartet som ble importert. Denne knappen er kun synlig om det ikke er laget noen faser på dette nivået.&lt;/p&gt;
+&lt;h4 id=&#34;endre&#34;&gt;Endre&lt;/h4&gt;
+&lt;p&gt;Denne muligheten vises når du høyreklikker på en fase i teet og gir samme muligheter som de so vises på høyre side når du trykker på fasen i treet med venstre museknapp.&lt;/p&gt;
+&lt;h4 id=&#34;slett&#34;&gt;Slett&lt;/h4&gt;
+&lt;p&gt;Denne muligheten vises når du høyreklikker på en fase i teet. Hvis fasen du forsøker å slette har underfaser blir du spurt om hva du vil gjøre med disse. Du kan enten slette dem eller flytte dem under en annen fase. Dersom fasen du forsøker å slette ikke har underfaser, vil du kun bli spurt om du virkelig ønsker å slette fasen.&lt;/p&gt;
+&lt;h4 id=&#34;legg-til-ansvarlig&#34;&gt;Legg til ansvarlig&lt;/h4&gt;
+&lt;p&gt;Her kan du velge hvem som skal være ansvarlig for den valgte fasen og hvilken ansvarskode den ansvarlige skal ha. Du kan ha flere ansvarlige for samme fase, både med samme eller ulik ansvarkode. Når du legger til en ansvarlig, velger du først ansvarskoden, deretter typen til den ansvarlige. Du kan velge mellom objekt eller tekst. Velg objekt om du ønsker å tilknytte enten en bruker,rolle, brukertype eller avdeling (her vil den typen du har valgt som standard attributtype være forhåndsvalgt). Hvis ikke, velger du tekst som gir deg muligheten til å legge inn en kort beskrivende tekst (maks 50 tegn). Alle ansvarlige du legger til her, vil vises i en tabell under Legg til ansvarlig knappn. Der vil du senere kunne gjøre endringer ved å bruke knappene for 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ endre eller 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ slette.&lt;/p&gt;
+&lt;h4 id=&#34;legg-til-attributt&#34;&gt;Legg til attributt&lt;/h4&gt;
+&lt;p&gt;Her kan du legge til flere attributrer til fasen. Først velger du typen til attributtet. Her vil den typen du har valgt som standard attributtype være forhåndsvalgt. De tilgjenglige typene er:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Objekt: Gir ekstra valg av objekttype:
+&lt;ul&gt;
+&lt;li&gt;Bruker: Brukerens navn vises i prosesskartet.&lt;/li&gt;
+&lt;li&gt;Rolle: Rollens navn vises i prosesskartet.&lt;/li&gt;
+&lt;li&gt;Brukertype: Brukertypens navn vises i prosesskartet.&lt;/li&gt;
+&lt;li&gt;Avdeling: Avdelingens navn vises i prosesskartet. Denne fasen vil vises som standard når prosesskartet vises senere dersom samme avdeling er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Dokument: Dokumentets navn vises i prosesskartet sammen med dokumentikonet. Trykker man på navnet eller ikonet, vil dokumentet åpnes i et eget vindu. Dokumentattributter vises også i ansvarskartet.&lt;/li&gt;
+&lt;li&gt;Meldingsskjema: Skjemaet navn, sammen med meldingsskjemaikonet vises i prosesskartet. Trykker man på skjemaet der, vil det åpnes klart til utfylling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tekst: Tekstfelt med begrenset størrelse (50 tegn).&lt;/li&gt;
+&lt;li&gt;Notat: Gir mulighet for å skrive en lengre tekst. I prosesskartet vises notater kun som ordet notat med et nummer bak i listen over attributter. Selve notatteksten vises i en egen tabell nederst i siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Du kan også velge posisjon som bestemmer rekkefølgen til attributtene i fasen.&lt;/p&gt;
+&lt;p&gt;Alle attributter du legger til vil vises i tabellen under knappen. Der kan du senere endre attributtene ved å bruke 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ endre eller 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ slette.&lt;/p&gt;
+&lt;h3 id=&#34;visning&#34;&gt;Visning&lt;/h3&gt;
+&lt;p&gt;Et dokument av typen prosesskart kan vises på to måter: som 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ prosesskart (grafisk presentasjon av prosessen) eller 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_side_tree.png&#34;  width=&#34;&#34; /&gt;
+
+
+ ansvarsmatrise (dersom noen ansvarlige er lagt til prosessen). Knapper for å åpne disse bildene vises nederst på siden og åpner visningen i et nytt vindu.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Når dokumentet er åpnet, får det automatisk et dokumenthode med informasjon om dokumentet, likt den tekstdokumenter skrevet i Qm+ får.&lt;/li&gt;
+&lt;li&gt;Begge visningsmåtene kan eksporteres til en .pdf fil. Om man trykker på Vis som pdf knappen åpnes Alternativer for prosessrapporter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;prosesskart&#34;&gt;Prosesskart&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Navnet på prosessen vises sentralt over selve prosesskartet.&lt;/li&gt;
+&lt;li&gt;Steg vises som gule bokser. De er forbundet med overliggende faser via svarte piler.&lt;/li&gt;
+&lt;li&gt;Oppgaver vises med blå bokser og er forbumnet med overliggende faser med små, blå piler.&lt;/li&gt;
+&lt;li&gt;Dersom visning av hele prosesskartet ikke er skrudd på, så kan de fasene som har underliggende faser trykkes på for å utvide den delen av prosesskartet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;velg-hva-du-vil-se&#34;&gt;Velg hva du vil se&lt;/h4&gt;
+&lt;p&gt;Øverst til høyre ser du et felt som inneholder avkryssingsfelt for hva som skal vises i prosesskartet. Det som er krysset av her vil også være med om man bruker Vis som pdf knappen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis ansvarlige: Skrur visningen av de ansvarlige av og på. De ansvarlige vises med ansvarskode og navn med rød skrift i de fasene de er lagt inn.&lt;/li&gt;
+&lt;li&gt;Vis attrbutter:
+&lt;ul&gt;
+&lt;li&gt;Meldingsskjemaer vises med blå skrift og har ikonet 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ forran. Om man trykker på navnet eller ikonet vil vinduet med prosesskartet lukkes og skjemaet kommer opp klar til utfylling. Når du lukker meldingsskjemaet blir du tatt tilbake igjen til siden du åpnet prosesskartet fra.&lt;/li&gt;
+&lt;li&gt;Dokumenter vises med blå skrift og har ikonet 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+. Om du klikker på navnet på dokumentet eller ikonet åpnes dokumentet i et nytt vindu.&lt;/li&gt;
+&lt;li&gt;Notater vises som Notat&lt;nummer&gt; med cvart skrift i prosesskartet. Disse kan trykkes på og endrer da fokus til tabellen under prosesskartet hvor notatene er listet opp.&lt;/li&gt;
+&lt;li&gt;Alle andre typer attributter vises med svart skrift. Det har ingen effekt å trykke på de.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vis hele prosesskartet: Skrur visning av hele prosesskartet av og på. Når denne er skrudd av, vises kun fasene på første nivå. Dersom noen av disse har underfaser, så kan de trykkes på for å vise disse. Hvis musepekeren bli til en hånd når du holder pekeren over fasen, kan den trykkes på for å utvides.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ansvarsmatrise&#34;&gt;Ansvarsmatrise&lt;/h4&gt;
+&lt;p&gt;Dersom en prosess har minst en ansvarlig definert for en fase, kan prosessen vises som en ansvarsmatrise. Ansvarsmatrisen lister opp alle fasene i en trestruktur sammen med navnene på de ansvarlige og ansvarskoden de har i de ulike fasene.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dersom en fase har et dokumentattributt, vises ikonet 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ ved siden av prosessnavnet. Trykker du på dette vil feltet uvide seg og vis navnene på alle dokumentattributter i den fasen. Disse kan igjen trykkes på for å åpne de aktuelle dokumentene.&lt;/li&gt;
+&lt;li&gt;Under ansvarsmatrisen ligger en egen tabell med navnene og informasjonsfeltene for alle ansvarskodene tilknyttet denne prosessen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Revisjonsoversikt</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/audit_overview/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/audit_overview/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Viser tabell med alle revisjoner dokumentet har deltatt i. Trykk på en rad i tabellen for å åpne den aktuelle revisjonen.&lt;/p&gt;
+&lt;h4 id=&#34;tabell&#34;&gt;Tabell&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Revisjonsnummer. Identifikator for revisjonen.&lt;/li&gt;
+&lt;li&gt;Informasjon. Fritekstfelt med informasjon skrevet inn av den revsjonsansvarlige.&lt;/li&gt;
+&lt;li&gt;Revisjonsansvarlig. Navn på bruker som er ansvarlig for gjennomføringen av revisjonen.&lt;/li&gt;
+&lt;li&gt;Avdeling. Navn på avdelingen der revisjonen er opprettet på.&lt;/li&gt;
+&lt;li&gt;Startdato. Tidspunkt revisjonen starter.&lt;/li&gt;
+&lt;li&gt;Frist. Tidspunkt for frist for revisjonen.&lt;/li&gt;
+&lt;li&gt;Avsluttet. Tidspunkt for når revisjonen ble avsluttet. Ellers blank.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Rolleoversikt</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/overview_roles/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/overview_roles/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Et dokument uten roller:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Er tilgjengelig for alle brukere fra og med den avdelingen dokumentet er lagt opp.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Et dokument tilknyttet roller vises under Info kun for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukere tilordnet en eller fler av de samme rollene.&lt;/li&gt;
+&lt;li&gt;Brukere som har valgt en avdeling tilknyttet en eller fler av de samme rollene som dokumentet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Roller begrenser ikke tilgangen til dokumenter under Admin/Dokumenter.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Versjonsoversikt</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/version_overview/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/version_overview/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes til å gi en oversikt over alle versjoner av dokumentet.&lt;/p&gt;
+&lt;h3 id=&#34;tabell&#34;&gt;Tabell&lt;/h3&gt;
+&lt;p&gt;Tabellen har en rad per Versjon (Hovedversjon) dokumentet har vært gjennom.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn: Navn på dokumentet for denne versjonen.&lt;/li&gt;
+&lt;li&gt;Versjon: Versjonsnummer.Endringsnummer. Lag ny versjon når det er gjort større endringer i dokumentet. Må endres manuelt. Endringsnummeret endres for hver lagrede endring i dokumentet.
+&lt;ul&gt;
+&lt;li&gt;Klikk 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ for å vise underversjonene.&lt;/li&gt;
+&lt;li&gt;Den versjonen som er publisert og vises under Info markeres med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_put.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kopier og sett som siste versjon: Klikk på denne for å kopiere denne versjonen og sette den som en ny versjon. Kopierer alt innhold og dokumentdata, inkludert navnet. Viser bare for dokumenter av typen &amp;ldquo;Skriv et dokument&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Adresse: Adressen til dokumentet. Trykk på denne for å åpne dokumentet i valgt versjon.&lt;/li&gt;
+&lt;li&gt;Lagt inn av: Den som lagde denne versjonen.&lt;/li&gt;
+&lt;li&gt;Opprettet: Tidspunktet den aktuelle versjonen ble opprettet.&lt;/li&gt;
+&lt;li&gt;Sist endret av: Brukeren som sist endret dokumentet.&lt;/li&gt;
+&lt;li&gt;Sist endret: Når ble siste endring utført.&lt;/li&gt;
+&lt;li&gt;Sammenlign: Du kan velge hvilke som helst 2 versjoner fra tabellen. Når du deretter klikker på Sammenlign versjoner-knappen, vil du kunne se teksten eller HTML-forskjellene mellom de to versjonene. Bruk knappen Sammenlign som HTML / Sammenlign som tekst for å bytte modus for sammenligningsvisning. Elementer som er lagt til er uthevet med grønt, mens fjernede elementer er uthevet med rødt og en gjennomstreket linje. Funksjonen fungerer kun for dokumenter skrevet i Qm+-editoren.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

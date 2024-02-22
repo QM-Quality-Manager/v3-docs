@@ -1,0 +1,236 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Funksjoner</title>
+    <link>https://docs3.qmplus.com/docs/document/functions/</link>
+    <description>Recent content in Funksjoner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/document/functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Endre data for dokumentet</title>
+      <link>https://docs3.qmplus.com/docs/document/functions/edit_document_data/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/functions/edit_document_data/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;hahahugoshortcodes0hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Som superbruker/leder kan jeg legge inn nye dokumenter.&lt;/li&gt;
+&lt;li&gt;Jeg kan velge om dokumentet skal hentes fra egen database: Klikk &amp;ldquo;Link&amp;rdquo;, eller fra en fil: Klikk &amp;ldquo;Fil&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Eller jeg kan skrivet dokumentet i redigeringsmodulen. Klikk arkfanen &amp;ldquo;Dokumentinnhold&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokumentdata: Brukes til å redigere dokumentdata. Dette er første siden som vises når man lager et nytt dokument.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokumentinnhold: Vises bare dersom dokumenttypen &amp;ldquo;Skriv et dokument&amp;rdquo; er valgt. Brukes dersom man ønsker å skrive et dokument rett inn i Qm+. Dokumentet blir lagret som et htmldokument og har en del formateringsmuligheter. Tekstredigeringsfeltet benytter TinyMCE.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Prosesskartoppsett: Vises bare dersom dokumenttypen &amp;ldquo;Prosesskart&amp;rdquo; er valgt og dokumentet er lagret minst en gang. Brukes for å definere de ulike feltene i et prosesskart.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Rolleoversikt: Brukes til å tilknytte roller.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Versjonsoversikt: Viser oversikt over alle versjoner, med dokumentet på det gjeldende tidspunkt, når det ble endret og hvem som utførte endringen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Telephone_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Høring / Godkjenning: Brukes for å opprette nye høringer, bestemme hvem som skal delta og godkjenne.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lest og forstått: Viser oversikt med status for alle Lest og forstått aktiviteter dokumentet har hatt.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_code.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Revisjonsoversikt : Viser oversikt over alle revisjoner dokumentet har vært gjennom.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Image_link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Referanseoversikt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc_multiple.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Opprett ny versjon: Lager en ny versjon for dokumentet.
+&lt;ul&gt;
+&lt;li&gt;Eksempel: Et dokument i versjon 3.14 vil ved å bruke denne knappen få versjon 4.1.&lt;/li&gt;
+&lt;li&gt;Er ment brukt før det skal gjøres større endringer i dokumentet.&lt;/li&gt;
+&lt;li&gt;Vises kun for dokumenter som er lagret minst en gang.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Disc.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre dokumentarkfane</title>
+      <link>https://docs3.qmplus.com/docs/document/functions/edit_document_tab/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/functions/edit_document_tab/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Vis for språket: Navnet på en dokumentarkfane kan registreres en gang per språk som er aktivisert i systemet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Navn: Brukes til å identifisere dokumentarkfanen i tabeller og oversikter. En dokumentarkfane kan ha et navn for hvert språk som er aktivisert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Posisjon: Dokumentarkfanes posisjon i Info.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fra avdeling: Dokumentarkfanen vil vises i Info fra og med den valgte avdelingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vises for underavdelinger: Hvis nei, vil Dokumentarkfanen kun vises i Info når avdelingen valgt i fra avdeling er valgt i navigatoren.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arkfane under: Brukes dersom denne arkfanen skal være en underarkfane, danne et nytt nivå arkfaner, under arkfanen som velges her. Arkfaner med underliggende arkfaner bør ikke selv ha egne dokumenter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Informasjon: Tekst som vises når man holder pekeren over arkfanen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rolleoversikt: En dokumentarkfane med roller vil kun vises dersom brukeren som åpner Info eller avdelingen som er valgt har minst en av rollene arkfanen har.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;laquo; Legg til: Legger den valgte rolle til denne dokumentarkfanen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fjern &amp;raquo;: Fjerner den valgte rolle fra denne dokumentarkfanen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Endre dokumentgruppe</title>
+      <link>https://docs3.qmplus.com/docs/document/functions/edit_document_group/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/functions/edit_document_group/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;felter&#34;&gt;Felter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Navnet på en dokumentgruppe kan registreres en gang per språk som er aktivisert i systemet.&lt;/li&gt;
+&lt;li&gt;Navn: Navn på dokumentgruppen.&lt;/li&gt;
+&lt;li&gt;Kolonne: Ikke spesifisert (Standard), Venstre kolonne, Høyre kolonne. Hvis venstre eller høyre kolonne er satt, vil gruppen alltid vises der under Info.&lt;/li&gt;
+&lt;li&gt;Posisjon: dokumentgruppens posisjon i Info. I Standardversjonen vises det to dokumentgrupper ved siden av hverandre. De neste to vises under disse igjen til alle dokumentgruppene er vist.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Dokumentgruppen vil vises i Info fra og med den valgte avdelingen.&lt;/li&gt;
+&lt;li&gt;Vises for underavdelinger: Hvis nei, vil dokumentgruppen kun vises i Info når avdelingen valgt i fra avdeling er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Starter lukket under Info: Nei (standard), Ja. En gruppe som starter lukket må trykkes på med musen for at dokumentene i den skal bli synlige.&lt;/li&gt;
+&lt;li&gt;Bakgrunnsfarge: Hvis man ønsker en spesiell bakgrunnsfarge for dokumentgruppen, kan den velges her.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Color_wheel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Velg farge: Åpner en oversikt over farger man kan velge fra.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

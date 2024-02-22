@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Tabs</title>
+    <link>https://docs3.qmplus.com/en/docs/user/tabs/</link>
+    <description>Recent content in Tabs on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/user/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: User types</title>
+      <link>https://docs3.qmplus.com/en/docs/user/tabs/user_types/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/user/tabs/user_types/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here you can manage the company&amp;rsquo;s user types. Only users with the system role System role administrator or User administrator can see this tab.&lt;/p&gt;
+&lt;p&gt;You need to have the system role System role administrator in order to be able to make changes.&lt;/p&gt;
+&lt;p&gt;You can sort the table by any of the columns if you click on the column headers.&lt;/p&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New user type: Opens the Edit user type page with the possibility to create a new user type.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Takes you to the Edit user type page to edit the specific user type of that row in the table.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Deletes this user type. Only available if the user type is not assigned to any user.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

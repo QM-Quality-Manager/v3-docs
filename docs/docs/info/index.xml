@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Info</title>
+    <link>https://docs3.qmplus.com/docs/info/</link>
+    <description>Recent content in Info on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/info/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/info/tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Dette er landingsiden for dokumentasjon relatert til info siden.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

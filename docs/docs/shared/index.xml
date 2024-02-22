@@ -1,0 +1,530 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goldydocs – Delt dokumentasjon</title>
+    <link>https://docs3.qmplus.com/docs/shared/</link>
+    <description>Recent content in Delt dokumentasjon on Goldydocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/shared/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Definisjoner</title>
+      <link>https://docs3.qmplus.com/docs/shared/definitions/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/definitions/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;arkfane&#34;&gt;Arkfane&lt;/h1&gt;
+&lt;p&gt;Navigasjonsstrukturen i Qm+ er bygd opp av arkfaner.&lt;/p&gt;
+&lt;p&gt;De har et navn som beskriver det stedet i systemet man kommer til hvis man trykker på den. De fleste har også en beskrivende tekst som kommer opp når man holder musepekeren i ro over den.&lt;/p&gt;
+&lt;p&gt;Arkfanene beskriver også hvor i systemet man er. De arkfanene som er mørkere enn de andre er valgt.&lt;/p&gt;
+&lt;p&gt;Eksempel :&lt;/p&gt;
+
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arkfanebeskrivelse.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+&lt;p&gt;Her står vi i Arkiv / Meldinger/UH / Nye saker.&lt;/p&gt;
+&lt;h1 id=&#34;sak&#34;&gt;Sak&lt;/h1&gt;
+&lt;p&gt;En sak i Qm+ er enten en melding, et tiltak, en høring eller en revisjon.&lt;/p&gt;
+&lt;h1 id=&#34;risikomelding&#34;&gt;Risikomelding&lt;/h1&gt;
+&lt;p&gt;Risikomeldinger er meldinger som brukes for å lage en risikooversikt for virksomheten. Det er opp til virksomheten om risikomeldingene skal behandles eller om de kun skal registreres og lagres i arkivet. Vår anbefaling er at de ikke behandles, kun oppdateres årlig. Risikomeldinger kan bare lukkes av QmPlus AS (som et unntak), siden de normalt ikke skal behandles. Meldinger registrert her dukker ikke opp i Innboks med mindre man bruker behandling for å aktivere dem. Meldingstypen risikomelding er ikke aktivert i standardversjonen.&lt;/p&gt;
+&lt;h1 id=&#34;sjekkliste&#34;&gt;Sjekkliste&lt;/h1&gt;
+&lt;p&gt;En sjekkliste er en liste som blir vist med avkryssningsfelt forran spørsmålet. For å kunne redigere svaralternativer må listetypen spørreskjema benyttes. En sjekkliste er tenkt brukt som en &amp;ldquo;finn feilen liste&amp;rdquo;. Dvs list opp en rekke vanlige feil innenfor det området som skal undersøkes. Brukerne krysser så av for punktet i listen dersom de kjenner til feilen. Se liste for forklaring på datafeltene.&lt;/p&gt;
+&lt;h1 id=&#34;standard-saksbehandler&#34;&gt;Standard saksbehandler&lt;/h1&gt;
+&lt;p&gt;Hvis et meldingsskjema har satt en standard saksbehandler vil meldinger registrert med dette meldingsskjemaet dukke opp i Saker jeg er ansvarlig for siden til standard saksbehandleren i stedenfor til lederen på avdelingen der meldingen ble registrert. Meldingen vil fremdeles være registrert på avdelingen den ble registrert og vises der i rapporter og søk.&lt;/p&gt;
+&lt;p&gt;Dersom samme meldingsskjema er satt opp med flere standard saksbehandlere med overlappende avdelinger vil melderen kunne velge mellom disse i en nedfallsmeny når meldingen registreres. I registreringsbildet er det også et avkryssningsfelt for om det skal sendes epost til den valgte saksbehandleren når meldingen registreres.&lt;/p&gt;
+&lt;h1 id=&#34;superbruker&#34;&gt;Superbruker&lt;/h1&gt;
+&lt;p&gt;Superbrukeren er en bruker som har bestått superbrukerkurset for Qm+. Superbrukeren har virksomhetens høyeste tilgang til Qm+. Dette betyr tilgang som brukertypen leder uten begrensende roller og ofte noen ekstra systemroller.&lt;/p&gt;
+&lt;p&gt;Superbrukeren skal bistå de andre brukerne i virksomheten og fungere som lokal brukerstøtte for Qm+.&lt;/p&gt;
+&lt;p&gt;Alle superbrukere har rett på gratis telefonsupport fra Qm+ og kan benytte seg av denne dersom han mottar spørsmål fra sin virksomhets brukere han trenger hjelp til å besvare. En eller fler av virksomhetens superbrukere fungerer som regel også som kontaktperson for virksomheten mot QmPlus AS.&lt;/p&gt;
+&lt;p&gt;Alle ønsker om endret funksjonalitet i systemet må formidles via kundens kontaktperson slik at vi vet at ønsket har støtte i hele virksomheten.&lt;/p&gt;
+&lt;h1 id=&#34;svaralternativgruppe&#34;&gt;Svaralternativgruppe&lt;/h1&gt;
+&lt;p&gt;En samling med svaralternativ som kan kobles til spørsmål i et spørreskjema. Vedlikeholdes i svaralternativgrupper.&lt;/p&gt;
+&lt;p&gt;En svaralternativgruppen sorterer under en bestemt svaralternativgruppeoversikt. Dette brukes kun til å skille svaralternativgrupper fra hverandre i endre svaralternativer og svaralternativgrupper.&lt;/p&gt;
+&lt;h1 id=&#34;svartype&#34;&gt;Svartype&lt;/h1&gt;
+&lt;p&gt;Hvert spørsmål i en liste kan ha en svartype.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Svartypene:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Enkeltvalg: En avkryssningen til hvert spørsmål. Er det først krysset av for et spørsmål må spørsmålet besvares. Dette er standardvalget som blir brukt dersom det ikke foretas en endring.&lt;/li&gt;
+&lt;li&gt;Flervalg: Ingen til alle svaralternativene til hvert spørsmål kan krysses av.&lt;/li&gt;
+&lt;li&gt;Tekst: Det blir ikke vist noen avkryssningsboks for dette spørsmålet, kun kommentarfelt. Fungerer ikke for listeversjon.&lt;/li&gt;
+&lt;li&gt;Fritekst tall: Et tall kan skrives inn som svar på dette spørsmålet. Grafen vil vise summen av alle tallene skrevet inn til et slikt spørsmål.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tips: Bruk svartype Flervalg for spørsmål med kun ett svaralternativ, slik som i en sjekkliste. Ellers vil det ikke være mulig å ta vekk avkryssingen om man skulle ombestemme seg.&lt;/p&gt;
+&lt;h1 id=&#34;søkekriterie&#34;&gt;Søkekriterie&lt;/h1&gt;
+&lt;p&gt;Søkekriterie er det som er søkt etter når man gjør et søk.&lt;/p&gt;
+&lt;p&gt;Vises som en tabell over søkeresultatet etter et utført søk. Søk kan startes fra Rapporter, Søk meldinger, Søk tiltak eller ved å trykke på risikomatrisen i Risiko. Alle søkeresultater vises i tabellform i Arkiv eller som grafer under Rapporter under sin tilhørende Arkfane.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alle data vist i nedfallsmenyer kan endres. Slike endringer medfører at søket oppdaterer seg.&lt;/li&gt;
+&lt;li&gt;Data etterfulgt av 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ kan fjernes fra søkekriteriene. Det medfører at søket oppdaterer seg.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tiltaksprosessen&#34;&gt;Tiltaksprosessen&lt;/h1&gt;
+&lt;p&gt;Tiltaksprosessen er prosessen fra et tiltak opprettes til det blir godkjent og lukket.&lt;/p&gt;
+&lt;p&gt;Følges opp gjennom tiltaksbehandling.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Under planlegging: Alle tiltak starter med denne statusen. I denne fasen skal tiltaket planlegges. Gi først tiltaket et navn slik at det blir lett å identifisere senere, og fyll inn kostnadsrammen dersom dere bruker dette feltet. Tekstfeltene Korrigerende tiltak og Hvordan hindre gjentakelse må fylles ut slik at de som skal gjennomføre tiltaket skjønner hva de skal gjøre. Tiltakskategoriene kan også fylles ut nå. Siste punkt er å plukke ut de som skal utføre tiltaket og gi dem en frist. Dette gjøres i det obligatoriske Oversikt over ansvarlige feltet. Trykk så på Send til gjennomføring &amp;raquo; eller &amp;raquo; knappen i statusfeltet for å lagre tiltaket og skifte status til Under gjennomføring.&lt;/li&gt;
+&lt;li&gt;Under gjennomføring: I denne fasen skal jobben som beskrives i tiltaket gjennomføres. Deretter skal det krysses av for utført av de som utført tiltaket. Det kan også skrives en kommentar i kommentarfeltet og den faktisk kostnaden kan fylles hvis den er tilgjengelig. Når alle avkryssninger er gjordt, brukes knappen Send til godkjenning eller &amp;raquo; knappen i statusfeltet. Dette lagrer tiltaket og endrer status til Under godkjenning.&lt;/li&gt;
+&lt;li&gt;Under godkjenning: Her skal den som opprette tiltaket kontrollere at alt er i orden før tiltaket godkjennes.&lt;/li&gt;
+&lt;li&gt;Godkjent: Et godkjent tiltak er lukket og låst og kan ikke endres annet enn av brukere med systemrollen innholdsadministrator. Kommentarer til alle involverte brukere kan fortsatt sendes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;visningsform&#34;&gt;Visningsform&lt;/h1&gt;
+&lt;p&gt;Styrer hvordan listen blir vist.&lt;/p&gt;
+&lt;p&gt;Mulige visningsformer: Papirversjon, listeversjon (eller listeform), Vis som enkeltspørsmål.&lt;/p&gt;
+&lt;h1 id=&#34;definerende-kategori&#34;&gt;Definerende kategori&lt;/h1&gt;
+&lt;p&gt;En definerende kategori er den kategorien som beskriver hva meldingen dreier seg om. Det er obligatorisk å krysse av for en definerende kategori for at et meldingsskjema skal kunne lagres. En definerende kategori defineres ved at den tilhører en kategorigruppe med kategorigruppetypen definerende. I et meldingsskjema blir definerende kategorier markert med ikonet Tag blue.png og de er alltid enkeltvalg. Kun en definerende kategori kan være avkrysset per melding. Dersom det er flere kategorigrupper av typen definerende kategori, kan kun en av dem være avkrysset.&lt;/p&gt;
+&lt;h1 id=&#34;delplan&#34;&gt;Delplan&lt;/h1&gt;
+&lt;p&gt;Aktiviteter organiseres i delplaner.&lt;/p&gt;
+&lt;p&gt;Denne organiseringen har ingen betydning i systemet utover det å gjøre det enklere å finne frem til aktiviteter når det bli mange av dem. I Kalender under Aktivitetsplan blir aktivitetene vist per delplan&lt;/p&gt;
+&lt;h1 id=&#34;mobilversjonen&#34;&gt;Mobilversjonen&lt;/h1&gt;
+&lt;p&gt;Mobilversjonen av Qm+ er et eget grensesnitt tilpasset visning på mobile enheter. Tilpassningen gjøres ved at det kun sendes over det aller nødvendigste av informasjon og alt vises som korte tekster. Det er mulig å registrere både meldinger, sjekklister og spørreskjemaer i denne versjonen. All informasjon registrert er er synlig i den vanlige Qm+ versjonen på samme måte som ellers.&lt;/p&gt;
+&lt;p&gt;Startsiden for mobilversjonen er wap.qmplus.net. Pålogging skjer ved bruk av samme virksomhet, brukernavn og passord som ved vanlig pålogging.&lt;/p&gt;
+&lt;p&gt;Mobilversjonen er en ekstramodul som må bestilles spesielt.&lt;/p&gt;
+&lt;h1 id=&#34;endre-dato&#34;&gt;Endre dato&lt;/h1&gt;
+&lt;p&gt;Endre dato er en funksjon for å endre enkeltdatoer for periodiske aktiviteter.&lt;/p&gt;
+&lt;p&gt;Tilgjengelig fra aktiviteter.&lt;/p&gt;
+&lt;h5 id=&#34;felter&#34;&gt;Felter&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fra: Tidspunktet aktiviteten starter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Til: Aktiviteten avsluttes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;knapper&#34;&gt;Knapper&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringene utført i feltene.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Tar deg tilbake til siden du kom fra.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;prioritet&#34;&gt;Prioritet&lt;/h1&gt;
+&lt;p&gt;Meldinger i Qm+ kan ha ulik prioritet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lav: Markeres med grønt.&lt;/li&gt;
+&lt;li&gt;Middels: Markeres med gult.&lt;/li&gt;
+&lt;li&gt;Høy: Markeres med rødt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et tiltak får samme prioritet som den meldingen med høyest prioritet den har tilkoblet.&lt;/p&gt;
+&lt;h1 id=&#34;kategori&#34;&gt;Kategori&lt;/h1&gt;
+&lt;p&gt;En kategori er i de fleste tilfeller et avkryssningspunkt i et meldingsskjema. Alle kategorier er med i en kategorigruppe. Kategorigruppetypen til kategorigruppen bestemmer hvordan kategorien blir vist i meldingsskjemaet. All informasjon som blir lagt inn i forhold til en kategori i et meldingsskjema kan hentes ut som en rapport via Rapporter. Kategoriene kan også brukes til å finne frem til grupper av bestemte meldinger via søksidene for meldinger og tiltak.&lt;/p&gt;
+&lt;p&gt;Vedlikeholdes under endre kategori.&lt;/p&gt;
+&lt;h4 id=&#34;data&#34;&gt;Data&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Brukes for å velge språket navnet på Kategorigruppen skal redigeres for. Vises bare for kunder som har flere aktive språk.&lt;/li&gt;
+&lt;li&gt;Kategorigruppe: Kategoriens gruppe.&lt;/li&gt;
+&lt;li&gt;Kategorinavn: Navnet som blir brukt til å representere kategorien. En kategori kan ha et navn per aktive språk i systemet.&lt;/li&gt;
+&lt;li&gt;Prioritet: Lav, Middels, Høy. Den forhåndsdefinerte prioriteten til en kategori. Kan overstyres av den som fyller ut et meldingsskjema. En meldings prioritet blir den høyeste prioriteten til de avkryssede kategoriene med mindre den blir overstyrt av brukeren.&lt;/li&gt;
+&lt;li&gt;Kostnad: Den forhåndsdefinerte kostnaden for en kategori. Kan overstyres av den som fyller ut et meldingsskjema. En meldings kostnad blir summen av kostnadene til de avkryssede kategoriene, med mindre den overstyres av brukeren. Kostnadsfunksjonaliteten kan fjernes for de som ønsker det.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Avdelingen kategorien er tilgjengelig fra.&lt;/li&gt;
+&lt;li&gt;Tilknyttet dokument: Et dokument som vil aktiveres dersom man trykker på kategorien i meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;Informasjon: Tekstfelt som blir synlig når man holder pekeren over kategorien i meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;Risikodata: Vises kun for kategorier som tilhører en kategorigruppe med Kategorigruppetypen risiko. Brukes for å sette ulike akseptansekriterier for ulike risikokategorier.
+&lt;ul&gt;
+&lt;li&gt;Start gult risikoområde: Oversikter for denne kategorien vil gi gul risikoverdi fra og med denne risikoverdien.&lt;/li&gt;
+&lt;li&gt;Start rødt risikoområde: Oversikter for denne kategorien vil gi rød risikoverdi fra og med denne risikoverdien.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kategorigruppetype&#34;&gt;Kategorigruppetype&lt;/h1&gt;
+&lt;p&gt;Kategorigruppetypen til en kategorigruppe bestemmer hvordan kategoriene i gruppen vises og besvares i et meldingsskjema.&lt;/p&gt;
+&lt;h4 id=&#34;typer&#34;&gt;Typer&lt;/h4&gt;
+&lt;h5 id=&#34;definerende-kategori-1&#34;&gt;Definerende kategori&lt;/h5&gt;
+&lt;p&gt;Er ment til å beskrive hva som er temaet for en melding. Enkeltvalg for hele meldingsskjemaet. Dersom det er flere definerende grupper i et meldingsskjema, vil det kun være mulig å krysse av for en kategori i en av gruppene. Et meldingsskjema kan bare lagres dersom en kategori som tilhører en definerende kategorigruppe er krysset av. Definerende kategorier er de eneste som i utgangspunktet er obligatoriske å fylle ut i et meldingsskjema. Definerende kategorier vises som standard øverst til venstre med en oransj bakgrunnsfarge og er markert med ikonet Tag blue.png.&lt;/p&gt;
+&lt;h5 id=&#34;enkeltvalg&#34;&gt;Enkeltvalg&lt;/h5&gt;
+&lt;p&gt;Brukes for å gi utfyllende informasjon i et meldingsskjema. Enkeltvalg per gruppe. Vises til venstre under de definerende kategoriene.&lt;/p&gt;
+&lt;h5 id=&#34;flervalg&#34;&gt;Flervalg&lt;/h5&gt;
+&lt;p&gt;Brukes for å gi utfyllende informasjon i et meldingsskjema. Vilkårlig mange kan krysses av. Vises til høyre.&lt;/p&gt;
+&lt;h5 id=&#34;tiltak&#34;&gt;Tiltak&lt;/h5&gt;
+&lt;p&gt;Brukes for å gi utfyllende informasjon om hva slags tiltak som bør brukes for å ta seg av forholdene meldingen dreier seg om. Vilkårlig mange kan krysses av. Kategorier i denne gruppen blir tatt med videre i tiltaket dersom det lages et tiltak for en melding. Vises sentralt under tekstfeltene i meldingsskjemaet.&lt;/p&gt;
+&lt;h5 id=&#34;tall&#34;&gt;Tall&lt;/h5&gt;
+&lt;p&gt;Gir et tekstfelt der et vilkårlig tall kan skrives inn. Velges en gruppe av denne typen under Rapporter vil kostnadsgrafen være byttet ut med en graf som viser summen av verdiene i disse feltene. Vises til høyre i meldingsskjemaet.&lt;/p&gt;
+&lt;h5 id=&#34;risiko&#34;&gt;Risiko&lt;/h5&gt;
+&lt;p&gt;Hver kategori av denne typen får to nedfallsmenyer der en verdi fra 1 til 5 kan velges. Den første symboliserer sannsynligheten for at hendelsen vil intreffe den andre konsekvensen. Disse verdiene blir automatisk multiplisert til en risikoverdi. Risikoverdien får en farge basert på grenseverdiene som er satt for kategorien. Meldinger med verdier &amp;gt; 0 for en risikokategori kommer opp i risikorapporten under Rapporter. Vises sentralt i meldingsskjemaet under tiltakskategoriene.&lt;/p&gt;
+&lt;h1 id=&#34;kommentarmelding&#34;&gt;Kommentarmelding&lt;/h1&gt;
+&lt;p&gt;Kommentarmeldinger er meldinger som er registrert som svar på en liste delt ut via Aktivitetsplan. Kommentarmeldinger er registrert i et vanlig meldingsskjema. Bare det første tekstfeltet i melsdingsskjemaet som er koblet sammen med listen vises som kommentarfelt inne i listen.&lt;/p&gt;
+&lt;p&gt;Kommentarmeldinger kan behandles som andre meldinger. I standardversjonen vises ikke kommentarmeldinger under Innboks med mindre noen overfører dem til en saksbehandler, har gitt dem en frist eller laget et tiltak til dem.&lt;/p&gt;
+&lt;p&gt;Kommentarer til aktiviteten i Aktivitetsplan brukes for å få en oversikt over alle kommentarmeldinger for en aktivitet.&lt;/p&gt;
+&lt;p&gt;For en oversikt over alle kommentarmeldinger kan Kommentarer under Rapporter eller Kommentarer under Arkiv brukes.&lt;/p&gt;
+&lt;h1 id=&#34;listeversjon&#34;&gt;Listeversjon&lt;/h1&gt;
+&lt;p&gt;Visningsform for lister. Brukes fortrinnsvis til sjekklister og risikoanalyser. Viser alle spørsmålene i en liste. Kommentarmuligheten kommer opp på side to etter at Lagre er trykket på.&lt;/p&gt;
+&lt;p&gt;Alle lister som vises når man er pålogget Qm+ på vanlig måte, dvs ikke pålogget via link i e-post direkte til listen bruker listeversjonen.&lt;/p&gt;
+&lt;h1 id=&#34;loggmelding&#34;&gt;Loggmelding&lt;/h1&gt;
+&lt;p&gt;Loggmeldinger er meldinger som normalt ikke behøver å behandles, kun registreres og lagt i arkivet. Eksempler på slik bruk kan være: referater og dokumentasjon av rett utførelse. Loggmeldinger vises derfor ikke under Innboks med mindre man bruker behandling for å aktivere dem. I Rapporter vises de i en egen arkfane. Meldingsskjemaer for å fylle ut loggmeldinger vises med grønn knapp i Innboks, istedet for den vanlige gule for vanlige meldinger.&lt;/p&gt;
+&lt;p&gt;Meldingstypen loggmelding er ikke aktivert i standardversjonen.&lt;/p&gt;
+&lt;p&gt;Loggmeldinger er på alle andre måter identiske med vanlige meldinger.&lt;/p&gt;
+&lt;h1 id=&#34;medarbeider&#34;&gt;Medarbeider&lt;/h1&gt;
+&lt;p&gt;Brukertype i standardversjonen som gir brukeren et enkelt skjermbilde der kun brukerens egne saker kan endres.&lt;/p&gt;
+&lt;h1 id=&#34;meldingstype&#34;&gt;Meldingstype&lt;/h1&gt;
+&lt;p&gt;Alle meldinger har en meldingstype. En melding får den meldingstype meldingsskjemaet den ble registrert med har.&lt;/p&gt;
+&lt;h4 id=&#34;de-ulike-meldingstypene&#34;&gt;De ulike meldingstypene&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Melding: Vanlige meldinger.&lt;/li&gt;
+&lt;li&gt;Loggmelding: Registreres under Logg under Arkiv. Ikke med i standardversjonen.&lt;/li&gt;
+&lt;li&gt;Risikomelding: Registreres under Risiko under Arkiv. Ikke med i standardversjonen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dersom hverken loggmeldinger eller risikomeldinger er aktivert i ditt system vil ikke betegnelsen meldingstype bli brukt der.&lt;/p&gt;
+&lt;h1 id=&#34;periodisk-aktivitet&#34;&gt;Periodisk aktivitet&lt;/h1&gt;
+&lt;p&gt;En periodisk aktivitet brukes når du vil planlegge en periodisk utførelse av en aktivitet fremmover i tid. Perioden er hvor hyppig aktiviteten skal utføres for eksempel daglig, ukentlig, årlig.&lt;/p&gt;
+&lt;p&gt;Perioden og de individuelle datoene vedlikeholdes i Oppsett av periodisk aktivitet og de andre [[aktivitet|aktivitetsdatane] i endre aktivitet. Individuelle datoer for en periodisk aktivitet kan slettes i aktiviteter.&lt;/p&gt;
+&lt;h1 id=&#34;rolle&#34;&gt;Rolle&lt;/h1&gt;
+&lt;p&gt;En rolle kan kobles mot brukere, brukertyper, avdelinger, aktiviteter, meldingsskjemaer og dokumenter. De gir rettigheter og restriksjoner. Generelt kan man si at en bruker, brukerens brukertype eller brukerens avdeling må ha den samme rollen som en aktivitet, meldingsskjema eller dokument for å ha tilgang til denne. Vanlige roller kan lages av kundens superbruker.&lt;/p&gt;
+&lt;p&gt;Roller sorteres i rollegrupper og vedlikeholdes i endre rolle.&lt;/p&gt;
+&lt;p&gt;En spesiell type roller kalles systemrolle de gir utvidede rettigheter til bruk av Qm+. Systemrollene lages av QmPlus AS men kan tilordnes av enkelte superbrukere. Dette er avansert funksjonalitet og er som regel ikke slått på ved oppstart for nye kunder. Ta kontakt med &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; ved behov for denne rettigheten eller spørsmål.&lt;/p&gt;
+&lt;h4 id=&#34;data-1&#34;&gt;Data&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn: En rolle kan ha et navn per språk som er aktivert i systemet.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Info</title>
+      <link>https://docs3.qmplus.com/docs/shared/info/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/info/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukes for å se på dokumentoversikten i systemet. Dokumentene er organisert i ulike felter i skjermbildet. De kan også være delt på flere arkfaner. Organiseringen bestemmes av virksomhetens lokale superbruker. Collapse.png og Expand.png brukes til å brette ut og brette sammen dokumentets underdokumenter. Det er også en søkefunskjon her som gjør fritekstsøk i alle dokumenter som vises i denne siden.&lt;/p&gt;
+&lt;p&gt;Det kan bestilles at dokumenter vises direkte i siden under enkelte arkfaner i steden for at navnet på dokumentet vises som en link. Ta kontakt med &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; om dere ønsker en slik løsning.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jeg kan søke etter dokumenter: Klikk &lt;strong&gt;&amp;ldquo;Søk&amp;rdquo;&lt;/strong&gt;-knappen nederst i bildet.&lt;/li&gt;
+&lt;li&gt;Jeg kan velge mellom Arkfaner og Dokumentgrupper for å se i spesielle dokumentsamlinger.&lt;/li&gt;
+&lt;li&gt;Alle dokumenter i INFO kan lenkes til fra ulike skjemaer og kategorier i for eksempel meldingsskjemaer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;funksjoner&#34;&gt;Funksjoner&lt;/h3&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Søk: Søker etter teksten som er skrevet inn i tekstfeltet foran knappen. Søkeresultatet avhenger av valgt avdeling i &lt;a href=&#34;https://docs3.qmplus.com/docs/leader/navigator/&#34; title=&#34;navigatoren&#34;&gt;navigatoren&lt;/a&gt;, men ikke hvilken arkfane som er valgt. Søkefunksjonen bruker søkemotoren &lt;a href=&#34;http://lucene.apache.org/core/&#34;&gt;Lucene&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plasseringen til dokumentet vises under tittelen på hvert dokument i søkeresultatet. Den blir vist som Dokument arkfane / Dokument gruppe / Eventuelle overliggende dokument(er) / Dokument tittel.&lt;/li&gt;
+&lt;li&gt;Når man har utført et fritekstsøk, vil det over listen over søkeresultater vises tre nedfallsmenyer som kan brukes til å filtrere søkeresultatet. Verdiene i filteret holder seg om man skifter avdeling i navigatoren, men nullstilles til neste søk når man trykker Lukk søkeresultatene.
+&lt;ul&gt;
+&lt;li&gt;Dokumentarkfane: Ta med resultater fra alle eller fra en valgt dokumentarkfane.&lt;/li&gt;
+&lt;li&gt;Dokumentgruppe: Ta med resultater fra alle eller fra en valgt dokumentgruppe.&lt;/li&gt;
+&lt;li&gt;Avdelingsvalg: Velg mellom Alle tilgjenglige dokumenter som vises for avdelingen valgt i navigatoren eller Kun dokumenter registrert på valgt avdeling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tips
+&lt;ul&gt;
+&lt;li&gt;Ta bare med interessante ord. Dvs skal du søke etter prosedyrer knyttet til brann, bruk: prosedyrer brann.&lt;/li&gt;
+&lt;li&gt;Om du vil ha treff på deler av ord, bruk * for å få med alle ord som starter med ordet ditt. Eksempel : søk på redning gir ikke treff på redningsvest, men det gjør redning* .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Avansert: Se Lucene Query Syntax (kun engelsk) for detaljert informasjon om syntaks for søkefeltet.
+&lt;ul&gt;
+&lt;li&gt;Søkbare felt: Text, URL, DocumentId, Name, Information.&lt;/li&gt;
+&lt;li&gt;Dersom man ikke oppgir felt, søkes det i alle felt. Navnefeltet gis da ekstra vekt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Heart_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til i favoritter: Denne funksjonen er tilgjengelig for brukere som har systemrollen Info_Favorittdokumenter, og for alle dokumenter bortsett fra de av typen Mappe. Ikonet vises når brukeren holder markøren over dokumentnavnet. Ved å klikke på ikonet, markeres dokumentet som et favorittdokument. Disse dokumentene kan senere finnes i fanen Favorittdokumenter.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Heart_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ta vekk fra favoritter: Denne funksjonen er tilgjengelig for brukere som har systemrollen Info_Favorittdokumenter. Alle dokumenter som er lagt til som et favorittdokument, kan fjernes som favoritt. Ikonet vises når brukeren holder markøren over et dokument som er merket som en favoritt før. Ved å klikke på ikonet, fjernes dokumentet som et favorittdokument fra fanen Favorittdokumenter.&lt;/p&gt;
+&lt;h4 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h4&gt;
+&lt;p&gt;Ikoner brukt til å symbolisere ulike dokumenttyper&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_world.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Link til dokument på nettet&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Lovdata_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Link til side hos Lovdata&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_word.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Worddokument&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Pdfdokument&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_excel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Exceldokument&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_powerpoint.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Powerpointdokument&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_text.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokument laget i Qm+&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Shape_align_center.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokument av type prosesskart, laget i Qm+&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Image.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Bilde&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ukjent eller tomt dokument&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder_page_white.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Mappe. Kan ikke åpnes, brukes kun for å lage en dokumentstruktur.&lt;/p&gt;
+&lt;h4 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h4&gt;
+&lt;p&gt;Brukes til å sortere dokumenter. Bestemmes av superbrukeren. I standarversjonen er det&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Styrende dokumenter&lt;/li&gt;
+&lt;li&gt;Mål&lt;/li&gt;
+&lt;li&gt;Favorittdokumenter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;mål&#34;&gt;Mål&lt;/h3&gt;
+&lt;p&gt;Mål er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info_16px.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Info&lt;/p&gt;
+&lt;p&gt;Brukes i standardversjonen til å vise en tekstlig beskrivelse av virksomhetens mål. Det er et felt for Mål for kvalitetsstyrings-arbeidet og et for Mål for HMS-arbeidet. Brukere med brukertypen Leder som er registrert på øverste avdeling har en lagre knapp som gjør at de kan endre innholdet i disse feltene.&lt;/p&gt;
+&lt;p&gt;Mål er ikke flerspråklig og er lik for alle avdelinger. Dersom slik funksjonalitet ønskes, benytt de vanlige mekanismene for dokumenter se Info. Arkfanen Mål er tenkt fjernet på sikt.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Bruker dokumentasjon</title>
+      <link>https://docs3.qmplus.com/docs/shared/user/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/user/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oppsummer&lt;/li&gt;
+&lt;li&gt;Seksjonen din&lt;/li&gt;
+&lt;li&gt;Her&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dokumenter</title>
+      <link>https://docs3.qmplus.com/docs/shared/document/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/document/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oppsummer&lt;/li&gt;
+&lt;li&gt;Seksjonen din&lt;/li&gt;
+&lt;li&gt;Her&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Generel</title>
+      <link>https://docs3.qmplus.com/docs/shared/other/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/other/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oppsummer&lt;/li&gt;
+&lt;li&gt;Seksjonen din&lt;/li&gt;
+&lt;li&gt;Her&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Meldinger</title>
+      <link>https://docs3.qmplus.com/docs/shared/message/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/message/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oppsummer&lt;/li&gt;
+&lt;li&gt;Seksjonen din&lt;/li&gt;
+&lt;li&gt;Her&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Rapporter</title>
+      <link>https://docs3.qmplus.com/docs/shared/report/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/report/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oppsummer&lt;/li&gt;
+&lt;li&gt;Seksjonen din&lt;/li&gt;
+&lt;li&gt;Her&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Spørreskjemar</title>
+      <link>https://docs3.qmplus.com/docs/shared/list/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/list/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oppsummer&lt;/li&gt;
+&lt;li&gt;Seksjonen din&lt;/li&gt;
+&lt;li&gt;Her&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Administrasjon</title>
+      <link>https://docs3.qmplus.com/docs/shared/admin/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/admin/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En samling av alle artikler om administrasjon&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Kalender og aktiviteter</title>
+      <link>https://docs3.qmplus.com/docs/shared/activity/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/activity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En samling av alle artikler for kalendere og aktiviteter.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tiltak</title>
+      <link>https://docs3.qmplus.com/docs/shared/action/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/shared/action/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En samling av alle artikler om tiltak.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,159 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Actions</title>
+    <link>https://docs3.qmplus.com/en/docs/action/</link>
+    <description>Recent content in Actions on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/action/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Action</title>
+      <link>https://docs3.qmplus.com/en/docs/action/action/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/action/action/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Managed under Action process.&lt;/p&gt;
+&lt;p&gt;Usually created from the Message process page.&lt;/p&gt;
+&lt;p&gt;Can be deleted and get attached to or detached from messages under Attached messages.&lt;/p&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Action name: Used to identify the action in tables and overviews. Mandatory field.&lt;/li&gt;
+&lt;li&gt;Budget: How much money is set aside for this action.&lt;/li&gt;
+&lt;li&gt;Actual cost: Describes what the actual cost was. This field is used as the cost field in the report for actions.&lt;/li&gt;
+&lt;li&gt;Status: Under planning, under execution, under approval, approved. See Action status.&lt;/li&gt;
+&lt;li&gt;Action categories: The categories of the type Action in the message this action was made for, can be used in the action to categorize it. This is a multiple choice field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;text-fields&#34;&gt;Text fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Original deviation: Description of the original deviation. Copied from the first text field in the message this action was created from.&lt;/li&gt;
+&lt;li&gt;Corrective action: Description of the corrective action. Option: May be copied from the second text field in the message this action was created from. The text copied here should often be interpreted as a suggestion and should be changed by the creator of the action to become a task description.&lt;/li&gt;
+&lt;li&gt;How to prevent repetition: Description of how to prevent the incident from happening again. You have to do something more than simply correct the error. Option: May be copied from any third text field in the message.&lt;/li&gt;
+&lt;li&gt;Comment: Additional comments to the action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;persons-responsible&#34;&gt;Persons responsible&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Message originator: The users who have created messages attached to this action.&lt;/li&gt;
+&lt;li&gt;The action was created by: The user who created and owns the action and thus is responsible for it. Must also approve the action before it is closed.&lt;/li&gt;
+&lt;li&gt;The action will be executed by: Those who will execute the action. Can be selected among all the users in the system.&lt;/li&gt;
+&lt;li&gt;The action will be approved by: The person who will approve the action. It is always the same user who created the action. Can also be done by a super user with the system role Content administrator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;access-control&#34;&gt;Access control&lt;/h3&gt;
+&lt;p&gt;All actions are registered on a department and get the status Under planning or Under execution if the selection of the executor is made in the Message process page. What kind of access a user has to an action is determined by the status and department of the action, and the user type, the department and the roles of the user.&lt;/p&gt;
+&lt;h4 id=&#34;the-different-access-types-give-the-following-rights&#34;&gt;The different access types give the following rights&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Read access
+&lt;ul&gt;
+&lt;li&gt;Can read the action.&lt;/li&gt;
+&lt;li&gt;Can send email comments to it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Write access
+&lt;ul&gt;
+&lt;li&gt;Can edit the action.&lt;/li&gt;
+&lt;li&gt;Some fields require also Process access to be able to edit them.&lt;/li&gt;
+&lt;li&gt;Activates the Save button.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Execute for yourself
+&lt;ul&gt;
+&lt;li&gt;Can mark an action as Executed for their own users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Execute for others
+&lt;ul&gt;
+&lt;li&gt;Can mark an action as Executed for users within their own hierarchy.&lt;/li&gt;
+&lt;li&gt;With Process access, can mark the action as Executed for users outside their own hierarchy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Process access
+&lt;ul&gt;
+&lt;li&gt;Can process the action.&lt;/li&gt;
+&lt;li&gt;Can change its status.&lt;/li&gt;
+&lt;li&gt;Can assign or remove the person responsible for execution.&lt;/li&gt;
+&lt;li&gt;Can attach the action to several messages or detach it from messages.&lt;/li&gt;
+&lt;li&gt;Can edit the field Original deviation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Delete access
+&lt;ul&gt;
+&lt;li&gt;Can delete the action. All attached messages will be detached and get the status New or Sent to case handler depending on their previous status.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Administration access
+&lt;ul&gt;
+&lt;li&gt;Can edit an action even if it is closed and locked.&lt;/li&gt;
+&lt;li&gt;Can re-open closed actions.&lt;/li&gt;
+&lt;li&gt;Can also do whatever the other access types can do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;requirements-for-obtaining-the-various-access-types&#34;&gt;Requirements for obtaining the various access types&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Read access
+-The message originator of a message which is attached to the action.
+-The executor of the action.
+-Users with the user type manager, case handler or reviewer who have the same department as the one on which the action is registered or a department which is directly above this in the hierarchy.
+-Users with the user type manager, case handler or reviewer who have the same department as the one on which a message attached to the action is registered or a department which is directly above this in the hierarchy.
+-Users who have been set as case handlers for a message which is attached to this action.
+-Users with the user type manager, case handler or reviewer who have the same department as a user who has been the case handler for a message attached to the action or a department which is directly above this in the hierarchy.
+-Users who have been informed of a message through an email from the Message process page and this message is attached to the action.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Write access is granted only when the action&amp;rsquo;s status is not Approved.
+-Users with the user type manager or case handler who have the same department as the one on which the action is registered or a department which is directly above this in the hierarchy.
+-Users who will execute the action and the action&amp;rsquo;s status is Under execution.
+-Users with the user type manager or case handler who have the same department as the action&amp;rsquo;s executors or a department which is directly above this in the hierarchy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Execute for yourself
+-Users who will execute the action and the action&amp;rsquo;s status is Under execution.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Execute for others
+-Users with the user type manager or case handler who have the same department as the action&amp;rsquo;s executors or a department which is directly above this in the hierarchy, and the action&amp;rsquo;s status is Under execution.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Process access
+-Users with the user type manager or case handler who have the same department as the one on which the action is registered or a department which is directly above this in the hierarchy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Delete access
+-The owner of the action, the user who will approve the action, can delete it if it has the status Under planning.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Administration access
+-Given to the users with the system role Content Administrator.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tabs</title>
+      <link>https://docs3.qmplus.com/en/docs/action/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/action/tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;All tabs associated with actions.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

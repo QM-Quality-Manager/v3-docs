@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Dokumentasjon for Medarbeider</title>
+    <link>https://docs3.qmplus.com/docs/employee/</link>
+    <description>Recent content in Dokumentasjon for Medarbeider on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/employee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/employee/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/employee/tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alle arkfaner for dokumenter.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Funksjoner</title>
+      <link>https://docs3.qmplus.com/docs/employee/functions/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/employee/functions/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alle funksjoner for dokumenter.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

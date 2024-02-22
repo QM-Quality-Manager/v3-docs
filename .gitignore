@@ -1,0 +1,7 @@
+/public
+resources/
+node_modules/
+package-lock.json
+.DS_Store
+/.settings/
+/.project

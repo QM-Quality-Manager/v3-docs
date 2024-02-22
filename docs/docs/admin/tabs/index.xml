@@ -1,0 +1,998 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/admin/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/admin/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Ansvarskoder</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/responsibilities/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/responsibilities/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her kan du administrere ansvarskoder. Ansvarskoder kan brukes i dokumenter av typen prosesskart. Bruk av ansvarskoder er en forutsettning for at prosesskartet skal kunne vises som ansvarsmatrise. Ansvarskoder endres i Endre ansvarskode siden.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny ansvarskode: Åpner Endre ansvarskode for å lage en ny ansvarskode.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Åpner Endre ansvarskode for å endre en ansvarskode.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deaktiverer eller aktiverer ansvarskoden, avhengig av hvilken side man er i. Vises bare når avdelingen hvor ansvarskoden ble opprettet er valgt i Navigatoren.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Sletter ansvarskoden. Kun synlig for deaktiverte ansvarskoder. Vises bare når avdelingen hvor ansvarskoden ble opprettet er valgt i Navigatoren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive ansvarskoder: Aktive ansvarskoder vises i tabellen&lt;/li&gt;
+&lt;li&gt;Deaktiverte ansvarskoder: Dektiverte ansvarskoder vises i tabellen&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Brukere</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/users/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/users/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens brukere og brukertyper. Aktive brukere kan bruke systemet normalt. Deaktiverte brukere vil ikke kunne logge seg på systemet, men informasjon de har lagt inn er tilgjenglig.&lt;/p&gt;
+&lt;p&gt;Siden kan også brukes til å sende meldinger til alle registrerte brukere.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ADMIN-arkfanen gir meg muligheter for å gjøre forandringer i Brukere.&lt;/li&gt;
+&lt;li&gt;Legg merke til &amp;ldquo;Send til&amp;rdquo;-kolonnen helt til høyre. Meldinger med e-post kan sendes herfra.&lt;/li&gt;
+&lt;li&gt;Vil du se (sende til) alle ansatte i hele organisasjonen: Klikk på nedfallsmenyen til venstre over tabellen: Velg: &amp;ldquo;Denne og underliggende avdeling&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Vil du se brukertilgangen brukerne har: Klikk i Brukerinformasjon-nedfallsmenyen: Velg Rolleoversikt. Det gir en ny kolonne i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcodes1hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Å legge til nye brukere&lt;/li&gt;
+&lt;li&gt;Redigere eksisterende brukere&lt;/li&gt;
+&lt;li&gt;Deaktivere og aktivere brukere&lt;/li&gt;
+&lt;li&gt;Sette opp en bruker på flere avdelinger&lt;/li&gt;
+&lt;li&gt;Legge til roller&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/admin_brukere.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Valg av visningsområde:
+&lt;ul&gt;
+&lt;li&gt;Denne avdelingen: Viser brukerne i den valgte avdelingen.&lt;/li&gt;
+&lt;li&gt;Denne og underliggende avdelinger: Viser brukerne i den valgte avdelingen og alle brukere i underliggende avdelinger. Står man på øverste avdeling og velger denne muligheten, vil alle brukere i systemet vises.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Valg av informasjonstype:
+&lt;ul&gt;
+&lt;li&gt;Brukeroversikt: Gir informasjon om brukerne.&lt;/li&gt;
+&lt;li&gt;Rolleinformasjon: Gir informasjon om hvilke roller brukerne har. Viser kun roller tilknyttet brukeren ikke brukertypen.
+&lt;ul&gt;
+&lt;li&gt;Rollefilter: Vises når rolleinformasjon er valgt. Filtrerer listen på valgt rolle.
+&lt;ul&gt;
+&lt;li&gt;Gir treff både på roller tilknyttet brukeren og roller tilknyttet brukertypen.&lt;/li&gt;
+&lt;li&gt;Om en rollegruppe velges, sjekkes det tilsvarende for alle roller i valgt rollegruppe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Knapper&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lag melding: Åpner feltet for å lage og sende meldinger.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Fjern melding:&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny bruker: Oppretter en ny bruker og tar deg til endre bruker skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Send melding: Sender meldingen som er skrevet inn til de valgte brukerne.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Icon-excel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Eksporter til .xlsx / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_excel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Eksporter til .xls: Eksporter brukerne til en .xslx / .xsl fil. Filen kan lastes ned og åpnes i Excel, Open Office eller lignende programmer. Første rad inneholder kolonne overskriftene. Knappen vises bare når &amp;ldquo;Brukerinformasjon&amp;rdquo; er valgt i den andre nedfallsmenyen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre bruker skjermbildet for å endre den brukeren som linjen det ble trykket på tilhører.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktivere / deaktivere en valgt bruker, avhenger av om du er under arkfane Aktive brukere eller Deaktiverte brukere. Når man deaktiverer en bruker, får man muligheten til å overføre eventuelle åpne saker som er knyttet til brukeren. Man får også muligheten til å overføre eller slette regler som er knyttet til brukeren man nettopp har deaktivert. Angre-knappen vil aktivere brukeren på nytt hvis man klikker på den, men den overfører ikke saker og / eller reglene tilbake til den opprinnelige brukeren. Det er mulig å velge forskjellige mottakere for de forskjellige sakstyper, med begrensningen at de alle skal tilhøre samme avdeling. Vær oppmerksom på at man kan overføre alle sakene til brukeren som kan behandle saker fra avdelingen som er valgt i Navigatoren. Dette er vanligvis avdelingen til den opprinnelige brukeren (eller en avdeling over den i hierarkiet, hvis visningen Denne og underordnet avdelinger er valgt). Hvis man trenger å overføre sakene til brukeren fra en annen avdeling, kan man gjøre det ved først å endre avdelingen til den opprinnelige brukeren til avdelingen til brukeren man vil overføre saker til, og deretter gå gjennom deaktiveringsprosessen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter brukeren som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom arkfanen Deaktiverte brukere er valgt og brukeren det gjelder ikke har besvart skjemaer.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Viser at tabellen er sortert på denne kolonnen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sorter tabellen på denne kolonnen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Phone.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Åpner feltet for å lage og sende meldinger tilpasset sending av mobilpålogging per SMS. Dette ikonet vises bare dersom mobilversjonen er aktiver for en kunde og brukeren har et telefonnummer registrert på seg.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Når du holder pekeren over noen av feltene i tabellen vil pekeren skifte form. I noen nettlesere blir den slik: 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Pencil.png&#34;  width=&#34;&#34; /&gt;
+
+
+ mens i andre får den hånd symbolet. Det betyr at feltet kan redigeres. Hvis du trykker på det, kan du direkte redigere innholdet i feltet, uten å gå til Endre bruker siden. Etter å ha trykket på feltet, vil du se de følgende ikonene:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Lagrer endringen. Du kan også lagre ved å trykke på Enter/Return på tastaturet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cancel.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Kanselerer endringen. Feltet får da sin opprinnelige verdi.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrow_refresh.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Angre. Vises etter at du har lagret en endring. Endringen blir omgjort når du trykker på denne.
+&lt;ul&gt;
+&lt;li&gt;Dersom denne brukes etter at en bruker er deaktivert, vil brukeren bli aktivert. Eventuelle saker eller regler som er overført eller slettet i forbindelse med deaktiveringen vil ikke bli ført tilbake igjen. De forblir overført eller slettet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktiverte brukere: Viser de aktive brukerne til den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Deaktiverte brukere: Viser de deaktiverte brukerne til den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;meldingsfeltet&#34;&gt;Meldingsfeltet&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldingstype: Brukes til å bestemme hva slags melding som sendes ut.
+&lt;ul&gt;
+&lt;li&gt;Nytt passord: Meldingen som sendes får en link til en side hvor brukeren får oppgitt sitt brukernavn og kan skrive inn sitt eget passord. Dette er samme funksjonen som Glemt passord på påloggingssiden. Denne er tenkt for å distribuere brukernavn og passord ved innføring av systemet.&lt;/li&gt;
+&lt;li&gt;Mobilpålogging: Meldingen som sendes får en link som logger brukeren rett på mobilversjonen. Denne muligheten vises kun når mobilversjonen er aktivert.&lt;/li&gt;
+&lt;li&gt;Informasjon: Meldingen som sendes får ikke lagt til noen spesiell link. Denne funksjonen er tenkt brukt for generelle beskjeder eller meldinger.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Send meldingen som: Brukes for å bestemme om meldingen skal sendes som E-post eller SMS. SMS er kun tilgjengelig der det er aktivert.&lt;/li&gt;
+&lt;li&gt;Tittel: Tittelfeltet i en e-post.&lt;/li&gt;
+&lt;li&gt;Tekstfelt: Her skrives selve meldingen inn.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Send melding: Sender meldingen som er skrevet inn til de brukerne som er markert i Send til kolonnen i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dokumenter</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/documents/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/documents/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens dokumenter, dokumentgrupper og dokumentarkfaner.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Som superbruker/leder kan jeg legge inn dokumenter – lover, prosedyrer m.m.: Klikk Nytt dokument nederst i bildet.&lt;/li&gt;
+&lt;li&gt;Jeg kan legge opp nye Arkfaner og nye Dokumentgrupper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokumenter: Viser dokumenter. Undervalg:
+&lt;ul&gt;
+&lt;li&gt;Publiserte dokumenter. Disse vises i Info.&lt;/li&gt;
+&lt;li&gt;Upubliserte dokumenter. Disse vises ikke i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte publiserte dokumenter. Disse vises ikke i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte upubliserte dokumenter. Disse vises ikke i Info.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dokumentgrupper: Viser dokumentgrupper. Undervalg:
+&lt;ul&gt;
+&lt;li&gt;Dokumentgrupper. Disse vises i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte dokumentgrupper. Disse vises ikke i Info.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dokumentarkfaner: Viser dokumentarkfaner. Undervalg:
+&lt;ul&gt;
+&lt;li&gt;Dokumentarkfaner Disse vises i Info.&lt;/li&gt;
+&lt;li&gt;Deaktiverte dokumentarkfaner. Disse vises ikke i Info.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Kategorier</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/categories/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/categories/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens kategorier og kategorigrupper.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ADMIN-arkfanen gir meg muligheter for å gjøre forandringer i Kategorier. (Disse kan senere legges inn i meldingsskjemaer: Klikk Skjemaer.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Her lages navn på ny Kategorigruppe. Klikk &amp;ldquo;Aktiv kategorigruppe&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Neste skjermbilde gir mulighet for å velge om gruppen skal være flervalg, enkeltvalg (radioknapp), tall eller definerende.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Velger du &amp;ldquo;Aktive kategorier&amp;rdquo; kan du velge mellom kategorigruppene i nedfallsmenyen til venstre over tabellen. Deretter klikk på &amp;ldquo;Ny kategori&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Valg av kategorigruppe: Lister opp alle aktive kategorigrupper i systemet. Alle kategoriene i den valgte gruppen lagt inn fra den valgte avdelingen i navigatoren blir vist i oversikten.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny kategori: Oppretter en ny kategori og tar deg til endre kategori skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre kategori skjermbildet for å endre kategorien den linjen det ble trykket på tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktiverer/Deaktiverer - avhengig av om arkfanen Aktive kategorier eller Deaktiverte kategorier er valgt, kategorien som linjen det ble trykket på tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slett: Sletter valgt kategori. Kun synlig under Deaktiverte kategorier for kategorier som ikke er i bruk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Aktive kategorier: Viser de aktive kategoriene som er lagt inn på den avdelingen som er valgt i navigatoren.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deaktiverte kategorier: Viser de deaktiverte kategoriene som er lagt inn på den avdelingen som er valgt i navigatoren.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aktive kategorigrupper: Viser de aktive kategorigruppene som er tilgjengelig på den avdelingen som er valgt i navigatoren.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deaktiverte kategorigrupper: Viser de deaktiverte kategorigruppene som er tilgjengelig på den avdelingen som er valgt i navigatoren.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Kategorigrupper</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/category_groups/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/category_groups/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens kategorigrupper.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Package_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny kategorigruppe: Oppretter en ny kategorigruppe og tar deg til endre kategorigruppe skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre kategorigruppe skjermbildet for å endre kategorigruppen den linjen det ble trykket på tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktiverer/Deaktiverer - avhengig av valgt om arkfanen Aktive kategorigrupper eller Deaktiverte kategorigrupper er valgt, kategorigruppen som linjen det ble trykket på tilhører.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Organisasjon</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/organisation/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/organisation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens avdelinger. Aktive avdelinger vises i navigatoren og brukere i disse kan benytte systemet normalt. Deaktiverte avdelinger vises ikke i navigatoren, brukere i disse vil ikke kunne logge seg på systemet og ingen annen informasjon som er lagt inn i disse vil være synlige i rapporter og oversikter. Unntaket er meldinger og tiltak som er sendt videre til andre avdelinger. Besvarelser av aktiviteter med lister som er lagt opp på en avdeling over den deaktiverte avdelingen og deres kommentar meldinger vil også være tilgjenglig via rapportene på aktivitetsplan men det vil ikke være mulig å endre eller lage nye besvarelser i en deaktivert avdeling.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ADMIN-arkfanen+ Organisasjon gir meg muligheter for å gjøre forandringer i organisasjon.&lt;/li&gt;
+&lt;li&gt;Mitt valg i Navigatoren + et klikk på &amp;ldquo;Ny avdeling&amp;rdquo; nederst i bildet, gir underavdelinger i den avdelingen du valgte i navigatoren.&lt;/li&gt;
+&lt;li&gt;Endre&amp;quot;-kolonnen til høyre i tabellene har i hovedsak to funksjoner: Sort pil deaktiverer, og ikoner som har gult i seg gir endringsmulighetene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hahahugoshortcodes1hbhb-interaktiv-opplæring&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/64px-Monitor.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Interaktiv opplæring&lt;/h3&gt;
+&lt;p&gt;Her kan du lære:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Opprette ny avdeling&lt;/li&gt;
+&lt;li&gt;Flytte avdeling&lt;/li&gt;
+&lt;li&gt;Deaktivere avdeling&lt;/li&gt;
+&lt;li&gt;Aktivere avdeling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+&lt;a href=&#34;https://docs3.qmplus.com/assets/03_admin_organisasjon.pdf&#34; &gt;
+  pdf
+&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_organisation_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny avdeling: Oppretter en ny avdeling og tar deg til endre avdeling skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre avdeling skjermbildet for å endre den avdelingen som linjen det ble trykket på tilhører.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Aktiverer/Deaktiverer - avhengig av valgt arkfane avdelingen som linjen det ble trykket på tilhører.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_organisation_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter avdelingen som linjen det ble trykket på tilhører. Dette ikonet kommer kun opp dersom arkfanen deaktiverte avdelinger er valgt og avdelingen det gjelder ikke inneholder brukere, besvarte skjemaer eller skjemadefinisjoner.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktiverte avdelinger: Viser de aktive underliggende avdelingene til den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Deaktiverte avdelinger: Viser de deaktiverte underliggende avdelingene til den avdelingen som er valgt i navigatoren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ldap--ad-modul&#34;&gt;LDAP / AD Modul&lt;/h3&gt;
+&lt;p&gt;Dersom virksomheten har aktivert modulen for LDAP / AD integrasjon og den påloggede brukeren har systemrollen LDAP integrasjonsansvarlig, vises muligheten i dette bildet for å gjøre LDAP / AD tilknyttninger mot de underliggende avdelingene.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Database_gear.png&#34;  width=&#34;&#34; /&gt;
+
+
+ LDAP / AD: Åpner LDAP / AD grensesnittet for tilknyttninger for denne avdelingen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til LDAP / AD tilknyttning. Åpner muligheten for til å skrive inn data for en ny tilknyttning. Vises etter at Database gear.png ikonet er trykket på.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer ny eller endret LDAP / AD tilknyttning.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slette: Sletter valgt LDAP / AD tilknyttning.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Regler</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/rules/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/rules/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her kan du administrere regler. Regler brukes for å sette opp kriterier, som når de er tilfredsstilt, utløser spesifiserte reaksjoner. Slike reaksjoner kan bare defineres av QmPlus AS.&lt;/p&gt;
+&lt;p&gt;I gjeldende versjon, kan brukere, skjemaer, kategorier, avdelinger og i noen tilfeller henvendelsestype brukes som kriterier i en regel.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eksempel 1: Bruker Kåre Knall er ekstra saksbehandler for HMS-skjema og POL-Skjema fra og med avdelingene Teknisk, Kultur og Administrasjon.&lt;/li&gt;
+&lt;li&gt;Eksempel 2: Brukerne Bård Kjekk og Anne Tøff varsles med e-post hver gang det registreres en melding med skjema HMS-Skjema og kategori Brannsikring fra og med avdeling Oppvekst og omsorg.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I gjeldende versjon, kan regler bare lages og endres av brukere som har systemrollen Innholdsadministrator eller Regeladministrator.&lt;/p&gt;
+&lt;p&gt;Vær oppmerksom på at deaktiverte brukere, avdelinger, skjemaer eller kategorier er merket med &amp;ldquo;DEAKTIVERT&amp;rdquo;. Disse reglene vil åpenbart ikke være gyldige. De slettes imidlertid ikke automatisk i tilfelle de deaktiverte brukerne eller avdelingene må erstattes med en annen. Brukerne som er ansvarlige for å lage regler bør gå gjennom dem av og til for å rydde opp.&lt;/p&gt;
+&lt;h3 id=&#34;regeltyper&#34;&gt;Regeltyper&lt;/h3&gt;
+&lt;p&gt;Det er i gjeldende versjon 8 ulike regeltyper:&lt;/p&gt;
+&lt;h4 id=&#34;ekstra-saksbehandlere&#34;&gt;Ekstra saksbehandlere&lt;/h4&gt;
+&lt;p&gt;Her kan du administrere hvem som skal dukke opp som ekstra saksbehandlere når &amp;ldquo;Send til saksbehandler&amp;rdquo; funksjonen brukes i meldingsbehandlingssiden&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/SendTilSaksbehandler.png&#34;  width=&#34;&#34; /&gt;
+
+
+.&lt;/p&gt;
+&lt;p&gt;Ekstra saksbehandlere vises i nedfallsmenyen over mulige mottakere når &amp;ldquo;Send til saksbehandler&amp;rdquo; er valgt som handling i meldingsbehandlingssiden. Se bildet over.&lt;/p&gt;
+&lt;p&gt;Nedfallsmenyen inneholder automatisk alle brukere med systemrollen Standard mulig meldingsmottaker - i Standardversjonen: brukertype leder og saksbehandler fra de følgende stedene:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avdelingen den aktive brukeren har valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Avdelingen direkte over avdelingen den aktive brukeren har valgt i navigatoren.&lt;/li&gt;
+&lt;li&gt;Alle avdelinger direkte under avdelingen den aktive brukeren har valgt i navigatoren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dette brukes når brukerne skal kunne sende meldinger uten å følge den vanlige linjen, for eksempel på tvers av organisasjonen eller rett til en fagansvarlig i en helt annen del av organisasjonen.&lt;/p&gt;
+&lt;p&gt;Dersom opsjonen for Automatisk tidlig saksbehandling er aktivert, så vil Ekstra saksbehandlere også tas med i nedfallsmenyen for valg av saksbehandler i Registrer ny melding.&lt;/p&gt;
+&lt;p&gt;Listen viser alle brukere som har blitt registrert som ekstra saksbehandlere i hele virksomheten. I kolonnen &amp;ldquo;Fra avdeling&amp;rdquo; i tabellen kan du se fra hvilken avdeling funksjonen trer i kraft.&lt;/p&gt;
+&lt;p&gt;Sett ikke opp ekstra saksbehandlere dersom du ikke er helt sikker på hva du gjør. Er du i tvil kontakt QmPlus AS for nærmere forklaring.&lt;/p&gt;
+&lt;h4 id=&#34;tidlig-saksbehandlere&#34;&gt;Tidlig saksbehandlere&lt;/h4&gt;
+&lt;p&gt;Her kan du definere brukere som skal være standard saksbehandlere for ett eller flere meldingsskjemaer.&lt;/p&gt;
+&lt;p&gt;MERK: Regler for Tidlig saksbehandling er ment å håndtere unntak. Dersom man ønsker at alle meldinger som hovedregel skal sendes til nærmeste leder, bestill heller opsjonen for Automatisk tidlig saksbehandler.&lt;/p&gt;
+
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/TidligSaksbehandling.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+&lt;p&gt;Feltet som viser at et meldingsskjema er satt opp med &amp;ldquo;Tidlig saksbehandling&amp;rdquo; og Sjur Krog som standard saksbehandler heter Send til saksbehandler / linjeleder.&lt;/p&gt;
+&lt;p&gt;I &amp;ldquo;Fra avdeling&amp;rdquo; nedfallsmenyen, velg fra hvilken avdeling (inklusive) standard saksbehandler funksjonen vil gjelde. Dersom flere brukere er satt opp som standard saksbehandler fra ulike avdelinger for det samme meldingsskjemaet, blir brukeren tilhører den avdelingen som ligger nærmest avdelingen valgt i navigatoren når meldingen registreres være forhåndsvalgt i en nedfallsmeny i meldingsskjemaet.&lt;/p&gt;
+&lt;p&gt;En vanlig måte å bruke dette på er om du har et meldingsskjema som alltid skal gå til en spesiell mottaker uansett hvor i organisasjonen meldingen blir registrert.&lt;/p&gt;
+&lt;p&gt;Merk at når en melding får satt en tidlig saksbehandler på denne måten får den status sendt til saksbehandler i stedet for nye saker når den er registrert.&lt;/p&gt;
+&lt;p&gt;For skjemaer med Tidlig saksbehandlingsregler definert, vil aldri de Ekstra saksbehandlerne tas med i Registrer ny melding. Dersom opsjonen for Automatisk tidlig saksbehandler er skrudd på, vil egendefinerte regler med tidlig saksbehandlere overstyre de automatiske. Dersom man ikke ønsker å overstyre, men legge til, benyttes Ekstra saksbehandler regler som beskrevet i forrige avsnitt.&lt;/p&gt;
+&lt;h4 id=&#34;opsjon&#34;&gt;Opsjon&lt;/h4&gt;
+&lt;p&gt;Som standard er ikke kategoriene en del av Tidlig saksbehandler reglene. Det finnes en opsjon som skrur det på. Det medfører at listen med mulige saksbehandlere lastes på nytt fra serveren ved hvert klikk på en kategori. Kontakt &lt;a href=&#34;mailto:drift@qmplus.com&#34;&gt;drift@qmplus.com&lt;/a&gt; om dere ønsker denne opsjonen aktivert.&lt;/p&gt;
+&lt;h4 id=&#34;tiltaksgodkjennere&#34;&gt;Tiltaksgodkjennere&lt;/h4&gt;
+&lt;p&gt;I utgangspunktet kan alle brukere med brukertype som inneholder systemrollen Behandle melding (leder eller saksbehandler i standardversjonen) behandle alle meldinger som de har tilgjengelig innenfor sitt ansvarsområde. For å begrense hvem som kan lukke enkelte meldinger kan du legge opp regler her. Disse reglene begrenser de følgende handlingene i meldingsbehandlingssiden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avvis&lt;/li&gt;
+&lt;li&gt;Avslutt saken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I tiltaksbehandling begrenses handlingen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Godkjenn tiltak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;informeres-ved-ny-melding&#34;&gt;Informeres ved ny melding&lt;/h4&gt;
+&lt;p&gt;Når en ny melding registreres vil brukere som tilfredstiller en av reglene her få tilsendt en beskjed om den nye meldingen. Kommentarkolonnen kan brukes for tilpassing av teksten i beskjeden. Beskjeden sendes enten som e-post, SMS eller begge deler. E-post er standard. De andre to typene (SMS, e-post og SMS) vises bare for de som har aktivert SMS modulen.
+Informeres ved lukking av melding&lt;/p&gt;
+&lt;p&gt;Når en melding blir lukket vil brukere som tilfredstiller en av reglene her få tilsendt en beskjed. Kommentarkolonnen kan brukes for tilpassing av teksten i beskjeden. Beskjeden sendes enten som e-post, SMS eller begge deler. E-post er standard. De andre to typene (SMS, e-post og SMS) vises bare for de som har aktivert SMS modulen. En melding er definert som lukket når den kun er tilknyttet godkjente tiltak eller den er avvist.&lt;/p&gt;
+&lt;h4 id=&#34;informeres-ved-brudd-på-terskelverdi&#34;&gt;Informeres ved brudd på terskelverdi&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved brudd på en terskelverdi, sendes det varsel til brukerne definert i regelen.&lt;/li&gt;
+&lt;li&gt;Varslene sendes som epost ved kjøring av nattjobben, på lik linje som varsel for overskredet tidsfrist.&lt;/li&gt;
+&lt;li&gt;Man kan velge mellom Periodisk varsel og Daglig varsel for diverse tidsrammer.
+&lt;ul&gt;
+&lt;li&gt;Et periodisk varsel sender varsel en gang etter at terskelverdien er brutt.
+&lt;ul&gt;
+&lt;li&gt;Dersom det blir lagt til brukere som skal varsles etter at et periodisk varsel er sendt eller utsendelse av epost til en av deltakerne feilet, så vil det sendes på nytt til disse ved neste anledning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Daglige varsler sender varsel så lenge terskelverdien er brutt for den valgte tidsrammen, men kun hver gang nattjobben kjører for den aktuelle kunden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Terskelverdien måles kun mot antall meldinger.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;oppsett-for-dynamiske-grafer&#34;&gt;Oppsett for dynamiske grafer&lt;/h4&gt;
+&lt;p&gt;Brukes til å definere hvilke verdier som skal brukes på X-aksen og Y-aksen for de dynamiske grafene i Rapporter siden. De dynamiske grafene vises når man trykker på Dynamiske grafer, se bildet nedenfor.&lt;/p&gt;
+
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/DynamiskeGrafer.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+&lt;p&gt;Dersom det ikke er definert noen regler her, vil det ikke være noen Dynamiske grafer på Rapporter siden. Regler av denne typen lagres en rad om gangen. Lagresymbolet dukker opp straks du legger til en ny regel eller du endrer en eksisterende.&lt;/p&gt;
+&lt;h4 id=&#34;oppsett-for-utregningsrapporter&#34;&gt;Oppsett for utregningsrapporter&lt;/h4&gt;
+&lt;p&gt;Denne regeltypen kan brukes til å definere en utregning som kan vises under rapporttypen Uttregningsrapporter i siden Rapporter. Ta kontakt om det er behov for slike utregninger.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eksempel - Utregning av H-verdi = (antall personskader * 1000000) / Total antall timer brukt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For å kunne bruke regnestykket over, så må det registreres meldinger i Qm+ med kategori for personskader. Det må også periodisk registreres totalt antall timer. Den periodiske registreringen av timer må også passe med perioden som brukes for å vise utregningsrapportene, om resultatet skal gi mening.&lt;/p&gt;
+&lt;h4 id=&#34;filterregler&#34;&gt;Filterregler&lt;/h4&gt;
+&lt;p&gt;Dette er regler som kan brukes som en del av en regel for uttregningsrapporter for å dele opp restriksjonsuttrykkene.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eksempel - Ta kun med en kategori fra meldinger med et bestemt meldingsskjema med en gitt prioritet og legge verdien sammen med kategorier fra et annet skjema med en annen prioritet. Da kan man lage to ulike filtre og koble dem på hver sin kategori i utregningsreglen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;kolonner&#34;&gt;Kolonner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn: Navnet på brukeren som denne regelen gjelder.
+&lt;ul&gt;
+&lt;li&gt;For noen typer regler kan du velge mellom alle bruker i virksomheten, uavhengig av brukertype. For andre må brukertypen ha bestemte rettigheter for å kunne velges.
+&lt;ul&gt;
+&lt;li&gt;Eksempel: Rettighet for å sakbehandle en melding kreves for å kunne settes opp som tidlig saksbehandler.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Uten bruker vil regelen ikke ha noe effekt i systemet.&lt;/li&gt;
+&lt;li&gt;Flere brukere kan være i samme regel. Den vil da gjelde likt for alle de valgte brukerne.&lt;/li&gt;
+&lt;li&gt;Nedfallsmenyen i tabellhodet er et filter for tabellen under og inneholder kun brukere som allerede har en regel for den valgte regeltypen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Styrer hvilke deler av virksomheten regelen gjelder for.
+&lt;ul&gt;
+&lt;li&gt;Hvis avdeling ikke er satt, vil regelen gjelde for alle meldinger uavhengig av hvilken avdeling den blir registrert på.&lt;/li&gt;
+&lt;li&gt;Regelen vil gjelde fra og med den/de valgte avdelingen(e). Du kan velge mellom alle avdelinger fra og med avdelingen du er logget inn på.&lt;/li&gt;
+&lt;li&gt;Obligatorisk felt for Tidlig saksbehandler regeltypen, valgfritt felt for resten.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Meldingsskjema: Styrer hvilke meldingsskjemaer regelen gjelder for.
+&lt;ul&gt;
+&lt;li&gt;Hvis meldingsskjema ikke er valgt, vil regelen gjelde for alle meldingsskjemaer.&lt;/li&gt;
+&lt;li&gt;Ellers gjelder den kun meldinger registrert i de spesifiserte meldingsskjemaene.&lt;/li&gt;
+&lt;li&gt;Du kan velge mellom de meldingsskjemaene som er tilgjengelig på avdelingen valgt i navigatoren.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Kategorier: Styrer hvilke kategorier regelen gjelder for.
+&lt;ul&gt;
+&lt;li&gt;Hvis kategori ikke er valgt, vil regelen gjelde for alle meldinger.&lt;/li&gt;
+&lt;li&gt;Ellers gjelder den kun meldinger som har de de spesifiserte kategoriene krysset av.&lt;/li&gt;
+&lt;li&gt;Når du trykker på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
+
+
+, så vil det vises to nedfallsmenyer. Den første inneholder kategorigrupper og den andre kategoriene som tilhører kategorigruppen valgt i den første.&lt;/li&gt;
+&lt;li&gt;Vises ikke for regeltypen tidlig saksbehandler.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Prioritet: Styrer hvilke prioriteter regelen gjelder for.
+&lt;ul&gt;
+&lt;li&gt;Hvis prioritet ikke er valgt, vil regelen gjelde alle meldinger uavhengig av prioritet.&lt;/li&gt;
+&lt;li&gt;Vises ikke for regeltypen tidlig saksbehandler.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Kommentar: En kommentar til regelen.
+&lt;ul&gt;
+&lt;li&gt;Vises ikke for regeltypen Informeres ved ny melding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Send som: Bestemmer hvordan det automatisk varslet skal sendes.
+&lt;ul&gt;
+&lt;li&gt;Mulige valg er e-post, SMS og Epost og SMS.&lt;/li&gt;
+&lt;li&gt;Vises kun for regeltypen Informeres ved ny melding for kunder som har SMS aktivert, for andre blir e-post valgt automatisk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tekst for SMS / Epost varsel: Her kan man legge inn en ekstra tekst som sendes sammen med varselet om ny melding til brukerne definert i kolonnen Navn for meldinger som tilfredsstiller kriteriene i resten av kolonnene når en ny melding blir registrert.
+&lt;ul&gt;
+&lt;li&gt;Vises kun for regeltypen Informeres ved ny melding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tidsrom: Sett et tidsrom som begrensing. Kun mulig med en verdi for Terskelverdiregler som er eneste type som bruker denne.
+&lt;ul&gt;
+&lt;li&gt;Periodisk varsel. Varsel sendes ut ved første gang terskelverdien brytes.&lt;/li&gt;
+&lt;li&gt;Daglig varsel. Varsel sendes ut hver gang terskelverdien er brutt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Terskelverdi: Sett et antall meldinger som må oppfylle kravet i regelen for at varselet skal sendes ut. Kun mulig med en verdi for Terskelverdiregler som er eneste type som bruker denne.&lt;/li&gt;
+&lt;li&gt;Endre: Brukere som kan lage og redigere regler får her ikonet 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+. Det kan brukes til å slette en regel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Wrench.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny regel: Lager en ny regel uten kriterier. Denne vises som en tom rad markert med gult i tabellen. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ til en eller flere av kolonnene for å legge til kriterier. Knappen vises bare for brukere med brukertype leder på den øverste avdelingen og brukere som har systemrollen Innholdsadministrator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;p&gt;Når du holder pekeren over data i noen kolonner i tabellen, kan det være du ser at den endrer form. I noen nettlesere ser den slik ut: 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Pencil.png&#34;  width=&#34;&#34; /&gt;
+
+
+, mens i andre vil den se ut som hånd ikonet. Dette betyr at feltet i tabellen er redigerbart. Trykk på feltet for å redigere det. Når du har trykket på et felt vises de følgende ikonene (Merk: Ikons beskrevet nedenfor vises bare for brukere med brukertype leder på øverste avdeling og brukere som har systemrollen Innholdsadministrator):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Accept.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre: Lagrer endringen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cancel.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Avbryt: Avbryter endringen. Feltet får sin forrige verdi.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Slett: Sletter det valgte kriteriet fra regelen eller hele regelen (hvis du trykker på ikonet i Endre kolonnen).&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrow_refresh.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Angre: Vises etter at du har lagret en endring. Feltet får tilbake sin tidligere lagrede verdi.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny: Legger til et nytt kriterie i den valgte kolonnen til denne regelen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Roller</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/roles/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/roles/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens roller og rollegrupper.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny rolle / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny rollegruppe: Åpner endre rolle / endre rollegruppeskjermbildet for å lage en ny rolle / rollegruppe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Åpner endre rolle / endre rollegruppeskjermbildet for å endre en rolle / rollegruppe.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+: Deaktiverer eller aktiverer rollen / rollegruppen avhengig av om man man står i Aktive roller / rollegrupper eller Deaktiverte roller / rollegrupper.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Sletter rollen / rollegruppen. Kun synlig for deaktiverte roller / rollegrupper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktive roller: De aktive rollene vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Deaktiverte roller: De deaktiverte rollene vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Aktive rollegrupper: De aktive rollegruppene vises i tabellen.&lt;/li&gt;
+&lt;li&gt;Deaktiverte rollegrupper: De deaktiverte rollegruppene vises i tabellen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Saksbehandlere</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/case_handler_/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/case_handler_/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres saksbehandlerrettighetene til brukerne i virksomheten. Dette må ikke forveksles med brukertypen saksbehandler og brukes i to tilfeller:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Brukere det skal være mulig å sende meldinger til uten å følge den vanlige linjestrukturen, dvs på tvers av organisasjonen eller hoppe over deler av linjen.&lt;/li&gt;
+&lt;li&gt;Brukere som skal settes som standard saksbehandler for et meldingsskjema. Dvs at når en slik melding logges blir meldingen automatisk sendt til denne personen, gjerne med et epostvarsel, og denne personen satt til å være saksbehandler for meldingen. Saken vil fremdeles telle i rapporten på den avdelingen der den opprinnelige melderen registrerte den.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Listen viser alle som er blitt registrert som saksbehandlere i hele virksomheten. Redigeringsikonene dukker kun opp for de saksbehandlerne som ligger på den avdelingen som er valgt i navigatoren. Hvilken avdeling en saksbehandler er lagt opp fra ser man i &amp;ldquo;Saksbehandler fra&amp;rdquo;-kolonnen i tabellen.&lt;/p&gt;
+&lt;p&gt;Ikke legg opp saksbehandlere her før du er helt sikker på hva du gjør. Ta gjerne kontakt med QmPlus AS for en avklaring.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Wrench.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny saksbehandler: Oppretter en saksbehandler i endre saksbehandler skjermbildet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre saksbehandler skjermbildet for å endre den saksbehandleren linjen det ble trykket på tilhører.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter saksbehandlerrettigheten til den brukeren linjen det ble trykket på tilhører. Dette sletter ikke brukeren.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Skjemaer</title>
+      <link>https://docs3.qmplus.com/docs/admin/tabs/forms/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/admin/tabs/forms/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens sjekklister, risikoanalyser, spørreskjemaer og meldingsskjemaer&lt;/p&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sjekklister: Viser en oversikt over alle tilgjenglige sjekklister.&lt;/li&gt;
+&lt;li&gt;Risikoanalyser: Viser en oversikt over alle tilgjenglige risikoanalyser.&lt;/li&gt;
+&lt;li&gt;Meldingsskjemaer: Viser en oversikt over alle tilgjenglige meldingsskjemaer.&lt;/li&gt;
+&lt;li&gt;Spørreskjemaer: Viser en oversikt over alle tilgjenglige spørreskjemaer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;meldingsskjema&#34;&gt;Meldingsskjema&lt;/h3&gt;
+&lt;p&gt;Et meldingsskjema brukes til å registrere meldinger i Qm+. Meldingsskjemaet skiller seg fra en liste ved at det kan brukes når som helst, så mange ganger brukeren har behov for det. Når et meldingsskjema er laget er det automatisk tilgjengelig for alle brukere fra og med avdelingen det ble opprettet på med mindre roller er brukt for å begrense tilgjengeligheten.&lt;/p&gt;
+&lt;p&gt;Et meldingsskjema kan ha et ubegrenset antall avkryssningsfelter, nedfallsmenyer og tekstfelter. Avkryssningsfeltene og nedfallsmenyene bygges opp av kategorier.&lt;/p&gt;
+&lt;p&gt;Meldingsskjemaer vedlikeholdes i endre meldingsskjema.&lt;/p&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vis for språket: Brukes for å velge språket navnet på meldingsskjemaet skal redigeres for. Vises bare for kunder som har flere aktive språk.&lt;/li&gt;
+&lt;li&gt;Skjemanavn: Brukes til å identifisere meldingsskjemaet i tabeller og lister.&lt;/li&gt;
+&lt;li&gt;Tekst til knapp: Vises på knappen eller i nedfallsmenyen for de brukerne som skal registrere en ny melding.&lt;/li&gt;
+&lt;li&gt;Fra avdeling: Meldingsskjemaet er tilgjengelig fra denne avdelingen.&lt;/li&gt;
+&lt;li&gt;Skjematype: Melding, Risiko eller Log. Vises kun dersom Risiko eller Log er aktivert for denne virksomheten.&lt;/li&gt;
+&lt;li&gt;Anonym: Alle meldinger som blir registrert anonymt vil inneholde nn istedenfor navnet på brukeren som registrerte den. Et meldingsskjema kan være:
+&lt;ul&gt;
+&lt;li&gt;Ikke anonymt, standard (Anonym: Nei).&lt;/li&gt;
+&lt;li&gt;Anonymt (Anonym: Ja).&lt;/li&gt;
+&lt;li&gt;Ha avkryssningsboks for anonymitet som starter ikke avkrysset (Anonym: Brukervalgt, standard nei).&lt;/li&gt;
+&lt;li&gt;Ha avkryssningsboks for anonymitet som starter avkrysset (Anonym: Brukervalgt, standard ja).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Informasjon: Informativ tekst om meldingsskjemaet. Vises når brukeren holder pekeren over knappen eller nedfallsmenyen når ny melding skal registreres. Vises også øverst i meldingsskjemaet.&lt;/li&gt;
+&lt;li&gt;Kategorier: Et ubegrenset antall kategorier kan tilknyttes et meldingsskjema. Blir avkryssningsfelter eller nedfallsmenyer i meldingsskjemaet. Dette redigeres under undermenyen Kategorier i endre meldingsskjema. Alle avkryssede kategorier i en melding blir oppsummert i grafene under Rapporter.&lt;/li&gt;
+&lt;li&gt;Dokumenter: Et ubegrenset antall dokumenter kan tilknyttes et meldingsskjema. Vises øverst i meldingsskjemaet med en blå tekstlinje per dokument.&lt;/li&gt;
+&lt;li&gt;Roller: Et ubegrenset antall roller kan tilknyttes et meldingsskjema. En bruker må ha en av rollene som er tilknyttet et meldingsskjema for å kunne registrere en melding med det. Dersom meldingsskjemaet ikke har roller vil det være tilgjengelig for alle.&lt;/li&gt;
+&lt;li&gt;Tekstfelter: Brukes til å skrive inn tekst i meldingen. Maks lengde 5000 tegn per felt.&lt;/li&gt;
+&lt;li&gt;Kostnadsfelter: Det kan være fra null til to i et meldingsskjema. Det første feltet vil bli brukt i kostnadsgrafen under Rapporter og er opprinnelig tenkt å symbolisere feilkostnaden. Kundene står selvfølgelig fritt til å bruke også disse feltene slik de selv ønsker.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dokumenter-undermeny-meldingsskjema&#34;&gt;Dokumenter undermeny meldingsskjema&lt;/h3&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokumenter undermeny meldingsskjema er en arkfane under endre meldingsskjema.&lt;/p&gt;
+&lt;p&gt;Denne siden brukes for å administrere dokumentene i meldingsskjemaet.&lt;/p&gt;
+&lt;h4 id=&#34;legg-dokumenter-til-skjemaet&#34;&gt;Legg dokumenter til skjemaet&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokumentarkfane: Valg av dokumentarkfane. Kun dokumenter tilhørende dokumentarkfanen valgt her vises i valgboksen under.&lt;/li&gt;
+&lt;li&gt;Dokument: Velg dokumentet du vil legge til meldingsskjemaet og trykk deretter på knappen 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Legg til. Hvis du vil fjerne et dokument fra meldingsskjemaet, trykk på det tilhørende slettikonet 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,145 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Tiltak</title>
+    <link>https://docs3.qmplus.com/docs/action/</link>
+    <description>Recent content in Tiltak on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/action/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Tiltak arkfane</title>
+      <link>https://docs3.qmplus.com/docs/action/action/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/action/action/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Viser alle tiltak registrert på den avdelingen som er valgt i navigatoren med den status som er valgt i en av de underliggende arkfanene. Har underliggende arkfaner for alle status et tiltak kan ha i tillegg til en for søk. Ved søk fra Søk for tiltak vises det over resultattabellen en oversikt over de søkekriteriene som er satt for søket.&lt;/p&gt;
+&lt;h3 id=&#34;aktiv-tabell&#34;&gt;Aktiv tabell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ved å trykke på en linje i hovedtabellen vil tiltaket åpnes i tiltaksbehandlingsbildet.&lt;/li&gt;
+&lt;li&gt;Hold pekeren over + symbolet i første kolonne for å få opp mer informasjon om et tiltak, inkludert historikken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Utvidet visning / 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Table.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tabell: Skift mellom tabell og utvidet visning. Tabellen gir en kompakt beskrivelse av tiltakene beregnet til bruk når man jobber med dem. Utvidet visning gir en mer fullstendig beskrivelse av hele tiltaket beregnet til bruk når man vil se en oversikt over hele innholdet i tiltaket.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/LeftArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/RightArrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sideskift: Pilene brukes til å skifte side når det er mer enn 20 saker som kan vises i tabellen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ og 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Sortering: Tabellen er sortert etter kolonnen med 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowopen.gif&#34;  width=&#34;&#34; /&gt;
+
+
+. Trykk på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ for å sortere på en annen kolonne.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lagre som fil: Gir mulighet til å laste ned og lagre siden som en htmlfil på din maskin lokalt. Filen kan redigeres i alle programmer som kan redigere html, inkludert Word.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Vis som pdf: Åpner Alternativer for rapporter som gir mulighet til å lage en rapport i et pdfdokument for de aktuelle tiltakene. Denne er beregnet på utskrift til papir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det skjermbildet som vises på skjermen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;p&gt;Arkfanene brukes her til å velge hvilken status man vil se på.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Under planlegging: Tiltak som ikke er satt igang.&lt;/li&gt;
+&lt;li&gt;Under gjennomføring: Tiltak som har fått tilordnet ansvarlig person for gjennomføring og er igangsatt.&lt;/li&gt;
+&lt;li&gt;Under godkjenning: Utførte tiltak som venter på godkjenning.&lt;/li&gt;
+&lt;li&gt;Godkjente tiltak: Godkjente tiltak.&lt;/li&gt;
+&lt;li&gt;Over frist&lt;/li&gt;
+&lt;li&gt;Søk: Avansert søk etter tiltak.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/action/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/action/tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alle arkfaner for tiltak.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

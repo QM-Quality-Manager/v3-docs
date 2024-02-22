@@ -1,0 +1,154 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/report/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/report/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Brukerrapporter</title>
+      <link>https://docs3.qmplus.com/docs/report/tabs/user_reports/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/report/tabs/user_reports/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Brukere er en arkfane under 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Icon_graph2.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Rapporter&lt;/p&gt;
+&lt;p&gt;Gir oversikt over pålogginger og dokumentbruk i systemet i et gitt tidsrom. Styres av valgt rapport, rapporttype, tidsrom og periodetype.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Søk: Oppdaterer rapporten med det valgte tidsrommet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nedfallsmenyer&#34;&gt;Nedfallsmenyer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Rapport&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapport for pålogginger&lt;/li&gt;
+&lt;li&gt;Rapport for dokumentbruk. Viser data for åpning av dokumenter, uansett om det er fra Info, Admin, registrer ny melding eller ekstern bruk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rapporttype med Rapport for pålogginger&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Påloggingsoversikt: Lister opp alle pålogginger i en gitt periode. Tabellen kan sorteres på Navn eller Tidspunkt ved å trykke på 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ ikonet.&lt;/li&gt;
+&lt;li&gt;Påloggingsoversikt fordelt på tid: Viser antall pålogginger per bruker per periode.&lt;/li&gt;
+&lt;li&gt;Pålogginger fordelt på tid: Viser antall pålogginger per periode.&lt;/li&gt;
+&lt;li&gt;Gjennomsnittsverdier for perioden: Viser gjennomsnittsverdi per periode.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rapporttype med Rapport for dokumentbruk&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokumenter per bruker: Lister opp alle dokumenter og brukeren som har åpnet dem i en gitt periode.&lt;/li&gt;
+&lt;li&gt;Dokumenter per bruker over tid: Viser hvor mange dokumenter hver bruker har åpnet i hver periode.&lt;/li&gt;
+&lt;li&gt;Brukere per dokument over tid: Viser hvor mange brukere som har åpnet hvert dokument i hver periode.&lt;/li&gt;
+&lt;li&gt;Dokumenter over tid: Viser hvor mange dokumenter som totalt sett er åpnet i hver periode.&lt;/li&gt;
+&lt;li&gt;Gjennomsnittsverdier for perioden: Viser mange dokumenter som gjennomsnittlig er åpnet per periode.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Periodetype&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dag&lt;/li&gt;
+&lt;li&gt;Uke&lt;/li&gt;
+&lt;li&gt;Måned&lt;/li&gt;
+&lt;li&gt;År&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Maks 1000 rader vises i tabellen uansett valg.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Risikorapporter</title>
+      <link>https://docs3.qmplus.com/docs/report/tabs/risk_reports/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/report/tabs/risk_reports/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her vises grafer for risikomeldinger.&lt;/p&gt;
+&lt;p&gt;Denne arkfanen vises bare dersom risikomeldinger er aktivert.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Søk grafer</title>
+      <link>https://docs3.qmplus.com/docs/report/tabs/search_graph/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/report/tabs/search_graph/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Åpner søkesiden for meldinger eller søkesiden for tiltak avhengig av hvilken arkfane man var i.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tiltaksrapporter</title>
+      <link>https://docs3.qmplus.com/docs/report/tabs/action_reports/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/report/tabs/action_reports/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Denne siden har tre rapporttyper. Tid per tiltak og Timeliste for tiltak vises kun dersom opsjonen for Tidsregistrering på tiltak er aktivert. I alle de tre rapportene, kan man trykke på tiltakenes navn eller nummer for å åpne det aktuelle tiltaket.&lt;/p&gt;
+&lt;h3 id=&#34;tiltaksmatrise&#34;&gt;Tiltaksmatrise&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapport som viser status for alle åpne tiltak.&lt;/li&gt;
+&lt;li&gt;Fargekodene for status vises over tabellen.&lt;/li&gt;
+&lt;li&gt;Trykk på navnet på et tiltak for å åpne det.&lt;/li&gt;
+&lt;li&gt;Brukt sammen med opsjonen for starttid felt for tiltak, kan denne oversikten brukes til å vise planlagte tiltak.&lt;/li&gt;
+&lt;li&gt;Oversikten starter 3 dager før dagens dato og tar med de neste 26 dagene.&lt;/li&gt;
+&lt;li&gt;Overgangen fra dagens dato til datoen for dagen etter markeres med en svart vertikal linje.&lt;/li&gt;
+&lt;li&gt;Matrisen er sortert etter tiltakenes startdato, hvis denne er satt. Hvis ikke, brukes datoen tiltakene ble registrert.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tid-per-tiltak&#34;&gt;Tid per tiltak&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapporten viser hvor mye tid som er registrert på tiltak i den valgte tidsperioden.&lt;/li&gt;
+&lt;li&gt;Tiltak uten registrert tid er ikke med i rapporten.&lt;/li&gt;
+&lt;li&gt;Rapporten tar med alle tiltak registrert fra og med valgt avdeling i navigatoren.&lt;/li&gt;
+&lt;li&gt;Viser per bruker og total.&lt;/li&gt;
+&lt;li&gt;Tiltakene er sortert etter tiltaksnummer.&lt;/li&gt;
+&lt;li&gt;Vises kun når opsjonen for tidsregistrering for tiltak er på.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;timeliste-for-tiltak&#34;&gt;Timeliste for tiltak&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rapporten viser hvor mye tid for valgt periode som er registret på tiltak per bruker per dag.&lt;/li&gt;
+&lt;li&gt;Oppsummering per dag per bruker og for alle brukere.&lt;/li&gt;
+&lt;li&gt;Vises kun når opsjonen for tidsregistrering for tiltak er på.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

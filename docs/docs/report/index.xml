@@ -1,0 +1,144 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Rapporter</title>
+    <link>https://docs3.qmplus.com/docs/report/</link>
+    <description>Recent content in Rapporter on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/report/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Alternativer for prosessrapporter</title>
+      <link>https://docs3.qmplus.com/docs/report/option_page_process_reports/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/report/option_page_process_reports/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Inkluder dokumenthodet: Et automatisk generert dokumenthode blir lagt til øverst i dokumentet. Forhåndsvalgt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Inkluder notater: Dersom dokumentet har attributter av typen notater vil de bli vist i en egen tabell nederst i dokumentet. Forhåndsvalgt. Vises kun for visning av prosesskart.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Inkluder ansvarskoder: Tar med ansvarskodeoversikten som en egen tabell nederst i dokumentet. Forhåndsvalgt. Vises kun for visning av ansvarsmatrise.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sidestørrelse: A4, A3, Original (prosesskartet vises på en side som er tilpasset størrelsen på prosesskartet uten forminskning). A4 og A3 tilpasser størrelsen på prosesskartet til sidestørrelsen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sideorientering: Landskap, Portrett.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lag rapport: Lager rapporten med de valgte opsjoner. Vær oppmerksom på at du ikke må lukke denne siden før rapporten er ferdig, ellers vil du ikke få rapporten opp. Etter at rapporten åpner, kan du enten lage en ny rapport med andre opsjoner (samme data, kanskje annen rapporttype) eller lukke denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker Alternativer for prosessrapporter.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Alternativer for rapporter</title>
+      <link>https://docs3.qmplus.com/docs/report/option_page_reports/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/report/option_page_reports/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;h4 id=&#34;vis-oversiktsrapport&#34;&gt;Vis oversiktsrapport&lt;/h4&gt;
+&lt;p&gt;Denne rapporten inneholder bare den mest elementære informasjonen om meldingen eller tiltaket. Rapporten ligner på tabelloversikten i Arkiv. Vises bare når denne siden åpnes fra Arkiv eller Kommentarer til aktiviteten.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inkluder tittel: Velg denne opsjonen dersom du vil at sideoverskriften skal være med som overskrift for rapporten. Forhåndsvalgt.&lt;/li&gt;
+&lt;li&gt;Inkluder virksomhetens logo: Velg denne opsjonen dersom du vil at virksomhetens logo skal være med i rapporten. Logoen vil vises øverst til venstre på siden.&lt;/li&gt;
+&lt;li&gt;Inkluder søkekriteriene: Velg denne opsjonen dersom du vil at søkekriteriene skal være med i rapporten. Søkekriteriene vises over tabellen. Vises bare dersom rapporten inneholder data basert på et søk. Forhåndsvalgt.&lt;/li&gt;
+&lt;li&gt;Inkluder risikotabellen(e): Velg denne opsjonen dersom du vil at risikotabellen(e) skal være med i rapporten. Vises over resultatet. Vises bare dersom siden man kom fra inneholdt risikotabell(er). Forhåndsvalgt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;vis-fullstendig-rapport&#34;&gt;Vis fullstendig rapport&lt;/h4&gt;
+&lt;p&gt;Denne rapporten inneholder all informasjonen om meldingen eller tiltaket. Rapporten vil ligne på Utvidet visning i Arkiv.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inkluder tittel: Velg denne opsjonen dersom du vil at sideoverskriften skal være med som overskrift for rapporten. Forhåndsvalgt når man kommer fra Arkiv eller Kommentarer til aktiviteten.&lt;/li&gt;
+&lt;li&gt;Inkluder virksomhetens logo: Velg denne opsjonen dersom du vil at virksomhetens logo skal være med i rapporten. Logoen vil vises øverst til venstre på siden.&lt;/li&gt;
+&lt;li&gt;Inkluder sakshistorikken: Velg denne opsjonen dersom du vil at sakshistorikken skal vises under hver melding eller tiltak i rapporten. Forhåndsvalgt. Hvis opsjonen &amp;ldquo;Inkluder tilknyttede meldinger / tiltak&amp;rdquo; er valgt, vil denne også gjelde for de tilknyttede sakene.&lt;/li&gt;
+&lt;li&gt;Skjul opprinnelig melder: Velg denne opsjonen dersom du vil at navnet på den opprinnelige melderen skal kjules i rapporten. Vises bare når opsjonen &amp;ldquo;Inkluder sakshistorikken&amp;rdquo; ikke er valgt.&lt;/li&gt;
+&lt;li&gt;Inkluder søkekriteriene: Velg denne opsjonen dersom du vil at søkekriteriene skal være med i rapporten. Søkekriteriene vises over tabellen. Vises bare dersom rapporten inneholder data basert på et søk. Forhåndsvalgt.&lt;/li&gt;
+&lt;li&gt;Inkluder risikotabellen(e): Velg denne opsjonen dersom du vil at risikotabellen(e) skal være med i rapporten. Vises over resultatet. Vises bare dersom siden man kom fra inneholdt risikotabell(er). Forhåndsvalgt.&lt;/li&gt;
+&lt;li&gt;Skru av risikofarge i meldingslisten: Velg denne opsjonen dersom du ikke vil at farger relatert til risikokategorier skal vises i rapporten. Vises bare når man kommer fra Risiko.&lt;/li&gt;
+&lt;li&gt;Inkluder vedlagte bilder: Velg denne opsjonen dersom du vil at bilder vedlagt meldingene skal vises i rapportene report. Støttede bildeformater: .png, .bmp, .jpg, .jpeg, .gif, .ico. Vises kun for meldinger. Vær oppmerksom på at størelsen på bildene tilpasses automatisk for å få plass i rapporten. Hvis du får problemer med bilder i rapportene, vær vennlig og send en epost til &lt;a href=&#34;mailto:katerina@qmplus.com&#34;&gt;katerina@qmplus.com&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Inkluder tilknyttede tiltak. Vises kun for meldinger. Inkluderer tiltakene for hver melding.&lt;/li&gt;
+&lt;li&gt;Inkluder tilknyttede meldinger. Vises kun for tiltak. Inkluderer meldingene for hver tiltak.&lt;/li&gt;
+&lt;li&gt;Vis en sak per side. Velg denne opsjonen hvis du vil skrive ut hver sak på en egen side. Hvis opsjonen &amp;ldquo;Inkluder tilknyttede meldinger / tiltak&amp;rdquo; er valgt, vil denne også gjelde for de tilknyttede sakene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;filformat-for-den-eksporterte-filen&#34;&gt;Filformat for den eksporterte filen&lt;/h4&gt;
+&lt;p&gt;Du kan velge mellom å eksportere filen i .pdf, .docx, .doc, .odt eller .xls format for melding eller tiltaks rapporter. Vær oppmerksom på at .pdf versjonen gir best resultat hvis du vil skrive rapporten ut på papir. Per idag kan vi ikke garantere at .docx / .doc versjonen vil se lik ut i alle systemer eller at dokumentet alltid vil åpnes korekt (med varierende versjoner av Microsoft Office og OpenOffice 3.2.1 eller nyere). Dette formatet bør bare brukes dersom du har behov for manuelt å endre rapporten.
+Knapper&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lag rapport: Lager rapporten med de valgte opsjoner. Vær oppmerksom på at du ikke må lukke denne siden før rapporten er ferdig, ellers vil du ikke få rapporten opp. Etter at rapporten åpner, kan du enten lage en ny rapport med andre opsjoner (samme data, kanskje annen rapporttype) eller lukke denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker Alternativer for rapporter.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/report/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/report/tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alle arkfaner for rapporter&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

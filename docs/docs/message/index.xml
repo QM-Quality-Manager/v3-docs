@@ -1,0 +1,172 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Meldinger</title>
+    <link>https://docs3.qmplus.com/docs/message/</link>
+    <description>Recent content in Meldinger on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/message/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Melding</title>
+      <link>https://docs3.qmplus.com/docs/message/message/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/message/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En melding kan kobles til et eller flere tiltak. Et tiltak kan også kobles til en eller flere meldinger. En melding kan kobles til flere tiltak uansett hvilken status meldingen har.&lt;/p&gt;
+&lt;p&gt;Meldinger registrers og endres i endre melding og behandles i meldingsbehandlingsbildet.&lt;/p&gt;
+&lt;p&gt;Meldinger er fellesbetegnelsen for vanlige meldinger, risikomeldinger, loggmeldinger og kommentarmeldinger. Risikomeldinger og loggmeldinger er ikke aktivert i standardversjonen. De er identiske med vanlige meldinger på alle vis bortsett fra at de er tenkt brukt på en egen måte.&lt;/p&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kategorier: En melding kan ha et ubegrenset antall avkryssede kategorier.&lt;/li&gt;
+&lt;li&gt;Tekstfelter: En melding kan ha et ubegrenset antall tekstfelter. Meldingene i standardversjonen har stort sett 2 tekstfelter.&lt;/li&gt;
+&lt;li&gt;Prioritet: Viser meldingens prioritet. Kan ha verdiene Lav (grønn), Middels (gul), Høy (rød). Settes automatisk på bakgrunn av forhåndskodede verdier for de avkryssede kategoriene. Kan overstyres av melder og behandler.&lt;/li&gt;
+&lt;li&gt;Kostnad: En melding kan ha 0 - 2 kostnadsfelter. I standardversjonen brukes 1 kostnadsfelt per meldingsskjema.&lt;/li&gt;
+&lt;li&gt;Registreringsdato: Når inntraff hendelsen som er registrert.&lt;/li&gt;
+&lt;li&gt;Registrert av bruker: Den brukeren som utfører registreringen.&lt;/li&gt;
+&lt;li&gt;Melder: Den brukeren som rapporterer meldingen. Det er denne brukeren som blir meldingens opprinnelige melder eller avsender.&lt;/li&gt;
+&lt;li&gt;Registrert på avdeling: Avdelingen meldingen er registrert på. Det er denne avdelingen meldingen vil bli vist på i rapporter og grafer.&lt;/li&gt;
+&lt;li&gt;Aktuell avdeling: Den avdelingen som meldingens aktuelle saksbehandler er registrert på.&lt;/li&gt;
+&lt;li&gt;Status: Mulige statuser for en melding:
+&lt;ul&gt;
+&lt;li&gt;Ny: En melding får status ny når den registreres.&lt;/li&gt;
+&lt;li&gt;Sendt til saksbehandler: En melding som har fått tilordnet en saksbehandler og har fått en frist.&lt;/li&gt;
+&lt;li&gt;Avvist: En melding som er avvist. Denne er lukket og kan ikke behandles videre.&lt;/li&gt;
+&lt;li&gt;Tiltaksbehandles: En melding som er tilknyttet minst ett tiltak som ikke er godkjent.&lt;/li&gt;
+&lt;li&gt;Lukket: En melding som er tilknyttet kun tiltak som er godkjent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tilgangskontroll&#34;&gt;Tilgangskontroll&lt;/h3&gt;
+&lt;p&gt;Alle meldinger registreres på en avdeling og får status Ny eller Sendt til saksbehandler dersom valg av saksbehandler gjøres i selve registreringsbildet. Hvilken tilgang en bruker har til en melding avgjøres av meldingens status og avdeling og brukerens brukertype, avdeling og roller.&lt;/p&gt;
+&lt;h4 id=&#34;de-ulike-tilgangstypene-gir-disse-rettighetene&#34;&gt;De ulike tilgangstypene gir disse rettighetene&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lesetilgang: Kan lese meldingen og sende epostkommentarer til den.&lt;/li&gt;
+&lt;li&gt;Skrivetilgang: Kan endre meldingen.&lt;/li&gt;
+&lt;li&gt;Behandlingstilgang: Kan behandle meldingen og koble den til tiltak.&lt;/li&gt;
+&lt;li&gt;Administrasjonstilgang: Kan redigere en melding selv om den er lukket og låst. Kan gjenåpne lukkede meldinger, skifte registreringsdato, kan skifte avdeling og kan skifte hvilken bruker meldingen er registrert på. Kan også utføre alle handlinger gitt for de øvrige tilgangstypene.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For å avvise eller sende en melding til saksbehandler, kreves både skrivetilgang og behandlingstilgang.&lt;/p&gt;
+&lt;h4 id=&#34;krav-for-å-få-de-ulike-tilgangstypene&#34;&gt;Krav for å få de ulike tilgangstypene&lt;/h4&gt;
+&lt;p&gt;Følgende tar i utgangspunkt i Standardversjonen. Kunden kan selv definere egne brukertyper eller endre rettighetene til eksisterende brukertyper.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lesetilgang&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukeren meldingen er registrert på.&lt;/li&gt;
+&lt;li&gt;Brukere med brukertype leder, saksbehandler og verneombud som har samme avdeling som meldingen er registert på eller en direkte overliggende avdeling av denne.&lt;/li&gt;
+&lt;li&gt;Brukere med brukertype leder, saksbehandler og verneombud som har samme avdeling som meldingens aktuelle avdeling eller en direkte overliggende avdeling av denne.&lt;/li&gt;
+&lt;li&gt;Brukere som er informert om en melding gjennom en epost fra meldingsbehandlingsbildet.&lt;/li&gt;
+&lt;li&gt;Brukere som har vært definert som saksbehandler for meldingen men har sent den videre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skrivetilgang gis kun når meldingens status er ny eller sendt til saksbehandler.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukeren meldingen er registrert på.&lt;/li&gt;
+&lt;li&gt;Brukere med brukertype leder og saksbehandler som har samme avdeling som meldingen er registert på eller en direkte overliggende avdeling av denne.&lt;/li&gt;
+&lt;li&gt;Brukere med brukertype leder og saksbehandler som har samme avdeling som meldingens aktuelle avdeling eller en direkte overliggende avdeling av denne.&lt;/li&gt;
+&lt;li&gt;Brukere som har vært definert som saksbehandler for meldingen men har sent den videre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Behandlingstilgang&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brukere med brukertype leder og saksbehandler som har samme avdeling som meldingen er registert på eller en direkte overliggende avdeling av denne.&lt;/li&gt;
+&lt;li&gt;Brukere med brukertype leder og saksbehandler som har samme avdeling som meldingens aktuelle avdeling eller en direkte overliggende avdeling av denne.&lt;/li&gt;
+&lt;li&gt;Brukere som har vært definert som saksbehandler for meldingen men har sent den videre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Administrasjonstilgang&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gis til brukere med systemrollen Innholdsadministrator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Meldingsstatus</title>
+      <link>https://docs3.qmplus.com/docs/message/message_status/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/message_status/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ny: Meldingen er bare registrert.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sendt til saksbehandler: Meldingen har fått tilordnet en ansvarlig person med en tidsfrist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tiltaksbehandles: Kun i Arkiv. Meldingen er koblet til et tiltak som ennå ikke er godkjent.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lukket:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I Rapporter: Meldingen er blitt koblet til et tiltak.&lt;/li&gt;
+&lt;li&gt;I Arkiv: Tiltaket meldingen er koblet til er godkjent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Avvist: Meldingen er avvist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Når en melding er koblet til et tiltak eller avvist, vil meldingen bli låst og ikke lenger mulig å endre eller behandle annet enn for brukere med systemrollen innholdsadministrator.&lt;/p&gt;
+&lt;p&gt;Meldinger som blir Rettet straks/Gjennomført direkte, blir lukket direkte.&lt;/p&gt;
+
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Saksprosess.png&#34;  width=&#34;&#34; /&gt;
+
+
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/message/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alle arkfaner for meldinger.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Funksjoner</title>
+      <link>https://docs3.qmplus.com/docs/message/functions/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/message/functions/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alle funksjoner for meldinger.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

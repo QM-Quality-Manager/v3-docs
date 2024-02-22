@@ -1,0 +1,678 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Tabs</title>
+    <link>https://docs3.qmplus.com/en/docs/activity/tabs/</link>
+    <description>Recent content in Tabs on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/activity/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Activity groups</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/tabs/activity_group/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/tabs/activity_group/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Activity groups page is used for managing activity groups. It is important that there is at least one activity group, otherwise it will not be possible to create new activities.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Name of the activity group: The name of the activity group.&lt;/li&gt;
+&lt;li&gt;Comment: A comment about the activity group. Appears only on this screen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for the language: Appears only when you have pressed 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New activity group or 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit activity group. The text fields of an activity group can be registered in any language that is activated in the system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit this activity group: Opens the data fields for the activity group so that they can be changed.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Delete activity group: Appears only for activity groups without activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Layout_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New activity group: Opens the data fields to create a new activity group.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Save: Saves the data fields of the selected activity group.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Closes the data fields for the requested activity group.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Activity report tab worker</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/tabs/activity_report_tab_worker/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/tabs/activity_report_tab_worker/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Displays an overview of all the activities the user has participated in.&lt;/p&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Activity group: Restricts the activities in the Activity drop-down menu to the activities from the selected activity group.&lt;/li&gt;
+&lt;li&gt;Activity: The answers that the user has provided for the selected activity will be shown in the table below.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show list: Shows the list associated with the selected activity in list version, as it looks like with the user&amp;rsquo;s answer.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show as pdf: Prints the current page to .pdf.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Close: Closes this screen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Displays a table for each topic in the list that has been answered. The topic name appears above each table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;h4 id=&#34;summing-up-of-the-answered-list&#34;&gt;Summing up of the answered list&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Question: The question from the list that has been answered.&lt;/li&gt;
+&lt;li&gt;My answers (worker interface) / Answer (manager interface): The answer to the question. For survey forms the text of the selected alternative answer is displayed. For checklists, a checked checkbox is displayed. If the user has commented on his / hers response to a given question, the comment will show here.&lt;/li&gt;
+&lt;li&gt;Actions I participate in (worker interface) / Actions this user participates in (manager interface): If an action for this question has been created and the user is one of those who will execute it, a link to that action will appear here.&lt;/li&gt;
+&lt;li&gt;Other actions (worker interface) / Available actions (manager interface): If an action for this question has been created and the user is not one of those who will execute it, a link to that action will appear here.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;all-actions-created-for-the-selected-activity&#34;&gt;All actions created for the selected activity&lt;/h4&gt;
+&lt;p&gt;This table appears only in the manager interface.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Question: The question from the list to which the action is connected.&lt;/li&gt;
+&lt;li&gt;Action number: A unique identifier for the action.&lt;/li&gt;
+&lt;li&gt;Action name: The name of the action.&lt;/li&gt;
+&lt;li&gt;Department: The department on which the action is registered.&lt;/li&gt;
+&lt;li&gt;Status: The status of the action.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Annual plan</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/tabs/annual_plan/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/tabs/annual_plan/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Year: Here you can select a year in order to see the list of all complete and incomplete activities that took place at the selected year.&lt;/li&gt;
+&lt;li&gt;Activity group:
+&lt;ul&gt;
+&lt;li&gt;Show all activities. All activities are shown in the table, regardless of the activity group.&lt;/li&gt;
+&lt;li&gt;List of all activity groups. If you select an activity group, only the activities of the selected activity group are shown in the table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Selection of departments:
+&lt;ul&gt;
+&lt;li&gt;To be filled out on this department: Only activities that are to be filled out on the department which is selected in the Navigator are shown.&lt;/li&gt;
+&lt;li&gt;Created on subordinate departments: Only activities that were created on the subordinate departments of the one which is selected in the Navigator are shown.&lt;/li&gt;
+&lt;li&gt;Created on this and subordinate departments: All activities that were created on the department which is selected in the Navigator and on its subordinate departments are shown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;headings-in-the-activity-table&#34;&gt;Headings in the activity table&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: The name of the activity.&lt;/li&gt;
+&lt;li&gt;Reference:&lt;/li&gt;
+&lt;li&gt;Period: The timeframe for the activity.&lt;/li&gt;
+&lt;li&gt;From department: The department from which this activity will be answered.&lt;/li&gt;
+&lt;li&gt;Roles that will perform the activity: Roles attached to this activity (if any).&lt;/li&gt;
+&lt;li&gt;Status: For common activities, it shows the number of users who answered / the number of users who will participate in the activity. For repetitive activities, it shows the number of users who answered / number users who can participate / the total number of answers. The participation in the activity is also shown in a small bar chart. Completed activities are marked with &amp;ldquo;(Finished)&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Comments: The number of comments to the activity. 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Opens the page Comments to the activity.&lt;/li&gt;
+&lt;li&gt;Edit: Lists all available-icons for each activity, see below.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit this activity: Opens the page Edit activity. For periodic activities, it opens the page Edit date when you are in one of the periods that appear when you have clicked on the RightArrow.gif icon in the Due date column.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show printer friendly version: Appears only for activities that have a list attached to them. Opens the preview window to see how the list looks like in the Printer friendly version. In this window you can also choose to see the list in List form and in Single question view, as it will look when it is filled out.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ View graph for the results of the checklist: Opens the Graphs for the list.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Date_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Edit date: Shows only for periodic activities.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Send reminder for (activity name): Opens the page Send reminder in a separate window.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Delete this activity: Deletes the selected activity. This icon is visible only if:
+&lt;ul&gt;
+&lt;li&gt;the selected department in the Navigator is the same as the department from which the activity was created, and&lt;/li&gt;
+&lt;li&gt;this activity has not been answered (for periodic activities there must not be any answers in any of the dates), and&lt;/li&gt;
+&lt;li&gt;the activity has not been completed (its end date has not passed).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New activity: Opens the New activity page to create a new activity.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show as pdf: Prints the current page to .pdf.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Calendar</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/tabs/calendar/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/tabs/calendar/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Calendar screen shows an annual time chart of when the activities of the company should be executed. The activities are ordered by activity group and the time is given in week numbers. The current week number is marked with bold numbers. If an activity is active for at least one day in a given week, this week will be marked in the time chart. Activities that have not started are shown in blue, activities in progress are shown in orange, and finished ones are shown in green.&lt;/p&gt;
+&lt;h3 id=&#34;headings-in-the-table&#34;&gt;Headings in the table&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Activity name: The name of the activities that are active in the selected period. The blue activity names can be clicked on and open the Fill out and results for the selected activity.&lt;/li&gt;
+&lt;li&gt;Time period: The selected time period. Use 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/ArrowclosedLeft.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ and 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ to change the time period (year).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+Show as pdf: Prints the current page to .pdf (without the colours).&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+Print: Prints the current page. The option Print background colours and images must be checked in your web browser, located under the Advanced menu in Internet Options for Internet Explorer, so that the time table is printed correctly.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Fill out and results</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/tabs/fill_out_and_results/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/tabs/fill_out_and_results/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Fill out and results is used for responding to activities.&lt;/p&gt;
+&lt;p&gt;The page lists all the users that can participate in the selected activity. This is a tool for managers with which they can monitor who has completed an activity and do the registration for the users who have delivered their answer on paper.&lt;/p&gt;
+&lt;p&gt;The user list is adjusted according to the selected department in the Navigator, the choice of department in the drop-down menu below and the roles associated with the activity and the users.&lt;/p&gt;
+&lt;p&gt;The list is first sorted so that those who have completed the activity are at the bottom, then the table is sorted by user type.&lt;/p&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Activity group:
+&lt;ul&gt;
+&lt;li&gt;Show all activities. All activities are shown in the Activity drop-down menu, regardless of the activity group.&lt;/li&gt;
+&lt;li&gt;List of all activity groups. If you select an activity group, only the activities of the selected activity group are shown in the Activity drop-down menu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Activity selection: Select the activity to be answered.&lt;/li&gt;
+&lt;li&gt;Department selection:
+&lt;ul&gt;
+&lt;li&gt;This department: Only users in the department which is selected in the Navigator appear in the table.&lt;/li&gt;
+&lt;li&gt;This and subordinate departments: All users from the department which is selected in the Navigator or from its subordinate departments appear in the table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;graph&#34;&gt;Graph&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ The graph above the table shows the participation in the activity. This graph shows the results from the department which is selected in the Navigator and its subordinate departments, regardless of what is selected in the department drop-down menu. After the graph, for regular activities, the number of users who answered / the number of users who will participate in the activity is shown. For repetitive activities, the number of users who answered / the number of users who can participate / the total number of answers is shown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;table-headings&#34;&gt;Table headings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Name: The name of the user.&lt;/li&gt;
+&lt;li&gt;Type: The user type.&lt;/li&gt;
+&lt;li&gt;Registered date: &amp;ldquo;Not registered&amp;rdquo; or the date when the activity was answered.&lt;/li&gt;
+&lt;li&gt;Department: Shows only when &amp;ldquo;This and subordinate departments&amp;rdquo; is selected in the department drop-down menu.
+&lt;ul&gt;
+&lt;li&gt;For lines for new registrations: The user&amp;rsquo;s department.&lt;/li&gt;
+&lt;li&gt;For registered answers: The department the answer was registered on.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Edit: A lists of all the available icons for each activity, see below.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Report.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the user&amp;rsquo;s activity report.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the page for filling out an unanswered list.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+:&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the filling out page for an already answered list.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the page Graphs for the list.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Pencil_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Registers an activity without an attached list as completed.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+: An activity without an attached list that has been completed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show as pdf: Prints the current page to .pdf.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Follow up</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/tabs/follow_up/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/tabs/follow_up/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Follow up is used for following up activities you have to work with.&lt;/p&gt;
+&lt;p&gt;The page is divided into two tables, &amp;ldquo;Current activities&amp;rdquo; at the top and &amp;ldquo;Expired activities&amp;rdquo; at the bottom. An activity appears in the first table from 1 week before it starts until the expiration of the deadline. After that it appears in the second table.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-what-can-i-do-here&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ What can I do here?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;As a manager I can see the results of activities carried out: Click on the graph icon Result in the right column of the table.&lt;/li&gt;
+&lt;li&gt;I can create one or more activities: Click on the tab Planning and select the &amp;ldquo;New activity&amp;rdquo;-button at the bottom of the page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show all activities: This drop-down menu contains a list of all the activity groups. If you select an activity group, only activities of that activity group are shown.&lt;/li&gt;
+&lt;li&gt;Selection of departments:
+&lt;ul&gt;
+&lt;li&gt;To be filled out on this department: Only activities that are to be filled out on the department which is selected in the Navigator are shown.&lt;/li&gt;
+&lt;li&gt;Created on subordinate departments: Only activities that were created on the subordinate departments of the one which is selected in the Navigator are shown.&lt;/li&gt;
+&lt;li&gt;Created on this and subordinate departments: All activities that were created on the department which is selected in the Navigator and on its subordinate departments are shown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;table-headings&#34;&gt;Table headings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Period: Shows the time period during which the activity was active.&lt;/li&gt;
+&lt;li&gt;From department: The name of the department where the activity was created. Displayed only when the activities for the subordinate departments are shown.&lt;/li&gt;
+&lt;li&gt;Name: The name of the activity.&lt;/li&gt;
+&lt;li&gt;Created by: The name of the user who created the activity .&lt;/li&gt;
+&lt;li&gt;Reference: If the activity is set up with a reference, the link to the reference is displayed here.&lt;/li&gt;
+&lt;li&gt;Completed forms: The participation in the activity is shown in a small bar chart as the number of answers / the number of possible participants.
+&lt;ul&gt;
+&lt;li&gt;For common activities, the numbers after the bar chart represent the number of users who answered / the number of users who will participate in the activity.&lt;/li&gt;
+&lt;li&gt;For repetitive activities, the numbers after the bar chart represent the number of users who answered / number users who can participate / the total number of answers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Comments: The number of comments on this activity. Opens the page Comments to the activity.&lt;/li&gt;
+&lt;li&gt;Email reminder: Appears only for the current activities (&amp;ldquo;Activities planned the next 7 days&amp;rdquo;). Here you can send out the activity as an e-mail to those who have to perform it. Send reminder is also used when you want to warn the users who have not filled out the activity. Opens the Send reminder in a separate window.&lt;/li&gt;
+&lt;li&gt;Answer form: Appears only for the current activities (&amp;ldquo;Activities planned the next 7 days&amp;rdquo;) that have already started. Here you can fill out the activity.&lt;/li&gt;
+&lt;li&gt;Result: Here you get the result from the activity. Opens the page Graphs for the list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the page Comments to the activity.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the page Send reminder in a separate window.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the page Fill out and results.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Opens the Graphs for the list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New activity: Opens the Edit activity.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: List results</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/tabs/list_results/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/tabs/list_results/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Used to identify all activities which have used a particular list in a given period. The results of such activities can then be displayed in the same graph, both added together or compared.&lt;/p&gt;
+&lt;p&gt;The selected options in the drop-down menus and the date fields are used here to define the range of activities shown in the table at the bottom of the page.&lt;/p&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Selection of activity group:
+&lt;ul&gt;
+&lt;li&gt;Show all activities: All activities are shown in the table, regardless of the activity group.&lt;/li&gt;
+&lt;li&gt;&lt;Name of an activity group&gt;: Only activities from the selected activity group are shown in the table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Selection of departments:
+&lt;ul&gt;
+&lt;li&gt;To be filled out on this department: Only activities that are to be filled out on the department which is selected in the Navigator are shown.&lt;/li&gt;
+&lt;li&gt;Created on subordinate departments: Only activities that were created on the subordinate departments of the one which is selected in the Navigator are shown.&lt;/li&gt;
+&lt;li&gt;Created on this and subordinate departments: All activities that were created on the department which is selected in the Navigator and on its subordinate departments are shown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Choose list here: Contains the lists associated with the activities that satisfy the options selected above. Click on Search to update the content of this drop-down menu. When the selected list is changed here, either when the user makes a choice here, or because the requested list has been removed from here due to changes in the search criteria above, the list of activities shown below is automatically updated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;date-selection&#34;&gt;Date selection&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show activities for the period: 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Calendar_icon.png&#34;  width=&#34;&#34; /&gt;
+
+
+ opens a calendar for date selection.
+&lt;ul&gt;
+&lt;li&gt;From: From (inclusive).&lt;/li&gt;
+&lt;li&gt;To: To (inclusive).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Find.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Search: Updates the content of the list drop-down menu based on the user&amp;rsquo;s choices.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Choose all: Checks all the activities in the table.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_bar.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Show graph for selected activities: Opens the graph of the selected activities.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current page.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Help: Opens this page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;activities-table&#34;&gt;Activities table&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Activity name: The name of the activity.&lt;/li&gt;
+&lt;li&gt;Created by: The name of the user who created the activity.&lt;/li&gt;
+&lt;li&gt;From department: The name of the department where the activity was created.&lt;/li&gt;
+&lt;li&gt;Period: From and To date when the activity was active.&lt;/li&gt;
+&lt;li&gt;Concluded:
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+: The activity is not concluded.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Tick.png&#34;  width=&#34;&#34; /&gt;
+
+
+: The activity is concluded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Folder.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Comments: The number of comments on this activity. Click on it to display the Comments to the activity.&lt;/li&gt;
+&lt;li&gt;Show in graph: Check the activities you want to include in the graph.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Planning</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/tabs/planning/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/tabs/planning/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Planning is used for planning and managing activities.&lt;/p&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Print: Prints the current screen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Activity groups&lt;/li&gt;
+&lt;li&gt;Activities&lt;/li&gt;
+&lt;li&gt;Fill out and results&lt;/li&gt;
+&lt;li&gt;User participation&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: User participation</title>
+      <link>https://docs3.qmplus.com/en/docs/activity/tabs/user_participation/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/activity/tabs/user_participation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The User participation page shows all non-anonymous activities that the selected user has had to participate in, sorted by due date (the most recent activities are at the top). The page starts empty, select a user in the drop-down menu above the table to see the activities for the selected user. Click on a line in the table to open the list that had to be filled out for this activity if it is unanswered or see the user&amp;rsquo;s filled in list if (s)he has answered it.&lt;/p&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;User selection: Contains all users of the department which is selected in the Navigator, sorted by their last name.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;table-headings&#34;&gt;Table headings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Activity name: The name of the activity.&lt;/li&gt;
+&lt;li&gt;Due date: The due date of the activity.&lt;/li&gt;
+&lt;li&gt;Finished on: The date when the user answered the activity for the first time. &amp;ldquo;Not registered&amp;rdquo; if the user has not answered this activity.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

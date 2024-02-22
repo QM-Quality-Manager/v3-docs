@@ -1,0 +1,84 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Message form</title>
+    <link>https://docs3.qmplus.com/en/docs/forms/</link>
+    <description>Recent content in Message form on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/forms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Functions</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/functions/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/forms/functions/</guid>
+      <description>
+        
+        
+        &lt;p&gt;All functions associated with forms.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Message form</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/form/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/forms/form/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The message form differs from a list because it can be used anytime, as many times as the user has a need for it. When a message form is created, it is automatically available to all the users from the department where it was created and from its subordinate departments unless roles are used to limit its availability.&lt;/p&gt;
+&lt;p&gt;A message form can have any number of checkboxes, drop-down menus and text fields. Checkboxes and drop-down menus are built up by categories.&lt;/p&gt;
+&lt;p&gt;Message forms are managed under Edit message form.&lt;/p&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for the language: The name of a message form can be set once for every language that is activated in the system. Appears only for customers who have multiple active languages.&lt;/li&gt;
+&lt;li&gt;Form name: Used to identify the message form in tables and lists.&lt;/li&gt;
+&lt;li&gt;Button text: Appears on the button or in the drop-down menu for the users who are going to register a new message.&lt;/li&gt;
+&lt;li&gt;From department: The message form is available from this department.&lt;/li&gt;
+&lt;li&gt;Form type: Message, Risk or Log. Appears only if the Risk or the Log is activated for this company.&lt;/li&gt;
+&lt;li&gt;Anonymous: Any message that will be registered anonymously will show the text &amp;ldquo;nn&amp;rdquo; instead of the name of the user who registered it. A message form can:
+&lt;ul&gt;
+&lt;li&gt;be not anonymous, default (Anonymous: No).&lt;/li&gt;
+&lt;li&gt;be anonymous (Anonymous: Yes).&lt;/li&gt;
+&lt;li&gt;have the check box of anonymity initially not checked (Anonymous: User&amp;rsquo;s choice, default no).&lt;/li&gt;
+&lt;li&gt;have the check box of anonymity initially checked (Anonymous: User&amp;rsquo;s choice, default yes).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Information: Informative text about the message form. Appears when the user holds the cursor over the button or drop-down menu when a new message is about to be registered. Also appears at the top of the message form.&lt;/li&gt;
+&lt;li&gt;Categories: An unlimited number of categories can be associated with a message form. They will appear as checkboxes or drop-down menus in the message form. This is determined in a drop-down menu under Edit message form. All checked categories in a message are summarized in the graphs under Reports.&lt;/li&gt;
+&lt;li&gt;Documents: An unlimited number of documents can be attached to a message form. Shown at the top of the message form with one blue line of text per document.&lt;/li&gt;
+&lt;li&gt;Roles: An unlimited number of roles can be associated with a message form. A user must have one of the roles associated with a message form to be able to register a message with it. If the message form does not have any roles, it will be available to all.&lt;/li&gt;
+&lt;li&gt;Text fields: Used to enter text in the message. Maximum length is 5000 characters per field.&lt;/li&gt;
+&lt;li&gt;Cost fields: There can be from zero to two in a message form. The first field will be used in the cost graph under Reports and was originally intended to symbolize the failure cost. Customers are of course free to use also these fields as they wish.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tabs</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;All tabs associated with forms.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

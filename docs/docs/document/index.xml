@@ -1,0 +1,293 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Dokumenter</title>
+    <link>https://docs3.qmplus.com/docs/document/</link>
+    <description>Recent content in Dokumenter on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/document/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Alternativer for dokumenter</title>
+      <link>https://docs3.qmplus.com/docs/document/option_page_for_documents/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/option_page_for_documents/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;valg&#34;&gt;Valg&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Inkluder underdokumenter. Forhåndsvalgt.&lt;/li&gt;
+&lt;li&gt;Kun hoveddokumentet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_acrobat.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lag rapport: Lager rapporten med de valgte opsjoner. Vær oppmerksom på at du ikke må lukke denne siden før rapporten er ferdig, ellers vil du ikke få rapporten opp. Etter at rapporten åpner, kan du enten lage en ny rapport med andre opsjoner eller lukke denne siden.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Cross.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Lukk: Lukker Alternativer for dokumenter.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dokument</title>
+      <link>https://docs3.qmplus.com/docs/document/document/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/document/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;p&gt;Vedlikeholdes i endre data for dokumentet. En enkel versjonskontroll vises også på denne siden under Vis avanserte muligheter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Navn: Brukes til å identifisere dokumentet i tabeller og oversikter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dokumenttype:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skrevet dokument: Dokumentet er skrevet i og vedlikeholdes i Qm+ sitt interne tekstredigeringsverktøy. Når dokumentet blir åpnet, vil det automatisk få med seg en metatabell som inneholder data om dokumentet. Tabellen viser hvem som har opprettet dokumentet, når det ble endret, kundens logo og evetuelt hvilken høringsstatus det har. Tabellen kan tilpasses per kunde.&lt;/li&gt;
+&lt;li&gt;Link: Dokumentet er en peker til en side på internett, et dokument skrevet inn i Qm+ eller en fil lastet opp til Qm+.&lt;/li&gt;
+&lt;li&gt;Fil: Dokumentet er en fil som er lastet opp i Qm+ og lagret på QmPlus AS sin server.&lt;/li&gt;
+&lt;li&gt;Mappe: Dokumentet er kun en mappe for å strukturere andre dokumenter under Info.&lt;/li&gt;
+&lt;li&gt;Prosesskart: Dokumentet er skrevet i Prosesskartoppsett siden i Qm+ og kan vises på to måter, prosesskart og ansvarsmatrise. Når dokumentet er åpent, vil det automatisk få med seg en metatabell som inneholder data om dokumentet - identisk med den man får for tekstdokumenter av typen Skrevet dokument. Når et prosesskart blir lagret, blir typen til dokumentet låst og kan ikke endres.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dokumentgruppe: Styrer hvilken boks under Info dokumentet blir vist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dokumentarkfane: Styrer hvilken arkfane under Info dokumentet blir vist. Vises bare dersom denne funksjonaliteten er skrudd på. I standardversjonen vises alle dokumenter under arkfanen Styrende dokumenter under Info.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Underdokument av: Et underdokument vises kun dersom dokumentet den er et underdokument av er brettet ut ved å holde pekeren over dennes 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Arrowclosed.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ symbol. Pass på å velge i denne kolonnen etter at du har gjordt eventuelle valg av dokumentgruppe og dokumentarkfane.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adresse: Hva dokumentet pekker på. Dersom det er en fil som er lastet opp blir adressefeltet satt automatisk. Ikke gjør endringer i det etterpå.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fra avdeling: dokumentet er tilgjengelig fra og med denne avdelingen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vises for underavdelinger: Hvis nei blir dokumentet kun vist i avdelingen valgt i &amp;ldquo;Fra avdeling&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lagt inn av: Navn på den brukeren som har lagt inn dette dokumentet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Versjon: Versjonsnummer. Forteller hvor mange ganger det er gjort endringer på dokumentet. Blir ikke endret av at det som dokumentet peker på blir endret, dersom endringen gjøres utenfor Qm+.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Roller: Et ubegrenset antall roller kan tilknyttes dokumentet. En bruker må ha minst en av disse for å få opp dokumentet i sitt Info bilde. Påvirker ikke tilgjengeligheten av dokumentet i eventuelle meldingsskjemaer eller lister dokumentet er tilknyttet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sist endret: Dato for når dokumentet sist ble endret.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Printer.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skriv ut: Skriver ut det aktive skjermbildet.&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Help.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hjelp: Åpner denne siden.&lt;/p&gt;
+&lt;h3 id=&#34;arkfaner&#34;&gt;Arkfaner&lt;/h3&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Chart_organisation.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Organisasjon&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Brukere&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Kategorier&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Skjemaer&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Dokumenter&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Group.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Roller&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Wrench.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Regler&lt;/p&gt;
+&lt;p&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_suit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ansvarskoder&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Høring</title>
+      <link>https://docs3.qmplus.com/docs/document/hearing/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/hearing/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Høringen kobles mot en versjon av et dokument, slik at det kan gjennomføres flere høringsrunder mot samme dokument.&lt;/p&gt;
+&lt;p&gt;En høring går gjennom følgende faser:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ute til høring&lt;/li&gt;
+&lt;li&gt;Til godkjenning&lt;/li&gt;
+&lt;li&gt;Godkjent&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En høring opprettes i endre data for dokumentet under arkfanen Høring / Godkjenning. Den besvares i besvar høring, som vises under Info når man har åpnet beskjeden om at man skal delta i en høring eller skal godkjenne den, får man i Saker jeg er ansvarlig for og eventuelt per epost.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Revisjon</title>
+      <link>https://docs3.qmplus.com/docs/document/audit/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/audit/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I Qm+ betyr revisjon kvalitetssystemkontroll og brukes om prosessen med å kontrollere og godkjenne ett eller flere dokument. Dette går både på kontroll av dokumentets innhold og status.&lt;/p&gt;
+&lt;p&gt;Praxis: Du leser dokumentet som beskriver en rutine. Stemmer rutinen med virkeligheten?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hvis Ja, så er dokumentet ferdig revidert.&lt;/li&gt;
+&lt;li&gt;Hvis Nei, så må enten praksis i bedriften endres, eller dokumentets innhold må skrives om slik at beskrivelsen stemmer med virkeligheten.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Det er viktig å sjekke om dokumentet har nyere versjoner enn den som er publisert. Dette vil i såfall vises i listen over dokumenter tilknyttet revisjonen.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-hva-kan-jeg-gjøre-her&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Hva kan jeg gjøre her?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sett startdato og frist for revisjonen.&lt;/li&gt;
+&lt;li&gt;Bestem hvilke dokumenter som skal være med i revisjonen. Bruk knappen nederst: Legg til dokumenter i revisjonen.&lt;/li&gt;
+&lt;li&gt;Trykk Lagre for å opprette revisjonen.&lt;/li&gt;
+&lt;li&gt;Revidert og Fjern kommer opp for hvert dokument som legges inn i tabellen.
+&lt;ul&gt;
+&lt;li&gt;Kryss av i Revidert når du har lest/kontrollert, og eventuelt også endret noe i dokumentinnholdet.&lt;/li&gt;
+&lt;li&gt;Kryss av Fjern når du vil fjerne dokumentet fra revisjonen (tabellen), eller når du angrer på at dette dokumentet ble revidert.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Når alle dokumentene har fått avkryssinger i Revidert, og du klikker Lagre, så dukker knappen Avslutt revisjonen opp. Klikk på denne, og revisjonen er avsluttet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;beskrivelse&#34;&gt;Beskrivelse&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dokumenter kan ha en varslingsdato for revisjon. Varslet går til en revisjonsansvarlig. Den varslede brukeren eller en leder/saksbehandler på samme eller overliggende avdeling som denne, kan så opprette en revisjon eller koble dokumentet på en eksisterende revisjon.&lt;/li&gt;
+&lt;li&gt;Aktive dokumenter kan fritt tilknyttes revisjoner selv om de ikke har revisjonsvarsel.&lt;/li&gt;
+&lt;li&gt;Et dokument kan kun være tilknyttet en åpen revisjon av gangen.&lt;/li&gt;
+&lt;li&gt;En revisjon har ikke egne høringer tilknyttet seg, men bildet for å redigere en revisjon viser informasjon om eventuelle høringer dokumentene tilknyttet revisjonen har.&lt;/li&gt;
+&lt;li&gt;For å opprette en ny høring for et dokument som er til revisjon må man åpne Høring / Godkjenning som ligger under Endre data for dokumentet. En lagret revisjon viser direkte lenker til Endre data for dokumentet for hvert tilknyttet dokument.&lt;/li&gt;
+&lt;li&gt;Hver revisjon som har passert sin startdato vises som en linje i Innboks/Mine saker for den brukeren som skal utføre revisjonen.&lt;/li&gt;
+&lt;li&gt;En revisjon er beskrevet som åpen intill den blir avsluttet.&lt;/li&gt;
+&lt;li&gt;For å avslutte en revisjon må alle tilknyttede dokumenter ha loggeført revisjonen som utført. Dette gjøres ved krysse av for Godkjent i revisjonsbildet. Dette er en godkjenning av at dokumentet er revidert, ikke en godkjenning av dokumentet, i motsetning til hva som er tilfelle for Høring / Godkjenningsprosessen.&lt;/li&gt;
+&lt;li&gt;En avsluttet revisjon kan ikke endres.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Opprettet av. Den brukeren som opprettet og skal utføre revisjonen.&lt;/li&gt;
+&lt;li&gt;Avdeling. Avdelingen revisjonen ble opprettet på.&lt;/li&gt;
+&lt;li&gt;Startdato. Datoen revisjonen starter.&lt;/li&gt;
+&lt;li&gt;Frist. Revisjonens frist.&lt;/li&gt;
+&lt;li&gt;Revidert.&lt;/li&gt;
+&lt;li&gt;Informasjon. Fritekst. Ekstra informasjon for denne revisjonen. Brukes ved behov. Innholdet vises i tabeller som lister opp revisjoner.&lt;/li&gt;
+&lt;li&gt;Dokumenter. En revisjon kan ha et ubegrenset antall dokumenter tilknyttet seg.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Arkfaner</title>
+      <link>https://docs3.qmplus.com/docs/document/tabs/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/tabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alle arkfaner for dokumenter.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Funksjoner</title>
+      <link>https://docs3.qmplus.com/docs/document/functions/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/document/functions/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alle funksjoner for dokumenter.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

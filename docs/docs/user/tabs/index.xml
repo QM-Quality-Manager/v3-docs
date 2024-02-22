@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Arkfaner</title>
+    <link>https://docs3.qmplus.com/docs/user/tabs/</link>
+    <description>Recent content in Arkfaner on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/docs/user/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Brukertyper</title>
+      <link>https://docs3.qmplus.com/docs/user/tabs/user_types/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/docs/user/tabs/user_types/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Her administreres virksomhetens brukertyper. Bare brukere med Systemrollen Systemrolleadministrator eller Brukeradministrator kan se arkfanen.&lt;/p&gt;
+&lt;p&gt;Man må ha Systemrollen Systemrolleadministrator for å kunne gjøre endringer.&lt;/p&gt;
+&lt;p&gt;Alle tabelloverskriftene kan brukes til å sortere tabellen.&lt;/p&gt;
+&lt;h3 id=&#34;knapper&#34;&gt;Knapper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Ny brukertype: Åpner endre brukertype med mulighet for å lage en ny brukertype.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ikoner&#34;&gt;Ikoner&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/User_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Tar deg til endre brukertype skjermbildet for å endre den brukertypen som linjen det ble trykket på tilhører.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Sletter denne brukertypen. Kun tilgjengelig dersom brukertypen ikke er tilordnet noen brukere.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,298 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality Manager – Tabs</title>
+    <link>https://docs3.qmplus.com/en/docs/forms/tabs/</link>
+    <description>Recent content in Tabs on Quality Manager</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://docs3.qmplus.com/en/docs/forms/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Categories submenu message form</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/tabs/categories_submenu_message_form/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/categories_submenu_message_form/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here you can manage the categories of the message form.&lt;/p&gt;
+&lt;h3 id=&#34;add-categories-to-the-message-form&#34;&gt;Add categories to the message form&lt;/h3&gt;
+&lt;p&gt;In this panel you can manage the categories of the message form.&lt;/p&gt;
+&lt;p&gt;The left panel shows the categories that are already in the message form, the right panel shows the categories that can be added. The panels are filtered by the category group which is selected in the category group drop-down menu above the left panel.&lt;/p&gt;
+&lt;p&gt;If a category in the left panel is marked with yellow, it will appear both when the message form is opened at the department where the category was added and at any subordinate department. Categories in white are only shown when opening the form at the same department where the category was added. This is set by the state of the &amp;ldquo;Show for subdepartments&amp;rdquo; checkbox (checked or not) when adding a category to the message form.&lt;/p&gt;
+&lt;h3 id=&#34;drop-down-menus&#34;&gt;Drop-down menus&lt;/h3&gt;
+&lt;p&gt;The entries marked with &amp;ldquo;Advanced option&amp;rdquo; are only shown when the Show advanced options button in the Edit message form page has been clicked.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose category group: The fields below this drop-down menu will only contain categories belonging to the selected category group. The category groups in this drop-down menu are grouped by category group type.&lt;/li&gt;
+&lt;li&gt;Order type (Advanced option): Shown above the category group drop-down menu at the panel Add categories to the message form.
+&lt;ul&gt;
+&lt;li&gt;Ordering by Type is the default and means that the category groups will be sorted by their category group type.&lt;/li&gt;
+&lt;li&gt;Ordering by Index means that you can assign a column (left, center or right) and an index to each category group in the message form. If the sorting is to be done by index, one should go through all the category groups and set the column and index. The Save button must be pressed after each change so that it will be put into effect.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Show as: Determines how the selected category group will appear in the message form (Checkbox / Drop-down menu).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that a category group needs to have either some of its own categories or some categories of a sub group attached to the message form for the following options to have any effect.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Display in the message form (Advanced option): Determines if and how the given category group should appear in the message form.&lt;/li&gt;
+&lt;li&gt;Display in the message process page (Advanced option): Determines if and how the given category group should appear in the message process page.&lt;/li&gt;
+&lt;li&gt;Display in the action process page (Advanced option): Determines if and how the given category group should appear in the action process page.&lt;/li&gt;
+&lt;li&gt;Display in Inbox (Advanced option): If set to Yes, then an extra column will appear under Inbox, where the checked categories that belong to this category group will be listed for messages.&lt;/li&gt;
+&lt;li&gt;Display in the mobile app (Advanced option): If set to No, this category group will not appear in the message form when displayed in the mobile application. This field is visible only if the mobile application is activated.&lt;/li&gt;
+&lt;li&gt;Mandatory: If set to Yes, the user will have to select a category in this group in order for a message created with this message form to be saved. Defining category groups are a special case and will always have Yes here. Note that if a message form has more than one defining category groups, the mandatory requirement will work so that only one of the categories in all the defining category groups will have to be checked before a message can be saved.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+New category: Opens the New category screen with the Category group set to the same category group as the one selected in the drop-down menu.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+&amp;laquo; Add: Adds the selected categories in the right panel to this message form.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+Remove &amp;raquo;: Removes the selected categories in the left panel from this message form.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Note_go.png&#34;  width=&#34;&#34; /&gt;
+
+
+: Edit category dependency for the selected category. Opens the page Edit category dependency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;categories-in-this-message-form&#34;&gt;Categories in this message form&lt;/h3&gt;
+&lt;p&gt;Displays a table for each category group with the categories associated with the message form. The table shows the name of the category and the department it was attached from. To delete a category from a message form, one must have selected the same department in the Navigator as the department where the category was attached from.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Documents submenu message form</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/tabs/documents_submenu_message_form/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/documents_submenu_message_form/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This page is used for managing documents in the message form.&lt;/p&gt;
+&lt;h3 id=&#34;administration-of-documents&#34;&gt;Administration of documents&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Document tab. Only documents that belong to the document tab which is selected here are displayed in the drop-down menu below.&lt;/li&gt;
+&lt;li&gt;Document: Select the document that you want to assign to the message form and then click on the button 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Link_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Add. Please note that if you add a document that has subdocuments, all its subdocuments will also be added to the message form. If you want to remove a document from the message form, click on the respective Delete icon 
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Fields submenu message form</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/tabs/fields_submenu_message_form/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/fields_submenu_message_form/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This page is used to manage the text- and cost fields in the message form.&lt;/p&gt;
+&lt;h3 id=&#34;text-fields&#34;&gt;Text fields&lt;/h3&gt;
+&lt;p&gt;A message form can have from 0 to as many text fields as needed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Field name: The name above the field in the message form.&lt;/li&gt;
+&lt;li&gt;Hidden: Check this if the field should be hidden. The contents of the hidden text fields appear only under the Edit message page for the user who has registered the message and the user with the system role Access to hidden text fields who is also the case handler for that message. In the standard version, the user type Manager has that system role.
+&lt;ul&gt;
+&lt;li&gt;If the system role Access to hidden text fields is attached to the user type, access is given to the user only if (s)he is also the case handler for the specific message.&lt;/li&gt;
+&lt;li&gt;If the system role Access to hidden text fields is attached to the user, access is given to the user for all messages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In all other screens, the content will only be shown as &amp;ndash; hidden text field &amp;ndash;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mandatory: Check this if the text field should be mandatory. This means that the field must have some content in order for the message to be saved.&lt;/li&gt;
+&lt;li&gt;Rows: How many rows the text field should have.&lt;/li&gt;
+&lt;li&gt;Columns: How many columns the text field should have. If 0, the text field will fill all the available space.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Delete: Click on this icon to delete the text field.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Add field: Used to create a new text field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cost-fields&#34;&gt;Cost fields&lt;/h3&gt;
+&lt;p&gt;A message form can have 0, 1 or 2 cost fields.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Field name: The name above the field in the message form.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Delete: Click on this icon to delete the cost field.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_white_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Add field: Used to create a new cost field.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Form data</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/tabs/form_data/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/form_data/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This page is used to manage the general data of the message form.&lt;/p&gt;
+&lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Show for the language: Text fields in a message form like the Form name and the Button text can be set once for every language that is activated in the system.&lt;/li&gt;
+&lt;li&gt;Form name: Used to identify the message form in tables and lists.&lt;/li&gt;
+&lt;li&gt;Button text: Used to identify the message form by appearing on the button or in the drop-down menu under Inbox and Archive.&lt;/li&gt;
+&lt;li&gt;From department: The message form is available from this department and its subordinate departments.&lt;/li&gt;
+&lt;li&gt;Form type: The type of the message form. Either Message, Log or Risk. Appears only if the message type Log or Risk is activated.&lt;/li&gt;
+&lt;li&gt;Anonymous: Any message that will be registered anonymously will show the text &amp;ldquo;nn&amp;rdquo; instead of the name of the user who registered it. A message form can:
+&lt;ul&gt;
+&lt;li&gt;be not anonymous, default (Anonymous: No).&lt;/li&gt;
+&lt;li&gt;be anonymous (Anonymous: Yes).&lt;/li&gt;
+&lt;li&gt;have the check box of anonymity initially not checked (Anonymous: User&amp;rsquo;s choice, default no).&lt;/li&gt;
+&lt;li&gt;have the check box of anonymity initially checked (Anonymous: User&amp;rsquo;s choice, default yes).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Information: Text that appears when the user holds the cursor over the button or the drop-down menu under Inbox or Archive. This text also appears at the top of the message form when the message is registered in the Edit message screen.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Message forms</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/tabs/message_forms/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/message_forms/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here you can manage the company&amp;rsquo;s message forms.&lt;/p&gt;
+&lt;h3 id=&#34;hahahugoshortcodes0hbhb-what-can-i-do-here&#34;&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Info.png&#34;  width=&#34;&#34; /&gt;
+
+
+ What can I do here?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;As a super user I can create 4 different types of forms (lists): Checklists, Risk analysis lists, Message forms and Survey forms. Click on the button New form at the bottom of the page.&lt;/li&gt;
+&lt;li&gt;I can edit the content of the existing forms: Click on the icon with the yellow pencil in the column Edit.&lt;/li&gt;
+&lt;li&gt;I can import forms from the Common library. It contains forms that are made by other customers of Qm+ and can be used by all customers of Qm+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;buttons&#34;&gt;Buttons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_add.png&#34;  width=&#34;&#34; /&gt;
+
+
+ New form: Creates a new message form and takes you to the Edit message form screen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_edit.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Takes you to the Edit message form screen to edit the contents of the selected message form.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Opens the printer friendly version of the form.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Turnarrow.gif&#34;  width=&#34;&#34; /&gt;
+
+
+ Activates / Deactivates the form depending on whether you are under the tab Deactivated forms or Active forms respectively.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Application_form_delete.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Deletes the selected message form. This icon appears only if the tab Deactivated forms is selected and if the message form has not been used to register a message.&lt;/li&gt;
+&lt;li&gt;
+
+  &lt;img src=&#34;https://docs3.qmplus.com/images/Page_save.png&#34;  width=&#34;&#34; /&gt;
+
+
+ Opens the page Export to the common library. If this icon is disabled / grayed out, the form is already in the common library.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tabs&#34;&gt;Tabs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Active forms: Shows the active message forms that are available for the department which is selected in the Navigator.&lt;/li&gt;
+&lt;li&gt;Deactivated forms: Shows the deactivated message forms that are available for the department which is selected in the Navigator.&lt;/li&gt;
+&lt;li&gt;Common library: Opens the common library for message forms.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Roles submenu message form</title>
+      <link>https://docs3.qmplus.com/en/docs/forms/tabs/roles_submenu_message_form/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs3.qmplus.com/en/docs/forms/tabs/roles_submenu_message_form/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This page is used when you want to add restrictions for registering new messages or for seeing existing messages. To add a restriction, place a check mark for the desired role at the desired restriction type. There are two restriction types per role. For both cases, the system checks if that role is attached to the user himself or to his user type. If more than one roles are checked, it is sufficient to have one of them to fulfill the restriction. Message forms without roles have no restrictions and may be used normally.&lt;/p&gt;
+&lt;h3 id=&#34;restriction-types&#34;&gt;Restriction types&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;New message. Hides the button to register a new message with this message form.&lt;/li&gt;
+&lt;li&gt;See messages and charts. Hides messages registered with this message form in Reports, Inbox and Archive.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
