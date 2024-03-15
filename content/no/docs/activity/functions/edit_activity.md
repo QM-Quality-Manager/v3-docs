@@ -46,7 +46,7 @@ Dette er muligheter som kommer opp når knappen {{< onlystaticimg src="/images/C
     
 - Send ny påminnelse?
     
-- Skal det sendes en e-postpåminnelse til deltakerne før tidsfristen går ut?
+- Skal det sendes en e-postpåminnelse til deltakerne før tidsfristen går ut? Systemet kan sende en e-post til deltakerne som ennå ikke har svart på aktiviteten på valgt tidspunkt (1, 2, 3, 5, 7, 14, 21 eller 30 dager før sluttdatoen).
     
 - Send ny påminnelse?
     

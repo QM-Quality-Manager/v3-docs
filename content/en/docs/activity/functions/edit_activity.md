@@ -39,7 +39,7 @@ These are options that come up when the button {{< onlystaticimg src="/images/Co
 
 - Do you want an email reminder before the activity is due?: The system can send an email to the person who created the activity at the number of days before it ends that will be selected in the drop-down menu. The email will contain information such as how many people participated and how many should participate, as well as a link to Follow up where you can write and send a reminder email to those who have not yet answered.
 - Send new reminder?:
-- Should an email reminder be sent to the participants before the activity is due?:
+- Should an email reminder be sent to the participants before the activity is due?: The system can send an email to the participants who have not yet answered the activity at the selected time (1, 2, 3, 5, 7, 14, 21 or 30 days before the end date).
 - Send new reminder?:
 - This activity is answered anonymously: Checkbox that makes the activity anonymous. Comments on anonymous activities will be anonymous.
 - Number of answers before the result is visible: Appears only when the anonymity box is checked. The number selected here controls how many answers a single department must have before a graph is shown for this department under Graphs for the list. The starting value of this drop-down can be changed using the system setting ANONYMOUSPARTICIPATIONMINIMUMLIMIT.

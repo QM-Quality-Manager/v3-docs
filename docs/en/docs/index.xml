@@ -3618,7 +3618,7 @@ Note: The symbol § in a link is often not recognised by the search engine, whic
 &lt;p&gt;Send new reminder?:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Should an email reminder be sent to the participants before the activity is due?:&lt;/p&gt;
+&lt;p&gt;Should an email reminder be sent to the participants before the activity is due?: The system can send an email to the participants who have not yet answered the activity at the selected time (1, 2, 3, 5, 7, 14, 21 or 30 days before the end date).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Send new reminder?:&lt;/p&gt;
