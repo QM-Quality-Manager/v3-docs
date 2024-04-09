@@ -27,7 +27,7 @@ Rosa saker er meldinger, gule saker er tiltak, blågrå saker er høringer. Vars
 
 Ved å trykke på en linje i hovedtabellen vil saken åpnes i sitt behandlingsbilde. Meldinger åpnes i meldingsbehandlingsbildet, tiltak åpnes i tilltaksbehandlingsbildet og høringer åpnes i besvar høring.
 
-- + Utvidet informasjon og historikk: Hold pekeren over denne til å få opp utvidet informasjon om saken. Foreløpig kun meldinger og tiltak.
+- \+ Utvidet informasjon og historikk: Hold pekeren over denne til å få opp utvidet informasjon om saken. Foreløpig kun meldinger og tiltak.
     
 - Meldingsskjema: Hvilket meldingsskjema saken er opprettet med.
     

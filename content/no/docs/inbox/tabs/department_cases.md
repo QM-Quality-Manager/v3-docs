@@ -26,7 +26,7 @@ Rosa saker er meldinger, gule saker er tiltak og blågrå saker er høringer
 ### Hovedtabellen
 Ved å trykke på en linje i hovedtabellen vil saken åpnes i sitt behandlingsbilde. Meldinger åpnes i meldingsbehandlingsbildet, tiltak åpnes i tilltaksbehandlingsbildet og høringer åpnes i besvar høring.
 
-- +: Utvidet informasjon og historikk: Hold pekeren over denne til å få opp utvidet informasjon om saken. Foreløpig kun meldinger og tiltak.
+- \+ Utvidet informasjon og historikk: Hold pekeren over denne til å få opp utvidet informasjon om saken. Foreløpig kun meldinger og tiltak.
 
 - Meldingsskjema: Hvilket meldingsskjema saken er opprettet med.
 
@@ -58,10 +58,8 @@ Ved å trykke på en linje i hovedtabellen vil saken åpnes i sitt behandlingsbi
 - Meldinger som er sendt til en bruker i den valgte avdelingen via Send til saksbehandler i Behandlingsbildet eller via tidlig saksbehandling i Endre melding.
 
 - For ledere:
-
-- Meldinger registrert på valgt avdling hvis den har en lederen, som ikke har fått tilordnet en annen ansvarlig person.
-
-- Meldinger registrert på en underliggende avdlingen, hvor det ikke er en egen leder som ikke har fått tilordnet en annen ansvarlig person. Meldinger registrert på avdelinger uten leder vil flyte oppover i organisasjonen og vises i Innboks på den første overliggende avdelingen som har en leder.
+	- Meldinger registrert på valgt avdling hvis den har en lederen, som ikke har fått tilordnet en annen ansvarlig person.
+	- Meldinger registrert på en underliggende avdlingen, hvor det ikke er en egen leder som ikke har fått tilordnet en annen ansvarlig person. Meldinger registrert på avdelinger uten leder vil flyte oppover i organisasjonen og vises i Innboks på den første overliggende avdelingen som har en leder.
 
 - Tiltak under planlegging opprettet av en bruker på avdelingen.
 

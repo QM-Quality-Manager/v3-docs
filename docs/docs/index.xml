@@ -868,7 +868,7 @@ g. Trykk på
 &lt;p&gt;Ved å trykke på en linje i hovedtabellen vil saken åpnes i sitt behandlingsbilde. Meldinger åpnes i meldingsbehandlingsbildet, tiltak åpnes i tilltaksbehandlingsbildet og høringer åpnes i besvar høring.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;+: Utvidet informasjon og historikk: Hold pekeren over denne til å få opp utvidet informasjon om saken. Foreløpig kun meldinger og tiltak.&lt;/p&gt;
+&lt;p&gt;+ Utvidet informasjon og historikk: Hold pekeren over denne til å få opp utvidet informasjon om saken. Foreløpig kun meldinger og tiltak.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Meldingsskjema: Hvilket meldingsskjema saken er opprettet med.&lt;/p&gt;
@@ -923,12 +923,10 @@ g. Trykk på
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;For ledere:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Meldinger registrert på valgt avdling hvis den har en lederen, som ikke har fått tilordnet en annen ansvarlig person.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Meldinger registrert på en underliggende avdlingen, hvor det ikke er en egen leder som ikke har fått tilordnet en annen ansvarlig person. Meldinger registrert på avdelinger uten leder vil flyte oppover i organisasjonen og vises i Innboks på den første overliggende avdelingen som har en leder.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meldinger registrert på valgt avdling hvis den har en lederen, som ikke har fått tilordnet en annen ansvarlig person.&lt;/li&gt;
+&lt;li&gt;Meldinger registrert på en underliggende avdlingen, hvor det ikke er en egen leder som ikke har fått tilordnet en annen ansvarlig person. Meldinger registrert på avdelinger uten leder vil flyte oppover i organisasjonen og vises i Innboks på den første overliggende avdelingen som har en leder.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Tiltak under planlegging opprettet av en bruker på avdelingen.&lt;/p&gt;

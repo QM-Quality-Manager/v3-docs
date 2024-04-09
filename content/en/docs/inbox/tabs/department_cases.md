@@ -24,7 +24,7 @@ Pink cases are messages, yellow cases are actions and blue-gray cases are hearin
 
 When you click on a line of the main table, the selected case will open in its handling page. Messages open in the Message process page, actions open in the Action process page and hearings open in the Reply to a hearing page.
 
-- + Extra Information and History: Hold the cursor over the + symbol to get more information about the case. Currently, only for messages and actions.
+- \+ Extra Information and History: Hold the cursor over the + symbol to get more information about the case. Currently, only for messages and actions.
 - Message form: Which message form was used to create the case.
 - Registered: The date when the case was registered. For messages when they were registered, for actions when they were created.
 - Due: For messages this is the handling deadline, for actions this is the execution and approval deadline.
