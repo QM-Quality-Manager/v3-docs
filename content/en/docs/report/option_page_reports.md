@@ -26,7 +26,7 @@ This report will contain all available information about the messages or actions
 - Include the search criteria: Select this option if you want the search criteria to be included in the report above the results. Shows only if the search criteria were shown in the page where you came from. Preselected.
 - Include the risk table(s): Select this option if you want the risk table(s) to be included in the report above the results. Shows only if the same tables were shown in the page where you came from. Preselected.
 - Disable risk colours in message list: Select this option if you do not wish to have any risk-related colours in the messages. Shows only when coming from Risk.
-- Include the image attachments: Select this option if you want the image attachments to be included in the report. Supported image formats are: .png, .bmp, .jpg, .jpeg, .gif, .ico. Shows only for messages. Please note that image resizing is done automatically at this point. If you are experiencing problems with the images in the reports please send an email to katerina@qmplus.com.
+- Include the image attachments: Select this option if you want the image attachments to be included in the report. Supported image formats are: .png, .bmp, .jpg, .jpeg, .gif, .ico. Shows only for messages. Please note that image resizing is done automatically at this point. 
 - Include the attached actions. Shows only for messages. Includes the actions for each message.
 - Include the attached messages. Shows only for actions. Includes the messages for each action.
 - Show one case per page: Select this option if you want to print each case on a separate page. If the option "Include the attached messages / actions" is selected, this will apply also to the attached cases.
