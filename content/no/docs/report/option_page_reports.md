@@ -26,7 +26,7 @@ Denne rapporten inneholder all informasjonen om meldingen eller tiltaket. Rappor
 - Inkluder søkekriteriene: Velg denne opsjonen dersom du vil at søkekriteriene skal være med i rapporten. Søkekriteriene vises over tabellen. Vises bare dersom rapporten inneholder data basert på et søk. Forhåndsvalgt.
 - Inkluder risikotabellen(e): Velg denne opsjonen dersom du vil at risikotabellen(e) skal være med i rapporten. Vises over resultatet. Vises bare dersom siden man kom fra inneholdt risikotabell(er). Forhåndsvalgt.
 - Skru av risikofarge i meldingslisten: Velg denne opsjonen dersom du ikke vil at farger relatert til risikokategorier skal vises i rapporten. Vises bare når man kommer fra Risiko.
-- Inkluder vedlagte bilder: Velg denne opsjonen dersom du vil at bilder vedlagt meldingene skal vises i rapportene report. Støttede bildeformater: .png, .bmp, .jpg, .jpeg, .gif, .ico. Vises kun for meldinger. Vær oppmerksom på at størelsen på bildene tilpasses automatisk for å få plass i rapporten. 
+- Inkluder vedlagte bilder: Velg denne opsjonen dersom du vil at bilder vedlagt meldingene skal vises i rapporten. Støttede bildeformater: .png, .bmp, .jpg, .jpeg, .gif, .ico. Vises kun for meldinger. Vær oppmerksom på at størelsen på bildene tilpasses automatisk for å få plass i rapporten. 
 - Inkluder tilknyttede tiltak. Vises kun for meldinger. Inkluderer tiltakene for hver melding.
 - Inkluder tilknyttede meldinger. Vises kun for tiltak. Inkluderer meldingene for hver tiltak.
 - Vis en sak per side. Velg denne opsjonen hvis du vil skrive ut hver sak på en egen side. Hvis opsjonen "Inkluder tilknyttede meldinger / tiltak" er valgt, vil denne også gjelde for de tilknyttede sakene.
