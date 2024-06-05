@@ -3603,7 +3603,7 @@ Note: The symbol § in a link is often not recognised by the search engine, whic
 &lt;p&gt;How often will the activity be performed?: Drop-down menu to determine the type of the activity.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;One time: Common activity that can be filled out once by all the users who can participate.&lt;/li&gt;
-&lt;li&gt;Repeating: Repetitive activity. Can be filled out an unlimited number of times by each participant. Used when you do not know in advance how many times a list will be needed and filled out. Can also be used for anonymous external surveys.&lt;/li&gt;
+&lt;li&gt;Repeating: Repetitive activity. Can be filled out an unlimited number of times by each participant. Used when you do not know in advance how many times a list should be filled out. Can also be used for anonymous external surveys.&lt;/li&gt;
 &lt;li&gt;Periodic: Used when you want to schedule a periodic execution of an activity forward in time. Set the From and To fields to include the entire period you want to schedule. After you make all the other selections in this page you need to press Save. Then you will go to the page Periodic activity setup. There you can set the period, e.g. daily, weekly, annually. This option is not recommended for the first time you create an activity. It is only appropriate to make periodic activities if you are certain that the attached list is not going to change within that period.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

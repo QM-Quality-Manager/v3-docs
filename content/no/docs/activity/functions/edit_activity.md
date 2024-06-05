@@ -39,7 +39,7 @@ Dette er muligheter som kommer opp når knappen {{< onlystaticimg src="/images/C
 
 - Hvor ofte skal aktiviteten utføres?: Nedfallsmeny for å bestemme aktivitetstypen.
   - En gang: Vanlig aktivitet som kan fylles ut en gang av alle brukere som kan delta.
-  - Repeterende: Repeterende aktivitet. Kan fylles ut et ubegrenset antall ganger av alle brukere som kan delta. Brukes når man på forhånd ikke vet hvor mange ganger en liste behøves og fylles ut. Kan også brukes til anonyme eksterne undersøkelser.
+  - Repeterende: Repeterende aktivitet. Kan fylles ut et ubegrenset antall ganger av alle brukere som kan delta. Brukes når man på forhånd ikke vet hvor mange ganger en liste behøves å fylles ut. Kan også brukes til anonyme eksterne undersøkelser.
   - Periodisk: Brukes når du vil planlegge en periodisk utførelse av en aktivitet fremmover i tid. Sett Fra og Til tidsrommet til å dekke hele perioden du vil planlegge. Gjør alle de andre valgene i dette bildte du behøver og trykk Lagre. Da kommer du inn i bildet for å Oppsett av periodisk aktivitet. Der kan bestemmes perioden, f.eks daglig, ukentlig, årlig. Dette valget anbefales ikke brukt de første gangene du lager en aktivitet. Det er kun hensiktsmessig å lage periodiske aktiviteter dersom du er sikker på at listen som er tilknyttet ikke kommer til å endre seg innenfor perioden.
     
 - Vil du ha tilsendt en e-postpåminnelse før tidsfristen går ut? Systemet kan sende en e-post til den som har laget aktiviteten det antall dager før den avsluttes som velges i denne nedfallsmenyen. E-posten vil inneholde opplysninger som hvor mange som har deltatt og hvor mange som skal delta, samt en link til Oppfølging der en purre e-post til de som ikke har svart kan skrives.
