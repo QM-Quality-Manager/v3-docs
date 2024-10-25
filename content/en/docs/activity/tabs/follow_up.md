@@ -33,7 +33,7 @@ The page is divided into two tables, "Current activities" at the top and "Expire
   - For common activities, the numbers after the bar chart represent the number of users who answered / the number of users who will participate in the activity.
   - For repetitive activities, the numbers after the bar chart represent the number of users who answered / number users who can participate / the total number of answers.
 - Comments: The number of comments on this activity. Opens the page Comments to the activity.
-- Email reminder: Appears only for the current activities ("Activities planned the next 7 days"). Here you can send out the activity as an e-mail to those who have to perform it. Send reminder is also used when you want to warn the users who have not filled out the activity. Opens the Send reminder in a separate window.
+- Email reminder: Appears only for current activities that have already started ("Activities planned the next 7 days"). Here you can send out the activity as an e-mail to those who have to perform it. Send reminder is also used when you want to warn the users who have not filled out the activity. Opens the Send reminder in a separate window.
 - Answer form: Appears only for the current activities ("Activities planned the next 7 days") that have already started. Here you can fill out the activity.
 - Result: Here you get the result from the activity. Opens the page Graphs for the list.
 

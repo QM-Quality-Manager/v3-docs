@@ -33,7 +33,7 @@ description: >
 - {{< onlystaticimg src="/images/Page.png" >}} Show printer friendly version: Appears only for activities that have a list attached to them. Opens the preview window to see how the list looks like in the Printer friendly version. In this window you can also choose to see the list in List form and in Single question view, as it will look when it is filled out.
 - {{< onlystaticimg src="/images/Chart_bar.png" >}} View graph for the results of the checklist: Opens the Graphs for the list.
 - {{< onlystaticimg src="/images/Date_edit.png" >}} Edit date: Shows only for periodic activities.
-- {{< onlystaticimg src="/images/Email_edit.png" >}} Send reminder for (activity name): Opens the page Send reminder in a separate window.
+- {{< onlystaticimg src="/images/Email_edit.png" >}} Send reminder for (activity name): Opens the page Send reminder in a separate window. Shows only for current activities that have already started.
 - {{< onlystaticimg src="/images/Page_delete.png" >}} Delete this activity: Deletes the selected activity. This icon is visible only if:
   - the selected department in the Navigator is the same as the department from which the activity was created, and
   - this activity has not been answered (for periodic activities there must not be any answers in any of the dates), and

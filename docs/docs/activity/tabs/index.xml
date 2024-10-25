@@ -185,7 +185,7 @@
   &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
 
 
- Send påminnelse for: Åpner send varsel i et eget vindu.&lt;/li&gt;
+ Send påminnelse for: Åpner send varsel i et eget vindu. Vises kun for aktuelle aktiviteter som allerede har startet.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
@@ -536,7 +536,7 @@
 &lt;p&gt;Kommentarer: Antall kommentarer til aktiviteten. Åpner siden kommentarer til aktiviteten.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;E-postvarsel: Vises bare for aktuelle aktiviteter. Her kan du sende ut aktiviteten på e-post til de som skal utføre aktiviteten. send varsel benyttes også når man vil purre på brukere som ikke har fylt ut aktiviteten. Åpner send varsel i et eget vindu.&lt;/p&gt;
+&lt;p&gt;E-postvarsel: Vises kun for aktuelle aktiviteter som allerede har startet. Her kan du sende ut aktiviteten på e-post til de som skal utføre aktiviteten. send varsel benyttes også når man vil purre på brukere som ikke har fylt ut aktiviteten. Åpner send varsel i et eget vindu.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Fyll ut: Vises bare for aktuelle aktiviteter som er igang. Her kan du fylle ut aktiviteten.&lt;/p&gt;
@@ -692,7 +692,7 @@
   &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
 
 
- Send påminnelse for: Åpner send varsel i et eget vindu.&lt;/li&gt;
+ Send påminnelse for: Åpner send varsel i et eget vindu. Vises kun for aktuelle aktiviteter som allerede har startet.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;

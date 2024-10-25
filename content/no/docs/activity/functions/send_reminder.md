@@ -3,7 +3,7 @@ title: "Send varsel"
 linkTitle: "Send varsel"
 date: 2017-01-06
 description: >
- Send varsel er en funksjon under Aktivitetsplan. Åpnes fra Oppfølging og Aktiviteter. 
+ Send varsel er en funksjon under Aktivitetsplan, kun for aktuelle aktiviteter (som allerede har startet). Åpnes fra Oppfølging og Årshjul. 
 ---
 Brukes til å varsle de som skal utføre en aktivitet. Varselet sendes på e-post og inneholder en link som åpner listen som er tilkoblet aktiviteten. Listen over mulige mottakere inneholder alle som skal delta i aktiviteten som ennå ikke har svart.
 

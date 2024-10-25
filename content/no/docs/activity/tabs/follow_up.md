@@ -49,7 +49,7 @@ Siden er delt opp i 2 tabeller, aktuelle aktiviteter øverst og avsluttede aktiv
 
 - Kommentarer: Antall kommentarer til aktiviteten. Åpner siden kommentarer til aktiviteten.
 
-- E-postvarsel: Vises bare for aktuelle aktiviteter. Her kan du sende ut aktiviteten på e-post til de som skal utføre aktiviteten. send varsel benyttes også når man vil purre på brukere som ikke har fylt ut aktiviteten. Åpner send varsel i et eget vindu.
+- E-postvarsel: Vises kun for aktuelle aktiviteter som allerede har startet. Her kan du sende ut aktiviteten på e-post til de som skal utføre aktiviteten. send varsel benyttes også når man vil purre på brukere som ikke har fylt ut aktiviteten. Åpner send varsel i et eget vindu.
 
 - Fyll ut: Vises bare for aktuelle aktiviteter som er igang. Her kan du fylle ut aktiviteten.
 

@@ -1167,7 +1167,7 @@ Show results in&lt;/p&gt;
   &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
 
 
- Send reminder for (activity name): Opens the page Send reminder in a separate window.&lt;/li&gt;
+ Send reminder for (activity name): Opens the page Send reminder in a separate window. Shows only for current activities that have already started.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;

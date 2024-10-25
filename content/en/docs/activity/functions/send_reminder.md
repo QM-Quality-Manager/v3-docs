@@ -3,9 +3,9 @@ title: "Send reminder"
 linkTitle: "Send reminder"
 date: 2017-01-04
 description: >
-  Send reminder is a function under the Activity plan. Opens from Follow up and Activities.
+  Send reminder is a function under the Activity plan, only for current (that have already started) activities. Opens from Follow up and Annual plan.
 ---
-Used for notifying those who will perform an activity. The reminder is sent by an email containing a link that opens the list which is attached to the activity. The list of possible recipients includes all participants in the activity who have not yet answered it.
+Used for notifying those who will perform an activity. The reminder is an email containing a link that opens the list which is attached to the activity. The list of possible recipients includes all participants in the activity who have not yet answered it.
 
 ### Fields
 

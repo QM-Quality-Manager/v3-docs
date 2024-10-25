@@ -229,7 +229,7 @@
   &lt;img src=&#34;https://docs3.qmplus.com/images/Email_edit.png&#34;  width=&#34;&#34; /&gt;
 
 
- Send reminder for (activity name): Opens the page Send reminder in a separate window.&lt;/li&gt;
+ Send reminder for (activity name): Opens the page Send reminder in a separate window. Shows only for current activities that have already started.&lt;/li&gt;
 &lt;li&gt;
 
   &lt;img src=&#34;https://docs3.qmplus.com/images/Page_delete.png&#34;  width=&#34;&#34; /&gt;
@@ -467,7 +467,7 @@ Print: Prints the current page. The option Print background colours and images m
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Comments: The number of comments on this activity. Opens the page Comments to the activity.&lt;/li&gt;
-&lt;li&gt;Email reminder: Appears only for the current activities (&amp;ldquo;Activities planned the next 7 days&amp;rdquo;). Here you can send out the activity as an e-mail to those who have to perform it. Send reminder is also used when you want to warn the users who have not filled out the activity. Opens the Send reminder in a separate window.&lt;/li&gt;
+&lt;li&gt;Email reminder: Appears only for current activities that have already started (&amp;ldquo;Activities planned the next 7 days&amp;rdquo;). Here you can send out the activity as an e-mail to those who have to perform it. Send reminder is also used when you want to warn the users who have not filled out the activity. Opens the Send reminder in a separate window.&lt;/li&gt;
 &lt;li&gt;Answer form: Appears only for the current activities (&amp;ldquo;Activities planned the next 7 days&amp;rdquo;) that have already started. Here you can fill out the activity.&lt;/li&gt;
 &lt;li&gt;Result: Here you get the result from the activity. Opens the page Graphs for the list.&lt;/li&gt;
 &lt;/ul&gt;

@@ -503,7 +503,7 @@
       <description>
         
         
-        &lt;p&gt;Used for notifying those who will perform an activity. The reminder is sent by an email containing a link that opens the list which is attached to the activity. The list of possible recipients includes all participants in the activity who have not yet answered it.&lt;/p&gt;
+        &lt;p&gt;Used for notifying those who will perform an activity. The reminder is an email containing a link that opens the list which is attached to the activity. The list of possible recipients includes all participants in the activity who have not yet answered it.&lt;/p&gt;
 &lt;h3 id=&#34;fields&#34;&gt;Fields&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Heading: The name of the activity.&lt;/li&gt;

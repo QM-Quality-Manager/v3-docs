@@ -47,7 +47,7 @@ Her kan du lære:
 - {{< onlystaticimg src="/images/Chart_bar.png" >}} Vis grafisk oversikt for resultatet fra sjekklisten: Åpner siden grafer for listen.
 - {{< onlystaticimg src="/images/Page.png" >}} Vis papirversjon: Vises kun for aktiviteter som har en liste tilkoblet. Åpner forhåndsvisningsvinduet for å se hvordan listen ser ut i papirversjon. I dette vinduet kan du også velge å se listen i listeform og som liste av enkeltspørsmål slik den ser ut når den skal fylles ut.
 - {{< onlystaticimg src="/images/Date_edit.png" >}} Endre dato:
-- {{< onlystaticimg src="/images/Email_edit.png" >}} Send påminnelse for: Åpner send varsel i et eget vindu.
+- {{< onlystaticimg src="/images/Email_edit.png" >}} Send påminnelse for: Åpner send varsel i et eget vindu. Vises kun for aktuelle aktiviteter som allerede har startet.
 - {{< onlystaticimg src="/images/Page_delete.png" >}} Slett aktivitet: Sletter den valgte aktiviteten. Ikonet er bare synlig hvis:
   - valgt avdeling i Navigatoren er den samme som aktiviteten ble opprettet i, og
   - aktiviteten er ikke besvart (ved periodisk aktivitet må det ikke være svart på noen av datoene), og
