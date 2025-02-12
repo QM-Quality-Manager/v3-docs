@@ -7,6 +7,14 @@ description: >
 ---
 Brukes for å se på dokumentoversikten i systemet. Dokumentene er organisert i ulike felter i skjermbildet. De kan også være delt på flere arkfaner. Organiseringen bestemmes av virksomhetens lokale superbruker. {{< onlystaticimg src="/images/Collapse.png" >}} og {{< onlystaticimg src="/images/Expand.png" >}} brukes til å brette ut og brette sammen dokumentets underdokumenter. Det er også en søkefunskjon her som gjør fritekstsøk i alle dokumenter som vises i denne siden.
 
+Dokumentnavnene fungerer som lenker. Klikk på et dokumentnavn for å åpne dokumentet. Spesielt for dokumenter opprettet i Qm+: Du kan enten åpne HTML-versjonen ved å klikke på dokumentnavnet, eller du kan få en PDF-versjon av dokumentet ved å klikke på {{< onlystaticimg src="/images/Page_white_acrobat.png" >}}-ikonet til høyre for dokumentnavnet.
+
+Når du klikker på {{< onlystaticimg src="/images/Page_white_acrobat.png" >}}-ikonet til høyre for dokumenter skrevet i Qm+ som har underdokumenter (de har {{< onlystaticimg src="/images/Expand.png" >}}-ikonet foran dem), får du opp et popup-vindu hvor du kan velge om du vil at den eksporterte .pdf skal inkludere kun gjeldende dokument eller også underdokumenter.
+
+Mapper som inneholder dokumenter skrevet i Qm+ har også et pdf-ikon, som skriver ut alle slike dokumenter i den valgte mappen i én .pdf-fil. Pdf-rapporten fra en mappe inkluderer også alle underdokumenter til html-dokumenter i den trykte filen (ikke bare underdokumentene til mappen). Dette er ment å rette opp i problemet som oppstår når man har skrevet hvert kapittel av et stort dokument i et eget Qm+ html-dokument og ønsker å skrive ut hele dokumentet som en helhet.
+
+Du kan også få dokumentet i .docx-format ved å klikke på {{< onlystaticimg src="/images/Page_white_word.png" >}}-ikonet. Alternativet for eksport til .docx er ikke inkludert i standardversjonen. Hvis du vil ha dette alternativet aktivert, kontakt drift@qmplus.com. Vær oppmerksom på at .pdf-versjonen er den mest egnede for utskrift. På dette tidspunktet kan vi ikke garantere at den .docx-produserte filen vil se lik ut i alle redaktører eller at den åpnes riktig i alle versjoner av Microsoft Office eller OpenOffice. Dette eksportformatet skal kun brukes når det er behov for å oppdatere rapporten manuelt. Denne funksjonaliteten er fortsatt i testmodus.
+
 Det kan bestilles at dokumenter vises direkte i siden under enkelte arkfaner i steden for at navnet på dokumentet vises som en link. Ta kontakt med drift@qmplus.com om dere ønsker en slik løsning.
 
 ### {{< onlystaticimg src="/images/Info.png" >}} Hva kan jeg gjøre her?
